@@ -94,7 +94,6 @@ def lemmatization(simpler_POS_text):
         else:
             lemmatized_text.append(lemmatizer.lemmatize(tuple[0], pos=tuple[1]))
 
-    print(lemmatized_text)
     return lemmatized_text
 
 
