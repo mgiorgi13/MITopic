@@ -6,6 +6,7 @@ def DBSCAN_Topic(word_vect_dict):
     X = []
     for index in range(0, len(word_vect_dict)):
         X.append(list(word_vect_dict.values())[index])
+
     best_eps ={}
     for i in range (2, 10):
         clustering = DBSCAN(eps=i, min_samples=2).fit(X)
@@ -38,10 +39,13 @@ def DBSCAN_Topic(word_vect_dict):
     #         key.append(clustering.labels_[index])
     #         value.append(list(word_vect_dict.values())[index])
 
-
+    word = []
     for index in range(0, len(word_vect_dict)):
-        key.append(clustering.labels_[index])
-        value.append(list(word_vect_dict.values())[index])
+        if (c == clustering.labels_[index]):
+            key.append(clustering.labels_[index])
+            value.append(list(word_vect_dict.values())[index])
+            word.append(list(word_vect_dict.keys())[index])
 
-    pca.pca_clustering_3D(value, key)
-    return
+
+#    pca.pca_clustering_3D(value, key)
+    return word ,value
