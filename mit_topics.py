@@ -106,4 +106,4 @@ if __name__ == "__main__":
             else:
                 choice_d(tot_vectors,file_text)
 
-            break
+        break

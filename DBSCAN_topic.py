@@ -2,6 +2,7 @@ from sklearn.cluster import DBSCAN
 import numpy as np
 import  PCA_plot3D as pca
 import operator
+
 def DBSCAN_Topic(word_vect_dict):
     X = []
     for index in range(0, len(word_vect_dict)):
@@ -26,7 +27,7 @@ def DBSCAN_Topic(word_vect_dict):
         if  c[0][0] != -1:
             c = c[0][0]
         elif len(c) == 1:
-            return
+            continue
         else:
             c = c[1][0]
 
