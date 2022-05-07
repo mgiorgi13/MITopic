@@ -42,7 +42,7 @@ def DBSCAN_Topic(word_vect_dict):
         best_eps[i] = number_of_clusters  # id raggio piu popoloso
 
         for index in range(0, len(word_vect_dict)):
-            key.append(clustering.labels_[index])
+            key.append(clustering.labels_[index]) # prendo gli id dei cluster
             value.append(list(word_vect_dict.values())[index])
 
         pca.pca_clustering_3D(value, key)
