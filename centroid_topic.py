@@ -2,7 +2,8 @@ import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 import operator
 
-def centroid_Topic(vector_words,word_vector):
+
+def centroid_Topic(vector_words, word_vector):
     centroid = vector_words[0]
     for i in vector_words:
         centroid = (centroid + i)

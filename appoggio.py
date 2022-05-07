@@ -7,8 +7,9 @@ from sklearn.feature_extraction.text import TfidfTransformer, CountVectorizer
 import gensim
 import top_2_vec as tv
 
-#from tmtoolkit.corpus import Corpus, tokens_table, lemmatize, to_lowercase, dtm
-#from tmtoolkit.bow.bow_stats import tfidf, sorted_terms_table
+
+# from tmtoolkit.corpus import Corpus, tokens_table, lemmatize, to_lowercase, dtm
+# from tmtoolkit.bow.bow_stats import tfidf, sorted_terms_table
 def TFIDFScore(simple_text):
     cv = CountVectorizer()
     # this steps generates word counts for the words in your docs
@@ -29,6 +30,7 @@ def TFIDFScore(simple_text):
     # print the scores
     df = pd.DataFrame(first_document_vector.T.todense(), index=feature_names, columns=["tfidf"])
     df.sort_values(by=["tfidf"], ascending=False)
+
 
 def Tfidfvectorizer(simple_text):
     from sklearn.feature_extraction.text import TfidfVectorizer
@@ -62,6 +64,8 @@ def Tfidfvectorizer(simple_text):
     plt.title('Elbow Method For Optimal k')
     plt.show()
     return
+
+
 if __name__ == "__main__":
     # Working Folder
     os.chdir("data")
@@ -75,17 +79,15 @@ if __name__ == "__main__":
             input_file = open(file, encoding="utf8")
             file_text = input_file.read()
 
-            file_text = tp.remove_whitespace(file_text) #rimozione doppi spazi
-            file_text = tp.tokenization(file_text)  #tokenizzo
-            file_text = tp.stopword_removing(file_text)   #rimuovo le stopword
-            file_text = tp.pos_tagging(file_text) #metto un tag ad ogni parola
-            file_text = tp.lemmatization(file_text) #trasformo nella forma base ogni parola
-            tp.tag_cloud(file_text) #stamo in base alla frequeza di ogni parola
+            file_text = tp.remove_whitespace(file_text)  # rimozione doppi spazi
+            file_text = tp.tokenization(file_text)  # tokenizzo
+            file_text = tp.stopword_removing(file_text)  # rimuovo le stopword
+            file_text = tp.pos_tagging(file_text)  # metto un tag ad ogni parola
+            file_text = tp.lemmatization(file_text)  # trasformo nella forma base ogni parola
+            tp.tag_cloud(file_text)  # stamo in base alla frequeza di ogni parola
             # TFIDFScore(file_text)
             # Tfidfvectorizer(file_text)
             break
-
-
 
     #        sentences.extend(file_text)
 
@@ -99,22 +101,20 @@ if __name__ == "__main__":
     # #update the model
     #
     # print("ciao")
-            #documents.append(file_text)
+    # documents.append(file_text)
 
-            # top_word = tp.word_count(file_text)
-            # document = ""
-            # for words in top_word:
-            #     if(words[1] < 5):
-            #         break
-            #     document = document + words[0] + " "
-            # documents.append(document)
+    # top_word = tp.word_count(file_text)
+    # document = ""
+    # for words in top_word:
+    #     if(words[1] < 5):
+    #         break
+    #     document = document + words[0] + " "
+    # documents.append(document)
 
-            # print(tp.word_count(file_text))
-            # tp.tag_cloud(file_text)
+    # print(tp.word_count(file_text))
+    # tp.tag_cloud(file_text)
 
-    #tv.top_2_vec(documents)
-
-
+    # tv.top_2_vec(documents)
 
     # # load built-in sample dataset and use 4 worker processes
     # corp = Corpus.from_builtin_corpus('en-News100', max_workers=4)
