@@ -5,8 +5,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 import text_preprocessing as tp
 import embedding_word as ew
 import centroid_topic as ct
-import  PCA_plot3D as pca
-import  DBSCAN_topic as db
+import PCA_plot3D as pca
+import DBSCAN_topic as db
 from tqdm import tqdm
 
 import pandas as pd
