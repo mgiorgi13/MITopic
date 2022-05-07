@@ -70,7 +70,6 @@ if __name__ == "__main__":
                        'b) If you want the centroid of the densest area of the cluster\n'
                        'c) If you want to see the most frequent words of the cluster\n'
                        'd) If you want to see the most frequent words of the densest part of the cluster\n')
-
         if choose == "a":
             break
         elif choose == "b":
@@ -109,5 +108,4 @@ if __name__ == "__main__":
                 choice_c(file_text)
             else:
                 choice_d(tot_vectors, file_text)
-
             break
