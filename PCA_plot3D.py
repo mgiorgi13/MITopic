@@ -23,7 +23,6 @@ def pca_clustering_3D(x, y, save_dir=None):
     if save_dir:
         filepath = open(f'./{save_dir}.html',"w+")
         fig.write_html(filepath)
-
         return filepath
     else:
         fig.show()
