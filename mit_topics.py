@@ -95,24 +95,31 @@ if __name__ == "__main__":
             file_text = input_file.read()
             all_doc.append(file_text)
 
-            # file_text = tp.remove_whitespace(file_text) #rimozione doppi spazi
-            # file_text = tp.tokenization(file_text)  #tokenizzo
-            # file_text = tp.stopword_removing(file_text)   #rimuovo le stopword
-            # file_text = tp.pos_tagging(file_text) #metto un tag ad ogni parola
-            # file_text = tp.lemmatization(file_text) #trasformo nella forma base ogni parola
-            tot_vectors = {}
-            # for word in tqdm(file_text):
-            #     tot_vectors[word] = ew.get_embedding(word)
 
+            if choose != "e":
+                file_text = tp.remove_whitespace(file_text) #rimozione doppi spazi
+                file_text = tp.tokenization(file_text)  #tokenizzo
+                file_text = tp.stopword_removing(file_text)   #rimuovo le stopword
+                file_text = tp.pos_tagging(file_text) #metto un tag ad ogni parola
+                file_text = tp.lemmatization(file_text) #trasformo nella forma base ogni parola
+
+                tot_vectors = {}
+
+                for word in tqdm(file_text):
+                    tot_vectors[word] = ew.get_embedding(word)
 
             if choose == "a":
                 choice_a(tot_vectors)
+                break
             elif choose == "b":
                 choice_b(tot_vectors)
+                break
             elif choose == "c":
                 choice_c(file_text)
+                break
             elif choose == "d":
                 choice_d(tot_vectors,file_text)
+                break
 
-    if(choose == "e"):
+    if choose == "e":
         choice_e(all_doc)
