@@ -3,6 +3,8 @@ from typing import Text
 import spacy
 
 nlp = spacy.load('en_core_web_lg')
+
+
 # python -m spacy download en_core_web_lg
 
 def get_embedding(text: Text):
