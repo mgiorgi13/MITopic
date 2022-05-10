@@ -63,8 +63,10 @@ def choice_d(tot_vectors, file_text):
 
     tp.tag_cloud(words)
 
+
 def choice_e(file_text):
     t2v.top_2_vec(file_text)
+
 
 if __name__ == "__main__":
     while (1):
@@ -101,13 +103,12 @@ if __name__ == "__main__":
             file_text = input_file.read()
             all_doc.append(file_text)
 
-
             if choose != "e":
-                file_text = tp.remove_whitespace(file_text) #rimozione doppi spazi
-                file_text = tp.tokenization(file_text)  #tokenizzo
-                file_text = tp.stopword_removing(file_text)   #rimuovo le stopword
-                file_text = tp.pos_tagging(file_text) #metto un tag ad ogni parola
-                file_text = tp.lemmatization(file_text) #trasformo nella forma base ogni parola
+                file_text = tp.remove_whitespace(file_text)  # rimozione doppi spazi
+                file_text = tp.tokenization(file_text)  # tokenizzo
+                file_text = tp.stopword_removing(file_text)  # rimuovo le stopword
+                file_text = tp.pos_tagging(file_text)  # metto un tag ad ogni parola
+                file_text = tp.lemmatization(file_text)  # trasformo nella forma base ogni parola
 
                 tot_vectors = {}
 
@@ -124,7 +125,7 @@ if __name__ == "__main__":
                 choice_c(file_text)
                 break
             elif choose == "d":
-                choice_d(tot_vectors,file_text)
+                choice_d(tot_vectors, file_text)
                 break
 
     if choose == "e":
