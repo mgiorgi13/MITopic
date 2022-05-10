@@ -2,8 +2,6 @@ from sklearn.decomposition import PCA
 import os
 import numpy as np
 import plotly.express as px
-# import seaborn as sn
-from matplotlib import pyplot as plt
 from sklearn.decomposition import PCA
 
 
