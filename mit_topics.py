@@ -5,6 +5,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import text_preprocessing as tp
 import embedding_word as ew
 import centroid_topic as ct
+import CSV_complie as cc
 import PCA_plot3D as pca
 import DBSCAN_topic as db
 from tqdm import tqdm
@@ -35,10 +36,10 @@ def choice_b(tot_vectors):
 
     # rimuovo gli outlier e creo il file
     transformer = RobustScaler(quantile_range=(25.0, 75.0)).fit(value_vactor)
-    pca.pca_clustering_3D(transformer.transform(value_vactor), list(tot_vectors.keys()), f"/html/{file[: -4]}")
+  #  pca.pca_clustering_3D(transformer.transform(value_vactor), list(tot_vectors.keys()), f"/html/{file[: -4]}")
 
     sortedDist = ct.centroid_Topic(transformer.transform(value_vactor), word_vector)
-    print(sortedDist)
+    #print(sortedDist)
     return word_vector
 
 
@@ -94,8 +95,8 @@ if __name__ == "__main__":
     os.chdir("../")
     count = 0
     all_doc = []
-
-    for file in listDoc:
+    all_5topwords =[]
+    for file in tqdm(listDoc):
         count = count + 1
 
         if file.endswith(".txt"):
@@ -112,15 +113,18 @@ if __name__ == "__main__":
 
                 tot_vectors = {}
 
-                for word in tqdm(file_text):
+                for word in (file_text):
                     tot_vectors[word] = ew.get_embedding(word)
 
             if choose == "a":
                 choice_a(tot_vectors)
                 break
             elif choose == "b":
-                choice_b(tot_vectors)
-                break
+                if count == 1:
+                    cc.write_list_as_row("5TopWords.csv", choice_b(tot_vectors)[:5])
+                else:
+                    cc.append_list_as_row("5TopWords.csv", choice_b(tot_vectors)[:5])
+               # break
             elif choose == "c":
                 choice_c(file_text)
                 break
