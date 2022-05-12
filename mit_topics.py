@@ -1,6 +1,10 @@
+import csv
+import logging
+import coloredlogs
 import os
 import threading
-
+from datetime import datetime
+import time
 import numpy as np
 from sklearn.preprocessing import RobustScaler
 from sklearn.metrics.pairwise import cosine_similarity
@@ -13,6 +17,7 @@ import DBSCAN_topic as db
 from tqdm import tqdm
 import top_2_vec as t2v
 import multiprocessing
+from csv import writer
 import pandas as pd
 import operator
 
@@ -71,38 +76,37 @@ def choice_e(file_text):
     t2v.top_2_vec(file_text)
 
 
-def thread_function(choose, file_text, thread_number, file_count, file_name):
-    print("Thread started number: ", thread_number, " in file ", file_name, " number: ", file_count, "\n")
-    if choose != "e":
+# logging.basicConfig(
+#     format="%(module)s : %(funcName)s : (Process Details : (%(process)d, %(processName)s)\n     Log Message : %(message)s\n",
+#     datefmt="%I:%M:%S %p",
+#     level=logging.INFO)
+# %(asctime)s %(levelname)s %(message)s
+
+logger = logging.getLogger(__name__)
+coloredlogs.install(level='INFO', logger=logger,
+                    fmt="- Process -> pid[%(process)d], name[%(processName)s] Function -> [%(funcName)s]\n%(asctime)s --- %(levelname)s log -> [%(message)s]")
+
+
+def parallelized_function(file):
+    if file.endswith(".txt"):
+        input_file = open(f"data/{file}", encoding="utf8")
+        file_text = input_file.read()
         file_text = tp.remove_whitespace(file_text)  # rimozione doppi spazi
         file_text = tp.tokenization(file_text)  # tokenizzo
         file_text = tp.stopword_removing(file_text)  # rimuovo le stopword
         file_text = tp.pos_tagging(file_text)  # metto un tag ad ogni parola
         file_text = tp.lemmatization(file_text)  # trasformo nella forma base ogni parola
-
         tot_vectors = {}
 
         for word in (file_text):
             tot_vectors[word] = ew.get_embedding(word)
 
-    if choose == "a":
-        choice_a(tot_vectors)
-
-    elif choose == "b":
-        if file_count == 1:
-            cc.write_list_as_row("5TopWords.csv", choice_b(tot_vectors)[:5])
-        else:
-            cc.append_list_as_row("5TopWords.csv", choice_b(tot_vectors)[:5])
-    elif choose == "c":
-        choice_c(file_text)
-
-    elif choose == "d":
-        choice_d(tot_vectors, file_text)
+        topWords = choice_b(tot_vectors)[:5]
+        logger.info("Process output: %s", topWords)
+        return topWords
 
 
 if __name__ == "__main__":
-
-    print("Number of cpu : ", multiprocessing.cpu_count())
 
     while 1:
         choose = input('Insert:\n'
@@ -127,77 +131,83 @@ if __name__ == "__main__":
     os.chdir("data")
     listDoc = os.listdir()
     os.chdir("../")
-    file_count = 1
     all_doc = []
+    count = 0
     all_5topwords = []
-    step = 0
 
+    if choose == "b":
 
+        print("You have ", multiprocessing.cpu_count(), " cores")
+        core_number = input('How many core do you want to use?: (Do not overdo it)\n')
 
-    # for file in tqdm(listDoc):
-    while (file_count < len(listDoc)):
+        logger.info("Start Time : %s", datetime.now())
+        start_time = datetime.utcnow()
 
-        print("========== Multi-threading started step: ", step, "==========\n")
+        pool = multiprocessing.Pool(processes=int(core_number))
 
-        threads = []
-        if len(listDoc) - file_count > 50:
-            for i, file in enumerate(listDoc[0 + step:50 + step]):
-                if file.endswith(".txt"):
-                    input_file = open(f"data/{file}", encoding="utf8")
-                    file_text = input_file.read()
-                    all_doc.append(file_text)
+        # limit listDoc for test with listDoc[0:m] with m = number of documents you want to test
+        # delete [0:m] if you want to test all documents
+        results = [pool.map(parallelized_function, listDoc)]
 
-                    x = threading.Thread(target=thread_function, args=(choose, file_text, i + 1, file_count, file))
-                    threads.append(x)
-                    x.start()
+        # asyncs = []
+        # for file in listDoc:
+        #     async_i = pool.apply_async(parallelized_function, args=(file,))
+        #     asyncs.append(async_i)
+        #
+        # for async_i in asyncs:
+        #     async_i.wait()
+        #
+        # for async_i in asyncs:
+        #     async_i.get()
 
-                    file_count = file_count + 1
-                    # if choose != "e":
-                    #     file_text = tp.remove_whitespace(file_text)  # rimozione doppi spazi
-                    #     file_text = tp.tokenization(file_text)  # tokenizzo
-                    #     file_text = tp.stopword_removing(file_text)  # rimuovo le stopword
-                    #     file_text = tp.pos_tagging(file_text)  # metto un tag ad ogni parola
-                    #     file_text = tp.lemmatization(file_text)  # trasformo nella forma base ogni parola
-                    #
-                    #     tot_vectors = {}
-                    #
-                    #     for word in (file_text):
-                    #         tot_vectors[word] = ew.get_embedding(word)
-                    #
-                    # if choose == "a":
-                    #     choice_a(tot_vectors)
-                    #     break
-                    # elif choose == "b":
-                    #     if count == 1:
-                    #         cc.write_list_as_row("5TopWords.csv", choice_b(tot_vectors)[:5])
-                    #     else:
-                    #         cc.append_list_as_row("5TopWords.csv", choice_b(tot_vectors)[:5])
-                    # # break
-                    # elif choose == "c":
-                    #     choice_c(file_text)
-                    #     break
-                    # elif choose == "d":
-                    #     choice_d(tot_vectors, file_text)
-                    #     break
-        else:
-            for i, file in enumerate(listDoc[file_count: len(listDoc)]):
-                if file.endswith(".txt"):
-                    input_file = open(f"data/{file}", encoding="utf8")
-                    file_text = input_file.read()
-                    all_doc.append(file_text)
+        logger.info("End Time : %s", datetime.now())
 
-                    x = threading.Thread(target=thread_function, args=(choose, file_text, i + 1, file_count, file))
-                    threads.append(x)
-                    x.start()
+        pool.close()
 
-                    file_count = file_count + 1
+        with open('5TopWords.csv', 'w') as f:
+            mywriter = csv.writer(f, delimiter='\n')
+            mywriter.writerows(results)
 
-        for index, thread in enumerate(threads):
-            print("\n joining thread: ", index)
-            thread.join()
+        end_time = datetime.utcnow()
+        total_time = end_time - start_time
+        logger.info("Total Time : %s", total_time)
 
-        print("========== Multi-threading ended step: ", step, "==========\n")
-        step = step + 50
+    else:
+        for file in tqdm(listDoc):
+            count = count + 1
 
-    if choose == "e":
-        choice_e(all_doc)
+            if file.endswith(".txt"):
+                input_file = open(f"data/{file}", encoding="utf8")
+                file_text = input_file.read()
+                all_doc.append(file_text)
+
+                if choose != "e":
+                    file_text = tp.remove_whitespace(file_text)  # rimozione doppi spazi
+                    file_text = tp.tokenization(file_text)  # tokenizzo
+                    file_text = tp.stopword_removing(file_text)  # rimuovo le stopword
+                    file_text = tp.pos_tagging(file_text)  # metto un tag ad ogni parola
+                    file_text = tp.lemmatization(file_text)  # trasformo nella forma base ogni parola
+
+                    tot_vectors = {}
+
+                    for word in (file_text):
+                        tot_vectors[word] = ew.get_embedding(word)
+
+                if choose == "a":
+                    choice_a(tot_vectors)
+                    break
+                # elif choose == "b":
+                #     if count == 1:
+                #         cc.write_list_as_row("5TopWords.csv", choice_b(tot_vectors)[:5])
+                #     else:
+                #         cc.append_list_as_row("5TopWords.csv", choice_b(tot_vectors)[:5])
+                # # break
+                elif choose == "c":
+                    choice_c(file_text)
+                    break
+                elif choose == "d":
+                    choice_d(tot_vectors, file_text)
+                    break
+
+        if choose == "e":
+            choice_e(all_doc)
