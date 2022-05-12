@@ -1,5 +1,6 @@
 from csv import writer
 
+
 def write_list_as_row(file_name, list_of_elem):
     # Open file in append mode
     with open(file_name, 'w+', newline='') as write_obj:
@@ -7,6 +8,7 @@ def write_list_as_row(file_name, list_of_elem):
         csv_writer = writer(write_obj)
         # Add contents of list as last row in the csv file
         csv_writer.writerow(list_of_elem)
+
 
 def append_list_as_row(file_name, list_of_elem):
     # Open file in append mode
