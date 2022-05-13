@@ -1,5 +1,6 @@
 import csv
 import logging
+
 import coloredlogs
 import os
 import threading
@@ -17,6 +18,7 @@ import DBSCAN_topic as db
 from tqdm import tqdm
 import top_2_vec as t2v
 import multiprocessing
+import collections
 from csv import writer
 import pandas as pd
 import operator
@@ -95,9 +97,16 @@ def parallelized_function(file):
         for word in (file_text):
             tot_vectors[word] = ew.get_embedding(word)
 
-        topWords = choice_b(tot_vectors)[:5]
+        topWords = choice_b(tot_vectors)[:50]
         logger.info("Process output: %s", topWords)
-        return topWords
+
+        return topWords, counter(file_text)
+
+
+def counter(text):
+    Counter = collections.Counter(text)
+    most_occur = Counter.most_common(10)
+    return most_occur
 
 
 if __name__ == "__main__":
@@ -129,21 +138,19 @@ if __name__ == "__main__":
     count = 0
     all_5topwords = []
 
-    decade = input("Insert the decade: \n(insert skip if you want to scan all the documents)\n")
-
-    filtered_docs_list = []
-    for doc in listDoc:
-        if doc.endswith(".txt") and decade in doc:
-            filtered_docs_list.append(doc)
-
-    if filtered_docs_list == []:
-        print("No documents found for this decade")
-        exit()
-
     if choose == "b":
+        decade = input("Insert the decade: \n(insert skip if you want to scan all the documents)\n")
+        filtered_docs_list = []
+        for doc in listDoc:
+            if doc.endswith(".txt") and decade in doc:
+                filtered_docs_list.append(doc)
+
+        if filtered_docs_list == [] and decade != "skip":
+            print("No documents found for this decade")
+            exit()
 
         print("You have ", multiprocessing.cpu_count(), " cores")
-        core_number = input('How many core do you want to use?: (Do not overdo it)\n')
+        core_number = input('How many subprocess do you want to use?: (Do not overdo it)\n')
 
         logger.info("Start Time : %s", datetime.now())
         start_time = datetime.utcnow()
@@ -165,12 +172,32 @@ if __name__ == "__main__":
             total_time = end_time - start_time
             logger.info("Total Time : %s", total_time)
         else:
-            results = [pool.map(parallelized_function, filtered_docs_list)]
+            results, most_frequent_words = zip(*pool.map(parallelized_function, filtered_docs_list))
+
+            new_dict = {}
+            for dict in most_frequent_words:
+                for elem in dict:
+                    if elem[0] in new_dict.keys():
+                        # present
+                        new_dict[elem[0]] += elem[1]
+                    else:
+                        # not present
+                        new_dict[elem[0]] = elem[1]
+            new_dict = sorted(new_dict.items(), key=operator.itemgetter(1), reverse=True)
+            a_file = open(f'output/{decade}_freq_word.csv', "w")
+
+            writer = csv.writer(a_file)
+            for key, value in new_dict:
+                writer.writerow([key, value])
+
+            a_file.close()
+
             logger.info("End Time : %s", datetime.now())
             pool.close()
 
-            concat_results = np.concatenate(results[0])
-            concat_results = [list(dict.fromkeys(concat_results))]  # remove duplicates
+            concat_results = np.concatenate(results)
+            concat_results = [concat_results]
+            # concat_results = [np.unique(concat_results)]  # remove duplicates but we loose the order of top 5
 
             with open(f'output/{decade}_5TopWords.csv', 'w') as f:
                 mywriter = csv.writer(f, delimiter='\n')
@@ -182,6 +209,7 @@ if __name__ == "__main__":
 
     else:
         for file in tqdm(listDoc):
+            print("\nFile scanned: ", file)
             count = count + 1
 
             if file.endswith(".txt"):
