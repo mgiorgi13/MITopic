@@ -76,12 +76,6 @@ def choice_e(file_text):
     t2v.top_2_vec(file_text)
 
 
-# logging.basicConfig(
-#     format="%(module)s : %(funcName)s : (Process Details : (%(process)d, %(processName)s)\n     Log Message : %(message)s\n",
-#     datefmt="%I:%M:%S %p",
-#     level=logging.INFO)
-# %(asctime)s %(levelname)s %(message)s
-
 logger = logging.getLogger(__name__)
 coloredlogs.install(level='INFO', logger=logger,
                     fmt="- Process -> pid[%(process)d], name[%(processName)s] Function -> [%(funcName)s]\n%(asctime)s --- %(levelname)s log -> [%(message)s]")
@@ -135,6 +129,17 @@ if __name__ == "__main__":
     count = 0
     all_5topwords = []
 
+    decade = input("Insert the decade: \n(insert skip if you want to scan all the documents)\n")
+
+    filtered_docs_list = []
+    for doc in listDoc:
+        if doc.endswith(".txt") and decade in doc:
+            filtered_docs_list.append(doc)
+
+    if filtered_docs_list == []:
+        print("No documents found for this decade")
+        exit()
+
     if choose == "b":
 
         print("You have ", multiprocessing.cpu_count(), " cores")
@@ -147,30 +152,33 @@ if __name__ == "__main__":
 
         # limit listDoc for test with listDoc[0:m] with m = number of documents you want to test
         # delete [0:m] if you want to test all documents
-        results = [pool.map(parallelized_function, listDoc)]
+        if decade == "skip":
+            results = [pool.map(parallelized_function, listDoc)]
+            logger.info("End Time : %s", datetime.now())
+            pool.close()
 
-        # asyncs = []
-        # for file in listDoc:
-        #     async_i = pool.apply_async(parallelized_function, args=(file,))
-        #     asyncs.append(async_i)
-        #
-        # for async_i in asyncs:
-        #     async_i.wait()
-        #
-        # for async_i in asyncs:
-        #     async_i.get()
+            with open('output/5TopWords.csv', 'w') as f:
+                mywriter = csv.writer(f, delimiter='\n')
+                mywriter.writerows(results)
 
-        logger.info("End Time : %s", datetime.now())
+            end_time = datetime.utcnow()
+            total_time = end_time - start_time
+            logger.info("Total Time : %s", total_time)
+        else:
+            results = [pool.map(parallelized_function, filtered_docs_list)]
+            logger.info("End Time : %s", datetime.now())
+            pool.close()
 
-        pool.close()
+            concat_results = np.concatenate(results[0])
+            concat_results = [list(dict.fromkeys(concat_results))]  # remove duplicates
 
-        with open('5TopWords.csv', 'w') as f:
-            mywriter = csv.writer(f, delimiter='\n')
-            mywriter.writerows(results)
+            with open(f'output/{decade}_5TopWords.csv', 'w') as f:
+                mywriter = csv.writer(f, delimiter='\n')
+                mywriter.writerows(concat_results)
 
-        end_time = datetime.utcnow()
-        total_time = end_time - start_time
-        logger.info("Total Time : %s", total_time)
+            end_time = datetime.utcnow()
+            total_time = end_time - start_time
+            logger.info("Total Time : %s", total_time)
 
     else:
         for file in tqdm(listDoc):
