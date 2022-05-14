@@ -21,6 +21,8 @@ from csv import writer
 import pandas as pd
 import operator
 
+#GLOBAL VARIABLES
+choose = ""
 
 def choice_a(tot_vectors):
     value_vactor = list(tot_vectors.values())
@@ -71,9 +73,14 @@ def choice_d(tot_vectors, file_text):
 
     tp.tag_cloud(words)
 
-
-def choice_e(file_text):
-    t2v.top_2_vec(file_text)
+def choice_e(list_files):
+    documents = []
+    for file in list_files:
+        if file.endswith(".txt"):
+            input_file = open(f"data/{file}", encoding="utf8")
+            file_text = input_file.read()
+            documents.append(file_text)
+    t2v.top_2_vec(documents)
 
 
 logger = logging.getLogger(__name__)
@@ -90,15 +97,26 @@ def parallelized_function(file):
         file_text = tp.stopword_removing(file_text)  # rimuovo le stopword
         file_text = tp.pos_tagging(file_text)  # metto un tag ad ogni parola
         file_text = tp.lemmatization(file_text)  # trasformo nella forma base ogni parola
-        tot_vectors = {}
 
-        for word in (file_text):
-            tot_vectors[word] = ew.get_embedding(word)
+        return file_text
 
-        topWords = choice_b(tot_vectors)[:5]
-        logger.info("Process output: %s", topWords)
-        return topWords
-
+# def parallelized_function(file):
+#     if file.endswith(".txt"):
+#         input_file = open(f"data/{file}", encoding="utf8")
+#         file_text = input_file.read()
+#         file_text = tp.remove_whitespace(file_text)  # rimozione doppi spazi
+#         file_text = tp.tokenization(file_text)  # tokenizzo
+#         file_text = tp.stopword_removing(file_text)  # rimuovo le stopword
+#         file_text = tp.pos_tagging(file_text)  # metto un tag ad ogni parola
+#         file_text = tp.lemmatization(file_text)  # trasformo nella forma base ogni parola
+#         tot_vectors = {}
+#
+#         for word in (file_text):
+#             tot_vectors[word] = ew.get_embedding(word)
+#
+#         topWords = choice_b(tot_vectors)[:5]
+#         logger.info("Process output: %s", topWords)
+#         return topWords
 
 if __name__ == "__main__":
 
@@ -125,7 +143,6 @@ if __name__ == "__main__":
     os.chdir("data")
     listDoc = os.listdir()
     os.chdir("../")
-    all_doc = []
     count = 0
     all_5topwords = []
 
@@ -154,6 +171,8 @@ if __name__ == "__main__":
         # delete [0:m] if you want to test all documents
         if decade == "skip":
             results = [pool.map(parallelized_function, listDoc)]
+
+
             logger.info("End Time : %s", datetime.now())
             pool.close()
 
@@ -166,6 +185,16 @@ if __name__ == "__main__":
             logger.info("Total Time : %s", total_time)
         else:
             results = [pool.map(parallelized_function, filtered_docs_list)]
+
+            concat_results = np.concatenate(results[0])
+            concat_results = [list(dict.fromkeys(concat_results))]
+
+            tot_vectors = {}
+            for word in concat_results:
+                tot_vectors[str(word)] = ew.get_embedding(str(word))
+
+            topWords = choice_b(tot_vectors)[:30]
+
             logger.info("End Time : %s", datetime.now())
             pool.close()
 
@@ -180,6 +209,8 @@ if __name__ == "__main__":
             total_time = end_time - start_time
             logger.info("Total Time : %s", total_time)
 
+    elif choose == "e":
+       choice_e(listDoc)
     else:
         for file in tqdm(listDoc):
             count = count + 1
@@ -187,7 +218,6 @@ if __name__ == "__main__":
             if file.endswith(".txt"):
                 input_file = open(f"data/{file}", encoding="utf8")
                 file_text = input_file.read()
-                all_doc.append(file_text)
 
                 if choose != "e":
                     file_text = tp.remove_whitespace(file_text)  # rimozione doppi spazi
@@ -216,6 +246,3 @@ if __name__ == "__main__":
                 elif choose == "d":
                     choice_d(tot_vectors, file_text)
                     break
-
-        if choose == "e":
-            choice_e(all_doc)
