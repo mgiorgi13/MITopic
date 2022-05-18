@@ -161,15 +161,15 @@ if __name__ == "__main__":
         if choose == "c":
             tp.tag_cloud(concat_results)
         elif choose == "d":
-            concat_results = [list(dict.fromkeys(concat_results))]  # remove duplicates
+            clear_results = [list(dict.fromkeys(concat_results))]  # remove duplicates
             tot_vectors = {}
-            for word in concat_results[0]:
+            for word in clear_results[0]:
                 tot_vectors[str(word)] = ew.get_embedding(str(word))
-            choice_d(tot_vectors, concat_results)  # tag cloud of most frequent words of the densest part of the decade
+            choice_d(tot_vectors, clear_results[0])  # tag cloud of most frequent words of the densest part of the decade
         elif choose == "b":
-            concat_results = [list(dict.fromkeys(concat_results))]  # remove duplicates
+            clear_results = [list(dict.fromkeys(concat_results))]  # remove duplicates
             tot_vectors = {}
-            for word in concat_results[0]:
+            for word in clear_results[0]:
                 tot_vectors[str(word)] = ew.get_embedding(str(word))
             topWords = choice_b(tot_vectors)[:30]  # get the centroid of the densest area of the cluster
             # print(topWords)
