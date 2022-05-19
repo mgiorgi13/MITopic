@@ -1,9 +1,8 @@
 from top2vec import Top2Vec
 
-# if
-# This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
-# To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
-# then
+# if This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU
+# instructions in performance-critical operations:  AVX2 FMA To enable them in other operations, rebuild TensorFlow
+# with the appropriate compiler flags. then
 import os
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
