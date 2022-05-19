@@ -84,13 +84,7 @@ def choice_d(tot_vectors, file_text):
 
 
 def choice_e(list_files):
-    documents = []
-    for file in list_files:
-        if file.endswith(".txt"):
-            input_file = open(f"data/{file}", encoding="utf8")
-            file_text = input_file.read()
-            documents.append(file_text)
-    t2v.top_2_vec(documents)
+    t2v.top_2_vec(list_files)
 
 
 if __name__ == "__main__":
@@ -119,27 +113,25 @@ if __name__ == "__main__":
     listDoc = os.listdir()
     os.chdir("../")
 
-    decade = input("Insert the decade: \n(insert skip if you want to scan all the documents)\n")
+    year = input("Insert year to be analyze: \n(insert skip if you want to scan all the documents)\n")
 
     # take all the names of the files
     filtered_docs_list = []
     all_docs = []
-    for file in listDoc:
-        if file.endswith(".txt"):
-            input_file = open(f"data/{file}", encoding="utf8")
-            file_text = input_file.read()
-            all_docs.append(file_text)
-            print(all_docs)
 
     for doc in listDoc:
-        if doc.endswith(".txt") and decade in doc:
+        if doc.endswith(".txt"):
+            input_file = open(f"data/{doc}", encoding="utf8")
+            file_text = input_file.read()
+            all_docs.append(file_text)
+        if doc.endswith(".txt") and year in doc:
             filtered_docs_list.append(doc)
 
-    if filtered_docs_list == []:
+    if filtered_docs_list == [] and year != "skip":
         print("No documents found for this decade")
         exit()
 
-    if (choose != "e"):
+    if choose != "e":
         # preprocess data
 
         print("You have ", multiprocessing.cpu_count(), " cores")
@@ -182,8 +174,19 @@ if __name__ == "__main__":
             # print(topWords)
 
             # print results of the centroid of the densest area of the cluster in file
-            with open(f'output/{decade}_30TopWords.csv', 'w') as f:
+            with open(f'output/{year}_30TopWords.csv', 'w') as f:
                 mywriter = csv.writer(f, delimiter='\n')
                 mywriter.writerows([topWords])
     else:
-        choice_e(all_docs)  # use top2vec to detect topics of decade
+        if year != "skip" and filtered_docs_list != []:
+            logger.info("Start Top2Vec analysis for filtered documents by year : %s. Number of documents: %s", year,
+                        len(filtered_docs_list))
+            F_docs = []
+            for filt_doc in filtered_docs_list:
+                input_file = open(f"data/{filt_doc}", encoding="utf8")
+                file_text = input_file.read()
+                F_docs.append(file_text)
+            choice_e(F_docs)  # use top2vec to detect topics of decade for selected documents by year
+        else:
+            logger.info("Start Top2Vec analysis for all documents. Number of documents: %s", len(all_docs))
+            choice_e(all_docs)  # use top2vec to detect topics of decade for all documents
