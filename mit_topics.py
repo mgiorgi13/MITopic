@@ -165,7 +165,8 @@ if __name__ == "__main__":
             tot_vectors = {}
             for word in clear_results[0]:
                 tot_vectors[str(word)] = ew.get_embedding(str(word))
-            choice_d(tot_vectors, clear_results[0])  # tag cloud of most frequent words of the densest part of the decade
+            choice_d(tot_vectors,
+                     clear_results[0])  # tag cloud of most frequent words of the densest part of the decade
         elif choose == "b":
             clear_results = [list(dict.fromkeys(concat_results))]  # remove duplicates
             tot_vectors = {}
