@@ -124,6 +124,12 @@ if __name__ == "__main__":
     # take all the names of the files
     filtered_docs_list = []
     all_docs = []
+    for file in listDoc:
+        if file.endswith(".txt"):
+            input_file = open(f"data/{file}", encoding="utf8")
+            file_text = input_file.read()
+            all_docs.append(file_text)
+            print(all_docs)
 
     for doc in listDoc:
         if doc.endswith(".txt") and decade in doc:
@@ -180,5 +186,4 @@ if __name__ == "__main__":
                 mywriter = csv.writer(f, delimiter='\n')
                 mywriter.writerows([topWords])
     else:
-        # use to2vec to detect topics of decade
-        choice_e(filtered_docs_list)
+        choice_e(all_docs)  # use top2vec to detect topics of decade
