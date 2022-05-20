@@ -192,9 +192,11 @@ if __name__ == "__main__":
         # execute top_2_vec on documents grouped by five years
         year_list = []
         for doc in listDoc:
-            year = doc.split("_")[3]
+            year = doc.split("_")[2]
             if year not in year_list:
                 year_list.append(year)
+
+        year_list.sort()
 
         # extract interval of five year from the list of years
         year_list_5 = []
