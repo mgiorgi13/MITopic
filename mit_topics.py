@@ -95,7 +95,7 @@ if __name__ == "__main__":
                        'b) If you want the centroid of the densest area of the cluster\n'
                        'c) If you want to see the most frequent words of the cluster\n'
                        'd) If you want to see the most frequent words of the densest part of the cluster\n'
-                       'e) If you want use to2vec to detect macro topics on all documents\n')
+                       'e) If you want use top2vec to detect macro topics on all documents\n')
 
         if choose == "a":
             break
