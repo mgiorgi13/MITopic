@@ -134,6 +134,8 @@ if __name__ == "__main__":
             break
         elif choose == "e":
             break
+        elif choose == "bc":
+            break
 
     # Working Folder
     os.chdir("data")
@@ -206,20 +208,20 @@ if __name__ == "__main__":
         # concat_results_copy = concat_results
 
         # tag cloud of most frequent words of the decade
-        if choose == "c" or choose == "cb":
+        if choose == "c" or choose == "bc":
             frequency = tp.word_count(concat_results)
             with open(f'output/{year}_WordFrequency.csv', 'w', encoding='UTF8') as f:
                 mywriter = csv.writer(f, delimiter='\n')
                 mywriter.writerows([frequency])
             # tp.tag_cloud(concat_results)
-        elif choose == "d":
+        if choose == "d":
             clear_results = [list(dict.fromkeys(concat_results))]  # remove duplicates
             tot_vectors = {}
             for word in clear_results[0]:
                 tot_vectors[str(word)] = ew.get_embedding(str(word))
             choice_d(tot_vectors,
                      clear_results[0])  # tag cloud of most frequent words of the densest part of the decade
-        elif choose == "b" or choose == "cb":
+        if choose == "b" or choose == "bc":
             clear_results = [list(dict.fromkeys(concat_results))]  # remove duplicates
             tot_vectors = {}
             for word in clear_results[0]:
