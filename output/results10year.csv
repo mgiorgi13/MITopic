@@ -1,4 +1,4 @@
-File,TopicWords,WordScore,TopicNumber
+File                                                                              ,TopicWords                                                                ,WordScore                                                           ,TopicNumber
 "['1990', '1991', '1992', '1993', '1994', '1995', '1996', '1997', '1998', '1999']","[['competitors' 'mncs' 'competitor' 'marketers' 'subcontractors'
   'outsource' 'outsourcing' 'entrepreneurial' 'innovate' 'consumers'
   'automakers' 'innovators' 'outsourced' 'manufacturers' 'profitability'
@@ -17,7 +17,7 @@ File,TopicWords,WordScore,TopicNumber
   'outsourced' 'subordinates' 'failed' 'leadership' 'managements'
   'factor' 'gm' 'partnership' 'designers' 'whom' 'independently'
   'frameworks' 'entrepreneurial' 'similar' 'marketers' 'involving'
-  'fewer']]","[[0.22031069 0.20513882 0.18801925 0.18703595 0.18026236 0.17569397
+  'fewer']]" ,"[[0.22031069 0.20513882 0.18801925 0.18703595 0.18026236 0.17569397
   0.1740918  0.16689047 0.16498497 0.143796   0.14047049 0.13908969
   0.13831438 0.13609593 0.13467416 0.13411057 0.13077495 0.13075894
   0.12987582 0.12946838 0.12401682 0.12199558 0.12189791 0.11965884
@@ -216,7 +216,7 @@ File,TopicWords,WordScore,TopicNumber
   'ecosystems' 'increasing' 'quantitative' 'interact' 'innovators'
   'encourages' 'surveyed' 'analytics' 'positively' 'clients' 'brands'
   'innovative' 'communicated' 'collectively' 'tweet' 'increased'
-  'sustainability' 'similarly' 'ecosystem']]","[[0.23725906 0.2209475  0.22061425 0.21312624 0.19930816 0.19462161
+  'sustainability' 'similarly' 'ecosystem']]" ,"[[0.23725906 0.2209475  0.22061425 0.21312624 0.19930816 0.19462161
   0.18824208 0.18544315 0.18266734 0.17905289 0.16028836 0.15801035
   0.15517373 0.15196303 0.14582613 0.1455358  0.14103581 0.13812053
   0.13651146 0.13399312 0.13357544 0.13291721 0.13245884 0.13185672
@@ -288,7 +288,7 @@ File,TopicWords,WordScore,TopicNumber
   0.14216535 0.14189684 0.14175613 0.14116873 0.14085302 0.14040332
   0.13660975 0.13468713 0.13363238 0.13252865 0.13155699 0.1307781
   0.13076678 0.129701  ]]",[0 1 2 3 4 5 6 7]
-"['2020', '2021', '2022']","[['competitors' 'startups' 'innovators' 'innovative' 'startup'
+"['2020', '2021', '2022']"                                                        ,"[['competitors' 'startups' 'innovators' 'innovative' 'startup'
   'entrepreneurs' 'ceos' 'kpis' 'consumers' 'cybersecurity' 'companys'
   'sustainability' 'technologies' 'regulatory' 'innovations' 'innovation'
   'manufacturers' 'following' 'ecosystem' 'agile' 'launched' 'ecosystems'
@@ -305,7 +305,7 @@ File,TopicWords,WordScore,TopicNumber
   'startups' 'initiative' 'management' 'ecosystem' 'failure' 'manage'
   'employee' 'individuals' 'similar' 'lack' 'participants' 'following'
   'manager' 'workers' 'leading' 'intermediaries' 'similarly' 'approaches'
-  'innovation' 'ai' 'disruptive' 'regulatory' 'mindset']]","[[0.2204022  0.2035267  0.2026564  0.18227169 0.16432744 0.15745309
+  'innovation' 'ai' 'disruptive' 'regulatory' 'mindset']]" ,"[[0.2204022  0.2035267  0.2026564  0.18227169 0.16432744 0.15745309
   0.14828737 0.1440463  0.14371797 0.1420495  0.1418809  0.14132252
   0.1412801  0.13608438 0.13440418 0.13415416 0.13293813 0.13145229
   0.13089977 0.12716225 0.1266402  0.12610044 0.12395942 0.12377411
