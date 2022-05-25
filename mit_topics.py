@@ -153,9 +153,10 @@ if __name__ == "__main__":
 
         for doc in listDoc:
             if doc.endswith(".txt"):
-                input_file = open(f"data/{doc}", encoding="utf8")
-                file_text = input_file.read()
-                all_docs.append(file_text)
+                all_docs.append(doc)
+                # input_file = open(f"data/{doc}", encoding="utf8")
+                # file_text = input_file.read()
+                # all_docs.append(file_text)
             if doc.endswith(".txt") and year in doc:
                 filtered_docs_list.append(doc)
 
