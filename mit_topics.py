@@ -84,14 +84,25 @@ def choice_d(tot_vectors, file_text):
 
 
 def choice_e(list_files):
-    t2v.top_2_vec(list_files)
+    topic_words, word_scores, topic_nums = t2v.top_2_vec(list_files)
+    return topic_words, word_scores, topic_nums
+
+
+def printToFile(topicResults):
+    with open('output/results.csv', 'w') as csvfile:
+        fieldnames = ['File', 'TopicWords', 'WordScore', 'TopicNumber']
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+        for i in range(0, len(topicResults)):
+            writer.writerow(
+                {'File': topicResults[i][0], 'TopicWords': topicResults[i][1], 'WordScore': topicResults[i][2],
+                 'TopicNumber': topicResults[i][3]})
 
 
 if __name__ == "__main__":
 
     while 1:
         choose = input('Insert:\n'
-                       'a) If you want the cluster centroid\n'
                        'b) If you want the centroid of the densest area of the cluster\n'
                        'c) If you want to see the most frequent words of the cluster\n'
                        'd) If you want to see the most frequent words of the densest part of the cluster\n'
@@ -113,26 +124,26 @@ if __name__ == "__main__":
     listDoc = os.listdir()
     os.chdir("../")
 
-    year = input("Insert year to be analyze: \n(insert skip if you want to scan all the documents)\n")
-
-    # take all the names of the files
-    filtered_docs_list = []
-    all_docs = []
-
-    for doc in listDoc:
-        if doc.endswith(".txt"):
-            input_file = open(f"data/{doc}", encoding="utf8")
-            file_text = input_file.read()
-            all_docs.append(file_text)
-        if doc.endswith(".txt") and year in doc:
-            filtered_docs_list.append(doc)
-
-    if filtered_docs_list == [] and year != "skip":
-        print("No documents found for this decade")
-        exit()
-
     if choose != "e":
         # preprocess data
+
+        year = input("Insert year to be analyze: \n(insert skip if you want to scan all the documents)\n")
+
+        # take all the names of the files
+        filtered_docs_list = []
+        all_docs = []
+
+        for doc in listDoc:
+            if doc.endswith(".txt"):
+                input_file = open(f"data/{doc}", encoding="utf8")
+                file_text = input_file.read()
+                all_docs.append(file_text)
+            if doc.endswith(".txt") and year in doc:
+                filtered_docs_list.append(doc)
+
+        if filtered_docs_list == [] and year != "skip":
+            print("No documents found for this decade")
+            exit()
 
         print("You have ", multiprocessing.cpu_count(), " cores")
         core_number = input('How many core do you want to use?: (Do not overdo it)\n')
@@ -178,15 +189,36 @@ if __name__ == "__main__":
                 mywriter = csv.writer(f, delimiter='\n')
                 mywriter.writerows([topWords])
     else:
-        if year != "skip" and filtered_docs_list != []:
-            logger.info("Start Top2Vec analysis for filtered documents by year : %s. Number of documents: %s", year,
-                        len(filtered_docs_list))
-            F_docs = []
-            for filt_doc in filtered_docs_list:
-                input_file = open(f"data/{filt_doc}", encoding="utf8")
-                file_text = input_file.read()
-                F_docs.append(file_text)
-            choice_e(F_docs)  # use top2vec to detect topics of decade for selected documents by year
-        else:
-            logger.info("Start Top2Vec analysis for all documents. Number of documents: %s", len(all_docs))
-            choice_e(all_docs)  # use top2vec to detect topics of decade for all documents
+        # execute top_2_vec on documents grouped by five years
+        year_list = []
+        for doc in listDoc:
+            year = doc.split("_")[2]
+            if year not in year_list:
+                year_list.append(year)
+
+        year_list.sort()
+
+        # extract interval of 10 year from the list of years
+        year_list_10 = []
+        for i in range(0, len(year_list) - 9, 10):
+            year_list_10.append(year_list[i:i + 10])
+        year_list_10.append(year_list[len(year_list) - len(year_list) % 10:])  # take the remaining years
+
+        resultsForFile = []
+
+        for group in year_list_10:
+            list_files = []
+            for year in group:
+                for doc in listDoc:
+                    if doc.endswith(".txt") and year in doc:
+                        input_file = open(f"data/{doc}", encoding="utf8")
+                        file_text = input_file.read()
+                        list_files.append(file_text)
+            logger.info("Start Top2Vec analysis for documents conteined in the year: %s. Number of documents: %s",
+                        group, len(list_files))
+            topic_words, word_scores, topic_nums = choice_e(list_files)
+            partial_results = [group, topic_words, word_scores, topic_nums]
+            logger.info("End Top2Vec analysis for documents conteined in the year: %s", group)
+            resultsForFile.append(partial_results)
+
+        printToFile(resultsForFile)
