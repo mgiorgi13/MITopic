@@ -22,7 +22,6 @@ import pandas as pd
 import operator
 import sys
 
-
 # GLOBAL VARIABLES
 choose = ""
 
@@ -91,7 +90,7 @@ def choice_e(list_files):
 
 
 def printToFile(topicResults):
-    with open('output/results.csv', 'w' , encoding='UTF8') as csvfile:
+    with open('output/results.csv', 'w', encoding='UTF8') as csvfile:
         fieldnames = ['File', 'TopicWords', 'WordScore', 'TopicNumber']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
@@ -108,14 +107,14 @@ if __name__ == "__main__":
     # print(sys.argv[2])  # prints var2 year
     # print(sys.argv[3])  # prints var3 num cores
 
-    if(len(sys.argv) == 4):
+    if (len(sys.argv) == 4):
         arg_from_command_line = True
     else:
         arg_from_command_line = False
 
     while 1:
 
-        if(arg_from_command_line == False):
+        if (arg_from_command_line == False):
             choose = input('Insert:\n'
                            'a) if you want the frequency of each nouns of each files\n'
                            'b) If you want the centroid of the densest area of the cluster\n'
@@ -154,9 +153,10 @@ if __name__ == "__main__":
 
         for doc in listDoc:
             if doc.endswith(".txt"):
-                input_file = open(f"data/{doc}", encoding="utf8")
-                file_text = input_file.read()
-                all_docs.append(file_text)
+                all_docs.append(doc)
+                # input_file = open(f"data/{doc}", encoding="utf8")
+                # file_text = input_file.read()
+                # all_docs.append(file_text)
             if doc.endswith(".txt") and year in doc:
                 filtered_docs_list.append(doc)
 
@@ -182,7 +182,7 @@ if __name__ == "__main__":
 
         pool.close()  # close the pool of processes
 
-        if(choose == "a"):
+        if (choose == "a"):
             header = ['file_name', 'word_frequency']
             with open(f'output/file_word_frequency.csv', 'w', encoding='UTF8', newline='') as f:
                 writer = csv.writer(f)
@@ -192,7 +192,8 @@ if __name__ == "__main__":
                 with open(f'output/file_word_frequency.csv', 'a', encoding='UTF8', newline='') as f:
                     writer = csv.writer(f)
                     # write file words
-                    data = [filtered_docs_list[i],str(tp.word_count(results[0][i])).replace(",","").replace("[","").replace("]","")]
+                    data = [filtered_docs_list[i],
+                            str(tp.word_count(results[0][i])).replace(",", "").replace("[", "").replace("]", "")]
                     writer.writerow(data)
 
         # logs the time of the process
@@ -207,10 +208,10 @@ if __name__ == "__main__":
         # tag cloud of most frequent words of the decade
         if choose == "c" or choose == "cb":
             frequency = tp.word_count(concat_results)
-            with open(f'output/{year}_WordFrequency.csv', 'w',  encoding='UTF8') as f:
+            with open(f'output/{year}_WordFrequency.csv', 'w', encoding='UTF8') as f:
                 mywriter = csv.writer(f, delimiter='\n')
                 mywriter.writerows([frequency])
-            #tp.tag_cloud(concat_results)
+            # tp.tag_cloud(concat_results)
         elif choose == "d":
             clear_results = [list(dict.fromkeys(concat_results))]  # remove duplicates
             tot_vectors = {}
@@ -227,7 +228,7 @@ if __name__ == "__main__":
             # print(topWords)
 
             # print results of the centroid of the densest area of the cluster in file
-            with open(f'output/{year}_30TopWords.csv', 'w',  encoding='UTF8') as f:
+            with open(f'output/{year}_30TopWords.csv', 'w', encoding='UTF8') as f:
                 mywriter = csv.writer(f, delimiter='\n')
                 mywriter.writerows([topWords])
     else:
