@@ -89,7 +89,7 @@ def choice_e(list_files):
 
 
 def printToFile(topicResults):
-    with open('output/results.csv', 'w') as csvfile:
+    with open('output/results10year.csv', 'w') as csvfile:
         fieldnames = ['File', 'TopicWords', 'WordScore', 'TopicNumber']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
