@@ -184,18 +184,26 @@ if __name__ == "__main__":
 
         pool.close()  # close the pool of processes
 
-        if (choose == "a"):
+        frequency_list = []
+
+        if choose == "a" or choose == "bc":
             header = ['file_name', 'word_frequency']
-            with open(f'output/file_word_frequency.csv', 'w', encoding='UTF8', newline='') as f:
+            if year == "skip":
+                title_header = ""
+            else:
+                title_header = year + "_"
+            with open(f'output/{title_header}file_word_frequency.csv', 'w', encoding='UTF8', newline='') as f:
                 writer = csv.writer(f)
                 # write the header
                 writer.writerow(header)
+
             for i in range(len(filtered_docs_list)):
-                with open(f'output/file_word_frequency.csv', 'a', encoding='UTF8', newline='') as f:
+                with open(f'output/{title_header}file_word_frequency.csv', 'a', encoding='UTF8', newline='') as f:
                     writer = csv.writer(f)
                     # write file words
+                    frequency_list.append(tp.word_count(results[0][i]))
                     data = [filtered_docs_list[i],
-                            str(tp.word_count(results[0][i])).replace(",", "").replace("[", "").replace("]", "")]
+                            str(frequency_list[i]).replace(",", "").replace("[", "").replace("]", "")]
                     writer.writerow(data)
 
         # logs the time of the process
@@ -233,6 +241,20 @@ if __name__ == "__main__":
             with open(f'output/{year}_30TopWords.csv', 'w', encoding='UTF8') as f:
                 mywriter = csv.writer(f, delimiter='\n')
                 mywriter.writerows([topWords])
+        if choose == "bc":
+            file_score = []
+            for i in range(len(filtered_docs_list)):
+                counter = 0
+                sum = 0
+                for word,value in frequency_list[i]:
+                    if word in topWords:
+                        sum += value
+                        counter += 1
+                file_score.append([filtered_docs_list[i], sum / counter])
+            file_score.sort(key=lambda x: x[1], reverse=True)
+            with open(f'output/{year}_scores.csv', 'w', encoding='UTF8', newline='') as f:
+                mywriter = csv.writer(f)
+                mywriter.writerows(file_score)
     else:
         # execute top_2_vec on documents grouped by five years
         year_list = []
