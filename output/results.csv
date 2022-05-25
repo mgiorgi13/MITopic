@@ -1,286 +1,325 @@
-File,TopicWords,WordScore,TopicNumber
-"['1995', '1996', '1997', '1998', '1999']","[['managerial' 'managing' 'organizational' 'ceos' 'executives' 'mncs'
-  'managers' 'colleagues' 'outsource' 'ceo' 'subcontracting'
-  'competitors' 'organization' 'manager' 'neither' 'management' 'failed'
-  'organizing' 'productivity' 'outsourcing' 'outsourced' 'manage'
-  'competitor' 'fewer' 'hierarchical' 'redesign' 'who' 'managements'
-  'marketers' 'respondents' 'leadership' 'designers' 'factor' 'cio'
-  'innovative' 'involving' 'meetings' 'partnership' 'similar'
-  'subsidiary' 'failures' 'ibm' 'collaborative' 'innovators' 'employees'
-  'failure' 'concurrent' 'tacit' 'frameworks' 'independent']
- ['competitors' 'mncs' 'competitor' 'manufacturers' 'consumers'
-  'marketers' 'consumer' 'outsource' 'outsourcing' 'suppliers'
-  'profitability' 'concurrent' 'customers' 'exports' 'economics'
-  'companys' 'innovators' 'sourcing' 'standardization' 'providers' 'wal'
-  'manufacturing' 'supplier' 'profits' 'vendors' 'economic'
-  'manufacturer' 'following' 'distributors' 'competing' 'clients'
-  'brands' 'retailer' 'manufacture' 'ceos' 'profitable' 'outsourced'
-  'margin' 'retailers' 'xerox' 'vendor' 'subcontracting' 'failed'
-  'imports' 'designers' 'buyers' 'compete' 'incremental' 'regulatory'
-  'partnership']]","[[0.19472831 0.18373233 0.17592454 0.16541573 0.16393757 0.1617939
-  0.15983318 0.14001776 0.14000049 0.13849895 0.13817511 0.13649824
-  0.12961096 0.12728938 0.12664786 0.1257813  0.12453186 0.1239555
-  0.12037908 0.12029521 0.11867744 0.1172663  0.11709513 0.11682565
-  0.11636703 0.11358012 0.11298978 0.11277483 0.11259947 0.11142546
-  0.10960819 0.10869137 0.10728613 0.10522242 0.10400005 0.10269848
-  0.10214156 0.10179955 0.10109834 0.10109521 0.09837642 0.09636725
-  0.09632516 0.09576635 0.09554672 0.09550366 0.09541065 0.09510317
-  0.09395245 0.09320188]
- [0.22192389 0.19082575 0.18546334 0.1839322  0.18278019 0.17845112
-  0.1542856  0.15246281 0.1503921  0.14702101 0.14272743 0.14044529
-  0.14026517 0.1326364  0.13086443 0.12995012 0.12550038 0.1254196
-  0.12514825 0.12322009 0.12270356 0.1200387  0.11965263 0.11764892
-  0.1148598  0.1137563  0.11277801 0.11275588 0.11198126 0.11138552
-  0.11086942 0.10957019 0.10907287 0.10790671 0.1071747  0.10688874
-  0.10610185 0.1058094  0.10450044 0.10275064 0.10198568 0.10115126
-  0.10114148 0.10048933 0.09993193 0.09944558 0.09921918 0.09907385
-  0.09843268 0.09789959]]",[0 1]
-"['2000', '2001', '2002', '2003', '2004']","[['consumers' 'customers' 'marketers' 'consumer' 'competitors' 'clients'
-  'customer' 'salespeople' 'suppliers' 'entrepreneurial' 'competitor'
-  'manufacturers' 'buyers' 'automakers' 'client' 'profitability'
-  'outsource' 'companys' 'wal' 'providers' 'vendors' 'outsourcing' 'erp'
-  'entrepreneurs' 'innovators' 'innovate' 'mergers' 'dealers' 'retailer'
-  'supplier' 'sourcing' 'intermediaries' 'ceos' 'leveraging' 'managerial'
-  'merger' 'retailers' 'sellers' 'outsourced' 'vendor' 'economics'
-  'profitable' 'firms' 'following' 'failed' 'analysts' 'distributors'
-  'startups' 'sustainability' 'discount']
- ['managerial' 'ceos' 'managers' 'managing' 'executives' 'leadership'
-  'organizational' 'ceo' 'management' 'manager' 'competitors'
-  'colleagues' 'leaders' 'manage' 'organization' 'mergers' 'leader'
-  'competitor' 'gm' 'productivity' 'erp' 'merger' 'cio' 'entrepreneurs'
-  'intermediaries' 'fewer' 'failed' 'outsource' 'executive' 'tacit'
-  'entrepreneurial' 'meetings' 'innovate' 'collaborative' 'marketers'
-  'sustainability' 'factor' 'direction' 'kaizen' 'directors' 'failure'
-  'employees' 'neither' 'partnership' 'who' 'factors' 'innovative'
-  'dominant' 'leading' 'organized']
- ['innovate' 'innovators' 'competitors' 'innovative' 'patent' 'startups'
-  'competitor' 'patents' 'innovation' 'entrepreneurial' 'marketers'
-  'innovations' 'entrepreneurs' 'outsource' 'startup' 'xerox'
-  'microsofts' 'partnership' 'technologies' 'merger' 'outsourcing' 'ibm'
-  'companys' 'hewlett' 'erp' 'collaboration' 'manufacturers' 'outsourced'
-  'proprietary' 'multinationals' 'develop' 'automakers' 'firms'
-  'enterprise' 'providers' 'competing' 'technological' 'ceos' 'mergers'
-  'developers' 'wireless' 'developing' 'leveraging' 'intermediaries'
-  'suppliers' 'developed' 'consumers' 'launched' 'ceo' 'motorola']
- ['invested' 'ceos' 'shareholders' 'shareholder' 'accounting' 'analysts'
-  'schwab' 'managerial' 'executives' 'valuation' 'equity' 'leveraging'
-  'leverage' 'earnings' 'ceo' 'investing' 'profitability' 'firms'
-  'investors' 'fewer' 'invest' 'gm' 'mergers' 'companys' 'competitor'
-  'studied' 'managers' 'stock' 'marketers' 'economics' 'restructuring'
-  'portfolio' 'competitors' 'firm' 'audit' 'automakers' 'managing'
-  'profits' 'investments' 'regulatory' 'investment' 'sustainability'
-  'consensus' 'acquisitions' 'billion' 'finance' 'benetton' 'management'
-  'failed' 'similarly']]","[[0.2217721  0.21955399 0.2157041  0.20912206 0.20082664 0.19727251
-  0.18685281 0.1850256  0.17032935 0.16917689 0.16823407 0.15619665
-  0.14927776 0.1477763  0.14605914 0.14564979 0.14464913 0.1445641
-  0.14306967 0.14178613 0.13835153 0.13726594 0.13706592 0.13557234
-  0.13208348 0.13162132 0.1315215  0.1298713  0.12898663 0.12556866
-  0.12367716 0.12258308 0.12147836 0.11920431 0.11914198 0.11739728
-  0.11717212 0.11702763 0.11684766 0.11531126 0.10960548 0.10915328
-  0.10840694 0.10625523 0.10591632 0.10591346 0.10570082 0.10441758
-  0.10431524 0.10335489]
- [0.2340466  0.2218275  0.22131997 0.22109354 0.21465895 0.20675352
-  0.20311397 0.17822336 0.17302299 0.17116068 0.16043194 0.15822533
-  0.15795594 0.15270591 0.1526788  0.14901865 0.14296514 0.14051378
-  0.1393319  0.13684864 0.134716   0.13448393 0.13327692 0.13216835
-  0.1287472  0.12611794 0.12498261 0.12257701 0.12088172 0.12067077
-  0.12062828 0.12040137 0.12032098 0.1203154  0.11749863 0.11633447
-  0.11602195 0.11589298 0.11577832 0.11479276 0.11458272 0.11433221
-  0.11150756 0.10955968 0.10892439 0.10731491 0.10724052 0.10709518
-  0.10628933 0.10570994]
- [0.2652353  0.23303881 0.22126624 0.21940227 0.20849767 0.20624685
-  0.20368642 0.19720607 0.18330638 0.18082762 0.17916417 0.17715591
-  0.17483756 0.17333123 0.17082351 0.16810672 0.16048121 0.15732022
-  0.15060711 0.14904632 0.14829065 0.14688358 0.1413602  0.13993171
-  0.13981442 0.13971408 0.13818192 0.13785937 0.13504532 0.1345368
-  0.1322912  0.12981492 0.1271857  0.12661067 0.12335375 0.12332098
-  0.12307358 0.12183503 0.12171121 0.12159693 0.12056401 0.1187869
-  0.1180903  0.1168412  0.11557152 0.11415926 0.11224518 0.11187606
-  0.11136254 0.11136158]
- [0.24396475 0.2431716  0.22087193 0.20661709 0.2034742  0.1931253
-  0.191448   0.18799418 0.18389454 0.18068805 0.18032369 0.17741309
-  0.1711621  0.16892011 0.16817226 0.16773438 0.16655712 0.15899986
-  0.15770793 0.15201208 0.15052795 0.14467388 0.14205681 0.14204192
-  0.14091195 0.14056073 0.13927427 0.13631506 0.13613549 0.13334426
-  0.13308209 0.13233319 0.13028419 0.1294932  0.12931311 0.12827311
-  0.12812826 0.12768996 0.12763464 0.12668326 0.12579277 0.12364704
-  0.12320792 0.12309285 0.12132551 0.12101191 0.12010102 0.11907445
-  0.11841202 0.11781855]]",[0 1 2 3]
-"['2005', '2006', '2007', '2008', '2009']","[['ceos' 'executives' 'managerial' 'managers' 'managing' 'leadership'
-  'ceo' 'organizational' 'colleagues' 'mncs' 'competitors' 'management'
-  'subordinates' 'manager' 'leaders' 'competitor' 'manage' 'organization'
-  'merger' 'antitrust' 'entrepreneurs' 'executive' 'collaborative'
-  'leader' 'fewer' 'marketers' 'employees' 'directors' 'who'
-  'consultants' 'failures' 'neither' 'productivity' 'accountable'
-  'respondents' 'innovate' 'meetings' 'direction' 'employee' 'factor'
-  'shareholders' 'innovative' 'leading' 'majority' 'failed' 'raises'
-  'stakeholder' 'companys' 'entrepreneurial' 'whom']
- ['innovate' 'innovators' 'innovative' 'competitors' 'entrepreneurial'
-  'mncs' 'competitor' 'patent' 'innovation' 'patents' 'antitrust'
-  'entrepreneurs' 'innovations' 'marketers' 'invested' 'merger' 'xerox'
-  'ceos' 'firms' 'companys' 'partnership' 'breakthrough' 'ventures' 'ibm'
-  'nokias' 'enterprises' 'collaboration' 'ceo' 'enterprise' 'competing'
-  'managerial' 'sustainability' 'outsourcing' 'failed' 'profitability'
-  'compete' 'shareholder' 'regulatory' 'executives' 'shareholders'
-  'manufacturers' 'succeed' 'outsourced' 'investor' 'nokia' 'similarly'
-  'investors' 'subsidiary' 'acquisition' 'similar']
- ['consumers' 'customers' 'marketers' 'mncs' 'competitors' 'consumer'
-  'clients' 'competitor' 'customer' 'entrepreneurial' 'suppliers'
-  'manufacturers' 'outsourcing' 'entrepreneurs' 'companys' 'antitrust'
-  'wal' 'providers' 'innovators' 'outsourced' 'innovate' 'client'
-  'buyers' 'merger' 'supplier' 'managerial' 'profitability' 'sourcing'
-  'ceos' 'following' 'sustainability' 'manufacturer' 'innovative'
-  'similarly' 'brands' 'economics' 'respondents' 'xerox' 'followed'
-  'firms' 'tended' 'whereas' 'executives' 'failed' 'demand' 'users'
-  'nokias' 'who' 'ethical' 'provider']]","[[0.23051667 0.22378366 0.22051422 0.20873654 0.20158876 0.18469152
-  0.18211213 0.17416042 0.16765484 0.16493815 0.16214135 0.16184652
-  0.16019666 0.15148762 0.14985679 0.14170721 0.13809018 0.13023153
-  0.13007104 0.12723015 0.12711118 0.1258072  0.12452941 0.12406535
-  0.12404101 0.12401584 0.12281878 0.12161036 0.12117893 0.12001912
-  0.1166237  0.11562859 0.11559781 0.1150635  0.11265405 0.1125273
-  0.11224699 0.11175998 0.11125952 0.10975812 0.10968176 0.10958797
-  0.10892195 0.10779683 0.10686329 0.1066708  0.10654943 0.1057287
-  0.105402   0.10484372]
- [0.2877252  0.2505625  0.23676026 0.22459237 0.21950433 0.21941406
-  0.21028873 0.20950916 0.2049201  0.2044949  0.20410112 0.19278428
-  0.18415016 0.17499876 0.17011374 0.16585267 0.1627803  0.16051432
-  0.15910183 0.15779918 0.15393396 0.14879313 0.14863805 0.14790842
-  0.14705016 0.13503191 0.13485037 0.13329406 0.13234058 0.13216996
-  0.13191506 0.12739386 0.12736122 0.12344398 0.12225212 0.1222038
-  0.12086037 0.12039785 0.12029298 0.11995712 0.1197468  0.11858051
-  0.11857705 0.11813988 0.11791608 0.11763966 0.11749089 0.11600889
-  0.11568153 0.11547859]
- [0.2079081  0.20432393 0.20261289 0.19935411 0.1904954  0.18891276
-  0.17983426 0.164668   0.16358808 0.15811756 0.15345286 0.15210979
-  0.14239877 0.14214708 0.13418627 0.13305154 0.13185254 0.12978882
-  0.12873304 0.12714456 0.12703018 0.12509727 0.12122267 0.11917609
-  0.11602807 0.11528045 0.11251194 0.11209643 0.11178279 0.11167626
-  0.10935892 0.10884084 0.10609702 0.10496545 0.10297135 0.10240457
-  0.10234308 0.10227278 0.10139534 0.09767308 0.09683585 0.096787
-  0.09524245 0.0932325  0.09291054 0.09239261 0.09238669 0.09188141
-  0.09160004 0.09143338]]",[0 1 2]
-"['2010', '2011', '2012', '2013', '2014']","[['competitors' 'competitor' 'innovate' 'marketers' 'ceos' 'innovators'
-  'innovative' 'managerial' 'consumers' 'companys' 'executives'
-  'sustainability' 'managing' 'ceo' 'outsourcing' 'multinationals'
-  'ecosystem' 'firms' 'partnership' 'consumer' 'colleagues' 'ibm'
-  'managers' 'failed' 'manufacturers' 'similarly' 'patent'
-  'organizational' 'collaboration' 'customers' 'who' 'collaborative'
-  'following' 'management' 'enterprise' 'innovation' 'surveyed' 'csr'
-  'suppliers' 'adopters' 'profitability' 'respondents' 'fewer' 'analysts'
-  'competing' 'leveraging' 'followed' 'similar' 'innovations' 'wal']
- ['analytics' 'analysts' 'analytical' 'metrics' 'marketers' 'managerial'
-  'data' 'competitor' 'competitors' 'ibm' 'innovators' 'surveyed'
-  'managing' 'companys' 'innovate' 'ecosystem' 'ceos' 'billion' 'crm'
-  'analyzing' 'followed' 'who' 'leveraging' 'innovative' 'approaches'
-  'management' 'multinationals' 'leverage' 'manage' 'consumers'
-  'analysis' 'measured' 'executives' 'enterprise' 'analyze' 'mba'
-  'monitoring' 'organizational' 'sustainability' 'benchmarking'
-  'segments' 'leads' 'respondents' 'consumer' 'profitability' 'firms'
-  'factor' 'managers' 'following' 'providers']]","[[0.2119425  0.1922325  0.19088362 0.18771327 0.1762262  0.1747191
-  0.16396442 0.16001178 0.15140489 0.14900517 0.14796466 0.14626901
-  0.13766405 0.13725528 0.13568276 0.13373634 0.12684189 0.12680976
-  0.12563781 0.1255444  0.12448257 0.12344919 0.12314662 0.11961731
-  0.11911217 0.1168315  0.116587   0.11298349 0.11112552 0.10961138
-  0.10900885 0.10837187 0.10724148 0.10685777 0.10671674 0.10635155
-  0.10523209 0.10503622 0.10490457 0.10431777 0.10421993 0.10384552
-  0.10371538 0.10314849 0.10195513 0.10169597 0.1010402  0.10021125
-  0.10007547 0.09827768]
- [0.32139626 0.2389647  0.23663446 0.22255597 0.21706997 0.19791406
-  0.1940966  0.17420784 0.17204964 0.16659956 0.1582001  0.15247127
-  0.15136123 0.14950994 0.14822012 0.1454587  0.13849084 0.13682166
-  0.13590357 0.13489015 0.13456044 0.13185912 0.13126454 0.12934393
-  0.12914066 0.12911218 0.12797228 0.12737834 0.12613064 0.12604669
-  0.1256364  0.12488926 0.12484831 0.12378831 0.1233542  0.12231621
-  0.12211493 0.12184785 0.12142977 0.12064026 0.11966893 0.11940413
-  0.11815777 0.11662117 0.11565726 0.11502643 0.11372513 0.11216305
-  0.1120985  0.11176047]]",[0 1]
-"['2015', '2016', '2017', '2018', '2019']","[['ceos' 'managerial' 'managers' 'colleagues' 'executives' 'managing'
-  'leadership' 'organizational' 'respondents' 'adaptive' 'competitors'
-  'ceo' 'surveyed' 'crowdsourcing' 'marketers' 'collaborative' 'analysts'
-  'hierarchy' 'agile' 'leaders' 'fewer' 'innovate' 'management'
-  'sustainability' 'innovative' 'productivity' 'incumbents'
-  'entrepreneurs' 'similarly' 'manage' 'meetings' 'employees' 'cognitive'
-  'innovators' 'behaviors' 'interviewed' 'individuals' 'analytical'
-  'biases' 'manager' 'similar' 'majority' 'collaboration' 'algorithms'
-  'who' 'entrepreneurial' 'ethical' 'ecosystem' 'factor' 'researchers']
- ['innovate' 'competitors' 'marketers' 'innovators' 'entrepreneurial'
-  'startups' 'consumers' 'unilever' 'innovative' 'entrepreneurs'
-  'manufacturers' 'customers' 'companys' 'consumer' 'startup'
-  'outsourcing' 'suppliers' 'patents' 'providers' 'patent' 'innovations'
-  'firms' 'crowdsourcing' 'multinationals' 'clients' 'innovation'
-  'leveraging' 'following' 'profitability' 'ibm' 'sustainability'
-  'technologies' 'enterprise' 'incremental' 'ceos' 'analytics' 'agile'
-  'ecosystems' 'develop' 'followed' 'partnership' 'analysts'
-  'enterprises' 'regulatory' 'uber' 'globalization' 'ecosystem' 'gaap'
-  'predictive' 'launched']
+File,TopicWords,WordScore,TopicNumber
+"['1990', '1991', '1992', '1993', '1994', '1995', '1996', '1997', '1998', '1999']","[['competitors' 'mncs' 'competitor' 'marketers' 'subcontractors'
+  'outsource' 'outsourcing' 'entrepreneurial' 'innovate' 'consumers'
+  'automakers' 'innovators' 'outsourced' 'manufacturers' 'profitability'
+  'customers' 'suppliers' 'subcontracting' 'companys' 'concurrent'
+  'combinations' 'hewlett' 'ceos' 'consumer' 'innovative' 'managerial'
+  'leveraged' 'providers' 'ibm' 'salespeople' 'negotiators' 'failed'
+  'xerox' 'partnership' 'supplier' 'clients' 'enterprise' 'brainstorming'
+  'exports' 'bundling' 'designers' 'competing' 'firms' 'wal' 'factors'
+  'economics' 'factories' 'managing' 'customer' 'standardization']
+ ['managerial' 'managing' 'organizational' 'mncs' 'ceos' 'executives'
+  'managers' 'subcontractors' 'supervisors' 'brainstorming' 'controlling'
+  'subcontracting' 'outsource' 'management' 'ceo' 'organization'
+  'manager' 'manage' 'competitors' 'organizing' 'tqm' 'neither'
+  'hierarchical' 'hierarchy' 'cio' 'colleagues' 'negotiators' 'who'
+  'outsourcing' 'cooperative' 'competitor' 'redesign' 'productivity'
+  'outsourced' 'subordinates' 'failed' 'leadership' 'managements'
+  'factor' 'gm' 'partnership' 'designers' 'whom' 'independently'
+  'frameworks' 'entrepreneurial' 'similar' 'marketers' 'involving'
+  'fewer']]","[[0.22031069 0.20513882 0.18801925 0.18703595 0.18026236 0.17569397
+  0.1740918  0.16689047 0.16498497 0.143796   0.14047049 0.13908969
+  0.13831438 0.13609593 0.13467416 0.13411057 0.13077495 0.13075894
+  0.12987582 0.12946838 0.12401682 0.12199558 0.12189791 0.11965884
+  0.11963277 0.1191484  0.1178969  0.11732619 0.11696299 0.11674334
+  0.11617707 0.11416952 0.11323509 0.11146945 0.11125976 0.11076258
+  0.10983704 0.10931212 0.10924751 0.10853297 0.10712528 0.10632435
+  0.10584514 0.10450412 0.10348275 0.10325079 0.10179907 0.10170349
+  0.10165613 0.1002858 ]
+ [0.20534636 0.19892837 0.18322848 0.1628128  0.16167834 0.15679651
+  0.15549412 0.1550629  0.14857835 0.14571059 0.14366063 0.14163524
+  0.13987482 0.13981271 0.13953164 0.13915868 0.13639289 0.13164392
+  0.13100106 0.13092417 0.13061923 0.13061872 0.12975106 0.1288914
+  0.1274386  0.12606236 0.1231989  0.12140264 0.11966591 0.11712469
+  0.1160365  0.11474302 0.11421001 0.11383626 0.11276956 0.11238186
+  0.11216328 0.1114874  0.11062042 0.10867089 0.10714495 0.10682526
+  0.10667434 0.10636984 0.10532431 0.10523312 0.10484562 0.10438019
+  0.10283084 0.10253844]]",[0 1]
+"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009']","[['customers' 'mncs' 'consumers' 'marketers' 'competitors' 'clients'
+  'consumer' 'shoppers' 'customer' 'entrepreneurial' 'salespeople' 'erp'
+  'competitor' 'suppliers' 'outsource' 'antitrust' 'outsourcing'
+  'companys' 'manufacturers' 'entrepreneurs' 'enron' 'wal' 'providers'
+  'automakers' 'innovate' 'innovators' 'client' 'profitability'
+  'outsourced' 'managerial' 'mergers' 'leveraged' 'ceos' 'vendors'
+  'buyers' 'merger' 'peripheral' 'inventors' 'procter' 'supplier'
+  'mitigate' 'promises' 'hewlett' 'firms' 'startups' 'sourcing'
+  'designers' 'innovative' 'economics' 'intermediaries']
+ ['managerial' 'ceos' 'executives' 'managing' 'managers' 'organizational'
+  'mncs' 'enron' 'leadership' 'colleagues' 'competitors' 'ceo'
+  'subordinates' 'management' 'hierarchy' 'entrepreneurs' 'mergers'
+  'manager' 'cooperative' 'organization' 'intermediaries' 'competitor'
+  'managements' 'organizing' 'erp' 'productivity' 'outsource' 'mitigate'
+  'manage' 'cio' 'leaders' 'gm' 'merger' 'entrepreneurial' 'marketers'
+  'employees' 'fewer' 'collaborative' 'tacit' 'antitrust' 'ericsson'
+  'innovate' 'sustainability' 'who' 'accountable' 'failed' 'failures'
+  'meetings' 'neither' 'kaizen']
+ ['innovate' 'patent' 'innovators' 'inventors' 'innovative' 'patents'
+  'innovation' 'innovations' 'competitors' 'breakthroughs' 'competitor'
+  'startups' 'antitrust' 'mncs' 'invention' 'entrepreneurial' 'xerox'
+  'marketers' 'startup' 'entrepreneurs' 'partnership' 'merger'
+  'collaboration' 'breakthrough' 'multinationals' 'peripheral' 'enron'
+  'headquartered' 'nokias' 'outsource' 'competing' 'automakers' 'mergers'
+  'ibm' 'proprietary' 'firms' 'decentralized' 'companys' 'wireless'
+  'technologies' 'ceos' 'technological' 'manufacturers' 'hewlett'
+  'proved' 'procter' 'collaborate' 'intangible' 'microsofts' 'partnering']
+ ['enron' 'ceos' 'leveraged' 'executives' 'ceo' 'shareholders'
+  'managerial' 'invested' 'antitrust' 'shareholder' 'investor' 'gm'
+  'startups' 'mergers' 'mncs' 'managers' 'analysts' 'competitor'
+  'competitors' 'firms' 'managing' 'regulators' 'automakers' 'investors'
+  'stocks' 'entrepreneurial' 'innovate' 'companys' 'schwab' 'leverage'
+  'startup' 'downturn' 'accounting' 'management' 'equity' 'regulatory'
+  'bankruptcy' 'intermediaries' 'leveraging' 'profitability' 'portfolios'
+  'entrepreneurs' 'merger' 'raises' 'mitigate' 'firm' 'failed' 'fewer'
+  'manager' 'decline']
+ ['branding' 'brands' 'branded' 'marketers' 'consumers' 'brand'
+  'competitors' 'benetton' 'consumer' 'competitor' 'procter'
+  'manufacturers' 'mncs' 'companys' 'marketing' 'shoppers'
+  'sustainability' 'entrepreneurial' 'manufacturer' 'salespeople'
+  'generic' 'nokias' 'innovators' 'advertising' 'customers' 'automakers'
+  'competing' 'innovate' 'xerox' 'ceos' 'multinationals' 'mergers' 'sony'
+  'apparel' 'buyers' 'founder' 'clients' 'nike' 'followed' 'label' 'csr'
+  'enterprise' 'convinced' 'merger' 'affects' 'designers' 'leveraging'
+  'alignment' 'antitrust' 'align']
+ ['sustainability' 'sustainable' 'environmental' 'mncs' 'innovate'
+  'inventors' 'innovators' 'entrepreneurial' 'consumers' 'automakers'
+  'enron' 'innovative' 'breakthroughs' 'invention' 'ventures'
+  'outsourced' 'sustained' 'convinced' 'ibm' 'startups' 'procter'
+  'economics' 'mit' 'entrepreneurs' 'incremental' 'promises' 'designers'
+  'viable' 'ceos' 'companys' 'competitors' 'consensus' 'founder'
+  'uncertain' 'outsource' 'ericsson' 'billion' 'outsourcing' 'mitigate'
+  'neither' 'competitor' 'caused' 'nokias' 'globalization' 'fewer'
+  'decline' 'telecom' 'multinationals' 'enterprises' 'proved']]","[[0.2064608  0.20172276 0.19873847 0.19349569 0.18931863 0.18433487
+  0.18317157 0.16950256 0.16748989 0.1653101  0.16250256 0.16017771
+  0.15870315 0.15571205 0.15489317 0.14973626 0.14734878 0.14444499
+  0.14299901 0.1428855  0.14259763 0.13813423 0.13636518 0.13553235
+  0.13506103 0.13272192 0.13161652 0.12994826 0.12984583 0.12963022
+  0.12779096 0.12688175 0.12285729 0.12278333 0.12275185 0.12021384
+  0.11906213 0.11840099 0.11698832 0.11650752 0.11115338 0.11109057
+  0.11106658 0.11046583 0.11024562 0.10968845 0.10936672 0.10892265
+  0.10843867 0.10815816]
+ [0.21179542 0.20041715 0.19686183 0.19468877 0.19355205 0.18542029
+  0.16842324 0.1678461  0.16593654 0.16499695 0.1601196  0.15518686
+  0.15377308 0.14727402 0.14588675 0.1415886  0.14071275 0.14027613
+  0.13950285 0.13837552 0.13503458 0.13468727 0.13319656 0.13171887
+  0.131616   0.13156945 0.13039875 0.1297384  0.12912118 0.12715183
+  0.12665379 0.12654364 0.12579891 0.12563421 0.12447233 0.12290017
+  0.12227753 0.12145593 0.12123957 0.12102318 0.12073165 0.11716639
+  0.11652838 0.11625303 0.11568028 0.11500312 0.11426893 0.11426713
+  0.11367451 0.11333314]
+ [0.33950764 0.29515976 0.29486644 0.283816   0.2833584  0.2830596
+  0.27016804 0.2503957  0.24184376 0.24047837 0.23457226 0.22958872
+  0.22890696 0.22670195 0.21856532 0.20320776 0.20129025 0.18739894
+  0.18146087 0.18011448 0.17054382 0.17034185 0.16944131 0.16906877
+  0.16445586 0.162282   0.16169159 0.1598798  0.15743324 0.15581286
+  0.15531012 0.1551563  0.15508625 0.15172422 0.1509256  0.14700082
+  0.14655596 0.14643756 0.14396118 0.14350033 0.14068545 0.14047474
+  0.14042844 0.14001206 0.13953348 0.13899955 0.13762379 0.13755548
+  0.13745709 0.13634104]
+ [0.2950757  0.2830482  0.23319164 0.21458893 0.21255603 0.21144727
+  0.20982432 0.20686668 0.2005504  0.19582    0.18222639 0.17323202
+  0.17239204 0.17012757 0.16772713 0.16598219 0.1640876  0.16177772
+  0.16006434 0.1596746  0.15948021 0.15727699 0.1526435  0.15201738
+  0.15121974 0.14768139 0.14743403 0.1473014  0.14488238 0.1437704
+  0.14227283 0.14195803 0.14182976 0.1403653  0.13988659 0.13925737
+  0.13775165 0.13711812 0.13654894 0.1361703  0.13527934 0.13525072
+  0.13371561 0.13362712 0.13316356 0.13301967 0.13296619 0.13292158
+  0.13238701 0.13194521]
+ [0.3342638  0.32095468 0.3166113  0.2820362  0.2708655  0.26049072
+  0.23912454 0.23580003 0.23305736 0.22400856 0.20753887 0.20357373
+  0.19893569 0.17579822 0.17382476 0.16976053 0.1693334  0.16206847
+  0.15993506 0.15801202 0.15381044 0.15263675 0.15141498 0.14905679
+  0.1452957  0.14509644 0.14429852 0.14418615 0.14255579 0.14119174
+  0.13616355 0.13559473 0.13506904 0.13443838 0.13297307 0.13033533
+  0.12997943 0.12846044 0.12642914 0.12625654 0.12585245 0.12572184
+  0.12535766 0.12488461 0.12483706 0.12465373 0.12454117 0.12433191
+  0.12404529 0.12342414]
+ [0.3203564  0.25199446 0.19718814 0.18564907 0.17805123 0.17747304
+  0.17456146 0.16463679 0.16128077 0.15938435 0.15415528 0.1516212
+  0.14946383 0.14371389 0.14031136 0.14025195 0.13969985 0.139141
+  0.13892432 0.13616219 0.13473313 0.1345222  0.13426098 0.13416648
+  0.13339382 0.13314697 0.13171372 0.13038212 0.12989262 0.12881643
+  0.12874557 0.12832132 0.12668614 0.1251551  0.12474757 0.12468548
+  0.12282883 0.12269371 0.12257297 0.12256669 0.12237421 0.12234687
+  0.12061539 0.12055746 0.12052359 0.12036298 0.12030284 0.1202319
+  0.11998466 0.11954629]]",[0 1 2 3 4 5]
+"['2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']","[['ceos' 'managerial' 'executives' 'managers' 'managing' 'interviewees'
+  'colleagues' 'ceo' 'leadership' 'organizational' 'hierarchy'
+  'competitors' 'manager' 'management' 'leaders' 'employees' 'incumbents'
+  'competitor' 'fewer' 'productivity' 'organization' 'agile' 'employee'
+  'manage' 'influencers' 'mitigate' 'similar' 'entrepreneurs' 'coworkers'
+  'unilever' 'organizing' 'marketers' 'leader' 'collectively' 'executive'
+  'respondents' 'neither' 'adaptive' 'collaborative' 'headquartered'
+  'similarly' 'entrepreneurial' 'hired' 'raises' 'merger' 'behaviors'
+  'innovate' 'meetings' 'cio' 'slack']
+ ['customers' 'competitors' 'marketers' 'consumers' 'clients' 'consumer'
+  'competitor' 'unilever' 'customer' 'entrepreneurial' 'innovate'
+  'innovators' 'innovating' 'salespeople' 'suppliers' 'influencers'
+  'companys' 'providers' 'entrepreneurs' 'client' 'startups'
+  'profitability' 'innovative' 'manufacturers' 'adopters' 'vendors'
+  'leveraged' 'buyers' 'procter' 'firms' 'outsourcing' 'leveraging'
+  'mitigate' 'merger' 'wal' 'gaap' 'interviewees' 'crm' 'users'
+  'following' 'csr' 'ceos' 'followed' 'partnership' 'supplier'
+  'analytics' 'sustainability' 'designers' 'multinationals' 'revenue']
+ ['innovate' 'innovative' 'innovating' 'innovators' 'innovation'
+  'startups' 'competitors' 'innovations' 'patent' 'crowdsourcing'
+  'entrepreneurs' 'entrepreneurial' 'patents' 'designers' 'competitor'
+  'agile' 'startup' 'marketers' 'unilever' 'collaboration' 'breakthrough'
+  'founder' 'influencers' 'collaborative' 'interviewees' 'sustainability'
+  'partnership' 'ceos' 'outsourcing' 'projects' 'incumbents' 'ecosystem'
+  'ventures' 'consortium' 'managerial' 'merger' 'failed' 'collaborating'
+  'headquartered' 'initiative' 'collaborations' 'organizational'
+  'executives' 'algorithms' 'failures' 'manufacturers' 'failure'
+  'developers' 'competing' 'ibm']
+ ['sustainability' 'unilever' 'sustainable' 'ceos' 'companys' 'procter'
+  'consumers' 'competitors' 'competitor' 'multinationals'
+  'entrepreneurial' 'corporation' 'shareholders' 'manufacturers'
+  'collectively' 'ecosystem' 'enterprises' 'brands' 'ceo' 'firms' 'ibm'
+  'headquartered' 'incumbents' 'entrepreneurs' 'startups' 'mitigate'
+  'ventures' 'corporations' 'founder' 'affects' 'ethical' 'gaap'
+  'recalled' 'neither' 'leveraged' 'partnership' 'hypotheses'
+  'ecosystems' 'enterprise' 'conclusion' 'marketers' 'shareholder'
+  'toyota' 'interviewees' 'managerial' 'consumer' 'toyotas' 'uncertain'
+  'environmental' 'branding']
  ['robots' 'ai' 'automated' 'automation' 'technologies' 'algorithms'
-  'cybersecurity' 'innovate' 'crowdsourcing' 'innovators' 'innovative'
-  'adaptive' 'technological' 'analysts' 'advanced' 'outsourcing'
-  'incremental' 'computers' 'ibm' 'machines' 'smartphones' 'researchers'
-  'marketers' 'experts' 'competencies' 'human' 'scientists' 'technology'
-  'predictive' 'humans' 'workers' 'patents' 'enhance' 'matrix'
-  'sophisticated' 'startups' 'agile' 'cognitive' 'analytics' 'developed'
-  'ecosystems' 'uber' 'consumers' 'mit' 'ceos' 'advance' 'blockchain'
-  'patent' 'algorithm' 'intelligent']]","[[0.20322855 0.20047043 0.19324674 0.19286275 0.19262528 0.17022589
-  0.16145706 0.15596476 0.15253277 0.1516867  0.15107769 0.15089822
-  0.14687727 0.14492884 0.14491256 0.14082801 0.14032812 0.139489
-  0.13845861 0.13647902 0.13443172 0.13072255 0.12976977 0.12915601
-  0.1287097  0.12717241 0.12654163 0.12501618 0.12247934 0.12198776
-  0.1213105  0.12111951 0.12097287 0.12055476 0.12018681 0.11827703
-  0.1165268  0.11625201 0.11591853 0.1136655  0.11315977 0.11306141
-  0.11285651 0.11253115 0.11219943 0.1105534  0.10994566 0.10928546
-  0.1077614  0.10733768]
- [0.22637895 0.22212523 0.21426709 0.20882338 0.19813162 0.19526449
-  0.18820864 0.18721859 0.18210003 0.17044571 0.15846464 0.1563887
-  0.15567535 0.15316181 0.14853764 0.14314432 0.14268225 0.14123264
-  0.14052758 0.13880852 0.13849255 0.13841133 0.13656177 0.13561988
-  0.13208738 0.12997556 0.12887767 0.12832978 0.1271142  0.12687925
-  0.12601349 0.12549402 0.12372847 0.12217873 0.12189841 0.12092355
-  0.12021787 0.11959885 0.11824301 0.11790954 0.11772573 0.11743746
-  0.11548626 0.11543985 0.11484082 0.11438487 0.11346474 0.1132523
-  0.11178403 0.11115721]
- [0.29609078 0.28296053 0.24823895 0.24461028 0.22642073 0.2221999
-  0.20157918 0.19534464 0.18832636 0.18503444 0.1804369  0.17934905
-  0.17849067 0.1749154  0.16879469 0.16524144 0.16491273 0.16471386
-  0.160563   0.15975927 0.15853745 0.158423   0.15783972 0.15659213
-  0.15604436 0.15573663 0.15572542 0.15540548 0.15343136 0.15275207
-  0.1503523  0.15002304 0.14978804 0.14829476 0.14762717 0.1475971
-  0.14603955 0.1442489  0.14381982 0.14236155 0.14182028 0.13741116
-  0.13563666 0.13451716 0.1342835  0.13277327 0.13175353 0.12995303
-  0.12917899 0.1284221 ]]",[0 1 2]
+  'innovating' 'emergent' 'cybersecurity' 'crowdsourcing' 'innovate'
+  'innovative' 'interviewees' 'innovators' 'adaptive' 'technological'
+  'googles' 'computers' 'advanced' 'human' 'machines' 'incremental'
+  'analysts' 'marketers' 'smartphones' 'outsourcing' 'competencies'
+  'humans' 'ibm' 'technology' 'researchers' 'agile' 'scientists'
+  'designers' 'cio' 'matrix' 'specialists' 'sophisticated' 'experts'
+  'digitization' 'workers' 'patents' 'cognitive' 'predictive' 'developed'
+  'enhance' 'ecosystems' 'startups' 'collectively' 'analytics']
+ ['analytics' 'analysts' 'analytical' 'metrics' 'predictive'
+  'forecasting' 'analyses' 'marketers' 'analyst' 'analytic' 'algorithms'
+  'data' 'crowdsourcing' 'analyzed' 'surveyed' 'influencers' 'managerial'
+  'competitors' 'quantitative' 'empirical' 'digitization' 'interviewees'
+  'competitor' 'biases' 'analyzing' 'benchmarking' 'curve' 'innovators'
+  'consensus' 'ibm' 'systematic' 'analysis' 'analyze' 'hypotheses'
+  'followed' 'startups' 'mitigate' 'measured' 'predicted' 'approaches'
+  'measuring' 'scientists' 'procter' 'experts' 'respondents' 'who'
+  'ecosystem' 'adaptive' 'intuition' 'agile']
+ ['competitors' 'innovating' 'innovate' 'competitor' 'chinas'
+  'outsourcing' 'huawei' 'unilever' 'china' 'entrepreneurial'
+  'globalization' 'multinationals' 'innovators' 'patents' 'startups'
+  'innovative' 'merger' 'bpo' 'patent' 'companys' 'entrepreneurs' 'nokia'
+  'innovation' 'toyotas' 'multinational' 'innovations' 'marketers'
+  'startup' 'telecom' 'headquartered' 'agile' 'leveraged' 'suppliers'
+  'chinese' 'consumers' 'compete' 'subsidiaries' 'enterprises'
+  'manufacturers' 'overseas' 'ibm' 'sourcing' 'acquiring' 'competing'
+  'regulatory' 'factories' 'acquisition' 'providers' 'supplier' 'failed']
+ ['influencers' 'marketers' 'consumers' 'consumer' 'followers'
+  'crowdsourcing' 'branding' 'interviewees' 'advertising' 'unilever'
+  'competitor' 'competitors' 'promote' 'respondents' 'promoting'
+  'followed' 'procter' 'tweets' 'twitter' 'users' 'marketing'
+  'collaborative' 'adopters' 'consumption' 'customers' 'innovating'
+  'leveraging' 'entrepreneurial' 'majority' 'startups' 'audience'
+  'ecosystems' 'increasing' 'quantitative' 'interact' 'innovators'
+  'encourages' 'surveyed' 'analytics' 'positively' 'clients' 'brands'
+  'innovative' 'communicated' 'collectively' 'tweet' 'increased'
+  'sustainability' 'similarly' 'ecosystem']]","[[0.23725906 0.2209475  0.22061425 0.21312624 0.19930816 0.19462161
+  0.18824208 0.18544315 0.18266734 0.17905289 0.16028836 0.15801035
+  0.15517373 0.15196303 0.14582613 0.1455358  0.14103581 0.13812053
+  0.13651146 0.13399312 0.13357544 0.13291721 0.13245884 0.13185672
+  0.13025558 0.12806308 0.1278753  0.12766469 0.1269028  0.12630373
+  0.12459792 0.12324449 0.12298154 0.11979973 0.11842137 0.11820573
+  0.11770079 0.11744039 0.11704641 0.11700346 0.11660652 0.1162008
+  0.11584729 0.11564219 0.11354171 0.1132343  0.11316797 0.11289819
+  0.11237539 0.11197488]
+ [0.2344329  0.22998714 0.22791882 0.22786553 0.21428522 0.20582098
+  0.19750327 0.1883477  0.18418798 0.17639129 0.17064908 0.16396165
+  0.15967779 0.15842395 0.15648967 0.15610269 0.15387787 0.1533869
+  0.15315086 0.14968674 0.14508954 0.14214629 0.14066193 0.137818
+  0.1378166  0.1331906  0.13251202 0.13146907 0.13089882 0.12897307
+  0.12523535 0.12483681 0.12306158 0.12305102 0.12266674 0.12233733
+  0.12081776 0.12080464 0.11932234 0.11677793 0.11677632 0.11671698
+  0.11605546 0.11497919 0.11341384 0.11236913 0.10896281 0.10858379
+  0.10852729 0.10850519]
+ [0.28306675 0.2626017  0.26000413 0.2543775  0.22488698 0.21461941
+  0.20288274 0.20238149 0.19308987 0.19270504 0.1871871  0.18710417
+  0.18540835 0.17823459 0.17105736 0.16908436 0.16488317 0.15626276
+  0.15476525 0.15237206 0.14649639 0.1452342  0.14376199 0.14265615
+  0.1375857  0.13524416 0.13498431 0.13436832 0.13101964 0.1291464
+  0.12907976 0.12841056 0.12774578 0.1270226  0.12698919 0.1268677
+  0.12668851 0.1266057  0.12472717 0.12428917 0.12386954 0.12304644
+  0.12240706 0.12232012 0.12032275 0.12002783 0.11944762 0.11938225
+  0.11930825 0.11887717]
+ [0.2695654  0.2590721  0.20598102 0.19804056 0.17013967 0.16652548
+  0.15885267 0.15861027 0.15770227 0.15473491 0.15310901 0.15261666
+  0.15092558 0.14916788 0.14719525 0.14679107 0.14676528 0.14591819
+  0.1455282  0.14515218 0.14363958 0.14006792 0.13933223 0.13907656
+  0.13821845 0.13778119 0.13661599 0.1355326  0.13495427 0.13455258
+  0.13422291 0.13389148 0.13374615 0.13335025 0.13267262 0.13256474
+  0.13208435 0.1320015  0.13147849 0.13116264 0.13022864 0.13017051
+  0.12907165 0.12748317 0.12721756 0.12678537 0.125588   0.12428351
+  0.12422158 0.12351274]
+ [0.2947314  0.27432626 0.25046146 0.23994143 0.22413664 0.21950747
+  0.2079235  0.20469256 0.19991949 0.19789901 0.19572744 0.18782681
+  0.18576926 0.18475804 0.17971538 0.17582515 0.1675714  0.16611402
+  0.16472013 0.16238755 0.16165885 0.16127658 0.16069934 0.15946424
+  0.15861116 0.15809631 0.1577662  0.15651195 0.15627652 0.15535906
+  0.15525979 0.15508313 0.15496917 0.15179917 0.15133002 0.15115833
+  0.15081938 0.15068422 0.14992997 0.14990002 0.14988494 0.14838427
+  0.14836578 0.14794287 0.14709172 0.14638135 0.14550632 0.14536487
+  0.14283405 0.1400464 ]
+ [0.3356532  0.26798224 0.25168175 0.22443414 0.21765892 0.21063662
+  0.20750764 0.20744547 0.20327164 0.2007318  0.18474719 0.18427895
+  0.18016854 0.17955066 0.17887619 0.17547521 0.17126694 0.16598034
+  0.16368201 0.16362607 0.1620171  0.1619675  0.16023907 0.15988068
+  0.15766862 0.15318923 0.1530039  0.1485471  0.14778326 0.14610636
+  0.14567699 0.14537418 0.14506727 0.1441198  0.1422244  0.14164981
+  0.14146209 0.14087139 0.13839799 0.13823706 0.13792163 0.13686958
+  0.13684794 0.1367375  0.13630496 0.1348898  0.1338945  0.13301757
+  0.13223277 0.13054085]
+ [0.24279855 0.23735216 0.23541185 0.22926947 0.2218168  0.21818136
+  0.21360414 0.1970475  0.19521098 0.193005   0.190371   0.18877171
+  0.18692152 0.18193194 0.17805564 0.17640316 0.17536211 0.16964665
+  0.16437346 0.16289474 0.1580705  0.15764695 0.155908   0.15529618
+  0.15036982 0.14935735 0.14893194 0.14784092 0.14539108 0.14276357
+  0.14136954 0.14118299 0.13921496 0.13861823 0.13745324 0.13672107
+  0.13670868 0.13669315 0.13617456 0.13549107 0.13462134 0.13407621
+  0.13176513 0.13097228 0.12949643 0.1284985  0.12426762 0.12387449
+  0.12028107 0.1202528 ]
+ [0.31093514 0.29753074 0.24318896 0.21969019 0.20445777 0.20148973
+  0.19750923 0.19660065 0.18801856 0.18782109 0.18211421 0.1786484
+  0.17714861 0.17684868 0.1759707  0.17468353 0.16402686 0.16112164
+  0.1595926  0.15783618 0.15437044 0.15400907 0.15355438 0.15268631
+  0.1522181  0.15207419 0.14966148 0.1464761  0.1457814  0.1457152
+  0.14529757 0.14480564 0.14474085 0.14363326 0.1435579  0.14334425
+  0.14216535 0.14189684 0.14175613 0.14116873 0.14085302 0.14040332
+  0.13660975 0.13468713 0.13363238 0.13252865 0.13155699 0.1307781
+  0.13076678 0.129701  ]]",[0 1 2 3 4 5 6 7]
 "['2020', '2021', '2022']","[['competitors' 'startups' 'innovators' 'innovative' 'startup'
-  'entrepreneurs' 'ceos' 'sustainability' 'consumers' 'kpis'
-  'cybersecurity' 'companys' 'regulatory' 'technologies' 'following'
-  'manufacturers' 'ecosystem' 'providers' 'innovations' 'ecosystems'
-  'innovation' 'blockchain' 'launched' 'ceo' 'incumbents' 'agile'
-  'consumer' 'intermediaries' 'uber' 'suppliers' 'analytics' 'executives'
-  'algorithms' 'automation' 'managing' 'generate' 'customers' 'billion'
-  'esg' 'sustainable' 'who' 'pandemic' 'leverage' 'collaboration'
-  'develop' 'technological' 'compete' 'platforms' 'risk' 'developed']
+  'entrepreneurs' 'ceos' 'kpis' 'consumers' 'cybersecurity' 'companys'
+  'sustainability' 'technologies' 'regulatory' 'innovations' 'innovation'
+  'manufacturers' 'following' 'ecosystem' 'agile' 'launched' 'ecosystems'
+  'providers' 'intermediaries' 'ceo' 'blockchain' 'incumbents'
+  'executives' 'consumer' 'suppliers' 'uber' 'managing' 'analytics'
+  'automation' 'algorithms' 'develop' 'pandemic' 'collaboration'
+  'generate' 'billion' 'developed' 'leverage' 'technological' 'who'
+  'customers' 'compete' 'esg' 'sustainable' 'platforms' 'developing']
  ['colleagues' 'organizational' 'leadership' 'ceos' 'executives'
   'managers' 'managing' 'innovative' 'collaborative' 'competitors'
-  'leaders' 'entrepreneurs' 'collaboration' 'kpis' 'ceo' 'innovators'
-  'productivity' 'agile' 'organization' 'behaviors' 'employees' 'leader'
-  'fewer' 'incumbents' 'sustainability' 'meetings' 'employee'
-  'management' 'who' 'similar' 'manage' 'initiative' 'workers'
-  'individuals' 'manager' 'failure' 'ecosystem' 'similarly'
-  'intermediaries' 'startups' 'following' 'leading' 'lack' 'ai'
-  'participants' 'innovation' 'approaches' 'volunteering' 'improvements'
-  'ecosystems']]","[[0.22129215 0.2019206  0.19815324 0.1729597  0.16460207 0.15430325
-  0.14643055 0.14604963 0.14599133 0.14346185 0.14221567 0.1418407
-  0.13785261 0.13711563 0.13696618 0.13605812 0.13314629 0.1317167
-  0.13081054 0.12962453 0.1284219  0.1280745  0.12661055 0.1203554
-  0.11964581 0.11933348 0.1184261  0.11835699 0.11626625 0.1161153
-  0.11397912 0.11177457 0.11019166 0.10951424 0.10934921 0.10748571
-  0.1063875  0.10492446 0.10419782 0.1039392  0.10358515 0.10333622
-  0.10301068 0.10193539 0.10025153 0.10006022 0.09999542 0.09742006
-  0.09529112 0.09521845]
- [0.19354716 0.18790537 0.1820454  0.18036897 0.17622809 0.17577322
-  0.17486733 0.16890606 0.16676736 0.15685102 0.15583956 0.14744821
-  0.14583102 0.14393553 0.14343831 0.14339899 0.14153609 0.14049834
-  0.13686347 0.13578723 0.13223948 0.13103685 0.13083778 0.13008243
-  0.12836196 0.12444474 0.11895443 0.11538163 0.11511566 0.11420691
-  0.11030988 0.10889394 0.10830541 0.10745279 0.1066957  0.10615017
-  0.10569037 0.10449498 0.10449276 0.10393643 0.10331282 0.10281891
-  0.09946833 0.0979601  0.09707042 0.09465523 0.09325472 0.09309744
-  0.0886611  0.08865928]]",[0 1]
+  'leaders' 'entrepreneurs' 'innovators' 'kpis' 'collaboration' 'ceo'
+  'organization' 'agile' 'productivity' 'behaviors' 'fewer'
+  'sustainability' 'incumbents' 'leader' 'meetings' 'employees' 'who'
+  'startups' 'initiative' 'management' 'ecosystem' 'failure' 'manage'
+  'employee' 'individuals' 'similar' 'lack' 'participants' 'following'
+  'manager' 'workers' 'leading' 'intermediaries' 'similarly' 'approaches'
+  'innovation' 'ai' 'disruptive' 'regulatory' 'mindset']]","[[0.2204022  0.2035267  0.2026564  0.18227169 0.16432744 0.15745309
+  0.14828737 0.1440463  0.14371797 0.1420495  0.1418809  0.14132252
+  0.1412801  0.13608438 0.13440418 0.13415416 0.13293813 0.13145229
+  0.13089977 0.12716225 0.1266402  0.12610044 0.12395942 0.12377411
+  0.12264182 0.12258212 0.1220862  0.11889274 0.1149859  0.1127836
+  0.11232495 0.11222914 0.11054635 0.11020182 0.10959814 0.10917658
+  0.10881205 0.10847506 0.10831188 0.10769492 0.1075699  0.10642233
+  0.1058685  0.10347259 0.1026247  0.10090891 0.10087202 0.10035796
+  0.09706528 0.09336991]
+ [0.19227527 0.19141771 0.1810771  0.17790407 0.17716683 0.17640191
+  0.17209578 0.17122981 0.1706368  0.16039577 0.15836501 0.1513494
+  0.14689304 0.14496836 0.14447123 0.14294237 0.14244922 0.14108297
+  0.13941966 0.13503067 0.13430618 0.13252445 0.13173348 0.12965405
+  0.1293549  0.12447683 0.11868456 0.11578937 0.11343931 0.11271611
+  0.11124939 0.11039194 0.10935205 0.10901347 0.10822096 0.10802245
+  0.10717562 0.10715501 0.10500484 0.1037325  0.10290287 0.10279518
+  0.10227654 0.10110039 0.09798339 0.09608391 0.09519938 0.09458579
+  0.09373955 0.09347849]]",[0 1]
