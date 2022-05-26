@@ -1,4 +1,5 @@
-File,TopicWords,WordScore,TopicNumber
+File,TopicWords,WordScore,TopicNumber
+
 "['1990', '1991', '1992', '1993', '1994']","[['mncs' 'competitors' 'outsourcing' 'competitor' 'automakers' 'ceos'
   'profitability' 'managerial' 'suppliers' 'consumers' 'customers'
   'manufacturers' 'salespeople' 'companys' 'negotiators' 'economics'
@@ -16,7 +17,9 @@ File,TopicWords,WordScore,TopicNumber
   'productivity' 'outsourcing' 'dominant' 'similar' 'managed' 'direction'
   'fewer' 'redesign' 'following' 'methodology' 'directors' 'accounting'
   'factors' 'similarly' 'above' 'meetings' 'independent' 'cios' 'ibm'
-  'whose']]","[[0.18384859 0.18023945 0.17568332 0.14950201 0.1377755  0.13644177
+  'whose']]",
+
+  "[[0.18384859 0.18023945 0.17568332 0.14950201 0.1377755  0.13644177
   0.13612044 0.12912777 0.12258329 0.12226936 0.11787532 0.11715184
   0.11525508 0.11262108 0.11210871 0.10833342 0.10714656 0.10635634
   0.10530619 0.1049317  0.10426357 0.09962082 0.09941937 0.09864447
@@ -33,7 +36,8 @@ File,TopicWords,WordScore,TopicNumber
   0.10640109 0.10604574 0.10505685 0.1034647  0.10323453 0.10254449
   0.10090741 0.09548644 0.09539591 0.09427967 0.09395614 0.09271821
   0.09169292 0.09056252 0.08865529 0.08822044 0.08757115 0.0875236
-  0.08693828 0.08652347]]",[0 1]
+  0.08693828 0.08652347]]",[0 1]
+
 "['1995', '1996', '1997', '1998', '1999']","[['managerial' 'managing' 'organizational' 'ceos' 'mncs' 'executives'
   'competitors' 'managers' 'outsource' 'ceo' 'subcontracting'
   'colleagues' 'organization' 'organizing' 'competitor' 'redesign'
@@ -69,7 +73,8 @@ File,TopicWords,WordScore,TopicNumber
   0.11035158 0.10983633 0.10865656 0.10848822 0.10777134 0.10734189
   0.10477209 0.10334685 0.10133903 0.1011822  0.10110904 0.10039543
   0.09933319 0.09883511 0.09856783 0.09852112 0.09742528 0.0973217
-  0.09716358 0.0971223 ]]",[0 1]
+  0.09716358 0.0971223 ]]",[0 1]
+
 "['2000', '2001', '2002', '2003', '2004']","[['ceos' 'managerial' 'executives' 'managing' 'managers' 'ceo'
   'leadership' 'organizational' 'competitors' 'management' 'mergers'
   'competitor' 'manager' 'gm' 'colleagues' 'invested' 'shareholders'
@@ -122,7 +127,8 @@ File,TopicWords,WordScore,TopicNumber
   0.13229883 0.12825812 0.12482134 0.12457356 0.12364851 0.11937889
   0.116178   0.11534963 0.11495371 0.11494339 0.11278823 0.11156703
   0.11096419 0.11026895 0.11012354 0.10939869 0.10915089 0.10877806
-  0.10875538 0.10866799]]",[0 1 2]
+  0.10875538 0.10866799]]",[0 1 2]
+
 "['2005', '2006', '2007', '2008', '2009']","[['mncs' 'competitors' 'innovate' 'marketers' 'innovators' 'competitor'
   'entrepreneurial' 'antitrust' 'innovative' 'consumers' 'entrepreneurs'
   'companys' 'manufacturers' 'merger' 'ceos' 'patent' 'consumer'
@@ -158,7 +164,8 @@ File,TopicWords,WordScore,TopicNumber
   0.11503768 0.11495373 0.11460291 0.11403369 0.11388746 0.11108285
   0.11070091 0.11008043 0.10978909 0.10906564 0.10896248 0.10813224
   0.10749678 0.10723887 0.10717009 0.10695489 0.10676431 0.10616827
-  0.10577369 0.10558672]]",[0 1]
+  0.10577369 0.10558672]]",[0 1]
+
 "['2010', '2011', '2012', '2013', '2014']","[['competitors' 'innovate' 'competitor' 'marketers' 'innovators' 'ceos'
   'innovative' 'managerial' 'companys' 'consumers' 'executives'
   'sustainability' 'managing' 'ceo' 'multinationals' 'outsourcing'
@@ -194,7 +201,8 @@ File,TopicWords,WordScore,TopicNumber
   0.12512715 0.12455577 0.12432034 0.12430979 0.12408672 0.12376789
   0.12269686 0.12235732 0.12200427 0.11999488 0.11831615 0.11799704
   0.11719994 0.11708628 0.1170474  0.11405668 0.11325226 0.11240336
-  0.11179205 0.11162059]]",[0 1]
+  0.11179205 0.11162059]]",[0 1]
+
 "['2015', '2016', '2017', '2018', '2019']","[['innovate' 'competitors' 'innovators' 'startups' 'marketers'
   'entrepreneurial' 'innovative' 'unilever' 'entrepreneurs' 'consumers'
   'companys' 'startup' 'patents' 'patent' 'manufacturers' 'outsourcing'
@@ -248,7 +256,8 @@ File,TopicWords,WordScore,TopicNumber
   0.14928201 0.14767653 0.1461719  0.14553282 0.14552432 0.14519314
   0.14414038 0.14370297 0.14298153 0.14219841 0.1410672  0.1409459
   0.13807112 0.13202494 0.13137607 0.12985173 0.1284746  0.1278792
-  0.12756863 0.12652135]]",[0 1 2]
+  0.12756863 0.12652135]]",[0 1 2]
+
 "['2020', '2021', '2022']","[['competitors' 'startups' 'innovators' 'innovative' 'startup'
   'entrepreneurs' 'kpis' 'cybersecurity' 'ceos' 'sustainability'
   'consumers' 'technologies' 'ecosystem' 'companys' 'blockchain'
@@ -283,4 +292,5 @@ File,TopicWords,WordScore,TopicNumber
   0.11113371 0.11081593 0.10927498 0.10914334 0.10867863 0.10489982
   0.10481576 0.10449259 0.10361385 0.10300953 0.10118587 0.10017625
   0.10001633 0.09967703 0.09571444 0.09424186 0.09364121 0.09281455
-  0.09089997 0.09079503]]",[0 1]
+  0.09089997 0.09079503]]",[0 1]
+

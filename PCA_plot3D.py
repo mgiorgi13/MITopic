@@ -12,15 +12,23 @@ def pca_clustering_3D(x, y, save_dir=None):
     output = pca.fit_transform(emb_array) # trasforma tutto in 3D
     component_1, component_2, component_3 = output[:, 0], output[:, 1], output[:, 2]
 
+    # fig = px.scatter_3d(x=component_1,
+    #                     y=component_2,
+    #                     z=component_3,
+    #                     # symbol=y,
+    #                     color=y,
+    #                     title=save_dir[6:])
     fig = px.scatter_3d(x=component_1,
                         y=component_2,
                         z=component_3,
                         # symbol=y,
-                        color=y)
+                        color=y,
+                        title=save_dir[6:])
+
     if save_dir:
         filepath = open(f'./{save_dir}.html', "w+")
         fig.write_html(filepath)
-        fig.show()
+        #fig.show()
         return filepath
     else:
         fig.show()
