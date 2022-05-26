@@ -1,12 +1,12 @@
 #!/bin/bash
 
 source venv/Scripts/activate
-python mit_topics.py bc 1990 8
-python mit_topics.py bc 1991 8
-python mit_topics.py bc 1992 8
-python mit_topics.py bc 1993 8
-python mit_topics.py bc 1994 8
-python mit_topics.py bc 1995 8
+#python mit_topics.py bc 1990 8
+#python mit_topics.py bc 1991 8
+#python mit_topics.py bc 1992 8
+#python mit_topics.py bc 1993 8
+#python mit_topics.py bc 1994 8
+#python mit_topics.py bc 1995 8
 python mit_topics.py bc 1996 8
 python mit_topics.py bc 1997 8
 python mit_topics.py bc 1998 8
