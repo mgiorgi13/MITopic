@@ -1,0 +1,669 @@
+- A returns policy for excess inventory is  commitment by  manufacturer ,  service provider ,  or distributor upstream to accept products from  downstream channel member 
+
+
+-  The format of returns policies varies in and across industries 
+
+
+-  The most generous policy promises to refund the full wholesale price for all returned products ,  while less generous policies offer credits against future orders 
+
+
+-   partial returns policy gives only partial credit or refund 
+
+
+-  Manufacturers and distributors of  wide range of products have long allowed retailers to return excess inventory 
+
+
+-  In 1932 ,  Viking Press became the first book publisher to accept returns 
+
+
+-  ,  In the early 1980s ,  Parker Brothers ,  which was so successful with its Monopoly board game ,  attempted to enter the market for childrens books 
+
+
+-  The project failed ,  partly because Parker Brothers refused to accept returns from retailers 
+
+
+-  Currently ,  college bookstores return about 40 percent of all new textbooks ,   proportion that has grown steadily over time 
+
+
+-  Consequently ,  the cost of returns to publishers has been rising ,  leading them to tighten their returns policies 
+
+
+-  The National Association of College Stores has formed  Returns Issue Taskforce to address the issue of returns policies 
+
+
+-  Despite their use in many industries for years ,  returns policies continue to be controversial 
+
+
+-  ,  Today ,  returns policies are common in the distribution of books ,  magazines ,  and newspapers ,  recorded music ,  computer hardware and software ,  greeting cards ,  and pharmaceuticals 
+
+
+-  Returns policies are more widespread in Japan than in the United States ,   fact worth noting as international businesses step up efforts to penetrate that market 
+
+
+-  Japanese manufacturers accept returns of apparel ,  cosmetics ,  and electrical appliances in addition to the products commonly covered by returns policies in the United States and Europe 
+
+
+-  ,  Returns policies are also  controversial issue in the computer industry 
+
+
+-  When IBM cut the price of its PC Junior in the early 1980s ,  it provoked  bitter response from distributors that had bought large inventories at higher prices and could not return excess stock 
+
+
+-  More recently ,   vice president at IBM admitted ,  We are not the best in the terms and conditions regarding returns policies 
+
+
+- s annual report ,  Gross margins can be strongly affected in particular periods by aggressive pricing strategies and return privileges associated with new product introductions and upgrades 
+
+
+- 6 ,  Given the widespread use of returns policies and the difficulties they generate ,  it is important to have  systematic framework for figuring out when and how to adopt returns policies 
+
+
+-  In this paper ,  we analyze the benefits and costs of accepting returns and also compare returns policies to alternative ways of coordinating the distribution channel 
+
+
+-  In particular ,  we analyze end-user demand ,  distribution of information in the channel ,  the structure of competition at the manufacturer and retailer levels ,  and production and logistics costs to identify the factors that management should consider in determining  returns policy 
+
+
+-  The analyses generate  framework for deciding if  returns policy should be part of the marketing mix and ,  if so ,  how to structure the policy  ( see Table  )  
+
+
+-  ,  The framework can optimize the use of returns policies by helping management avoid many pitfalls and problems that have beset other businesses returns policies 
+
+
+-  It applies to any product with  limited life due to physical decay  ( pharmaceuticals )  ,  product obsolescence  ( computer hardware and software ,  greeting cards ,  magazines ,  and newspapers )  ,  or saturation of demand  ( books and recorded music )  
+
+
+-  In the framework ,  the upstream channel member can be  manufacturer ,  service provider ,  or distributor ,  while the downstream member can be  distributor or retailer 
+
+
+-  For simplicity ,  we refer to the upstream entity as  manufacturer and the downstream entity as  retailer 
+
+
+-  ,  At the most superficial level ,   returns policy encourages retailers to carry larger stocks 
+
+
+-  To understand when and how to implement  returns policy ,  however ,  we must probe deeper and ask why retailers would want to carry less stock than the manufacturer deems desirable 
+
+
+-  We address this question by considering retailers incentives ,  brand safeguards ,  end-user demand ,  information distribution in the channel ,  as well as the structure of competition at the manufacturer and retailer levels 
+
+
+-  ,  The most obvious reason for retailers reluctance to carry more stock is uncertain product demand; retailers fear having excess inventory 
+
+
+-  The potential for excess inventory is exacerbated if the retailer accepts returns from consumers 
+
+
+-  Unless the manufacturer mitigates this risk ,  retailers will stock conservatively to reduce the risk of excess inventory 
+
+
+-  By stocking conservatively ,  however ,  retailers limit the manufacturers potential sales 
+
+
+-  The shorter the life of the product and the higher the costs of carrying inventory ,  the more serious this issue becomes 
+
+
+-  ( If the product life were not limited and carrying costs were low ,  retailers could simply carry excess inventory forward for future sales 
+
+
+-  )  ,  Using  returns policy as insurance does not address the important implementation issue of who should offer the returns policy 
+
+
+-   manufacturer must consider whether it or the retailers can better absorb the risk of excess inventory 
+
+
+-  Even if the manufacturer accepts returns from retailers ,  the risk does not disappear ,  but merely shifts up the distribution channel 
+
+
+-  ,  There are three situations in which the manufacturer ,  rather than the retailer ,  can better absorb the risk of excess inventory 
+
+
+-  The first is when the manufacturer is simply larger than the retailer 
+
+
+-  For example ,  Hallmark Cards accepts returns from corner drugstores ,  and entertainment giants like Time Warner take records and CDs back from music stores 
+
+
+-  Accordingly ,  Japanese manufacturers accept returns of  wider range of products than  
+
+
+-  manufacturers ,  which face  much more concentrated distribution channel 
+
+
+-  ,  The second situation is when the manufacturer can transfer unsold products among retailers at relatively low cost 
+
+
+-  To the extent that local weather changes are not correlated ,  national demand will be subject to less uncertainty than local demand 
+
+
+-  If the manufacturer can reshuffle products among retailers cheaply ,  it should accept returns from retailers and arrange to reship products from regions where demand is unexpectedly low to areas of high demand 
+
+
+-  In the extreme case where the cost of reshuffling products among retailers is minimal ,  the manufacturer should consign the product to retailers 
+
+
+-  Hence the retailer faces no risk of unsold inventory 
+
+
+-  ,  Technology plays  key role in transferring products among retailers 
+
+
+-  For instance ,  before the advent of low-cost telecommunications and computer processing ,  ticket agencies had to buy theater and concert seats ,  bearing the risk of not being able to sell their stock 
+
+
+-  ,  The third situation is when the manufacturers demand is less volatile than the retailers demand 
+
+
+-  Consider ,  for instance ,   reseller of personal computer products: since computers ,  monitors ,  and printers are complements ,  any changes in product demand tend to be correlated 
+
+
+-  By contrast ,  because Hewlett-Packard is diversified across several product lines ,  including computers ,  medical equipment ,  and measurement equipment for various industries ,  changes in the demand for the various lines are not so strongly correlated 
+
+
+-  In this case ,  resellers are subject to more extreme bouts of feast or famine in demand than an individual manufacturer like Hewlett-Packard 
+
+
+-  ,  In all three situations ,  the manufacturer has an obvious alternative to  returns policy 
+
+
+-  It could reduce the wholesale price ,  compensating retailers for the risk of excess inventory 
+
+
+-  Cutting wholesale prices ,  however ,  is an indiscriminate policy that does not directly address the problem of risk: lower wholesale prices benefit retailers that sell large volumes regardless of their ability to bear risk 
+
+
+-  ,  Whenever demand is uncertain ,  there is the risk of excess inventory 
+
+
+-  Some retailers deal with this problem by marking down the product when it is nearing the expiration date; others sell stale products 
+
+
+-  Such sales undermine the manufacturers brand 
+
+
+-  An obvious way to discourage retailers from selling stale goods is to institute  returns policy and give the retailer  more attractive way to deal with expiring products 
+
+
+-  ,  Another way to discourage retailers from selling stale products is to monitor retailers and penalize them 
+
+
+-   returns policy ,  however ,  achieves the same result without the cost of monitoring and unpleasant confrontations that occur when  manufacturer imposes penalties 
+
+
+-  ,  Many manufacturers produce their own branded products as well as products under others brand names 
+
+
+-  They should not be concerned ,  however ,  with retailers that sell stale products that do not bear the manufacturers brand name 
+
+
+-  For example ,  if  supermarket sells stale private-label milk ,  only its own reputation will suffer 
+
+
+-  Goodman Fielder ,   large Southeast Asian food and beverage maker ,  accepts returns of branded goods but not of private-label items 
+
+
+-  ,  One reason retailers want to return products to manufacturers and may resort to selling stale products is that they may in turn be pressured to accept returns from their own customers 
+
+
+-  End-user returns at the end of the channel trigger  chain reaction of pressure for returns all the way from the retailer to the distributor to the manufacturer 
+
+
+-  This end-user push runs up the channel ,  contrasting with the usual direction of distribution in which manufacturers push product down the channel 
+
+
+- 10 ,  Accordingly ,  to understand how to coordinate the distribution channel ,   manufacturer must determine why end users want to return products to retailers 
+
+
+-  While some of the arguments for end-user returns policies are similar to those for distributor returns ,  there are some unique issues 
+
+
+-  ,  One is to ensure end users against the risk that the product will not satisfy them 
+
+
+- 11 Nelson distinguishes search and experience attributes: while buyers can discern search attributes ,  such as price and appearance ,  by examining the product ,  they can learn about  products experience attributes only by using the item 
+
+
+- 12 So end users face risk with experience attributes whenever they purchase products that they have not previously used ,   hurdle that looms largest with new products 
+
+
+-  ,  The end users risk of loss is greatest with big ticket items and those requiring  considerable matching investment ,  whether in money or users time 
+
+
+-  For example ,  software can be very expensive and certainly requires time and effort to install and learn 
+
+
+-   user can read software reviews and see the box at the store ,  but only by running the program will he or she know if it is suitable 
+
+
+-  Intuit once advertised  very generous returns policy  Quicken buyers could get  full refund without having to return the product ,  simply by telling the company that they were dissatisfied 
+
+
+-  ,  Even with mature products ,  there are times when end users may want  returns policy 
+
+
+-  Social customs adjust accordingly: in societies such as China and Italy where few retailers accept returns or exchanges ,  it is more common to present gifts of cash rather than goods 
+
+
+-  ,   generous returns policy is almost  sine qua non of mail-order selling 
+
+
+-  Buyers cannot see or touch the product ,  so ,  unless the item is  pure commodity like twenty-pound white photocopy paper ,  they will seek insurance against an inappropriate fit ,  color ,  or pattern 
+
+
+-  Indeed ,  assurances of generous returns figure prominently in brochures of established mail-order houses such as  
+
+
+-  ,  Are there alternative ways to assuage end users concerns? Warranties are  more limited way to facilitate introducing new products and sales by mail order 
+
+
+-   warranty accords buyers specific rights only if the product fails to meet objective specifications 
+
+
+- 13 By contrast ,   returns policy ensures against the end users subjective dissatisfaction as well 
+
+
+-  Customers may return something simply because they changed their minds; there may not be anything wrong with the product 
+
+
+-  ,  Another alternative is to reduce prices 
+
+
+-  This method ,  however ,  is blunt: it benefits all end users ,  including those who dont worry about being dissatisfied with the product 
+
+
+-  By contrast ,   returns policy focuses on the end users who potentially will be dissatisfied; it stimulates demand in  discriminating way 
+
+
+-  ,  Despite increasingly sophisticated market research ,  new products fail at prodigious rates throughout the world 
+
+
+- 14 Retailers are wary of committing limited resources and shelf space to  product that might fail 
+
+
+-  Moreover ,  their fear of product failure is exacerbated by their informational disadvantage relative to the manufacturer 
+
+
+-  Retailers suffer from two disadvantages related to product information 
+
+
+-  ,  Before launching  new product ,  the manufacturer usually does research to gauge market demand and may have private information about the quality of its product 
+
+
+-  It may have better information about market demand and product quality than the retailers do 
+
+
+-  If the manufacturer communicates this information to retailers ,  retailers know that the manufacturer has an incentive to exaggerate and may have difficulty checking the information before putting the product on the shelf 
+
+
+-  ,  In the case of books ,  recorded music ,  and computer hardware and software ,  manufacturers are constantly introducing new titles ,  upgrades ,  or new versions 
+
+
+-  Understandably ,  retailers are reluctant to order large stocks of any title or version for fear these will become obsolete after  new title or upgrade is issued 
+
+
+-  ,  In addition ,   new products success or failure may depend on the manufacturers advertising and promotion 
+
+
+-  The manufacturer may shirk such supporting efforts ,  especially for products with short life cycles and uncertain demand 
+
+
+-  In these circumstances ,  retailers cannot easily verify whether  product failed because demand was unexpectedly poor or because the manufacturer did not support it 
+
+
+-  ,  Retailers know that an established manufacturer is much less likely to push products with poor potential or that are about to be superseded ,  or to shirk advertising and promotion 
+
+
+-  These problems are most severe for manufacturers that have not established good reputations 
+
+
+-  ,   returns policy is one way  new manufacturer can credibly signal information about expected market demand and product quality and ,  in so doing ,  gain better access to the retail channel 
+
+
+-  As Chu has explained ,   manufacturer that is sure its product will sell well can afford to offer  generous returns policy ,  knowing that retailers will not return the items 
+
+
+- 15 By contrast ,  it is difficult for the manufacturer of  relatively inferior product to follow suit 
+
+
+-  ,   returns policy is also  way the manufacturer can commit to investments in advertising ,  promotion ,  and other activities to enhance product sales 
+
+
+-  Essentially ,   returns policy places the consequence of product failure squarely on the manufacturer ,  thus aligning manufacturers incentives with the retailers 
+
+
+-  ,  With  returns policy ,   manufacturer can also assure retailers that it will not bring out new products so quickly that the retailers stock will be obsolete 
+
+
+-  If the manufacturer did so ,  retailers would return the superseded items ,  thus punishing the manufacturer 
+
+
+-  ,  We are not saying that products offered with  returns policy never fail 
+
+
+-  Rather ,   manufacturer will never offer to accept returns when it knows in advance that the product will fail or that it will soon release  new version 
+
+
+-  Also ,   manufacturer that accepts returns will invest in advertising and promotion 
+
+
+-  The fact that disputes between publishers and bookstores persist despite generous returns policies does not mean that returns policies fail to resolve issues of information sharing within the channel 
+
+
+-  The real test is to ask how many more new titles bookstores would have distributed without returns policies 
+
+
+-  ,  In the United States ,  manufacturers of branded consumer products make widespread use of slotting allowances to secure valuable retail shelf space 
+
+
+-  (  slotting allowance is  lump-sum transfer from  manufacturer to  retailer for carrying  new product 
+
+
+-  )  Slotting allowances are another way manufacturers of superior products can distinguish themselves from those producing inferior ones 
+
+
+-  We contend ,  however ,  that returns policies may aid information transmission between manufacturers and retailers more effectively than slotting allowances 
+
+
+-  One reason is that ,  if quality is truly high ,  the manufacturer offering the returns policy will not have to take any products back 
+
+
+-  In this sense ,  the returns policy is  cost-free signal 
+
+
+-  By contrast ,  if the manufacturer chooses to distinguish its product through  slotting allowance ,  it must pay the allowance even though the product sells well 
+
+
+- 17 ,  Through its effect on retailers stocks ,   returns policy also has strategic implications for  manufacturers profits by having an impact on competition among retailers and among brands 
+
+
+-  Stock levels influence competition among retailers 
+
+
+-  The smaller the retailers stocks ,  the less intensively they will compete against each other and ,  hence ,  the higher the retail prices will be ,  relative to wholesale price 
+
+
+-  By encouraging retailers to carry larger stocks ,   returns policy will intensify competition among retailers 
+
+
+- 18 If retailers carry larger stocks ,  they will compete more intensively and retail prices will be relatively lower 
+
+
+-  From the manufacturers standpoint ,  given the wholesale price ,  the lower the retail price ,  the more retailers will sell and the higher the manufacturers profit will be 
+
+
+-  ,  Retail stocking levels also affect competition among brands 
+
+
+-  Most retailers carry several competing manufacturers products 
+
+
+-  To the extent that these are very close substitutes ,  if one brand is out of stock ,  retail customers may simply switch to  competitor 
+
+
+-  For instance ,  when Kodak film is out of stock ,  an amateur photographer might quite happily purchase Fuji instead 
+
+
+-  The retailer cares only that its margin on Kodak film exceeds that on Fuji ,  so it trades off the cost of carrying excess Kodak inventory against the cost of  stock-out 
+
+
+-  ,  The problem is even more severe for airlines that receive bookings from travel agents 
+
+
+-  If  flight at the travelers preferred time is fully booked ,  the agent is likely to recommend another airline rather than the next best flight on the same airline 
+
+
+-  The more substitutable the competing products are ,  the more likely the consumer will switch and the lower the cost to the retailer of  stock-out 
+
+
+-   returns policy strengthens  manufacturers position relative to competing brands in this situation 
+
+
+- 19 It reduces the cost of carrying excess inventory and tilts the balance in the retailers mind toward carrying larger stocks of the manufacturers product 
+
+
+-  Consequently ,  the probability of  stock-out and of consumers switching to competing brands will be lower 
+
+
+-  ,  An alternative to returns privileges is stocking quotas set by the manufacturer for each retailer 
+
+
+-  Because retailers are likely to resist quotas ,   returns policy is  better alternative 
+
+
+-  The manufacturer could also set  lower wholesale price 
+
+
+-  This ,  however ,  does not directly address competition and needlessly benefits retailers that face little competition or carry few competing brands 
+
+
+-  ,  To optimize using returns policies ,  management must balance the benefits against the costs 
+
+
+-  By its very design ,   returns policy encourages retailers to order larger stocks 
+
+
+-  To the extent that some of the additional stocks are returned ,   returns policy generates additional costs for the manufacturer 
+
+
+-  We now analyze the factors that affect these costs 
+
+
+-  ,  We should emphasize that retailers do not deliberately overstock 
+
+
+-  They have limited storage facilities and shelf space and an opportunity cost in terms of time and space 
+
+
+-  If they carry an item that does not sell ,  albeit one that can be returned ,  they lose the margin that they could have earned by stocking and shelving an item that would have sold 
+
+
+-  Accordingly ,  they have no incentive to stock an item that they know will not sell 
+
+
+-  ,  One obvious cost of  returns policy is the organizing ,  packing ,  and shipping of products back and forth 
+
+
+-  In the textbook industry ,  logistics cost about 35 cents on every dollars worth of books in inventory at the end of the academic term ,   cost of 22 cents for the bookstore and 13 cents for the publisher 
+
+
+- 20 ,  Another cost is the depreciation that the manufacturer incurs on returned items 
+
+
+-  Returned items depreciate for several reasons  they may be damaged in shipment ,  decay physically ,  and lose their marketability over time 
+
+
+-  Generally ,  the depreciation is the difference between the salvage value and the cost of production 
+
+
+-  The higher this depreciation ,  the more the returns policy will cost 
+
+
+-  The factors of logistics costs and economic depreciation are related 
+
+
+-  For magazines ,  newspapers ,  and books ,  the logistics costs are so high relative to the salvage value that some publishers ask bookstores to destroy the items rather than ship them back 
+
+
+-  ,  For returned items ,  the relevant production cost is the incremental cost ,  excluding indirect costs 
+
+
+-  The incremental costs of producing books ,  CDs ,  computer software ,  and pharmaceuticals are quite low 
+
+
+-  For instance ,  the cost of pressing  CD is about $1 or  percent to 10 percent of the retail price 
+
+
+-  For software and pharmaceuticals ,  incremental manufacturing costs are so low that ,  even though returned items may have no value at all ,  manufacturers lose relatively little on returned items 
+
+
+-  ,  By contrast ,  the incremental costs of manufacturing consumer electronics such as color TVs and video recorders are quite high 
+
+
+-  These products are bulky and sensitive to mishandling; hence ,  the logistics of dealing with returns is relatively costly 
+
+
+-  Accordingly ,  manufacturers of consumer electronics are relatively stringent about accepting returns of their products 
+
+
+-  ,  Absent returns policies ,  the manufacturer can avoid the incremental costs of not accepting returns; it will incur the indirect costs whether it accepts returns or not 
+
+
+-  Thus the manufacturer should focus on incremental costs when considering  returns policy 
+
+
+-  ,  One of the few certainties about the demand for new books ,  CDs ,  and software is that it is uncertain 
+
+
+-  With consumers increasing cost-consciousness ,  forecasters cannot even predict the demand for new pharmaceuticals 
+
+
+-   returns policy transfers the cost of excess stocks from retailers to the manufacturer and encourages retailers to increase their stocks 
+
+
+-  The more uncertain demand is ,  the greater the cost of  returns policy to the manufacturer will be 
+
+
+- 21 ,  Demand uncertainty ,  however ,  means that retailers are not necessarily more willing to carry risk than the manufacturer 
+
+
+-  The more uncertain that demand is ,  the more retailers will press for returns privileges 
+
+
+-  So ,  if demand is very uncertain ,  the best arrangement is for the manufacturer and retailers to compromise and share the risk 
+
+
+-  Later ,  we discuss how partial returns policies share risk between the manufacturer and retailers 
+
+
+-  ,  Retailers ,  as well as manufacturers ,  play  role in promoting retail sales ,  by merchandising ,  doing point-of-sale advertising ,  and providing attractive shelf space 
+
+
+-  By reducing the risk of losses due to excess inventory ,   returns policy lessens some of the retailers incentive to invest in such efforts 
+
+
+- 22 ,  Thus the manufacturer faces  trade-off in accepting the risk ,  which dulls retailers incentives ,  or passing the risk to retailers ,  which may undermine its own commitment to the product 
+
+
+-  To strike the correct balance ,  the manufacturer must consider the relative strength of its influence versus the retailers influences on retail sales 
+
+
+-  The relatively stronger party needs  larger share of the incentive and hence should carry  larger share of the risk 
+
+
+-  ,  For example ,  besides producing books under their own imprints ,  some book publishers print and publish for third parties under other imprints 
+
+
+-  These third parties manage their own marketing ,  pricing ,  and distribution 
+
+
+-  Because Irwin has relatively little control over the imprints ,  it does not accept returns ,  although it has returns policies for its own imprints 
+
+
+- 23 ,  When implementing  returns policy ,  the simplest way to address the retailers incentive to overstock and avoid point-of-sale marketing efforts is for the manufacturer to offer  partial returns policy; it rebates only part of the wholesale price for returned items 
+
+
+-  In this way ,  the manufacturer and the retailers share the risk ,  thus providing some incentive for all parties to do their part 
+
+
+- 24 Partial risk gives the manufacturer an incentive to support the product and to select new introductions carefully 
+
+
+-  Similarly ,  partial risk gives retailers the incentive to order conservatively and promote the product 
+
+
+-  The charge for or limit on returns need not necessarily be linked to logistics costs 
+
+
+-  The charge for returns that achieves this objective could be more or less than the logistics costs 
+
+
+-  ,  Another partial returns policy is one with  time limit for returns 
+
+
+-  Big State ,  an independent distributor of recorded music ,  limits returns by quantity and time 
+
+
+-  ,  Another way to limit returns in  more focused way is to figure  retailers returns history into decisions on pricing ,  credit ,  and even on whether to continue dealing with the retailer 
+
+
+-  The falling costs of information technology facilitate monitoring quantities and returns ,  something publishers routinely do 
+
+
+-  ,  Manufacturers should not view returns as just  problem that proper implementation can help control 
+
+
+-   returns policy can be an important element of  program to improve quality 
+
+
+-  Although management may exercise great care in design ,  testing ,  and inspection ,  unanticipated snags can arise with any product 
+
+
+-  These problems can fester and grow without management ever learning the cause of failure 
+
+
+-  As the manufacturers immediate customer ,   retailer can provide guidance ,  suggestions ,  technical assistance ,  and even development support 
+
+
+-  By instituting  returns policy ,  management can effectively and visibly involve retailers in the quality improvement process 
+
+
+-  Management found nothing wrong with the returned products and guessed that the end users had bought super VGA monitors without the corresponding super VGA cards 
+
+
+-  To resolve this problem ,   team from the University of California-Los Angeles recommended that the distributor bundle cards with the monitors 
+
+
+-  This was an instance in which  product met technical specifications ,  yet failed because customers did not use it correctly 
+
+
+-  The distributors returns policy identified the cause of the problem 
+
+
+-  ,  We have found  number of factors that should influence  manufacturer to accept returns  ( see Table  )  
+
+
+-  What should  manufacturer do when these factors carry different weights with different retailers? How should  manufacturer deal with  mix of retailers that differ in risk aversion ,  competitiveness ,  and skepticism?  time-consuming ,  costly way is to tailor  returns policy for each retailer 
+
+
+-  Another way is to design  menu of alternative returns policies ,  in which options with more generous returns privileges are coupled with higher wholesale prices ,  and allow every retailer to choose among the options 
+
+
+- 26 For instance ,  McKesson offers  returns program that features  host of options that trade off returns policies with wholesale price discounts 
+
+
+-  The lowest wholesale price comes with very strict limits on returns and  restocking fee for any returned merchandise 
+
+
+-  The guaranteed sale option ,  on the other hand ,  offers the most liberal returns policy but  higher wholesale price 
+
+
+-  For instance ,  some publishers offer bookstores cash benefits in return for tighter controls on returns 
+
+
+-   small bookstore may prefer  comprehensive returns policy at the expense of higher wholesale prices ,  whereas  large chain ,  which can easily reshuffle books among its various outlets ,  might prefer  lower wholesale price with no right to return unsold products 
+
+
+- 27 ,  Any manufacturer may find that the benefits and costs of  returns policy pull in different directions 
+
+
+-  For instance ,   new entrant may be under pressure from retailers to accept returns but may have less financial capacity to bear the risk 
+
+
+-  Or ,  in the case of  new consumer electronic category like the Sony/Philips mini-disc ,  retailers may fear that the product will fail and press for returns privileges ,  but manufacturers may worry about the logistics and excessive production costs 
+
+
+-  ,  Whether  manufacturer should accept returns depends on the balance between the benefits and costs 
+
+
+-  Our analysis explains why returns policies are commonplace for some products and rare in others 
+
+
+-  For instance ,  the costs of producing books ,  CDs ,  and computer software are so low that ,  even though returned items may have no value at all ,  manufacturers lose relatively little on returns policies 
+
+
+-  Moreover ,  manufacturers must constantly push new titles to skeptical retailers 
+
+
+-  By using our framework ,  management can optimize the use of returns policies and avoid many problems that have beset returns policies in other industries 
+
+
