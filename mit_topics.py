@@ -235,7 +235,7 @@ if __name__ == "__main__":
             tot_vectors = {}
             for word in clear_results[0]:
                 tot_vectors[str(word)] = ew.get_embedding(str(word))
-            topWords = choice_b(tot_vectors)[:50]  # get the centroid of the densest area of the cluster
+            topWords = choice_b(tot_vectors,year)[:50]  # get the centroid of the densest area of the cluster
             # print(topWords)
 
             # print results of the centroid of the densest area of the cluster in file

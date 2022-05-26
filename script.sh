@@ -1,8 +1,8 @@
 #!/bin/bash
 
-source venv/Scripts/activate
 
-for i in {2002..2013}
+
+for i in {2014..2022}
 do
     python mit_topics.py bc $i 8
     echo -e "year : '$i'\n"
