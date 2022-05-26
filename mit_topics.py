@@ -234,11 +234,11 @@ if __name__ == "__main__":
             tot_vectors = {}
             for word in clear_results[0]:
                 tot_vectors[str(word)] = ew.get_embedding(str(word))
-            topWords = choice_b(tot_vectors)[:30]  # get the centroid of the densest area of the cluster
+            topWords = choice_b(tot_vectors)[:50]  # get the centroid of the densest area of the cluster
             # print(topWords)
 
             # print results of the centroid of the densest area of the cluster in file
-            with open(f'output/{year}_30TopWords.csv', 'w', encoding='UTF8') as f:
+            with open(f'output/{year}_50TopWords.csv', 'w', encoding='UTF8') as f:
                 mywriter = csv.writer(f, delimiter='\n')
                 mywriter.writerows([topWords])
         if choose == "bc":
@@ -250,7 +250,7 @@ if __name__ == "__main__":
                     if word in topWords:
                         sum += value
                         counter += 1
-                file_score.append([filtered_docs_list[i], sum / counter])
+                file_score.append([filtered_docs_list[i], counter*100/50, sum / counter])
             file_score.sort(key=lambda x: x[1], reverse=True)
             with open(f'output/{year}_scores.csv', 'w', encoding='UTF8', newline='') as f:
                 mywriter = csv.writer(f)
@@ -281,11 +281,11 @@ if __name__ == "__main__":
                         input_file = open(f"data/{doc}", encoding="utf8")
                         file_text = input_file.read()
                         list_files.append(file_text)
-            logger.info("Start Top2Vec analysis for documents conteined in the year: %s. Number of documents: %s",
+            logger.info("Start Top2Vec analysis for documents contained in the year: %s. Number of documents: %s",
                         group, len(list_files))
             topic_words, word_scores, topic_nums = choice_e(list_files)
             partial_results = [group, topic_words, word_scores, topic_nums]
-            logger.info("End Top2Vec analysis for documents conteined in the year: %s", group)
+            logger.info("End Top2Vec analysis for documents contained in the year: %s", group)
             resultsForFile.append(partial_results)
 
         printToFile(resultsForFile)
