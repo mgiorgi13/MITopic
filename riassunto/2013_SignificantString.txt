@@ -61,3 +61,717 @@
 -  As you read this issue of MIT Sloan Management Review ,   hope youll enjoy learning about the creative ways that many organizations  large and small ,  established and young  are tapping into the innovative power and knowledge that lie beyond organizational boundaries 
 
 
+- Chase Rief runs  small media company in Newport Beach ,  California  or ,  rather ,  from Newport Beach: Rief Medias 14-person workforce is scattered around the world ,  all independent contractors he hired through an online service called oDesk 
+
+
+-  At the other end of the size spectrum ,  life insurance giant Aegon has an on-demand workforce of 300 licensed virtual agents managed through another online intermediary ,  LiveOps 
+
+
+-  ,  First came outsourcing of IT and business processes 
+
+
+-   third-generation sourcing ecosystem already being used by companies as diverse as Rief Media and Aegon ,  the human cloud is centered on an online middleman that engages  pool of virtual workers that can be tapped on demand to provide  wide range of services to any interested buyer 
+
+
+-  Although jobs involving content generation ,  sales and marketing ,  and design and optimization currently top the list of tasks that can be performed by cloud workers ,   recent industry report identifies at least 15 major labor categories that could be sent to the human cloud 
+
+
+-  The number of platforms and middlemen has also skyrocketed 
+
+
+-  ,  Some analysts see the human cloud as potentially more disruptive than the previous two sourcing waves 
+
+
+-  They believe it will reshape established business processes ,  redraw organizational boundaries and  most importantly  profoundly change global labor markets 
+
+
+-  After studying the evolution of human cloud platforms over the last few years ,  we share these analysts excitement but also think that the road ahead will be bumpier than some advocates would have us believe 
+
+
+-  )  As with the past waves of outsourcing ,  harnessing the power of the human cloud will require the evolution and adoption of  new set of best practices and structures by the key sourcing stakeholders  the buyers and the suppliers 
+
+
+-  ,  The human cloud is not  new idea 
+
+
+-  ,  Crowdsourcing allows organizations to transfer  task previously performed in-house to  large ,  usually undefined ,  group of people 
+
+
+-  Wikipedia ,  iStockphoto and other high-profile examples demonstrated the power of crowdsourcing in enabling new business models 
+
+
+-  space agency NASA ,  for example ,  developed  successful initiative  NASA Clickworkers  that enlisted volunteers from all over the world to help identify and label landforms on Mars 
+
+
+-  In general ,  crowdsourcing involves large-scale projects completed by  collective of people with no direct or guaranteed monetary incentive to participate 
+
+
+-  ,  Microsourcing allows buyers to source paid projects ,  or fractional tasks ,  over the Internet from individuals or small providers 
+
+
+-  The initial idea centered on an online marketplace for freelancers ,  similar to eBay ,  but in which buyers and suppliers exchange services instead of goods 
+
+
+-  Yet microsourcing is similar to crowdsourcing in that the initial search for  supplier starts with an open call aimed at  large and mostly undefined collective of potential workers 
+
+
+-  ,  However ,  despite enthusiasm for the concept of  virtual workforce ,  two obstacles have prevented businesses from large-scale adoption of crowdsourcing and microsourcing since their first introduction more than 12 years ago: perceived risk ,  and limited capacity to handle projects of larger scale and scope 
+
+
+-  ,  Most managers feel anxious about delegating work to  supplier with whom they have had only virtual contact 
+
+
+-  In her organization ,  she has had to work hard to convince colleagues to start working with suppliers they can neither shake hands with nor train 
+
+
+-  ,  The more serious problem has been the limited capacity of crowdsourcing and microsourcing to handle complex and large-scale work 
+
+
+-  Microsourcing platforms provide easy and efficient mechanisms to connect the two parties but offer limited support for collaboration and coordination 
+
+
+-  This makes them great for facilitating limited short-term projects that can be completed by  single supplier but not for the more common need for multiple interconnected tasks that demand the coordination of multiple skill sets ,  or for engagement-based services such as support ,  help desk and infrastructure maintenance 
+
+
+-  ,  To meet the needs of more potential buyers ,  the major human cloud platforms have developed four business models that show great promise in overcoming these obstacles and spurring growth 
+
+
+-  Buyers may still not be able to look the supplier in the eye ,  but they do have access to  wealth of information about the candidate 
+
+
+-  Facilitator platforms ,  like Elance and oDesk ,  have built frameworks for suppliers to share their professional and personal backgrounds ,  show off their portfolios and earnings history and demonstrate skills through standardized tests 
+
+
+-  ,  The platforms have also made workflows more transparent to the buyer 
+
+
+-  Elance ,  for example ,  offers project management tools that enable buyers to create project milestones ,  receive status reports from suppliers and link payments to milestone completion 
+
+
+-  Similarly ,  oDesk has developed  sophisticated system of remote work management that monitors suppliers online work activity and tracks time spent on each task 
+
+
+-  Such features give companies such as tiny Rief Media the confidence and ability to manage  virtual workforce 
+
+
+-  ,  The Arbitrator Model: Supplier Redundancy Companies often have to source work that is highly unstructured and difficult to evaluate and/or that requires special expertise ,  such as design or research and development 
+
+
+-  Tapping into the global talent pool and engaging multiple skilled providers to work on the same project would be highly attractive but ,  before the human cloud ,  was beyond reach of all but the largest companies 
+
+
+-  ,   human cloud model we call the Arbitrator model aims to make this option more accessible 
+
+
+-  Having started out with logo design ,  crowdSPRING today runs  wide range of projects ,  including copywriting and website and industrial design 
+
+
+-  South Korean-based electronics giant LG Electronics ,  for example ,  turned to crowdSPRING to carry out  global online competition to design  mobile phone of the future 
+
+
+-  Another example of the Arbitrator model is Massachusetts-based InnoCentive ,  which uses crowdsourcing to solve complex problems 
+
+
+-  InnoCentives online community includes scientists and researchers ready to take on unsolved R&D problems for companies throughout the world 
+
+
+-  ,  The Aggregator Model: Task Aggregation Some companies have work that does not require coordination among the workers who perform  very large number of simple ,  repetitive tasks ,  such as cleaning up  large customer contacts database 
+
+
+-  An Aggregator provides buyers with  single interface to send work to  large number of small suppliers 
+
+
+-  It provides an infrastructure to run projects similar to that of NASA Clickworkers at minimal cost and ramp-up time 
+
+
+-  ,  Consider ,  for example ,  Amazon Mechanical Turk ,  or MTurk ,  which in 2011 boasted over 500 , 000 suppliers 
+
+
+-  Buyers post projects consisting of  large number of simple repetitive tasks that workers are willing to perform for  few cents 
+
+
+-  These tasks ,  which MTurk calls human intelligence tasks ,  do not require any special expertise or knowledge on the part of suppliers ,  but they do involve human judgment and are difficult to automate 
+
+
+-  Another aggregator ,  Finland-based Microtask ,  segments projects and then breaks them down into game-like tasks that offer players or workers monetary and nonmonetary incentives for completion and quality 
+
+
+-  Germany-based Clickworker ,  for instance ,  guarantees quality to the buyer by having more experienced workers review tasks completed by their less experienced counterparts 
+
+
+-  Honda ,  for example ,  employed Clickworker to complete  project involving tagging objects in images of traffic situations 
+
+
+-  The output was used by the automaker to develop an onboard computer functionality to help vehicles avoid road obstacles 
+
+
+-  According to  2012 industry report ,  their No 
+
+
+-  To tackle this ,  platforms in the Governor model employ  combination of human project managers working on-staff and  sophisticated software-enabled framework for monitoring and coordinating individual tasks 
+
+
+-  Governors provide  thicker layer of project governance ,  including collecting project requirements from the client ,  breaking them up into microtasks ,  coordinating completion and sequencing of individual tasks ,  conducting supplier certification and ensuring quality of the final deliverable 
+
+
+-  ,  Computer programming service company TopCoder and its community-based model of software development provide perhaps the most advanced example of  Governor platform 
+
+
+-  Multiple suppliers take part in each of the competitions ,  and the winning output of each preceding round  ( as determined by more experienced members of the community )  becomes an input to the subsequent one 
+
+
+-  Using this model ,  TopCoder has built and deployed enterprise-grade software for multinationals such as financial giant UBS ,  home loan company Lending Tree ,  and sports broadcaster ESPN 
+
+
+-  ,  To reduce perceived risks to the buyer ,  the Aggregator and Governor models shift the focus from individual suppliers  ( the crowd )  to the platform  ( the company )  
+
+
+-  This arrangement requires  much smaller leap of faith on the part of the buyer ,  since it resembles  traditional outsourcing relationship 
+
+
+-  )  Because human cloud projects are really just  special flavor of outsourcing ,  buyers may find it helpful to think about launching and managing  human cloud initiative in the same way that they manage the main phases of any outsourcing engagement 
+
+
+-  ,  Architectural phase Architectural design is the first phase of sourcing ,  the point at which  buyer defines its choices on key dimensions of the future engagement 
+
+
+-  In the human cloud context ,  three such dimensions need to be taken into account: the number of suppliers ,  the degree of interdependence among suppliers and supplier expertise 
+
+
+-  The latter is the traditional business model: one buyer ,  one supplier 
+
+
+-   small business that develops its storefront website by contracting through the virtual employment agency vWorker is an example of such  scenario 
+
+
+-  ,  Where the human cloud introduces real innovation is in providing multiple redundant suppliers at once ,  sometimes via  competition or contest-based mechanism 
+
+
+-  For example ,  multiple InnoCentive Solvers  ( working sometimes in teams )  who take on  tricky research problem are more likely to come up with an acceptable solution than  single research team 
+
+
+-  insurer ,  is  good example 
+
+
+-  Because of the greater complexity and scope of the project ,  suppliers on Governor platforms also tend to have  higher level of expertise and possess  wider range of skill sets 
+
+
+-  LiveOps ,  for example ,  boasts  pool of trained and certified at-home call agents capable of handling customer acquisition ,  customer service ,  fundraising and disaster recovery tasks for corporate buyers across  variety of industries 
+
+
+-  ,  Engagement phase Engagement is the sourcing phase in which the buyer chooses one or more suppliers to carry out the work and establishes the contract terms 
+
+
+-  In recruiting suppliers ,  the buyer needs to consider who is responsible for the selection process and what criteria the selection is based on 
+
+
+-  On Elance ,  for example ,  buyers choose suppliers by evaluating project proposals; reviewing online resumes ,  portfolios and standardized skill test scores; studying feedback from prior engagements; and in some cases conducting online interviews 
+
+
+-  The platform then handles all aspects of supplier selection 
+
+
+-  In both Facilitator and Governor scenarios ,  careful attention to verifying the counterparty capabilities is crucial ,  as ,  once chosen ,  the supplier or the platform assumes responsibility for the job 
+
+
+-  These models typically allow suppliers to self-select work on  posted project 
+
+
+-  For example ,  the grand challenges on InnoCentive  highly complex scientific problems requiring top-level expertise  can carry awards in excess of $1 million ,  whereas  simple human intelligence task on Amazon MTurk ,  such as data entry ,  may pay 10 cents 
+
+
+-  ,  Operational phase With suppliers lined up and terms negotiated ,  the buyer shifts its focus to executing the sourcing initiative 
+
+
+-  That never works 
+
+
+-  Unless the parties are to commit the time for interaction and communication ,  the result is not going to be good and buyers are not going to be happy 
+
+
+-  ,  The Aggregator model ,  with its focus on parallel microtask processing ,  requires less ongoing coordination 
+
+
+-  Consider ,  for example ,  collecting categorized product instances from workers on Amazon MTurk and storing them in  product database 
+
+
+-  Most of the coordination in this case is implicit  through highly structured tasks  and the buyer-supplier relationship is arms-length with minimal ongoing interaction 
+
+
+-  Some Aggregator platforms and third-party companies enable coordination via workflow 
+
+
+-  Smartling ,   New York-based company that manages translation services for websites and mobile apps through its own platform ,  has built workflow tasks that streamline the translation process and reduce the overall task duration 
+
+
+-  For example ,  when  supplier hired on Elance for  translation job submits  translated document ,  the buyer must have the necessary skills to review and assess the quality of the translation 
+
+
+-  Here ,  the buyer must assess the quality of  large number of tasks completed by  pool of suppliers 
+
+
+-  Amazon MTurk ,  for example ,  employs  reputation system that evaluates suppliers over time 
+
+
+-  Others ,  like microtask crowdsourcing company CrowdFlower ,  allow buyers to mix test tasks into the workload and reject input from suppliers that fail the tests 
+
+
+-  Choosing from multiple options makes it easier for the buyer to pick the deliverable that fits its requirements best 
+
+
+-  This may be especially helpful in situations where quality is more subjective 
+
+
+-  Consider ,  for example ,  the common task of developing  logo 
+
+
+-  Comparing multiple designs submitted by individual designers helps the buyer realize which logo best represents its vision for the venture 
+
+
+-  While the buyer can respond via financial penalties and negative feedback ,  these are of little consolation in the case of time-critical projects 
+
+
+-  Project failure under the Governor model is similar ,  but the responsible counterparty here is the platform ,  not the end supplier ,  thus increasing the leverage of threatened penalties and legal means against an underperforming supplier 
+
+
+-  Of the four platform models ,  the Aggregator model  with jobs typically comprised of mundane ,  repetitive microtasks  presents the least risks to IP 
+
+
+-  ,  In contrast ,  the Arbitrator model presents the greatest IP challenge 
+
+
+-  On the one hand ,  typical Arbitrator jobs ,  such as industrial design or scientific challenges ,  require highly skilled suppliers; on the other ,  the competition model assumes that multiple  ( often numerous )  suppliers have access to all project-related information 
+
+
+-  ,  Arbitrators control IP-related risks in  number of ways 
+
+
+-  TopCoder ,  for instance ,  can make all competitions within the game plan private and conduct background checks on participating coders 
+
+
+-  The person in charge will also need to know how to atomize processes and tasks as well as coordinate and handle input from  number of small ,  diverse ,  geographically remote suppliers ,  often with different cultural backgrounds 
+
+
+-  New human cloud models now offer imaginative solutions to overcome coordination and control barriers involved in dealing with scale  with  large number of microsuppliers 
+
+
+-  We are already seeing evidence that some large corporations around the globe are beginning to take advantage of these platforms ,  mainly in the IT arena ,  but with adoption slowly migrating to other areas as well 
+
+
+-  ,  Unlike past sourcing waves ,  the human cloud will also dramatically benefit small buyers ,  the largely neglected long tail of global sourcing 
+
+
+-   human cloud should prove to be an equalizer for small businesses ,  allowing firms like Rief Media to compete with large companies that in the past have had the advantage of economies of scale 
+
+
+-  The human cloud will reshape the outsourcing landscape much as cloud computing is reshaping the software industry 
+
+
+-  Moreover ,  traditional labor-market middlemen are starting to perceive the threat of disintermediation ,  as human cloud platforms undermine their traditional strengths in providing local short-term labor 
+
+
+-  ,  In the coming years ,  we expect that human cloud platforms will innovate in three directions: task decomposition ,  real-time work and social governance 
+
+
+-  Managers will be able to easily create workflows of tasks performed internally with tasks performed externally by  human cloud ,  leading to the disruption of the business process outsourcing industry 
+
+
+-  Advances in real-time crowdsourcing ,  where workers are paid  retainer to remain on call for work requests ,  will enable new forms of cloud sourcing 
+
+
+-  Finally ,  social governance techniques ,  which allow the best workers to manage ,  train and approve the work of others ,  will continue to evolve 
+
+
+-  ,  Today ,  the human cloud is  small part of the global sourcing landscape 
+
+
+-  R&D road maps ,  as helpful as they can be at accelerating progress in known areas ,  are not particularly effective at spotting new opportunities outside  companys experience base 
+
+
+-  Resource allocation mechanisms tend to be biased in favor of innovations that reinforce existing business models 
+
+
+-  Executives obsess about tying R&D tightly to production and grounding new ideas in reality 
+
+
+-  And marketing groups often focus on the needs of current customers instead of identifying new market needs ,  discovering new solutions or identifying new business models 
+
+
+-  The immune system of the core business is so strong 
+
+
+-  ,  Traditional approaches to generating new ideas  most notably large corporate R&D labs staffed with world-class talent  are expensive and often produce disappointing results 
+
+
+-  In response ,  companies are searching for better ways to identify and exploit novel solutions 
+
+
+-  In 1795 ,  Napoleon offered  12 , 000-franc prize to drive innovation in food preservation ,  spurring  French brewer and confectioner named Nicholas Appert to develop an effective canning process to avoid spoilage 
+
+
+-  )  ,  Innovation breakthroughs require companies to explore fundamentally new ideas and opportunities outside the realm of past experiences  in effect ,  thinking outside the box 
+
+
+-  Competitions help to generate breakthroughs by stimulating diversity in  number of areas: among the individuals that compete ,  in the organizational forms that contestants adopt ,  and in the solutions that those organizations develop 
+
+
+-  While traditional methods for managing innovation focus on improving the mean ,  competitions maximize variance 
+
+
+-  )  Unlike contracting for R&D or writing grants ,  which require organizations to select the best approaches in advance and invest in only  small number of providers ,  competitions leverage the entire ecosystem of potential innovators ,  with the sponsoring organization paying only for the winning solution 
+
+
+-  ,  Consider what Netflix ,  the on-demand video and DVD rental company ,  did when it wanted to improve its method of recommending movies to customers 
+
+
+-  To help teams develop ideas ,  Netflix posted sample data online 
+
+
+-  Among the participants were graduate students from China ,  researchers at Bell Labs and retired management consultants 
+
+
+-  Between October 2006 and July 2009 ,  when the winning solution was submitted ,  the company received more than 44 , 000 entries from more than  , 000 teams 
+
+
+-  Ultimately ,  Netflix received  nonexclusive license to apply the ideas embodied in the winning entry 
+
+
+-  However ,  competitions can have drawbacks ,  ranging from the potential duplication of resources to questions about the ownership of the intellectual property 
+
+
+-  ,  Competitions generate diversity in three critical inputs to the innovation process: motivations ,  participants and organizations 
+
+
+-  This diversity ,  in turn ,  generates  wider variety and greater number of solutions to any given problem 
+
+
+-  From an economic standpoint ,  participants often behave irrationally ,  devoting too much time and effort to the challenge relative to the expected monetary rewards from competing 
+
+
+-  In many challenges ,  competitors in their aggregate  ( and sometimes individually )  spend far more money than the competition prize purse 
+
+
+-  For example ,  the 26 competitors in the Ansari  Prize ,  which awarded $10 million to the first team to launch  three-person spacecraft to an altitude of 100 kilometers twice in the span of two weeks ,  collectively spent more than $100 million in their efforts to win the prize 
+
+
+-  Why did the competition create so much interest? While our work suggests competitors systematically overestimate their chances of winning ,  this does not fully explain the over-allocation of effort in relation to expected returns 
+
+
+-  ,  Understanding why competitions work requires recognizing  more diverse range of incentives and the ways competitions provide such incentives to spark outsized efforts 
+
+
+-  Nonfinancial motivations include the thrill of competing ,  the love of  hobby or pastime ,  the passion for  particular cause and the reputational effects from participating and performing well 
+
+
+-   respected prize has  valuable credentialing effect ,  legitimizing an innovators pursuit of  problem ,  and  well-designed competition can help entrants build skills and expertise through education and mentoring 
+
+
+-  For many participants ,  these softer motivations outweigh the financial incentives 
+
+
+-  While larger purses attracted more entrants ,  the largest increase in participation was associated with competitions for the RASE gold medal   prestigious award bestowed on only 13 occasions during the century 
+
+
+-  The intrinsic motivation of competing for  gold medal not only increased the number of participants ,  it also led to significantly greater novelty in the outcomes from their efforts ,  compared with  purely financial incentive 
+
+
+-  ,  Different incentives attract different types of participants ,  not all of whom might consider devoting their skills and attention to another challenge 
+
+
+-  This dynamic is powerful because in many situations it is impossible to predict who will have the best ideas ,  or what combination of skills will best solve  problem 
+
+
+-  For example ,  in the Netflix competition ,  one of the highest-performing entries didnt come from graduate students or computer scientists but from  48-year-old retired management consultant living in London named Gavin Potter; Potter was able to combine his undergraduate knowledge of psychology with mathematics coaching by his high-school-age daughter 
+
+
+-  ,  Similar patterns have emerged in competitions run by InnoCentive ,   company based in Waltham ,  Massachusetts ,  whose online platform brings together organizations seeking solutions to problems and potential solvers from all over the world ,  awarding prizes for the best solutions 
+
+
+-  Research shows that in many cases the winners of InnoCentive challenges come from outside the field of expertise in which  solution is expected to reside  underscoring the link between diverse participants and  greater range of outcomes 
+
+
+-  Sometimes the best solution already exists ,  but in  different context that happens to share similar challenges 
+
+
+-  In other cases ,   person or team will approach the problem from an unforeseen perspective ,  opening up new possibilities not previously considered 
+
+
+-  Ultimately ,  searches defined too narrowly within  traditional field of expertise  ( for example ,  chemistry )  can exclude valuable insights that come from exploring different perspectives and viewpoints  ( for example ,  biology or physics )  
+
+
+-  ,  Competitions also encourage different types of organizations to work on  problem 
+
+
+-  Traditional R&D teams are designed to meet the narrow ,  predefined goals of  company and are bound by the organizations usual approaches to problem solving 
+
+
+-  Attempts to break out of these organizational limits typically fall short and often create their own problems in terms of design and governance 
+
+
+-  Competitions ,  in contrast ,  bring into the game  wide variety of organizations pursuing  range of different goals: from public companies ,  to startups ,  to universities ,  to high schools ,  to groups of friends who share  common passion 
+
+
+-  Rather than being constrained by  rigid set of rules and norms ,  individuals or groups can design an organization that best fits their view of the problem and the solutions they are trying to develop 
+
+
+-  ,  The $30 million Google Lunar  Prize ,  which challenges teams to land  rover on the surface of the moon and to broadcast high-definition video back to the Earth ,  offers  case in point 
+
+
+-  Rather than only attracting the usual suspects from the aerospace industry ,  the contest currently includes dozens of competing teams that represent  wide spectrum of contestants 
+
+
+-  For example ,  one team ,  Next Giant Leap ,  originated as  consortium of smaller aerospace companies ,  media and marketing organizations ,  and students and faculty from MIT 
+
+
+-  And in an industry where export controls and government funding limit the opportunity for international participation ,  some entrants are leveraging broad global partnerships in pursuit of the prize 
+
+
+-  Competitions provide  way to capitalize on organizational diversity 
+
+
+-  ,  The combination of  broader range of motivations ,  different types of participants and differing organizational forms expands both the number and diversity of the proposed solutions 
+
+
+-  They came up with  range of designs: three- and four-wheeled cars ,  two- and four-seaters ,  and in one case an aerodynamic motorcycle equipped with training wheels for stability at slow speeds 
+
+
+-  Significantly ,  no single innovation stood out as  magic bullet solution 
+
+
+-  Rather ,  contestants presented  mix of different technologies and approaches demonstrating that improvements in system design and integration were the key to superior performance 
+
+
+-  ,  Once managers understand how innovation competitions work ,  they need to evaluate the extent to which competition can support their innovation objectives 
+
+
+-  Rather than pursuing open innovation competitions just because others are ,  managers should assess where their organization needs to improve and how  prize might further those objectives 
+
+
+-  ,  Discovering innovations can be seen as  search for the high-value peaks in  companys innovation landscape 
+
+
+-  Although some innovation landscapes are predictable ,  others are rugged and uncertain ,  requiring significant amounts of trial and error to identify the peaks 
+
+
+-  Traditionally ,  companies have relied on internal R&D teams to explore the landscape 
+
+
+-  In the first year ,  the $20 , 000 prize generated submissions from more than 80 individuals ,  businesses and nonprofit organizations 
+
+
+-  The proposals addressed  variety of services ,  including restaurant and taxi driver reviews ,  applications for finding nearby subway stations and tools for evaluating local schools 
+
+
+-  Using  platform named ChallengePost ,  software developers were able to showcase their solutions ,  appeal to investors and link to social media networks 
+
+
+-  The contest enabled New York City officials to identify  wide range of high-value applications and put them quickly into the hands of potential users 
+
+
+-  ,  To map an organizations innovation landscape ,  we have found it helpful to use the classic familiarity matrix ,  which examines the nature of the problems companies are trying to solve and the proposed solutions  specifically whether they are familiar or new 
+
+
+-  )  Organizations tend be good at exploring the landscapes of familiar problems and solutions  ( in other words ,  those near the home quadrant )  
+
+
+-  They need help when developing new solutions to existing problems ,  new market needs that can be addressed with existing capabilities and new business opportunities created by discovering new solutions to novel problems 
+
+
+-  These are the areas where competitions have proven most helpful 
+
+
+-  ,  As an example of how an organization can generate new solutions to  known problem ,  consider the Oil Cleanup  Challenge ,   $1 
+
+
+-  The winning team ,  Elastec/American Marine ,  of Carmi ,  Illinois ,  had been working in the oil recovery industry and selling products in this area for many years 
+
+
+-  In fact ,  it had already identified several ideas for significantly improving oil-spill cleanup performance ,  but the ideas had remained on the drawing board until Schmidt announced the prize 
+
+
+-  Spurred by the challenge ,  CEO Donnie Wilson assigned ten engineers to flesh out the ideas during an intense 60-day effort 
+
+
+-  Their product could recover  , 670 gallons of oil per minute from the waters surface  four times the prior industry standard 
+
+
+-  ,  Sometimes ,   company can have  wealth of capabilities and possible solutions but have difficulty identifying which problems these could be deployed against ,  or who the customers might be 
+
+
+-  Historically ,  the company had  wealth of R&D discoveries ,  many of them never converted into commercial products 
+
+
+-  In 2006 ,  management set out to change that with the launch of an Innovation Jam ,  an online conference for 150 , 000 employees ,  partners ,  customers and researchers 
+
+
+-  The organizers shared information on IBMs emerging technologies during  72-hour online brainstorming session aimed at capturing ideas for commercialization 
+
+
+-  Subsequently ,   team of managers sifted through the most promising ideas ,  which were subjected to  second 72-hour jam to define actionable investment areas  ( such as smart healthcare payment systems and the 3-D Internet )  
+
+
+-  Within the year ,  then-chairman and CEO Sam Palmisano announced $100 million of investments in ten business areas identified through the Innovation Jam 
+
+
+-  ,  Organizations seeking to build brand new businesses around innovative solutions to novel problems have slightly different needs 
+
+
+-  Here competitions are often used as part of  broader innovation strategy that combines seed capital ,  early-stage partnerships and other open innovation approaches 
+
+
+-  Competitions ,  especially those following business-plan-style formats ,  provide an excellent vehicle for identifying  large number of early-stage opportunities ,  evaluating them and building communities in emerging areas 
+
+
+-  ,  Ciscos I-Prize competition ,  which invited global contestants to help the company discover new billion-dollar businesses ,  provides  powerful example 
+
+
+-  After launching the competition internally ,  Cisco opened the I-Prize to external participants in 2007 ,  offering  $250 , 000 prize for ideas that would help the company leverage its industry positions to build new businesses 
+
+
+-  Using  crowdsourcing platform called Brightidea and  team of judges ,  the company winnowed the entries down to 40 semifinalists ,  who spent six weeks refining their business plans before presenting them to  panel of senior executives 
+
+
+-  The winning team ,  based in Germany and Russia ,  developed  sensor-enabled smart grid that improves energy efficiency by taking advantage of Ciscos leadership in internet protocol  ( IP )  technology 
+
+
+-  We have identified five critical design decisions  what we call the Five Ps:  )  frame the problem;  )  establish the prize;  )  select the participants;  )  define the process; and  )  build the platform 
+
+
+-  Considering these steps allows companies to assess the costs and benefits of using prizes 
+
+
+-  ,  Depending on the companys objective ,  competitions can be configured in different ways 
+
+
+-  Its often helpful to carve the problem into chunks to reduce the amount of effort required to enter  competition and attract  larger and more diverse set of participants 
+
+
+-  When dramatic performance leaps are required ,  companies should encourage participants to think as broadly as possible and consider  wide range of solutions 
+
+
+-  ,  To encourage development of  more fuel-efficient airplane ,  for example ,   sponsor could divide the problem into distinct areas ,  such as improving the body aerodynamics and increasing the efficiency of the engines 
+
+
+-  This may not be desirable if developing radical innovation breakthroughs is the goal 
+
+
+-  ,  Competitions with bold and difficult objectives tend to provide larger rewards to attract attention and lure  more diverse participant base 
+
+
+-  But the opportunity to win  big pot of cash isnt as important as you might think 
+
+
+-  That same month ,  more than 500 teams entered  $10 , 000 contest sponsored by The Economist to find better ways of capturing atmospheric carbon and reducing global warming 
+
+
+-  ,  Reward structures should take into account the range of motivations that inspire individuals and teams to compete 
+
+
+-  In some cases ,  monetary rewards will be the prime driver 
+
+
+-  In others ,  nonfinancial benefits ,  such as the opportunity to advertise ones skills or achievements ,  may be more important 
+
+
+-  To attract entrants looking for excitement and intellectual challenge ,  contests can build and nurture  sense of community and support social interactions among competitors 
+
+
+-  For contestants looking to build their own businesses ,  competitions can provide opportunities to network with potential investors ,  partners and customers 
+
+
+-  Sponsors can also leverage their own strengths to increase the value of participation 
+
+
+-  Netflix ,  for example ,  shared massive data sets with contest participants 
+
+
+-  By sharing something of value ,  organizations can amplify the impact of  competition and attract more participants 
+
+
+-  Others restrict entry to prequalified participants ,  such as the employees of  single company ,  its customers and business partners 
+
+
+-  For example ,   competition may require sharing details about the companys intellectual property 
+
+
+-  In circumstances where assessing ideas is difficult or expensive ,  prequalifying participants may make sense 
+
+
+-  Similarly ,  concerns about safety and privacy may argue for  more controlled process 
+
+
+-  ,  One of the most important ways competitions create value is by encouraging collaboration 
+
+
+-  Time and again ,  we saw individuals and teams engage in unprompted and unexpected collaborations 
+
+
+-  Competitors often shared  passion for the challenges that they were collectively engaged in ,  giving them  common purpose 
+
+
+-  Contest participants therefore seemed more willing to share information ,  help others and solicit help than they would be in their normal roles as employees competing in  marketplace 
+
+
+-  ,  To capitalize on this dynamic ,  companies should look for ways to harness the power of competition and collaboration 
+
+
+-  For example ,  the  Prize Foundation hosted face-to-face meetings for PIAXP entrants to promote team networking and learning 
+
+
+-  Although there is always  risk that teams may withhold their best ideas while attempting to discern their competitors secrets ,  the culture of  competition typically discourages such actions 
+
+
+-  ,  Besides prize money ,  an effective competition requires  range of other investments: in information technology and processes ,  staffing and judging ,  and marketing 
+
+
+-   fundamental decision for companies considering establishing  prize is whether to build this infrastructure themselves or tap into external assets and third-party expertise 
+
+
+-  ,  So when does it make sense for an organization to build its own competition infrastructure? With Netflix ,  the critical factor was the level of complexity ,  both in terms of the data the company needed to provide to participants and the systems required to test performance 
+
+
+-  Releasing the data to  third party raised privacy concerns ,  quite apart from the difficulty of having an outside group run the tests to select  winner 
+
+
+-  ,  The advantages of using competitions to pursue innovation must be set against the potential costs and risks 
+
+
+-  The costs fall into several categories ,  each of which must be evaluated before making the decision to run  competition: ,  Prize Infrastructure: Successful prizes provide something attractive to potential participants  money is not enough 
+
+
+-  ,  Prize Administration: As the CTO of Ciscos emerging technologies group has warned ,  Anyone attempting to do innovation on the cheap should look elsewhere 
+
+
+- 10 As enticing as it may be to get people to work for free ,  such thinking underestimates the cost of the resources you will need to provide; the administration and operations costs often exceed the prize purse 
+
+
+-  ,  Disclosure Risk: In describing the challenge you seek to address ,  you are sharing important information with the world ,  which might be helpful to competitors 
+
+
+-  Some prize platforms help you retain anonymity ,  but not all of them do 
+
+
+-  ,  Control: Any venture in open-source or crowdsourced innovation cedes  large measure of control to those doing the innovative work 
+
+
+-  The traditional precepts of centralized project management and milestone reviews dont apply in the same way 
+
+
+-  ,  ,  Competitions can play  role in the innovation portfolio of any company 
+
+
+-  That person should ensure that the company rigorously evaluates proposed experiments in terms of the companys overall innovation objectives and competitive capabilities 
+
+
+-  Ultimately ,  decisions such as how much infrastructure to build ,  the level of funding for competitions  ( versus more traditional R&D projects )  and how best to market and promote competitions should be made by managers overseeing the entire portfolio of activities under the innovation umbrella 
+
+
+-  ,  Particularly in lean times ,  innovation competitions represent  high-leverage tool that taps into powerful motivations to draw out disproportionate efforts from  wide variety of participants 
+
+
+-  In addition ,  they can focus contributors on specific aspects of an organizations innovation challenges 
+
+
+-  Therefore ,  competitions can be  powerful addition to  companys R&D portfolio 
+
+

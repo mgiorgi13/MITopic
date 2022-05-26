@@ -2,36 +2,41 @@ import csv
 
 if __name__ == "__main__":
     # year = input("Insert year to be analyze: \n")
+
     for year in range(1990, 2022):
-        fileToScan = ""
+        fileToScan = []
         TopWords = []
         SignificantString = []
-        # read first line from csv file
+
+        # read first 3 line from csv file
         with open(f'output/{year}_scores.csv') as csv_file:
             csv_reader = csv.reader(csv_file, delimiter=',')
+            counter = 0
             for row in csv_reader:
-                fileToScan = row[0]
-                break
+                if counter < 3:
+                    fileToScan.append(row[0])
+                counter += 1
+
         # read all lines from csv file
         with open(f'output/{year}_50TopWords.csv') as csv_file:
             csv_reader = csv.reader(csv_file, delimiter=',')
             for row in csv_reader:
                 TopWords.append(row)
 
-        # read file.txt and extract significant string
-        text = ""
-        with open(f'data/{fileToScan}') as file:
-            for line in file:
-                text = line
-        strings = text.split(". ")
-        # print(len(strings))
-        for string in strings:
-            for word in TopWords:
-                if len(word) != 0 and word[0] in string:
-                    SignificantString.append(string)
+        # read 3 file.txt and extract significant string
+        for singleFile in fileToScan:
+            text = ""
+            with open(f'data/{singleFile}') as file:
+                for line in file:
+                    text = line
+            strings = text.split(". ")
+            # print(len(strings))
+            for string in strings:
+                for word in TopWords:
+                    if len(word) != 0 and word[0] in string:
+                        SignificantString.append(string)
 
         # remove duplicates strings from SignificantString
-        # SignificantString = list(set(SignificantString))
         seen = set()
         results = []
         for item in SignificantString:
@@ -39,7 +44,6 @@ if __name__ == "__main__":
                 seen.add(item)
                 results.append(item)
         SignificantString = results
-
 
         # write SignificantString to file
         with open(f'riassunto/{year}_SignificantString.txt', 'w') as file:

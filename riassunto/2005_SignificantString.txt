@@ -466,3 +466,1014 @@
 -  Effective strategies in this area could confer powerful first-mover advantages ,  particularly as todays teenagers and young adults grow up to become tomorrows middle-aged consumers with higher disposable incomes 
 
 
+-  And they might rely on partners ,  alliances and industry consortia to provide them with crucial technology or expertise 
+
+
+-  Indeed ,  the ability to manage connections to external parties has long been  critical competency for any organization doing business 
+
+
+-  See sidebar ,  Recently ,  that capability has become increasingly difficult to maintain 
+
+
+-  Globalization ,  international networks of companies and various competitive pressures have made out-sourcing ,  supply chains and customer relationships ever more complex and demanding to manage 
+
+
+-  At the same time ,  electronic communications and computer technologies have greatly broadened the possibilities for how organizations might establish and manage such an array of external connections 
+
+
+-  ,  In addition to traditional types of connections ,  such as those facilitated by social relationships ,  companies now have  new option: virtually embedded ties ,  which are initiated and maintained through electronic technologies like the Internet 
+
+
+-  Today ,  organizations should know how best to deploy such connections ,  and just as importantly ,  they need to recognize situations in which more traditional ties are the better option for conducting their business transactions 
+
+
+-  ,  Since the dawn of capitalism ,  people have conducted business by establishing two types of external connections: arms-length ties and socially embedded ties 
+
+
+-  The former represent purely economic relationships among individuals and organizations that are otherwise unconnected 
+
+
+-  These are the rational ,  faceless and independent connections characterized by the noted economist Adam Smith 
+
+
+-  Arms-length ties are formed solely on the basis of their economic merit ,  and they last only as long as the transactions around which they are formed 
+
+
+-  Even today ,  they still represent  huge portion of all external linkages 
+
+
+-  Many wholesale and retail transactions ,  for example ,  are conducted through arms-length ties 
+
+
+-  ,  In contrast ,  socially embedded ties are economic relationships that are underpinned by direct social ties among the people involved 
+
+
+-  Such connections among professional and social acquaintances ,  friends ,  friends of friends ,  relatives ,  neighbors and so on can greatly facilitate economic transactions 
+
+
+-  Socially embedded ties develop over time through repeated interactions that emphasize face-to-face contact ,  such as shared meals ,  participation in sporting events and volunteer work ,  and attendance at professional events ,  including conferences and association meetings 
+
+
+-   critical feature of socially embedded ties is that they are multipurpose: Unlike arms-length ties ,  which are focused solely on business transactions ,  socially embedded ties represent the interaction of people in both commercial and social dimensions 
+
+
+-  Research has demonstrated the strategic importance of such ties in  wide variety of industries ,  from clothing manufacturing to diamond dealing to banking 
+
+
+-  ,  Along with these traditional forms of connections ,  changes in society and technology now provide  novel way for companies to create and manage their links to the outside world 
+
+
+-  Indeed ,  the vastly improved access to rapid ,  low-cost sources of information and communication ,  along with the globalization of many industries ,  has led to  transformation in the ways that firms connect to external parties 
+
+
+-  These are external connections that are initiated and maintained through electronic technologies  ( such as the Internet )  and that attain the benefits of socially embedded ties ,  albeit through different mechanisms 
+
+
+-  It is important to note that not all electronically mediated connections are virtually embedded ties; many are simply faster ,  cheaper versions of traditional arms-length ties 
+
+
+-  But those connections that decrease the risk of  transaction by using electronic technologies in specific ways  ( for example ,  to increase the transparency of the transaction )  offer  powerful new strategic alternative 
+
+
+-  The competitive advantage of some companies like eBay Inc 
+
+
+-  is based on their ability to conduct their businesses through virtually embedded ties 
+
+
+-  ,  The two types of embedded ties  ( social and virtual )  provide solutions to the same kinds of problems ,  but two important characteristics distinguish one from the other 
+
+
+-  First ,  electronic connections are fast ,  efficient and inexpensive ,  and those economics result in the formation of virtual ties that are primarily single purpose 
+
+
+-  That is ,  the marginal costs associated with adding  virtual connection is usually very low because existing networks and protocols enable easy and quick access to  vast range of individuals and organizations with specialized information ,  skills and experience 
+
+
+-  Although virtually embedded ties can evolve over time to handle more than one function  ( including social purposes )  ,  their economics create  much lower incentive to rely on existing ties for purposes other than that for which they were formed 
+
+
+-  In other words ,  the low cost and high speed of searching for and initiating new virtual connections decreases the motivation for companies to rely on existing ties as new needs arise 
+
+
+-  This contrasts sharply with socially embedded ties ,  which tend to be multipurpose because they are much more costly to establish 
+
+
+-  ,  The second critical characteristic of virtually embedded ties is their reach 
+
+
+-  Whereas face-to-face interaction and personal referrals tend to favor socially embedded ties within  geographic community  ( or at least relationships that can include occasional physical proximity )  ,  virtual connections are not constrained in that way  ties can be formed as easily with someone halfway around the world as with the person next door 
+
+
+-  ,  None of the three types of ties  arms-length ,  socially embedded or virtually embedded  presents the one best way for todays corporations to connect to the outside world 
+
+
+-  Instead ,  doing business typically requires  complex web of interconnections that include all three types ,  and so  crucial task for companies is to maintain and adapt that system to meet changing competitive demands 
+
+
+-  To manage such  portfolio of connections effectively ,  though ,  an organization must first understand the different situations in which each type of tie can provide the greatest efficiency and effectiveness 
+
+
+-  ,  Arms-length ties are often the most efficient form of organizational connection ,  but they have significant limitations in dealing with three potential problems of external relationships: opportunism ,  uncertainty and complexity 
+
+
+-  Because of that ,  embedded ties  ( either social or virtual )  are often  better alternative 
+
+
+-  )  ,  The risk of opportunism  self-interested deception or maneuvering  is high in many external relationships 
+
+
+-  Here ,  socially embedded ties have  significant advantage over arms-length ties because the trust that stems from interpersonal bonds tends to decrease the possibility of one party taking advantage of another 
+
+
+-  Such behavior is further discouraged by the potential consequences: The costs of opportunism are not only business related but also personal and social 
+
+
+-  ,  Electronically facilitated linkages might appear to suffer the same vulnerability to opportunism that arms-length ties do because both lack frequent face-to-face contact between the different parties 
+
+
+-  But this is not necessarily the case 
+
+
+-  Virtually embedded ties limit opportunism not by relying on trust  ( as do socially embedded ties )  but by increasing the widespread transparency of the relationship 
+
+
+-  In Internet-based relationships ,   range of systems  ( newsgroups ,  Web-based discussion forums ,  e-mail lists ,  online ratings services and so on )  help quickly spread information of any disingenuous behavior on the part of suppliers ,  buyers and other parties 
+
+
+-  These systems can be very effective because the broad set of values associated with the Internet tends to encourage the frank exchange of information 
+
+
+-  So ,  unlike socially embedded ties ,  which increase the costs of opportunism primarily through the damage it might do to specific long-term relationships ,  virtually embedded ties work mainly through  different route  the potential degradation of an individuals or companys reputation ,  which would adversely affect that persons or firms ability to develop new relationships with others 
+
+
+-  ,  The second critical limitation of arms-length ties is that they have trouble reducing the uncertainty associated with  complicated transaction 
+
+
+-  Arms-length ties typically involve minimal information sharing ,  which is often restricted to just the information necessary to complete an exchange  ( such as pricing and delivery date )  
+
+
+-  This can be effective for simple deals when the parties fully understand exactly what is being bought  ( and at what price )  and customers dont need to evaluate the offerings in any depth ,  for example ,  the purchase of commodity items such as groceries from  supermarket 
+
+
+-  But when transactions are more complicated ,  any uncertainty increases the importance of information 
+
+
+-  In fact ,  social ties often enable parties to share information they would normally not reveal to others because of its strategic or operational value 
+
+
+-  ,  In contrast ,  virtually embedded ties facilitate information sharing of  very different nature: the widespread dissemination of relatively detailed information that can be either public or personal 
+
+
+-  One feature of virtually embedded ties is communication efficiency 
+
+
+-  Megabytes of electronic data can be transmitted and stored far more efficiently than by more traditional forms of interaction 
+
+
+-  With  simple click of the mouse ,   company can deliver detailed product specs and images to literally millions of potential customers 
+
+
+-  And the nature of that information also differs from that associated with socially embedded ties 
+
+
+-  Because virtually embedded ties lack any clear quid pro quo ,  partners are unlikely to share proprietary information 
+
+
+-  Instead ,  they will tend to exchange information that is either public  ( already available through some other means )  or personal  ( based on their own experiences but not considered proprietary )  
+
+
+-  By facilitating the widespread sharing of such information ,  virtually embedded ties lower the risk of uncertainty by increasing peoples knowledge and understanding of companies and their products ,  industry events ,  and new technologies and trends and their potential impact 
+
+
+-  ,  The third major limitation of arms-length ties is their relative inability to deal with complexity ,  for instance ,  in the buying and selling of knowledge-intensive goods and services 
+
+
+-  Socially embedded ties overcome this limitation by facilitating joint problem solving: people from different organizations working together to solve problems through coordinated analysis and action 
+
+
+-  As an example ,  consider engineers who know each other from the same professional association but work for different companies 
+
+
+-  At  technical meeting of the association ,  they discover that they are having similar problems with the same manufacturing equipment ,  so they decide to help each other by sharing data from their respective plants 
+
+
+-  ,  Virtually embedded ties help overcome complexity in  different way: through community-based problem solving 
+
+
+-  Through that process ,  members of  virtual network help solve  specific problem by ,  for example ,  participating in  discussion forum for customers on  manufacturers Web site 
+
+
+-  Such  forum enables people who have experienced problems with the manufacturers product to exchange information and tips with others who have had similar difficulties 
+
+
+-  The combined experience and expertise of numerous users  all shared and archived on the Web site  do not only help customers solve their specific problems but also provide information that the manufacturer can use to improve its products 
+
+
+-  Online forums do not necessarily have to be focused on specific products; they could ,  for instance ,  be devoted to  particular profession 
+
+
+-  ,  It is important to note that ,  when products such as software are purchased through virtually embedded ties ,  customers are more likely to draw on the community of other users  ( through the manufacturers Web site or some other Internet discussion forum )  to help them analyze and resolve problems 
+
+
+-  But when purchases are based on socially embedded ties ,  people are more likely to rely on joint problem solving to resolve any issues 
+
+
+-  The two types of problem solving differ not only in the number of participants but also in the nature of the contributions of those parties 
+
+
+-  In community-based problem solving the contributions tend to be nonreciprocal and are often relatively minor or fleeting ,  whereas in joint problem solving the contributions are typically quid pro quo and are more likely to be substantial 
+
+
+-  ,  In summary ,  the effectiveness of arms-length versus embedded ties depends on what we refer to as the severity of the exchange conditions 
+
+
+-  When  relationship is fraught with the potential for opportunism and has great uncertainty and complexity ,  an arms-length tie probably will not suffice 
+
+
+-  The risks associated with the exchange will be too great for any faceless ,  nameless ,  one-off relationship 
+
+
+-  In such cases ,  either  socially or virtually embedded tie is the better option 
+
+
+-  The former minimizes risk through trust ,  sharing of proprietary information and joint problem solving; the latter achieves the same through transparency ,  widespread information sharing and community-based problem solving 
+
+
+-  ,  The insurance industry provides  good example of how socially and virtually embedded ties use different mechanisms to overcome the severe exchange conditions of opportunism ,  uncertainty and complexity 
+
+
+-  Independent agents traditionally have relied on socially embedded ties to sell home ,  life and auto insurance 
+
+
+-  Working mostly in small offices ,  these agents typically played  strong role in their communities ,  sponsoring sports teams and voluntary groups ,  hosting quasisocial events in which they could explain their products and serving as officers of charitable organizations 
+
+
+-  The agents could meet numerous potential clients through such activities ,  and the social contact helped make those people feel more comfortable about purchasing an expensive ,  important product that they often did not completely understand 
+
+
+-  ,  which sells auto insurance online ,  has taken  different approach 
+
+
+-  Progressive relies on virtually embedded ties for transparency ,  widespread information sharing and community-based problem solving to ease peoples anxieties about purchasing insurance policies 
+
+
+-  For example ,  the firms Web site  ( www 
+
+
+- com )  enables potential customers to compare their current insurance rates against those from many providers ,  including Progressive 
+
+
+-  In addition ,  the site provides  vast array of information tailored specifically to those who are unfamiliar with insurance 
+
+
+-  The Teens page ,  for instance ,  provides young drivers with basic information  ( such as Insurance 101 and tips for getting  lower premium )  and enables them to share their experiences with one another 
+
+
+-  ,  As described earlier ,  socially embedded ties might have the same advantages that virtually embedded ties do ,  but the two types of connections use different mechanisms to accomplish the same objectives 
+
+
+-  Specifically ,  socially embedded ties have  critical weakness9 in dealing with three types of competitive conditions: network instability ,  susceptibility to industry restructuring and  need for outside information 
+
+
+-  )  ,  Because socially embedded ties require  significant amount of time and resources to form and maintain ,  companies are limited in the number of such connections 
+
+
+-  That situation can be risky: If  firms enduring relationships are severed for whatever reason ,  it could lack the resources necessary to find and establish replacements 
+
+
+- 10 This issue is particularly acute in industries characterized by high amounts of turnover ,  that is ,  when the average lifespan of existing firms is relatively short and large numbers of new companies are continuously entering the market 
+
+
+-  ,  Because virtually embedded ties have lower formation costs ,  they are better equipped to handle such conditions 
+
+
+-  Establishing socially embedded ties is typically  gradual process ,  requiring significant personal interaction ,  including referrals from third parties 
+
+
+-  In contrast ,  the marginal costs of forming virtually embedded ties are relatively low 
+
+
+-  In fact ,  companies can use their existing electronic networks to facilitate the rapid and relatively inexpensive creation of numerous ties by ,  for example ,  relying on viral marketing and other Internet-based techniques 
+
+
+-  The exit costs for virtually embedded ties are typically low as well that is ,  companies can abandon them easily and inexpensively 
+
+
+-  In contrast ,  the exit costs tend to be much higher for socially embedded ties because of the time and resources invested in those ties formation 
+
+
+-  The low costs of formation and exit for virtually embedded ties can greatly lessen  companys dependence on any particular customer ,  supplier or partner  ( or even specific networks of such parties )  ,  making the firm less vulnerable in times of industry turmoil 
+
+
+-  ,  To appreciate those advantages ,  consider Computersupport 
+
+
+- com ,   company that provides technical support to personal-computer users worldwide 
+
+
+-  ( Note: To protect the confidentiality of the participants in our study ,  we have used pseudonyms 
+
+
+- com relies on  network of virtually embedded ties to suppliers ,  partners and numerous customers ,  including thousands of individuals in more than 100 countries ,  as well as more than  dozen major corporate clients 
+
+
+-  To manage its relationships with consumers ,  the company has enlisted  subnetwork of intermediaries ,  including portals and Internet service providers ,  that have themselves established networks of relationships with other users ,  which Computersupport 
+
+
+- com can leverage rapidly 
+
+
+-  Virtually embedded ties also provide much of the companys infrastructure for its telemarketing ,  server facilities and investor relations 
+
+
+- com relies on virtual ties to  range of content partners  ( online education providers ,  software manufacturers and resellers ,  technical publishers ,  and online retailers )  to provide customers with any knowledge that the company cannot supply on its own 
+
+
+-  ,  According to the companys chief technology officer ,  virtually embedded ties helped to level the playing field in the industry ,  enabling Computersupport 
+
+
+- com to enter the market with less need for  physical infrastructure or other capital-intensive investments 
+
+
+- coms network of customers ,  suppliers and partners takes good advantage of the strengths of virtually embedded ties because the relationships are extremely fluid 
+
+
+-  The past failure of many dot-com firms ,  for example ,  has resulted in significant turnover in the companys intermediary partners and content providers 
+
+
+-  Socially embedded ties would have been far too slow and costly to deal with that level of network instability 
+
+
+-  ,   second potential weakness of socially embedded ties is their susceptibility to disruption following any industry restructuring or transformation 
+
+
+-  Some markets are relatively protected by comparatively stable technologies or by geographic ,  economic or political barriers to change 
+
+
+-  But others can experience rapid ,  repeated restructuring and dramatic changes ,  for example ,  as emerging technologies break down the value of old relationships  ( mandating the formation of new ones )  or as new business models and practices make existing external ties irrelevant 
+
+
+- 11 In these sorts of industries ,  virtually embedded ties are particularly effective because they are highly adaptive ,  which enables companies to shift connections relatively easily and quickly to whatever parties have become strategically important 
+
+
+-  ,  Cybertrend Software is  case in point 
+
+
+-  Founded two decades ago as  developer of printer drivers ,  the company expanded rapidly both by internal growth and by acquiring the product lines of several competitors 
+
+
+-  The rationale was that its existing business was becoming commoditized  ( and hence less profitable )  ,  whereas the wireless industry was just taking off and appeared to have limitless potential 
+
+
+-  ,  Although Cybertrend had no prior experience in wireless ,  it was able to establish itself in the market quickly by forming virtually embedded ties with corporate clients ,  potential partners and mobile carriers 
+
+
+-  The company used those connections to market its innovative products ,  which enable the employees of an organization to access corporate information through  variety of wireless devices 
+
+
+-  Revenues from the wireless products had soon outstripped Cybertrends original business ,  which the company has since divested itself of 
+
+
+-  According to Cybertrends CEO ,  the speed and reach of virtually embedded ties enabled the company to respond quickly to the emergence of wireless technology to obtain  first-mover advantage 
+
+
+-  In addition ,  virtually embedded ties facilitated  fast exit from markets when offerings fared less well than expected 
+
+
+-  ,  The third context in which virtually embedded ties can provide  significant competitive advantage is when access to outside information  ( such as new product ideas and changes in market demand )  is particularly critical 
+
+
+-  In such situations ,  the problem with socially embedded ties is their tendency to become too tightly bound in  limited network ,  thereby restricting  companys flow of information and resources 
+
+
+- 12 This is  consequence of the high cost of formation and exit of socially embedded ties combined with their multipurpose nature  ( with each connection typically serving more than one function )  
+
+
+-  Those two characteristics lead to relatively dense networks in which the participants form intensive relationships among themselves and avoid dealings with others 
+
+
+-  ,  In contrast ,  the single-purpose nature of virtually embedded ties  ( with each connection typically serving just one function )  leads to relatively sparse but farther-reaching networks 
+
+
+-  Through them ,  companies can engage in broad searches ,  accessing  wide range of sources to identify  variety of alternatives 
+
+
+-  Socially embedded ties ,  on the other hand ,  tend to limit companies to local searches 
+
+
+-  ,  That advantage is amply demonstrated by Central Innovations ,  which has been providing relationship management solutions to major corporate clients for the past 10 years 
+
+
+-  The companys competitive environment illustrates the kind of context in which the crucial need for outside information favors the use of virtually embedded ties 
+
+
+-  ,  At Central Innovations ,  rapid growth and  focus on the middle-tier corporate market have required the company to keep track of what is going on ,  not only in its own field of relationship management but also across the industries populated by its customers 
+
+
+-  Without  broad and fluid knowledge base ,  the firm would not be able to match its offerings to the changing business climates in which its clients compete 
+
+
+-  According to the chief technology officer of Central Innovations ,  the company is able to keep on top of those changes  ( and stay abreast of the technology in its own industry )  through  network of virtually embedded ties that connects customers ,  suppliers and partners 
+
+
+-   key element here is an online consortium that provides both customers and employees with access to  broad slate of content ,  applications and service providers that Central Innovations has identified as credible and leading edge 
+
+
+-   series of Web-based hubs for customers ,  employees and partners provides additional conduits through which new information and ideas can reach the company 
+
+
+-  ,  The Internet and other electronics and computer technologies have revolutionized the way companies and people interact with each other 
+
+
+-  But they have not rendered traditional forms of connections obsolete 
+
+
+-  Arms-length and socially embedded ties still offer distinct advantages when matched to the right competitive contexts 
+
+
+-  Most organizations should  and do  use  combination of arms-length ,  socially embedded and virtually embedded ties 
+
+
+-  But companies in different environments are likely to benefit from using different combinations 
+
+
+-  When there is  negligible risk of opportunism ,  little uncertainty and minimal complexity ,  the efficiency of arms-length ties rules 
+
+
+-  The most effective combination of embedded ties will depend on the level of industry volatility:  preponderance of socially embedded ties provides distinct advantages in markets that are stable ,  whereas virtually embedded ties are better equipped to deal with markets that are not 
+
+
+-  ,  The dynamics of external connections represent an ongoing research challenge 
+
+
+-  In the future ,   key contribution will be the detailed analysis of how companies can effectively implement and manage virtually embedded ties 
+
+
+-  Because of the newness of this type of external connection ,  people are only beginning to comprehend the resources ,  skills and strategies that are necessary to leverage it fully for competitive advantage 
+
+
+-  One key question is the amount of control that firms can exert in managing their portfolios of external connections to ensure that they have the ideal mix of virtually embedded ties working in complement with both arms-length and socially embedded ties 
+
+
+-  ,  Throughout the history of commerce ,  companies have had to strategically create ,  skillfully negotiate and carefully manage networks of connections to customers ,  suppliers ,  partners and other external parties 
+
+
+-  But the challenges  ( and opportunities )  created by the Internet and other electronics technologies have dramatically amplified the need for organizations to understand just what kind of connections are most effective and efficient given certain industry conditions 
+
+
+-  As the global economy increasingly relies on both information technologies and interorganizational networks ,  the strategic combination of arms-length ,  socially embedded and virtually embedded ties will become all the more crucial for the competitive advantage of companies 
+
+
+-  These days ,  most business-people know better than to sit down with competitors to fix prices or divide markets ,  and most are alert to the perils of pricing below cost until competitors fail 
+
+
+-  However ,  when considering core marketing issues such as distribution policy ,  line extensions or joint marketing agreements ,  or even when trying to enhance the companys good citizen image ,  they may not realize the growing likelihood of violating antitrust laws 
+
+
+-  They are especially likely to do so when their brands hold dominant market shares 
+
+
+-  ,  The issue is particularly sensitive in the United States ,  where longtime federal statutes such as the Sherman Antitrust Act are being interpreted with economic rigor 
+
+
+-  ,  While marketing practices received increased antitrust scrutiny beginning in the late 1990s ,   series of events in the early 2000s has reinvigorated the legal thinking regarding marketing concerns and antitrust 
+
+
+-  There is little debate that the new emphasis is due to significant changes in business practices concerning promotion ,  sales and distribution 
+
+
+-  The retail sectors category management is one example: There has been  shift from each supplier having its own retailer relationship for management and stocking of its products to  practice in which the retailer may entrust one supplier with operation of an entire category of merchandise 
+
+
+-  What has spurred business interest is  series of challenges to the changed practices leading to verdicts with substantial damages awarded ,  most notably theConwood case  ( discussed below )  and its billion-dollar verdict 
+
+
+-  Federal Trade Commission ,  have begun to scrutinize retail practices such as category management and slotting allowances 
+
+
+-  Academics have also renewed their interest in the topic ,  in large part spurred by the cases mentioned above 
+
+
+-  In sum ,  as the marketing world has changed ,  antitrust lawyers ,  scholars ,  enforcement officials and especially competitors affected by these changes have scrambled to understand how the new practices affect competition 
+
+
+-  ,  The lesson here is that the degree to which  company dominates  market may dictate the degree to which the practices in which it engages are illegal 
+
+
+-  We have chosen to underscore that principle by offering five concrete examples of marketing practices that have given rise to antitrust liability ,  the threat of liability or litigation resulting in settlement 
+
+
+-  The examples we have selected are usually the pivotal cases in their fields 
+
+
+-  Our goal is to bring the risks to life and suggest implications for managers decisions 
+
+
+-  As  crucial first step ,  it is helpful to understand how antitrust enforcement agencies and the courts undertake analysis to decide whether particular conduct violates antitrust laws 
+
+
+-  ,  The actions of dominant companies may spur antitrust concern based on their intent or on the effects of those actions in eliminating competitors ,  expanding the companies dominance in particular markets or expanding their dominance to other markets 
+
+
+-  They may also spur such concern if they injure the interests of consumers by raising prices ,  limiting choices or reducing innovation 
+
+
+-  It is reasonable to ask whether such actions would be illegal regardless of company dominance  ( certainly ,  they might be )  ,  but antitrust enforcement agencies will employ  specific two-step analytical process to examine the conduct of dominant companies 
+
+
+-  First ,  the concentration of the relevant market will be considered 
+
+
+-  If the market is determined to be unconcentrated ,  then ,  with  few obvious exceptions ,  the analysis will stop 
+
+
+-  ,  Obviously ,   crucial step in the analysis is the determination of the relevant market in terms of both its geographic and product boundaries 
+
+
+-  They may believe they need not worry because they can point to  wide range of competitors ,  but antitrust analysis may define the market more narrowly 
+
+
+-  )  From an antitrust analysts viewpoint ,  the primary purpose of defining markets is to determine whether the conduct in question harms or will harm competition 
+
+
+-  The lesser the degree of market concentration ,  the greater the effect the conduct must have in order to injure markets 
+
+
+-  The more concentrated the market ,  the more likely the injury to competition  even when the acts seem innocuous to managers 
+
+
+-  ,  When an antitrust enforcement agency decides that  market is concentrated ,  it will continue its analysis to determine the extent to which the concentration is  problem 
+
+
+-  First ,  its method of calculating market shares8 recognizes the importance of differences in the relative size of the markets participants  if  market has one dominant leader ,  for example ,  smaller competitors may merely follow the behavior of that leader 
+
+
+-  The crucial point is that market shares are thebeginning of most antitrust analyses ,  and while dominance need not indicate an antitrust problem ,  lack of dominance in many instances is likely to preclude it 
+
+
+-  ,  Once dominance has been determined ,  antitrust analysis focuses on how  company mightexercise market power 
+
+
+-   current example is the Procter  Gamble Co 
+
+
+- 10  ( At press time ,  the acquisition was partway through the Federal Trade Commissions review process 
+
+
+-   to become as essential to the retailers as the retailers now are to them 
+
+
+-  However ,  it may be determined that the combined corporation has dominance in some health and beauty aids categories and that such dominance might be enhanced by the combined companies role as category captain ,  among other things 
+
+
+-  As  vendor gains power ,  it may use its leverage not only against retailers but also against its smaller competitors ,  for example ,  by elevating the costs to retailers of doing business with the smaller vendors 
+
+
+-  The effects of such exclusionary conduct might include increased prices to consumers ,  fewer choices and reduced innovation 
+
+
+-  The purpose of the antitrust laws ,  and the role of the enforcement agencies ,  is to prevent and restrain practices that ,  in some cases ,  may lead to such consequences 
+
+
+-  ,  In general ,  the responses of federal and state antitrust agencies and private plaintiffs have lagged the marketing initiatives of the business world 
+
+
+-  But the message of the discussion presented here is that they are rapidly closing the gap ,  and activities that have become part of the repertoire of marketing managers are coming under far more scrutiny from antitrust regulators 
+
+
+-  Clearly ,   tension exists between the need to compete effectively  aggressively ,  even  and the need for caution concerning antitrust ,  and excellent marketers learn to keep both perspectives in mind simultaneously 
+
+
+-  Such  dual perspective is gained most easily by examining antitrust decisions and by subsequent discussion of approaches to anticipating and preventing antitrust problems 
+
+
+-  Following are examples of five different danger spots 
+
+
+-  ,  Category management is  well-known method employed by retailers to maximize profits by managing categories of competing product brands as strategic business units ,  allocating shelf space to various sizes and types of each brand 
+
+
+-  Sometimes an employee of the retailer assumes this role and will consult with suppliers ,  whose data concerning consumer preferences and past buying patterns will suggest priorities for prime shelf space 
+
+
+-  More often ,  though ,  the category-captain role will be delegated to such  supplier ,  and this is where antitrust issues are surfacing 
+
+
+-  If the supplier then abuses its position ,  the outcome can be very serious ,  as managers at one moist tobacco supplier found out 
+
+
+-  The moist tobacco  ( snuff )  category ,  at issue in the recent case ofConwood Co 
+
+
+-  United States Tobacco Co 
+
+
+-  , 12 is one in which point-of-sale promotion is particularly important ,  given the laws regulating use of tobacco and its advertising 
+
+
+-  of Greenwich ,  Connecticut ,  maker of the well-known Copenhagen and Skoal brands ,  enjoyed 100% of the snuff market until the 1970s ,  when competitors ,  including Conwood Co 
+
+
+-  LP ,  of Memphis ,  Tennessee ,  entered the market with lower-priced brands ,  driving United States Tobaccos market share down to 77% by 2000 
+
+
+- 13 Conwood makes brands such as Levi Garrett and Kodiak 
+
+
+-  ,  United States Tobacco played the role of category manager in many stores ,  including Wal-Mart ,  and that role formed the basis for legal action alleging that the company misused its position 
+
+
+-  First ,  Conwood alleged ,  United States Tobacco provided misleading information to retailers about how competitive brands were selling 
+
+
+-  Second ,  United States Tobacco initiated  Consumer Alliance Program  ( CAP )  ,  offering retailers   
+
+
+- 3% discount for providing United States Tobacco with sales data ,  participating in its national sales programs and giving the best placement to United States Tobacco racks where competitive racks were present 
+
+
+-  Third ,  Conwood alleged that United States Tobacco entered into exclusivity agreements with some stores so that its racks were the only ones displayed 
+
+
+-  Conwood also charged that United States Tobacco sales personnel removed Conwoods point-of-sale displays ,  in some cases literally breaking them up ,  and that the tobacco leader paid bonuses to its employees based on the number of Conwood racks they removed 
+
+
+- 14 ,  Testimony showed severe anticompetitive effects on Conwood and on consumers  and revealed some very colorful statements by United States Tobacco staff 
+
+
+-  )  From 1997 to 2000 ,  Conwoods Wal-Mart market share declined from 12% to  
+
+
+- 5% ,  and for every 10% increase in United States Tobacco shelf facings ,  snuff prices increased by  cents 
+
+
+-  Over 37 , 000 retailers signed up for United States Tobaccos CAP program ,  accounting for 80% of all the firms snuff sales nationwide 
+
+
+-  As Conwood lost shelf facings ,  consumers were left with fewer snuff options ,  particularly for lower-priced brands 
+
+
+-  On appeal ,  the Court of Appeals for the Sixth Circuit concluded in part that misuse of the category manager position ,  exclusive rack agreements and United States Tobaccos other conduct were part of predatory conduct and not merely isolated tortious activity 
+
+
+-  United States Tobacco had market power in the snuff market and used that power to entrench its position 
+
+
+-  While some of the tobacco corporations conduct could be challenged under tort law ,  the effect of anantitrust challenge against United States Tobacco was to award Conwoodtreble damages 
+
+
+-  Supreme Court declined review ,  leaving United States Tobacco with  $350 million jury verdict that was trebled because of the antitrust violation to $1 
+
+
+- 05 billion17 almost twice the net earnings of the company today 
+
+
+-  ,  Nobody is contending that snuff is  typical category in terms of the importance of in-store displays; legal restrictions on advertising and sales promotion for tobacco products make such displays particularly critical 
+
+
+-  But there is no reason to assume that category leaders in other product areas cannot face successful lawsuits for behavior that could be viewed as anticompetitive 
+
+
+-  ,  Discounts to retailers clearly were part of the problem inConwood 
+
+
+-  However ,  even where discounts are not tied to the exclusive distribution of the brand offering them ,  they can lead to antitrust problems if they provide incentives for retailers to favor the dominant companys products over those of its competitors 
+
+
+-  One recent example comes from the transparent tape market 
+
+
+- s Scotch brand held 90% of the market in the early 1990s ,  but buyers were increasingly purchasing private-label or second brand transparent tape supplied by LePages Inc 
+
+
+- 18 ,  To counter LePages ,  3M offered bundled rebates to retailers while simultaneously entering the private-label tape market 
+
+
+-  These were not volume discounts 
+
+
+-  Rather ,  the discounts were dependent on purchases of other 3M product lines  ( health care ,  home care ,  home improvement ,  home office supplies and retail automotive ,  for example )  
+
+
+-  The size of the rebate 3M offered was  function of the number of product lines in which retailers met customer purchase targets 
+
+
+-  Moreover ,  if  retailer failed to meet the target in any one line ,  including transparent tape ,  it would lose the rebate inall categories 
+
+
+-  Wal-Mart ,  for example ,  stood to gain $1 
+
+
+-  million by meeting 3Ms targets in all of the companys product lines that it sold 
+
+
+-  ,  The evidence suggested that 3M only entered the private-label tape market to kill it 
+
+
+-  As an internal memorandum from one 3M executive stated ,  I dont want private-label 3M products to be successful in our office supply business ,  its distribution [channels] or with our consumers/end users 
+
+
+- 20 ,   jury awarded damages of $68 , 486 , 697  ( the amount after trebling )   almost 15% of the 3M Consumer and Office Business units operating income in 2000 
+
+
+-  On appeal ,  the Court of Appeals for the Third Circuit concluded that rebate bundling ,  even if above cost , 21 may exclude equally efficient rivals from offering product  ( in this case ,  tape )  
+
+
+-  The appeals court ruled that there was sufficient evidence of predatory conduct under Section  of the Sherman Act and upheld the jurys finding that 3Ms conduct violated Section  of the Sherman Act and Section  of the Clayton Antitrust Act 
+
+
+-  )  ,  The lesson from 3Ms loss is that dominant marketers that use discounts to leverage market power from one product category to another are likely to violate the antitrust laws 
+
+
+-  Such discounts can be perceived as making it extremely difficult for competitors to obtain shelf space for their products or to implement promotions at the retail level 
+
+
+-  ,   joint marketing program can become  problem for  dominant company 
+
+
+-  Companies may enter into these agreements because of the potential efficiencies of doing so ,  but the agreements can be extremely difficult to terminate where there is  size disparity between the collaborators 
+
+
+-  However ,  the problem is not with marketing jointly with another company in the first place; at issue is whether  programs later cancellation has the purpose or effect of restraining price competition 
+
+
+-  Supreme Court caseAspen Skiing Co 
+
+
+-  owned one ski facility in Aspen ,  Colorado 
+
+
+-  At that time  the 1970s  the companies offered  joint marketing product ,  the All-Aspen ticket ,  which gave skiers from one resort access to the other three resorts without having to purchase additional tickets 
+
+
+-  ,  The ticket had been created at  time when numerous competitors operated the ski facilities at Aspen ,  but those competitors were being slowly acquired by Aspen Skiing Co 
+
+
+-  Aspen Skiing then discontinued the All-Aspen ticket ,  choosing to market  ticket that allowed access only between its own facilities and excluded access to the resort of its only remaining competitor ,  Aspen Highlands 
+
+
+- 25 Perhaps equally important ,  the court noted that consumers were injured by the elimination of the ticket 
+
+
+-   marketing expert for the plaintiff noted that skiers are looking for  variety of skiing experiences ,  partly because they are going to be there for  week and they are going to get bored if they ski in one area for very long; and also they come with people of varying skills 
+
+
+-  They need some variety of slopes so that if they want to go out and ski the difficult areas ,  their spouses or their buddies who are just starting out skiing can go on the bunny hill or the not-so-difficult slopes 
+
+
+- 26 The marketing expert also testified that consumers sought to ski all four mountains ,  and the abolition of the all-Aspen ticket made such an endeavor more difficult 
+
+
+-  ,   recent Supreme Court decision involving  joint marketing initiative has describedAspen Skiing as at the outer boundary of antitrust liability 
+
+
+- 27 While the courts recent decision inVerizon Communications Inc 
+
+
+-  Trinko limits the applicability ofAspen Skiing , 28 it also sends the signal that if  company with market power terminates  joint marketing program without  legitimate business justification ,  that company risks incurring significant antitrust liability 
+
+
+-  ,  Another possible violation of the Sherman Act involves the failure to disclose the holding of  patent while simultaneously promoting the technology contained in that patent to an organization responsible for setting industry standards 
+
+
+-  Typically ,   private organization will promulgate voluntary consensus standards to promote common interfaces between substitute products; such voluntary consensus standards are usually then codified by both industry and government 
+
+
+-  ,  Simply interpreted ,  standards-setting can be pro-competitive 
+
+
+-  It may increase price competition ,  as it makes products easier for consumers to compare and contrast 
+
+
+-  It also allows for greater compatibility and interoperability ,  enabling suppliers to compete in producing products and services related to the underlying standard technology 
+
+
+- 29 ,  However ,  the marketing of technology before  standards-setting organization was raised in the 2003 complaint by the Federal Trade Commission against the Union Oil Company of California 
+
+
+-  ,  had subverted state regulatory standards-setting proceedings by making misrepresentations before the standards-setting body that were designed to enhance Unocals competitive position in the market 
+
+
+-  ,  The California Air Resources Board ,  or CARB ,  had initiated rule-making proceedings in the 1980s to establish regulations and set standards concerning low-emission ,  reformulated gas 
+
+
+-  Unocal had participated in the rule-making proceedings 
+
+
+-  The FTC alleged that Unocal monopolized ,  attempted to monopolize and engaged in unfair methods of competition 
+
+
+- 30 Unocal ,  anticipating that CARB would initiate rule making to regulate the properties of gasoline in California to reduce emissions ,  had devised  research project to determine the relationship between the various properties of gas and how they affect auto emissions 
+
+
+-  Unocal made several discoveries with respect to eight fuel properties and in the late 1980s filed patent applications covering their invention and discovery 
+
+
+-  ,  The point contended by the FTC was that Unocal shared the data with CARB ,  representing the information as nonproprietary and in the public domain ,  but when CARB adopted standards based upon the data ,  Unocal revealed its patent and sought royalties from its competitors 
+
+
+-  During the 1990s ,   group of California refiners had been unsuccessful in  suit to invalidate Unocals patent ,  but in 2003 ,  the FTC challenged Unocals conduct 
+
+
+-  The Commission asserted that Unocal had made its representations to CARB with the purpose of inducing regulators to use information supplied by Unocal so that Unocal could realize the huge licensing income potential of its pending patent claims 
+
+
+- 31 The case is currently before an administrative law judge 
+
+
+-  ,  New legislation  the Standards Development Organization Advancement Act of 2004  protects standards-setting organizations from antitrust scrutiny to some degree  ( and from the threat of treble damages )  by requiring the courts to consider the pro-competitive benefits of standards-setting activities 
+
+
+-  However ,  the act provides immunity only to the standards-setting organization itself; its members face full antitrust liability for their conduct 
+
+
+-  The driving principle is that the operations of standards-setting organizations pose unique opportunities for abuse of intellectual property 
+
+
+-  If the agency or court finds that such conduct violates the antitrust laws ,  the result could be that the patents cannot be enforced 
+
+
+- 32 ,  Unocal is by no means the only company to have attempted such  strategy 
+
+
+-   series of recent and well-publicized cases have found standards-setting participants liable for antitrust violations 
+
+
+-  Just one example: The FTC negotiated  consent decree with the computer company Dell Inc 
+
+
+-  concerning allegations substantially similar to those made in the Unocal case 
+
+
+- 33 The lesson is that marketing of patented technology to  standards-setting organization should be done with maximum openness 
+
+
+-  ,  While our discussion thus far has emphasized market dominance by  single company and the perils of aggressive marketing tactics ,  antitrust exposure can likewise occur when companies act with benign intent in combining to dominate  market 
+
+
+-  Any manager might consider ,  for example ,  the surprise of the chancellor of the University of Wisconsin when ,  in the 20032004 academic year ,  his community initiative backfired 
+
+
+-  Concerned about the amount of alcohol drinking on and around the schools Madison campus ,  the chancellor gathered local tavern owners together and asked for their help to solve the problem 
+
+
+-  The owners conferred and offered  solution: They would eliminate bargain-rate happy hours in an effort to reduce the level of alcohol consumption 
+
+
+-  ,  On the face of it ,  such  scenario deserves applause ,  since it was clearly intended to promote the common good 
+
+
+-  The legal perspective was quite different 
+
+
+-  Because the tavern owners effectively had collaborated to set new ,  higher prices for alcoholic drinks ,  their initiative was alleged to be  per se violation of Section  of the Sherman Act by students who filed  lawsuit 
+
+
+-  Although the case was dismissed ,  the legal challenge itself had consequences 
+
+
+-  As one tavern owner put it ,  Its cost us so much money to defend this thing 
+
+
+-  Why does it cost so much to get  silly problem like this solved?34 ,  The tavern owners may have been fortunate 
+
+
+-  The Supreme Court has made it quite clear that good intentions do not matter in an antitrust case 
+
+
+-  In applying the rules ,  the Court has consistently rejected the notion that naked restraints of trade are to be tolerated because they are well-intended or because they are allegedly developed to increase competition ,  noted the court in the 1972 case ofU 
+
+
+-  Topco Associates Inc 
+
+
+- 35 In the University of Wisconsin case ,  allegedly the small businesses had collectively been able to act like  large business 
+
+
+-  Practically speaking ,  they now dominated their relevant market  defined as the sources of alcoholic beverages within  short radius of the Madison campus  and had effectively raised prices as  result of their collaboration 
+
+
+-  ,  The Sherman Act was designed in 1890 to prevent and restrain conduct that lacks any purpose other than the destruction of  competitor ,  the restriction of output ,  the increasing of price or the elimination of consumer choice 
+
+
+-  The law is increasingly being interpreted in ways that have  direct bearing on  range of marketing initiatives 
+
+
+-  The upshot for marketing managers ,  then ,  is to thoroughly re-evaluate each move to increase market share in terms of its potential to incur as many long-term risks as rewards 
+
+
+-  ,  As has been argued elsewhere ,  becoming No 
+
+
+-   in market share is  sensible and worthy goal ,  and one that gets no argument from shareholders 
+
+
+-  For companies that sell through retailers ,  highest-share products are least likely to lose battles for shelf space 
+
+
+-  Also ,  businesses that purchase what others will consume are likeliest to select the leading brand ,  whether the buyer is an airline selecting packaged snacks or  hotel choosing audiovisual equipment 
+
+
+- 36 ,  However ,  once leading-brand status has been achieved ,  it makes sense to consider the way in which antitrust evaluations are made and to rethink market share goals in light of the antitrust risks 
+
+
+-  Marketing managers often want to be evaluated based on market-share targets ,  because even in  shrinking product category they can raise share and perhaps qualify for bonuses despite  sales decline in absolute terms 
+
+
+-  However ,  for top management ,  gaining dominant market share should function like  blinking red light does to  driver  as an indication to stop and take  good look around 
+
+
+-  Issues deserving much more scrutiny include not only the way that goals are stated but also  range of marketing practices  ( either under way or contemplated )  and  deeper awareness of antitrust risks among employees at all levels 
+
+
+-  ,  In considering marketing practices ,  it is useful to reiterate managements obligation to juxtapose antitrust risks with the urge to compete successfully 
+
+
+-  Managers rarely believe that the conduct in which they are engaging is wrong ,  even when their company clearly dominates the market 
+
+
+-  Each competitor is viewed as  threat ,  and the reflexive response  supported by everything from compensation incentives to sales-force structure and marketing communications strategies  is to undercut the competitor rather than revisit alternatives such as raising the value of their own brand 
+
+
+-  ,  Such alternatives should be prompted at the strategic level of any company with one or more products that enjoy dominant share 
+
+
+-  Strategic approaches ,  such as line extensions as  method of gaining shelf space or brand extensions as  substitute for  focus on market share ,  need support at the highest levels; the mechanisms and corporate processes that underpin those approaches must be examined in detail in terms of their risks of breaching antitrust laws 
+
+
+-  If managers are evaluated only on share-point gains ,  they will naturally focus on such gains ,  especially if they have an overly narrow or outdated view of the risks of their approaches 
+
+
+-  ,  At  more tactical level ,   renewed consideration of antitrust risk should prompt specific actions by managers of companies that enjoy dominant market share 
+
+
+-  Consider the example of  supplier that has been granted the category-captain role by  large retail chain 
+
+
+-  The appointment by that retailer of  validator   competing supplier that in effect looks over the shoulder of the category manager  is common ,  although not universal 
+
+
+-  If the retailer does not make such an appointment ,  it would be prudent for the category-captain supplier to suggest such  role for one of its competitors 
+
+
+-  It is difficult to imagine that the actions that led to the decision inConwood would have taken place if Conwood employees had been reviewing the data associated with United States Tobaccos category-captain decisions 
+
+
+-  ,  Another area for prevention involves formal and informal training in antitrust issues 
+
+
+-  The aim of such training should not be to make managers astute evaluators of what is illegal but to sensitize them to the fact that many actions they would consider aggressive marketing might now be interpreted as violations of antitrust laws 
+
+
+-  The potential for liability is enormous in dominant companies ,  as the cases previously highlighted have emphasized 
+
+
+-  In addition to substantial fines ,  possible legal remedies include divestiture of assets that are important in exploiting market power and conduct remedies that forbid engaging in certain practices 
+
+
+-  ,  However ,  training will have fully met its objective only if employees demonstrate their awareness of what not to do by changing their behavior accordingly 
+
+
+-  When the senior management of large international oil companies was entirely male ,  the attorneys at one major corporation gave this blunt advice in the effort to avoid any hint of price-fixing with competitors: If youre with any competitors and anybody starts talking about prices ,  you dont just leave ,  you drop your pants first 
+
+
+-  The company since has updated the advice for  world with female managers by suggesting ,  Spill  cup of coffee as youre leaving 
+
+
+- 37 ,  Another key question is more challenging: How do managers avoid writing memos and e-mails that may be used in court against their own company? Internal documents provide  clear threat if employees use them to demonstrate how vigorously they are attacking competitors 
+
+
+-  InConwood ,  the court saw considerable documentary evidence of predatory conduct 
+
+
+-  ,  The idea ,  of course ,  is not that managers should scale back on communicating 
+
+
+-  But they do need to think through what they communicateand what their subordinates communicate 
+
+
+-  Managers who think that damaging messages would never be sent or could not be recovered from e-mail are advised to look carefully at the evidence inConwood 
+
+
+-  Although courts typically discount marketing documents heavily because the documents tend to be overly exuberant and may not fully reflect company policy ,  such documents will not be discounted if the practices discussed in them have come to fruition or if they chronicle the effects of such policies 
+
+
+-  ,  IT IS IMPERATIVE TO emphasize the discussion of the roles that dominant companies play in  market38 and to understand the restrictions that the Sherman Act places on such roles 
+
+
+-  The examples cited in this article have ,  we hope ,  helped to bring home the issue of antitrust risk for managers whose competitive instincts and incentives have kept the issue in the background 
+
+
+-  It is encouraging to hear of some companies that already take the issue seriously enough to conduct annual antitrust audits ,  bringing in outside experts who train their managers and evaluate their marketing activities and results 
+
+
+-  Yet there is obviously much more to the issue than  training course or an evaluation exercise here and there 
+
+
+-  ,  Perhaps the most fundamental requirement is that managers begin to look at their competitive tactics  and at the business strategies and processes that support those tactics  through the eyes of antitrust regulators 
+
+
+-  In the agencies view ,  it is typically not the mouse frolicking across the competitive field that is the problem  it is the elephant undaintily stomping everything in its path 
+
+

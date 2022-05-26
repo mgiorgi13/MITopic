@@ -580,3 +580,1143 @@
 -   general manager offered an analogy that is worth remembering in this context:
 
 
+-  international industrial competitiveness ,  driven by our continuing enormous balance of payments deficit ,  has tended to focus media and political attention during the 1980s on manufacturing 
+
+
+-   torrent of books and articles has inundated business managers ,  offering guidance on how to improve manufacturing performance 
+
+
+-  Terms like world class manufacturing and dynamic manufacturing sprinkle discussions in college classrooms ,  corporate boardrooms ,  and the halls of Congress 
+
+
+-  The concept of manufacturing strategy ,  considered somewhat esoteric only  few years ago ,  gets increasing attention from both top managers and academics 
+
+
+-  This less visible battlefield is that huge ,  ill-structured arena called the service sector ,  which employs 76 percent of our workforce and accounts for 68 percent of our real GNP 
+
+
+-  It is also ,  unfortunately ,   sectorcomprising activities such as banking ,  engineering ,  transportation ,  communication ,  and myriad otherswhose trade surplus went negative for the first time in mid-1989 and is now barely in the black 
+
+
+-  ,  We have no quarrel with the assertion that the United States needs  strong manufacturing base in order to maintain and improve its standard of living 
+
+
+-  Just as our machine tool and semiconductor industries should have studied the successful attacks of foreign steel ,  auto ,  and consumer electronics producers on our domestic market-and prepared themselves for similar onslaughtsso should our service industries study and learn from our manufacturing sectors decline 
+
+
+-  Those manufacturing firms that have remade themselves or sustained their leadership position have shared  common approach: they have focused attention on their most important markets and then mobilized their operations organization ,  through  well-planned strategy ,  to squarely meet those markets needs 
+
+
+-  ,  In this article we will discuss how to make operations in service organizations more competitive 
+
+
+-  Our key conclusions are that service firms ,  like manufacturing firms ,  can structure their operations according to  four-stage model of competitiveness and that they can apply the manufacturing strategy concepts of ocus and integration as they move from lower to higher stages 
+
+
+-  ,  Service firm management ,  especially of operations ,  is best understood within the context of three key constructs 
+
+
+-  ,  The strategic service vision is the logically organized plan for implementing new businesses and ideas 
+
+
+-  It consists of four elements:  target market  ( Who is our intended customer? )  ,   service concept  ( What are the most important elements of our service from the customers perspective? )  ,   competitive strategy  ( How will we differentiate ourselves from our competitors? )  ,  and  service delivery system  ( How will we provide this differentiated service? )  
+
+
+-  ,  The vision focuses on the customers perceived value of the service 
+
+
+-  To remain competitive ,   service firm must consistently meet or exceed customers expectations of valuethe price they pay relative to the quality and convenience of the service they receive 
+
+
+-  Amenities are add-ons that are not essential to the core service but that might sway  customers buying decision 
+
+
+-  ,  An airlines core service ,  for example ,  is getting someone from one place to another 
+
+
+-  As  general principle ,  the firm must provide basic competency in core and peripheral services to survive 
+
+
+-  Put another way ,  the core and primary peripheral services define the lower limit of customer expectations about performance 
+
+
+-  One sphere is the service encounter or cycle of encounters between the customer and the organization 
+
+
+-  These involve such tasks as processing paperwork ,  cooking  restaurant meal ,  or taking baggage off of  plane 
+
+
+-  These latter activities are analogous to the production processes in the factory working on things rather than people 
+
+
+-  The existence of these two spheres of activity and ,  more important ,  the emphasis on the encounter as the core output function in most service organizations are what differentiate services from manufacturing 
+
+
+-  The extent to which value is added in the front office rather than the back office often distinguishes one service business from another and determines structure and staffing of the operations organization itself 
+
+
+-  ,  Regardless of  firms particular competitive strategy ,  senior management needs some framework for relating operations activities to the firms overall service performance 
+
+
+-  The final and most compelling reason ,  in our opinion ,  is to provide  current perspective and future vision that can be communicated to the organizations members 
+
+
+-  The questions where are we now? and where do we want to be? are more easily answered if they can be related to even  rough performance classification 
+
+
+-  ,  The classification we propose for addressing these issues is the four-stage scheme depicted in Table  
+
+
+-  Accompanying each stage are the management practices and attitudes that ,  based upon our experience ,  generally indicate how service firms at each stage deal with key operations issues 
+
+
+-  ( An analogous framework ,  developed by Wheelwright and Hayes ,  is widely used to analyze the role of operations in strategy development for manufacturing firms 
+
+
+-  )  ,  Before discussing the stages ,  we must consider two issues 
+
+
+-  First ,  the stage attained by  firm at any given time is  composite 
+
+
+-  Every service delivery system embodies  unique set of choices about such factors asservice quality ,  role of the back office ,  workforce policies ,  and the like 
+
+
+-   company may fall at  different point along the continuum for each category or have some organizational units that are further or less advanced than others 
+
+
+-  Thus  firm can achieve Stage  or possibly Stage  status ,  even if it is not outstanding on all dimensions ,  providing that it is clearly superior on the critical success factors for its industry 
+
+
+-  An example here is UPS ,  whose mastery of its core service ,  through its technology and back office capabilities ,  enables it to go global and compete effectively on price 
+
+
+-  Thus ,  in our view ,  it averages out to  Stage  company 
+
+
+-  ,  Second ,  it is difficult ,  if not impossible ,  for  company to skip  stage in its quest for world class status 
+
+
+-   company obviously must achieve journeyman performance levels before it achieves distinctive competence ,  and distinctive competence is  necessary foundation for becoming world class 
+
+
+-  This does not mean that  company cant pass through  stage in  relatively short time ,  however 
+
+
+-  Scandinavian Airlines Systems  ( SAS )  moved from Stage  to Stage  in about  year and  half After Suffering  huge operating loss in fiscal year 19791980 ,  its CEO ,  Jan Carlzon ,  instituted  program involving some 120 service improvements designed to help it become the airline of choice for its selected target market ,  the full-fare business passenger 
+
+
+-  The improvements focused on achieving exceptional on-time performance and excellent service by all personnel 
+
+
+-  By January 1982 ,  SAS had the best on-time record in Europe ,  and in August 1983 ,  Fortune named it the best airline for business travelers in the world 
+
+
+-  ,  At the same time ,  companies can very easily slide back  stage 
+
+
+-  This can come about gradually ,  typically from losing touch with the market ,  or overnight as the result of  widely publicized service failure 
+
+
+-  An example of  gradual decline is that of Sears ,  whose complacency and bureaucratization have made them play catch-up in everything from pricing to customer service 
+
+
+-  An example of an overnight downfall is the case of the Los Angeles Police Department ,  which was nationally recognized as  leader in policing practices prior to the Rodney King incident in the spring of 1991 
+
+
+-  Even when  company has developed  clearly defined new service delivery system and debugged it on  pilot basis ,  getting it operational can involve months of retraining ,  extensive systems work ,  and so forth 
+
+
+-  Woolworth takes  couple of years to test its new store concepts; Burger King runs extensive experiments in its R&D lab 
+
+
+-  ,  Often ,  people assume that new technology will put them on the fast track through the four stages 
+
+
+-  However ,  we know of no firms that have leapfrogged  stage solely by relying on  new technology 
+
+
+-   new fleet of planes ,   new telecommunications system ,  or  new point-of-sale scanning system may be necessary for upstaging ,  but innovation cant do the job overnightor alone 
+
+
+-  For example ,  while American Airlines and the American Automobile Association have achieved their dominant industry positions through aggressive use of information technologies ,  effective integration required major managerial and procedural refinements over the course of many years 
+
+
+-  Fields Cookies computerized point-of-sale inventory tracking system worked because appropriate infrastructures were already in place 
+
+
+-  ,  Service firms that fall into this category tend to consider their operations organizations necessary evils 
+
+
+-  They often see operations mission as almost totally reactive: to deliver the service that some other person or group in the company has defined and to deliver it in the manner specified 
+
+
+-  Thus management pays little attention to how other firms ,  whether direct competitors or not ,  design and manage similar service delivery systems 
+
+
+-  The company makes little investment in specialized equipment ,  and it staffs operations with people who have marginal skillsand who are therefore willing to work for relatively low wages 
+
+
+-  Constantly looking at the bottom line ,  management designs operations jobs that require little skill or creativity ,  and it provides almost no training 
+
+
+-  Few people advance out of operations into another function or into general management ,  so operations tends to be regarded as  dead end 
+
+
+-  Moreover ,  because operations employees acquire only limited skills in their jobs ,  they seldom can achieve major advancement by transferring to other companies 
+
+
+-  Ironically ,  as in the case of the banking industry ,  efforts to cut labor costs frequently result in higher total costs because of the need to fix quality problems 
+
+
+-  Therefore ,  after maintaining  sheltered existence for some time ,  Stage  firms often find themselves coming into direct competition with other companies that offer similar services in the approximate geographic area 
+
+
+-  No longer can they simply ask operations to get the job done; they must seek feedback from their customers on the relative cost and perceived quality of their service ,  and ensure that they are not penalizing themselves unduly through idiosyncratic approaches ,  such as odd business hours or complicated credit procedures 
+
+
+-  ,  Over time ,  such companies operations organizations tend to look more and more like those of their competitors 
+
+
+-  They build similar facilities ,  use similar equipment and systems  ( often purchased from the same equipment or software suppliers )  ,  purchase materials or ancillary services from the same suppliers ,  adopt similar management practices ,  and routinely even hire workers and managers from competing firms 
+
+
+-  Such people blend into their new environment almost immediately because it is so much like their previous one ,  and even use many of the same procedures 
+
+
+-  Line managements role is to ensure that workers faithfully follow the procedures established by top management; improvisation is not encouraged 
+
+
+-  ( Stage  companies ,  like Stage  companies ,  are not big on worker empowerment 
+
+
+-  )  ,  In effect ,  companies that have adopted  Stage  approach have agreed not to compete against each other in terms of operations effectiveness; they all operate essentially the same way 
+
+
+-  Penney and Montgomery Ward? )  Instead ,  they compete ,  often quite vigorously ,  along other dimensions: breadth of product line ,  advertising ,  and financial incentives 
+
+
+-  Management still regards operations employees as specialists ,  and therefore they have limited upward mobility 
+
+
+-  They do have more mobility between firms ,  however ,  and as  result begin to acquire an industry orientation 
+
+
+-  In fact ,  their allegiance to their industry profession ,  often quite narrowly defined ,  usually surpasses their allegiance to the particular company they happen to work for at any given time 
+
+
+-  ,  In summary ,  the challenge confronting Stage  firms is keeping pace with competitors that do just as good  job in the core service and that raise the ante by excelling on service quality or by providing peripheral services that have real value to the customer 
+
+
+-  This problem faces upscale retail department stores such as Bullocks ,  Saks ,  and Robinsons ,  in the wake of Nordstroms legendary customer service 
+
+
+-  An equally effective service system may take months or years to duplicate 
+
+
+-  It is  fragile structure in which the competitive edge is often the invisible internal capabilities and organizational culture rather than the visible Steinway Grand on the mezzanine 
+
+
+-  ,  In  Stage  firm ,  senior management has  clear vision of what creates value in the customers eyes ,  and it designs operations carefully to deliver that value 
+
+
+-  The burden fell on virtually every part of the operations organization to convert this vision into reality ,  which it did with great success 
+
+
+-  ,  The operations organization in  Stage  firm also reflects  coherent operations strategy ,  that is ,  making consistent choices for each element in Table  relative to price ,  quality ,  flexibility ,  and convenience objectives 
+
+
+-  Relative to service quality ,  for example ,  operations is the typical advocate of  Total Quality Management philosophy ,  and it assumes the lead role in implementing service guarantees and service enhancing technologies ,  and fostering worker empowerment 
+
+
+-  Federal Express is probably the classic example of  company that relies on its operations personnel to push ,  as well as execute ,  actions in these three areas 
+
+
+-  First Interstate Bank of California ,  for example ,  spent three years shaping up its back office operations and its branch operations before it launched its five-point service guarantee 
+
+
+-  It encourages all of its employees to learn multiple jobs in order to prepare themselves for advancement and to appreciate the problems and jobs of the other guy 
+
+
+-  ,  The challenge for operations ,  and for the whole firm at this stage ,  is to assure that the operations strategy remains supportive of the rest of the company ,  particularly marketing 
+
+
+-  At the same time ,  sales ,  marketing ,  and product development must be open to new service initiatives that operations personnel propose 
+
+
+-  ,  The ultimate stage represents an apparently natural extension of Stage  ,  but  traditionally managed company will probably find this the hardest transition of all 
+
+
+-  The company must develop the capabilities and credibility of its operations organization to the point where operations becomes proactive ,  forcing higher performance standards on the whole company ,  identifying new business opportunities ,  and helping redefine the firms competitive strategy 
+
+
+-  Rather than simply investigating customer needs and attempting to fulfill them ,  Stage  companies  (  
+
+
+-  The company bases its performance standards not on its own historical achievements ,  but on the performance achieved by its best competitors around the world ,  that is ,  it does competitive benchmarking 
+
+
+-  It designs controls and rewards to motivate continuous improvements upon those standards ,  and it gives employees the tools and training to achieve them 
+
+
+-  NYNEX ,  for example ,  offers its employees the Chairmans Award for World Class Service and provides extensive training in process management to help them attain it 
+
+
+-  ,  The companys view of technology undergoes  similar transformation 
+
+
+-  Rather than being simply  means for cutting costs and removing people ,  it becomes  potential means for developing competitive advantage ,  making it possible for the organization to do things its competitors cant do 
+
+
+-  The company worries less about technological risk than about losing the first mover advantage 
+
+
+-  For example ,  some leading firms have adopted an informate and automate strategy to let the customer know vital information and to facilitate the servers job 
+
+
+-  Hertz has established business centers at some airports that are equipped with flight monitors providing the latest information on airline schedules and departure gates ,  and handouts that provide driving directions in five languages 
+
+
+-  Faster service is facilitated by personnel using hand-held computers to print receipts in the parking lot so that customers dont have to go to the counter when returning cars 
+
+
+-  ,  Workers in Stage  companies become company men and women in the best sense 
+
+
+-  They are Marriott people ,  Southwest Airlines types ,  and Home Depot folks 
+
+
+-  Their identity with the company they work for often matches or even exceeds that with their alma mater or hometown team 
+
+
+-  Like production employees of world class manufacturers  ( the Millikens ,  Xeroxes ,  and Motorolas )  ,  operations employees of world class service firms ,  no matter what their job ,  know they are working someplace special and doing something valued by the company 
+
+
+-  Indeed ,  just as the Honda janitor sweeping the floor is building cars ,  the Disney Maintenance Host sweeping the lot is helping the guests enjoy their day at the Park 
+
+
+-  ,  Of course ,  managers of such companies also have tremendous pride in the organizations service and appreciate the centrality of operations in providing it 
+
+
+-  Often such firms regard an outstanding service delivery system as so important that operations experience is considered essential to ones upward mobility 
+
+
+-  In  similar vein ,  it is common for senior executives who run Stage  firms ,  in order to maintain their feel for operations as well as staying close to the customer ,  to spend time in the trenches 
+
+
+-  ,  often took  turn at the registration desk ,  and the CEO of Columbus Riverside Methodist Hospital ,   leader in health care service quality ,  occasionally works as an orderly 
+
+
+-  The president of Swissair has been seen dispensing boarding passes and has instructed all managers of the airline ,  regardless of function ,  to spend one day  month dealing directly with customers 
+
+
+-  One challenge is sustaining superior performance at every point in its service delivery system and throughout its service network ,  as service firms often are judged more by the performance of their weakest links than by the things they do especially well 
+
+
+-  To be world class ,  therefore ,  all organizational units must meet impeccable standards of service and productivity 
+
+
+-  ,  The other major challenge ,  especially for multisite services ,  is managing the increasing complexity of personnel recruitment ,  training and motivation ,  technological innovation ,  and communication as the firm grows 
+
+
+-  Operations ability to reproduce and manage its proven system in highly diverse cultural settings McDonalds in Moscowultimately determines the firms permanence ,  literally ,  as  world class competitor 
+
+
+-  ,  The concept of manufacturing strategy has been around for over twenty years ,  but only in the last decade has it received serious consideration from academics and practitioners 
+
+
+-  The strategy is based on the widely observed rule that general purpose systems ,  like general purpose tools ,  are seldom as effective as those that are designed and managed for  specific purpose 
+
+
+- 10 Therefore ,   company must begin designing  manufacturing system with  careful ,  and broadly shared ,  assessment of how the firm will compete in  particular industryin what respects will its products and services be distinctive? Once the company establishes its competitive priorities ,  the paradigm provides an orderly approach for examining the organizations structure  ( facilities and equipment )  and infrastructure  ( policies and systems )  to determine if they are consistent with those priorities 
+
+
+-  The term manufacturing strategy encompasses the whole process: setting competitive priorities ,  making structural and infrastructural decisions ,  and establishing  discipline  ( such as the notion of focused factories and plant charters )  for ensuring that the structure and infrastructure remain consistent with the priorities 
+
+
+-  ,  We can easily adapt the same framework to service companies ,  although we must make  few modifications to accommodate the differences between services and manufactured products 
+
+
+-  For our purposes ,  the key difference is that ,  for the service firm ,  the customer encounter with the system is the focal point of all operations activities 
+
+
+-  ,  Assuming that the service company is  going concern and knows how it will compete in its industry ,  management may move around the wheel in Figure 1 baselining operations performance ,  setting priorities ,  focusing operations ,  achieving coherence ,  and incorporating learningwith each step linked to customer requirements 
+
+
+-  ,   useful tool for this purpose is performance-importance mapping 
+
+
+-  This involves gathering information ,  typically via customer surveys ,  on each aspect of service delivery and placing it on  grid  ( see Figure  )  
+
+
+-  ,  In this example ,  we have plotted factors of importance to bank customers 
+
+
+-  The map shows that customers value short lines and think this banks lines are too long 
+
+
+-  One could plot  similar grid showing on one axis selected competitors performance relative to the bank and ,  on the other ,  importance to customers 
+
+
+-  When  company performs about the same as the rest of the industry on important elements ,  strategists call this qualifying to compete 
+
+
+-  When it performs better than competitors on an unimportant element ,  we refer to it as an air ballessentially  waste of effort and resources 
+
+
+-  ,  In manufacturing ,  focus calls for organizing factories according to the products specific processing requirements 
+
+
+-  The essential issue is whether to design for high volume ,  standardized products using dedicated machines and specialized workers ,  or low volume ,  customized products using flexible equipment and broadly skilled workers 
+
+
+-  Matching the right equipment to the product is critical for services as well 
+
+
+-  Kentucky Fried Chicken got into trouble  few years ago by not recognizing this when it introduced spareribs 
+
+
+-  The problem was that its technology and operating system were designed around frying and pressure cooking ,  not barbecuing 
+
+
+-  The result: soggy ribs served by frustrated workers 
+
+
+-  One problem is that customers dont like to be treated as high-volume products ,  even when the cost is low 
+
+
+-  Another is that the typical direct service worker is often ill prepared in skills and policy knowledge to effectively customize  service 
+
+
+-  ,  Service companies that lose focus ,  like their brethren in manufacturing ,  fail due to one or more of the following reasons: ,  By way of example ,  if an HMO chain seeks to improve the atmosphere of its waiting rooms ,  it can selectively change magazines ,  provide fresh coffee ,  or manage other forms of visible evidence of service quality 
+
+
+-  It could administer customer surveys to ferret out the attitudinal effects of these seemingly minor modifications 
+
+
+-  Some service firms are working along these lines ,  of course 
+
+
+-  Banc One has  formalized process for providing the results of operations experiments to its member banks ,   practice that CEO John McCoy credits for rapid implementation of its operating improvements 
+
+
+-  Likewise ,  Cal Fed Savings uses every other Monday conference calls among its regional managers to share sales and operating techniques that worked and didnt work 
+
+
+-  The regional managers then share this information with their branch managers 
+
+
+-  ,  Another approach is to use home office pilot plants to evaluate the layout and appearance of  field unit 
+
+
+-  The Limited has full-size store interiors next to the presidents office in its hangar-like home office ,  enabling executives to tinker with the design until they get it right 
+
+
+-  ,  Unlike manufacturing ,  which has often pushed operations to the background ,  the service sector challenges operations executives to use their inherently central position more effectively 
+
+
+-  We believe these executives should take the lead in changing their areas relationship to customers ,  employees ,  and processes 
+
+
+- 12 This ,  after all ,  seemed to work well for manufacturers because it kept outside influences ,  that is ,  customers ,  from disturbing the production process 
+
+
+-  If  technician is assembling  widget ,  you dont want the customer asking him what hes doing 
+
+
+- Or if  clerk is processing forms ,  talking to the customer on the phone takes her away from her job 
+
+
+-  In retrospect ,  this closed system philosophy overlooked the fact that there are positive benefits to both the customer and the organization by having the customer closely linked to the server ,  even though the job is traditionally performed in the customers absence 
+
+
+-  From an information exchange perspective ,  the greater the links between consumer and producer ,  the easier it is to understand and respond to the customers needs 
+
+
+-  In manufacturing ,  the ability to link the producer with the consumer through direct computer linkups driving CAD/CAM systems has provided the technological wherewithal to go forward to the past to  craftsman-type organization 
+
+
+-  That is ,  it has reintegrated design ,  production ,  and even sales into the manufacturing firms back officeits factory 
+
+
+-  ,  That this open systems philosophy can be applied to services can be seen in the following practices: ,  Every service firm executive will aver that his or her organization is customer oriented and service driven 
+
+
+-  However ,  if you scratch the surface of the organization ,  you will encounter an armadillo-like armor of procedures and rules that quickly indicates otherwise 
+
+
+-  ,  To break out of the procedures trap ,  ask how you can make the encounter more user friendly; each rule you eliminate is value added from the customers perspective 
+
+
+-  It is here ,  by the way ,  that systems and procedures groups should direct more of their attention ,  rather than to back office work simplification 
+
+
+-  In fact ,  we would go even further and advocate  new positioncustomer task analystto look for ways to simplify the customers role in the service encounter 
+
+
+-  Admittedly ,  many services find ways of easing the customers job ,  but rarely do they approach it with the same degree of analysis that they apply to their employees jobs 
+
+
+-  Although both have made extensive use of information technologyCAD/CAM and materials management in manufacturing and database management and transaction processing in servicesboth are still wrestling with the age old problem of getting departments to work together 
+
+
+-  The common contemporary solution is to cast each operating unit as  service supplier to the next downstream operation unit ,  that is ,  establishing an internal supplier-customer relationship 
+
+
+-  For many firms ,  however ,  this approach is only marginally successful ,  for the simple reason that many important supplier duties are not explicitly measured ,  monitored ,  and most of all ,  rewarded in performance reviews 
+
+
+-  Lets face it ,  no matter how company oriented the manager ,  helping the other guy will always be  secondary priority ,  unless it is an important and rewarded priority on the management by objectives sheet 
+
+
+-  We are not advocating that the downstream customer philosophy be dropped 
+
+
+-  What we do advocate is that internal supplier service duties and actions be clearly acknowledged in the organizations performance measurement and reward system 
+
+
+-  ,   companys stage of operations effectiveness reflects directly on its vulnerability to competition 
+
+
+-   Stage  company ,  for example ,  will generally operate successfully as long as it remains protected by location or personal relationships ,  or if all its competitors are also in Stage  
+
+
+-  Corner groceries ,  dry cleaners ,  and hamburger joints are examples 
+
+
+-  Such companies become vulnerable ,  however ,  as soon as their niche is invaded by  company that is more representative of the industry as  whole and has elevated its operating capabilities to Stage  status 
+
+
+-  But if one or more of their competitors elevates its operations capabilities to Stage  ,  and can thereby offer superior cost ,  quality ,  flexibility-responsiveness ,  or convenience ,  they find themselves in trouble 
+
+
+-   bank ,  for example ,  that was able to offer one-stop banking services profitably under regulation may find itself unable to compete against other banks or financial service firms that focus on providing superior service of  more restricted product line 
+
+
+-  So it is that the only competitor that  Stage  company has to fear is  world class Stage  companyone that has developed its capabilities and honed its operations to the point that it can compete anywhere in the world 
+
+
+-  Once it has attained Stage  ,   company can successfully enter  number of national markets ,  and it often does so with surprising speed and effectiveness 
+
+
+-  ,  The danger for  Stage  company is that ,  despite its evident success and the lack of visible challengers ,  one or more Stage  companies may be gestating out of sight in some foreign environment 
+
+
+-  Clearly ,  the time to prepare ones operations strategy for the eventual battle is now ,  while those emerging world class service organizations ,  be they foreign or domestic ,  are still preparing themselves for the attack 
+
+
+- DOES THIS SOUND familiar?  large retail company  ( or bank or fast food chain )  designs its customer contact positions to be filled by people who are willing ,  at least temporarily ,  to work for wages marginally above statutory minimums 
+
+
+-  It makes little effort to develop either dedication to the work or loyalty to the company 
+
+
+-  The results of this strategy are quite predictable: inordinately high employee turnover and increasing customer dissatisfaction 
+
+
+-  ,  Unfortunately ,  traditional management responses to this scenario only exacerbate the problem 
+
+
+-  High turnover reinforces the wisdom of decisions to minimize efforts in selection ,  training ,  and commitment-building activities 
+
+
+-  After all ,  most managers say ,  why invest in people who arent going to stay with you? There are plenty of bodies available to fill these jobs 
+
+
+-  ,  This cycle produces indifferent attitudes toward customers and poor service ,  which translate into poor perceptions of service by the customer and lower sales 
+
+
+-  Customer dissatisfaction fuels further decreases in employee satisfaction ,  thus encouraging turnover 
+
+
+-  High turnover further deteriorates service ,  particularly where the continuity of the customer-servicer relationship is important 
+
+
+-  With the departure of each frontline employee comes the arrival of another who ,  at best ,  is just as inept 
+
+
+-  Or in tight labor markets ,  the customer is often greeted by  help wanted sign and an empty server position 
+
+
+-  ,  This self-perpetuating cycle of failure seems to ensure continuing deterioration of service quality ,  managerial headaches ,  and long-term decreases in sales and profits  ( see Figure  )  
+
+
+-  But as we enter an era of slowed labor market growth ,  dramatic increases in the demand for service workers ,  tightened immigration policies ,  and increasing consumer demands for improved service ,  the business consequences of the cycle are increasingly untenable 
+
+
+-  According to the Department of Labor ,  as of 1986 there was  pool of 16 million nomadic service employees roaming from one low-paying employer to the next ,  experiencing  stream of personal failures with employers unwilling to invest in efforts to break the cycle 
+
+
+-  This group of low-tenure employees who move to new jobs with decreasing confidence and self-respect is expanding at the same time that labor markets are getting increasingly tight 
+
+
+-  ,  The limited number of academic studies to date support the relationships shown in Figure  
+
+
+-  For example ,  Schneider and Bowen found  direct relationship between well-designed service encounters that enhanced bank customer satisfaction and the satisfaction levels of tellers 
+
+
+-  Another study suggested  direct relationship between customer satisfaction and employee motivation 
+
+
+-  Others have related employee satisfaction to managements emphasis on serving customers as opposed to adhering to rules and procedures 
+
+
+-  Perhaps most important of all ,  from  business standpoint ,  are studies that have linked satisfied customers directly to increased sales volumes 
+
+
+-  We have thus far collected more than two dozen sets of data from service firms and consulting organizations that confirm one or more of the relationships shown in Figure  
+
+
+-  ,  In spite of this evidence ,  many service organizations that are generally considered well managed continue to perpetuate the cycle 
+
+
+-  Why do managers bring this problem on themselves? ,  Managers we talk with are often resigned to the possibility that the cycle of failure is inevitable and well beyond their control 
+
+
+-  They present  litany of excuses: ,  At the same time ,  the number of low-paid ,  unskilled positions is growing in many retail and consumer service companies 
+
+
+-  Half of all retail jobs pay less than $13 , 000 per year and  third of all health care jobs pay less than $250 per week 
+
+
+-  And most growing areas of the service sector rely disproportionately on part-time workers 
+
+
+-  ,  Most troubling is that many managers acknowledge the cycle of failure but continue to take actions that perpetuate it 
+
+
+-  Fortunately ,  there are alternative ways of viewing and addressing the problem 
+
+
+-  ,  Some service firms employing large numbers of people in daily customer contact have taken steps to break the cycle of failure and create an alternative cycle of success as shown in Figure  
+
+
+-  Consider the following examples: ,  Wells Fargo and Company pays its people ,  from tellers on up ,  significantly more than competitor banks while maintaining the lowest operating expenses as  proportion of taxable revenue 
+
+
+-  It currently has over forty-five distinct pay-for-performance plans 
+
+
+-  Chairperson Carl Reichardt says ,  You can see that our people are being rewarded because theyre productive 
+
+
+-  And that to me is the right way to go 
+
+
+-  Its management invests extraordinary amounts of time and energy designing jobs and defining tasks ,  along with creating personal development and training activities for the workforce 
+
+
+-  Its goal is to recruit 20 percent of its managers from its frontline workers 
+
+
+-  The results are reduced turn-over ,  increased productivity ,  and customer cost reductions ranging from 10 percent to 15 percent 
+
+
+-  ,  An important element in the economic and service improvements at Daytons department store ,   division of Dayton Hudson ,  is the Performance Plus program ,  which involves extensive training ,  job redesign ,  and supervisory role modeling activities 
+
+
+-  In  number of test stores the program has dramatically increased the wages of frontline salespeople by 100 percent to 200 percent ,  while increasing sales and profits and improving the quality of customers shopping experiences 
+
+
+-  ,  Au Bon Pain ,  an operator of quick-service French bakery cafs ,  has introduced  Partner-Manager program under which restaurant managers have earned twice the industry average and as much as $160 , 000 per year ,  five times more than managers at competing restaurants 
+
+
+-  The program has resulted in double digit sales and profit increases for individual units ,  significant reductions in employee turnover ,  and service quality improvements 
+
+
+-  ,  Fidelity Bank of Philadelphia has increased customer service representatives wages by 58 percent over  two-year period and authorized the representatives to resolve all customer problems involving less than $1 , 000 
+
+
+-  Customer satisfaction ,  as measured by customers willingness to recommend the bank to  friend ,  has jumped from 65 percent to 90 percent! This level of loyalty translates directly into increased profits 
+
+
+-  At the same time ,  the total cost of resolving small-scale customer problems has actually declined owing to the elimination of bureaucratic and time-consuming steps 
+
+
+-  These firms have all achieved high levels of service quality and productivity 
+
+
+-  It is important that we understand why organizations tend to perpetuate the cycle of failure ,  and how companies are differentiating their service by effectively managing entry level personnel 
+
+
+-  How then have so many fallen into the cycle of failure trap? At least five factors provide partial explanations:  (  )  their assumptions about the labor pool ,  (  )  their attitudes and biases about technology ,  (  )  the availability of excuses for company inaction ,  (  )  pressures for short-term performance ,  and ,  most important ,  (  )  the lack of relevant information about the cost of perpetuating the cycle of failure 
+
+
+-  ,  The United States has been blessed with  huge influx of people into the labor pool in the past two decades 
+
+
+-  Many of these people ,  particularly those reentering the pool for  second career ,  have had strong educational backgrounds 
+
+
+-  They have been easy to train and have accepted responsibility relatively soon after hiring 
+
+
+-  ,  As  result ,  many organizations have wasted this plentiful resource 
+
+
+-  This suggests the increasing importance of both designing less people-intensive services and becoming the employer of choice in targeted labor markets 
+
+
+-  ,  Yet another issue will be attracting qualified entry level workers 
+
+
+-  If the disparity in education levels between whites and minorities continues ,  by the year 2000  higher percent of the  
+
+
+-  workforce will have attained only  high school degree or less 
+
+
+-  In addition ,  the value of  high school diploma seems to be deteriorating; with an increasing degree of illiteracy among those students who do graduate ,  the outlook for job application qualifications is grim 
+
+
+-  ,  Of course ,  managers are aware of these numbers today 
+
+
+-  But confronted with the day-to-day demands of recruiting ,  development ,  and compensation ,  few service company executives have had time to contemplate long-term trends 
+
+
+-  And in all fairness ,  regional short-term swings in labor availability have obscured general trends and distracted managers from long-term issues 
+
+
+-  ,  Managers in all sectors of the economy have placed tremendous faith in the ability of technological development to solve  wide variety of problems 
+
+
+-  So there is no reason to believe that technology would be any less useful in services than in manufacturing ,  particularly those services that are information intensive 
+
+
+-  ,  However ,  for several reasons technology will not significantly alter the service employment demand and supply pattern 
+
+
+-  First ,  much of the service sector is already as technology intensive as the manufacturing sector 
+
+
+-  Investment per worker is higher in information-intensive services than in manufacturing in the United States today 
+
+
+-  ,  Second ,  despite the practical mandate to reduce people intensity in many services ,  some services require  core element of personal contact that will be very difficult ,  if not impossible ,  to reduce through technology 
+
+
+-  For example ,  while the use of automated teller machines will continue to increase ,  customers will still demand to interact with tellers for certain transactions 
+
+
+-  In fact ,  as service technology increases ,  it does not take tremendous foresight to predict  backlash in favor of certain personal services and the use of personal interaction as  means of differentiating ones service 
+
+
+-  Clearly ,  becoming the employer of choice is much less risky and allows for more organizational flexibility 
+
+
+-  ,  How often have we heard lately about the inadequate and declining level of talent in the labor pool ,  the failure of the education system to adapt to changing social needs ,  the continuation of government programs that replace the desire to work ,  and even the declining importance of values that made this country great? Often the people who most frequently voice these laments are moved least to respond 
+
+
+-  They act as if the problem is so great as to defy solution ,  particularly at the level of the individual business organization 
+
+
+-  This leads managers to design jobs and assignments that assume the worst in people 
+
+
+-  ,  The private sector cannot take responsibility for changing the basic labor pool ,  educating the population ,  or teaching the values that made the country great ,  whatever they are 
+
+
+-  But we have noticed that in companies that have broken the cycle of failure and moved toward the cycle of success ,  managers continue to have faith that many people want to do good work 
+
+
+-  These managers design strategies that find and retain such people before their competitors do 
+
+
+-  ,  While many managers know that improving personnel recruitment ,  selection ,  training and development ,  and rewards and recognition is important ,  they acknowledge that improvement efforts simply take  back seat to budgets ,  operating plans ,  and profit and loss statements 
+
+
+- 10 When interviewed ,  92 percent of CEOs ,  87 percent of COOs ,  and 83 percent of division VPs said service quality in their business was extremely important 
+
+
+-  ,  At the same time ,  51 percent of CEOs ,  69 percent of COOs ,  and 70 percent of VPs said immediate financial results were extremely important 
+
+
+-  This difference of 19 percentage points between division VPs and CEOs suggests that top management believes and says one thing and signals another to middle management 
+
+
+-  ,  Because long-term trends occur more slowly and less dramatically than other business events ,  managers tend to push them down the agenda 
+
+
+-  ,  In addition ,  one cannot underestimate the short-term pressures inflicted by the wave of financial restructurings affecting  number of large service firms 
+
+
+-  ,  It is  well-known management axiom that what gets measured gets managed 
+
+
+-  ,  Measurement lays the foundation for  number of activities ,  such as engineering and development 
+
+
+-  It allows managers ,  other than those directly involved in operations ,  to decide whether wages paid for  certain job are too high or too low 
+
+
+-  ,  Measurement also helps us make cost-cutting decisions with certainty in bad times 
+
+
+-  We must also try to measure the value to customers of our expenditures 
+
+
+-  If you emphasize costs over customer value you will lose customers 
+
+
+-  Unfortunately ,  customer value is hard to measure 
+
+
+-  They must also place  value on the reduced productivity that will affect customers for  period of time after  position is refilled 
+
+
+-  ,  Our research did begin to uncover some comprehensive approaches to measuring the impact of turnover on customers 
+
+
+-  Two divisions of Marriott Corporation recently carried out  study that included as an assumption ,  based on management estimates ,  that  10 percent reduction in the industrys historically high turnover rate would reduce customer nonrepeats by  percent to  percent ,  providing revenue increases of $50 million to $150 million 
+
+
+-  The study concluded that even at the upper range of estimates for recruiting ,  training ,  and lost customer costs ,  an overall reduction of 10 percent in labor turnover would yield savings significantly greater than the total current profits of the two divisions 
+
+
+-  Good ideas for new services are aborted early because the operating organization is not able to deliver that 
+
+
+-  Unfortunately ,  this assumption is often based on reasonably good historical information ,  such as the failure to deliver new services in the past 
+
+
+-  The result? Failure to capitalize on competitive opportunity 
+
+
+-  Countless factors influence the policies for managing relationships among managers ,  frontline service personnel ,  and customers 
+
+
+-  However ,  in our examples of leading service firms patterns have emerged 
+
+
+-  They include both the underlying assumptions that managers bring to the task and the way that they go about setting in motion the cycle of success 
+
+
+-  ,  Many managers who have broken the cycle of failure begin by assuming that there is  limited pool from which to draw entry level service providers ,  especially those that fit particular strategies 
+
+
+-  This does not mean that these firms look only for individuals with ready-made talent and attitudes 
+
+
+-  But it does mean they take extra care to select and develop people to ensure that the pool is not depleted 
+
+
+-  ,  These organizations carefully assess the traits they need in entry level people and determine which can be imparted through training and which cannot 
+
+
+-  They select people based on those traits that must be hired rather than trained into the organization 
+
+
+-  The emphasis is on how people think ,  not who they are 
+
+
+-  As  result ,  the growing demographic heterogeneity of the labor pool is largely irrelevant 
+
+
+-  Firms select  workforce from  heterogeneous population that is homogeneous on psychographic dimensions 
+
+
+-  ,  These organizations consider technology an essential supporting resource for face-to-face service delivery 
+
+
+-  For some transactions ,  technology may play  primary role ,  as in the use of automatic teller machines 
+
+
+-  ,  Further ,  these organizations often believe that technology provides limited competitive advantage because it is usually available to all competitors that can afford it 
+
+
+-  Positive ,  customer-oriented attitudes ,  however ,  are considered much more difficult to introduce than new technologies and thus provide competitive advantage 
+
+
+-  ,  Managers in the firms we observed make no excuses for the turnover rates among their entry level employees or the quality of service they deliver 
+
+
+-  They recognize that real competitive advantage comes to those who confront such issues successfully 
+
+
+-  ,  Pressures for short-term performance are every bit as great among these managers as others ,  and are often self-imposed 
+
+
+-  But these managers assume that appropriate responses are to hire or train winners ,  individuals whose own standards are at least as high as the organizations 
+
+
+-  This requires  one-time major investment to raise the organizations standards ,  communicate new expectations ,  and implement new ways to achieve expectations 
+
+
+-  The organization will not tolerate others 
+
+
+-  And winning performances provide the resources for hiring and developing people that will contribute to winning performances 
+
+
+-  ,  Finally ,  managers in many of these firms religiously measure the costs associated with the employee and customer life cycles 
+
+
+-  They know that new customers are more costly and less profitable to serve than existing ones 
+
+
+-  They know what it costs to hire ,  develop ,  and replace preferred employees 
+
+
+-  They know what it costs to lose customers and key employees 
+
+
+-  And they have  pretty good idea of the relationship between customer and employee loss 
+
+
+-  They know these things not only because they have taken the time to measure them ,  but because they track them continuously 
+
+
+-  ,  These assumptions lead to distinctly different strategies and programs for dealing with the cycle of failure 
+
+
+-  ,  One thing that differentiates our employers of choice is that each of them has made  conscious and exhaustive effort to link their human resource ,  service ,  and business strategies 
+
+
+-  Consider the following three examples 
+
+
+-  Fairfield offers its customers ,  what management terms road warriors ,  just two things: the cleanest rooms and the friendliest staff available ,  at  budget price  ( often less than $40 per night )  
+
+
+-  Given the simplicity of the service package ,  the inns are staffed with only two categories of frontline employeesfront desk and housekeeping personnel 
+
+
+-  ,  Management decided which qualities it would seek in employees ,  commissioned  questionnaire and interview intended to identify those qualities ,  and then selected people carefully 
+
+
+-  It was looking not only for dependable people with good work habits ,  but also for people to whom  pay-for-performance evaluation system ,  called Scorecard ,  would appeal 
+
+
+-  ,  With Scorecard ,  guests answer four questions on  computer-administered touch screen at check out 
+
+
+-  By correlating their reactions to questions such as How would you evaluate the cleanliness of your room? and How personable was the hotel inn personnel at the time of check in? with data indicating which employees were responsible for  particular guest ,  management can keep  running tab on individual performance 
+
+
+-  The questionnaire process is easy enough to bring in  50 percent response rate ,  which provides the necessary volume of observations 
+
+
+-  ,  In addition to providing base pay comparable to local wages ,  Fairfield awards monthly bonuses of up to 10 percent of base pay to service employees ,  depending on their individual and unit Scorecard results 
+
+
+-  Performance results are posted on  regular basis for the unit ,  the region ,  and the chain 
+
+
+-  ,  To combat one of the most difficult problems in the lodging industry ,  absenteeism ,  Fairfield replaces all but one week of vacation with earned leave ,  days off with pay that are earned with perfect attendance for one- and three-month periods 
+
+
+-  Dependable attendance makes work schedules more predictable for everyone and helps build  winning team attitude 
+
+
+-  ,  Feedback from customers and employees has been overwhelmingly positive ,  and the chain has staked out  successful position in an incredibly crowded market segment ,  although some employees have discovered that the Scorecard system is not for them and have left quickly 
+
+
+-  Others have been encouraged to leave by their peers ,  who were being penalized by poor unit performance 
+
+
+-  ,  Few organizations have the opportunity to avoid the cycle of failure from the first day of operation 
+
+
+-  Like Daytons of Dayton Hudson and Au Bon Pain ,  most organizations have to take actions to reverse the turn of the wheel 
+
+
+-  ,  This full-line department store chain has concluded that restoring the high service levels that were prominent among major retailers in their early days is absolutely critical to retaining their current customers and regaining those customers who left for the more personalized treatment available in specialty shops 
+
+
+-  Three major assumptions drive Daytons Performance Plus strategy: ,  The program focuses on selection ,  training ,  and incentives all aimed at providing superior customer service performed by sales consultants who go the extra mile for the customer 
+
+
+-  On the sales floor ,  consultants are encouraged to take customers into different departments when needed and to develop  repeat clientele by sending thank you notes and informing customers of sales on new merchandise 
+
+
+-  ,  The company believes that selection plays an important role in the system 
+
+
+-  Interviewers look for candidates hoping to make retail sales  career 
+
+
+-  Because the compensation is ,  on average ,  20 percent higher than at prior wage levels ,  the company can attract college graduates and others who would normally apply for jobs in sales and manufacturing companies 
+
+
+-  After hiring ,  new employees go through  two-day celebration training in which the underlying theme is Its my company 
+
+
+-  ,  The Performance Plus program has expanded to eleven stores in the thirty-four unit chain over the past three years 
+
+
+-  Sales have improved dramatically  ( as much as 25 percent in individual sales per hour )  ,  wages have escalated to the extent that increasingly capable salespeople can be recruited ,  and total operating costs have shifted but remained stable 
+
+
+-  At the same time ,  customer response to the changes ,  as measured by the chains service quality survey ,  has been dramatic 
+
+
+-  And the program has not been without its negative consequences 
+
+
+-   successful union organizing drive among long-term employees in Detroit was traced to job insecurities and fears of performance pressures 
+
+
+-  However ,  management believes the program will eventually address these problems appropriately 
+
+
+-  ,  The chain continues to fine-tune the program as it adds three to four stores to the program each year 
+
+
+-  Many issues remain ,  but management believes that results to date absolutely justify the investment 
+
+
+-  ,  Breaking the cycle of failure for entry level jobs often means breaking it as well for the supervisors 
+
+
+-  ( In fact ,  one of us helped coin the term while serving as  senior executive in the company 
+
+
+-  )  Store managers were paid salaries comparable to or marginally above those at local fast food restaurants and given very little latitude 
+
+
+-  Results were predictable: the usual revolving door of store managers and employees in  business that thrives on relationships built with frequent customers who have acquired the Au Bon Pain habit 
+
+
+-  ,  To reverse the cycle ,  management negotiated contracts with willing store managers that established targets for each store 
+
+
+-  Company and store management would split equally profits over and above targets 
+
+
+-  At the same time ,  managers were given great latitude to change procedures ,  staffing policies ,  and even store layout ,  provided they met certain standards for store decor ,  core service ,  and food and service quality 
+
+
+-  These standards are evaluated frequently by mystery shoppers hired by the company 
+
+
+-  ,  Instead of acting as supervisors or controllers ,  corporate managers shifted their roles to become coaches ,  consultants ,  cheerleaders ,  and increasingly enthusiastic observers as store volumes under the program quickly doubled in  number of cases 
+
+
+-  In an effort to boost his performance beyond even this mark ,  one store manager decided to initiate his own program 
+
+
+-  Gary Aronson ,  the manager of the Au Bon Pain at Bostons Prudential Center ,  is now in the midst of his fourth year under the Partner-Manager Program 
+
+
+-  He has ,  over this period ,  earned as much as $160 , 000  year ,  while paying his frontline employees ,  some of them in their first jobs ,  up to $23 , 000  year when the industry norm is $10 , 000 to $12 , 000 
+
+
+-  How can Aronson afford to do this? He only hires people willing to work fifty to sixty hours per week ,  with overtime pay over forty hours 
+
+
+-  He has cut his head count by nearly 70 percent as  result of the longer hours and higher productivity 
+
+
+-  Employee absenteeism is nearly unheard of;  missed day means lost overtime pay 
+
+
+-  And Aronson has cut turnover to roughly 10 percent per year in entry level jobs ,  in which 200 percent is quite normal 
+
+
+-  Better yet ,  sales have soared as customers patronize the people they see every day behind the counters 
+
+
+-  ,  In short ,  Aronson has built  lean ,  mean team composed of entry level people who think and act like winners 
+
+
+-  And Au Bon Pain spends very little to attract new employees 
+
+
+-  By word-of-mouth ,  it can choose from the best talent not only for management but for entry level jobs in most of its markets 
+
+
+-  Corporate management has been freed to plot strategies for growth and profitability ,  Increasingly ,  we can begin to identify common elements in these programs  ( see Table  )  
+
+
+-  ,  In turn ,  such acts beyond basic service are recognized and applauded by management whenever brought to their attention 
+
+
+-  Wells Fargo even instituted  peer recognition program to applaud the often unrecognized acts that make for an outstanding coworker 
+
+
+-  ,  At  basic level ,  organizations need to recognize that employees often feel disaffected when poor performers are carried on the payroll 
+
+
+-  Recent national surveys of employees indicate that as many as 75 percent of those surveyed believe that management carries dead wood employees for too long 
+
+
+- 12 The warm bodies approach that drives many service employers promotes not only bad service but deteriorating attitudes among solid performers 
+
+
+-  ,  Each of the firms we have discussed has successfully escalated employee wages ,  often dramatically ,  without lowering economic performance 
+
+
+-  How have they accomplished this seemingly impossible feat? Simply stated ,  they have aggressively focused on the total cost of doing business ,  including the aggregate wage bill and individual productivity levels ,  without taking their eye off customer service levels 
+
+
+-  Each of these high-paying firms has successfully demonstrated the potential for individuals to achieve peak performance when expectations and rewards are high 
+
+
+-  ,  Pay for performance is an integral element of some ,  but not all ,  of these programs 
+
+
+-  Those that employ it take care to base it on measures of both the quantity and quality of results 
+
+
+-  This requires  conscious effort to measure ,  communicate ,  and reward results associated with quality 
+
+
+-  ,  Au Bon Pains store managers have  great deal of latitude in how they run their businesses 
+
+
+-  But their employment contracts can be terminated if the quality of their offerings falls below minimum standards in areas such as speed of service ,  availability of product ,  and cleanliness 
+
+
+-  ,  Similarly ,  at Daytons each salesperson must maintain minimum service quality levels to qualify for productivity incentives 
+
+
+-  This is particularly critical in services in which quality could be neglected in pursuit of sales volume or other forms of productivity 
+
+
+-  ,  The realities of the labor market over the next decade are clear 
+
+
+-  More people with less relevant job preparation will earn higher wages as frontline service providers 
+
+
+-  Service levels and economic performance will deteriorate in firms that fail to engage in  fundamental rethinking of the employee-organization-customer relationship 
+
+
+-  ,  What are the consequences of  widespread effort to break the cycle of failure? Will it produce  skimming of the most able from the labor pool with  growing competition for  small subgroup of people? Managers ask us these questions frequently 
+
+
+-  They assume that all organizations will be selecting for the same sets of traits ,   phenomenon that we have not yet observed in our examination of corporate human resource strategies 
+
+
+-  Nevertheless ,  this possibility suggests there might be  modest early mover advantage for firms in certain industries or geographic areas who recruit and retain employees fitting their service strategies particularly well 
+
+
+-  ,  In nearly every service industry and labor market with which we are familiar ,  at least one organization has broken the cycle of failure 
+
+
+-  Its managers have made the commitment and the up-front expenditure of money and effort to achieve  vital but largely invisible competitive advantage 
+
+
+-  The real value of these efforts will become more visible in the restricted labor market that all service firms will face in the coming decade 
+
+
+-  Day after day ,  these firms will spend less than their competitors for recruiting and training 
+
+
+-  They will attract the most performance-minded managers and frontline personnel ,  people whose personal philosophies toward work fit those of their employers 
+
+
+-  They will provide  more satisfying work environment for effective performers 
+
+
+-  But most critically ,  they will retain those people who provide the most satisfactory continuing relationships with valued customers 
+
+
+-  ,  The next decade will belong to those firms that break the cycle of failure 
+
+
+-  Even more important ,  it will belong to their customers and employees 
+
+

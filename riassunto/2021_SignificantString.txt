@@ -394,3 +394,657 @@
 -  Broader thinking on prices will help catalyze the search for innovative and enduring solutions that are profitable ,  scalable ,  and palatable to customers 
 
 
+-  Many leaders will admit this privately: In an anonymous 2019 survey conducted by Strategy& ,  37% of  , 000 executive respondents said that their company had  well-defined strategy ,  and 35% believed that their companys strategy would lead to success 
+
+
+-  ,  Great leaders create ways of engaging their teams that can cut through this strategic fog 
+
+
+-  They may adopt frameworks to guide their analysis ,  but they expect participants in strategy discussions to contribute coherent reasoning and defensible ideas 
+
+
+-  Amazon is well known for its requirement that major initiatives be proposed in the form of  six-page memo 
+
+
+-  The virtue of the memo  versus  slide deck  is that writing in full sentences and paragraphs forces leaders to clarify how their ideas connect to each other 
+
+
+-  Similarly ,  Netflix has driven stunning transformations in the media landscape in part through its success at encouraging its leaders to debate ideas frankly and its willingness to empower them to take risks without waiting for an annual strategy planning process 
+
+
+-  It is no surprise that CEO Reed Hastings views working from home as a pure negative for the company ,  in part because debating ideas is harder now 
+
+
+-  ,  The emphasis on vigorous debate at Netflix and Amazon clarifies  truth that many approaches to strategy obscure: At their core ,  all great strategies are arguments 
+
+
+-  The role of leaders is to formulate ,  discover ,  and revise the logic of success ,  making what we call strategy arguments 
+
+
+-  ,  Many leaders would agree with this claim but struggle with how to translate the insight into practice 
+
+
+-  What does it mean to construct  strategy argument? How does one evaluate such an argument? ,  In helping executives answer these questions ,  we have developed  flexible system of three activities: constructive debate ,  iterative visualization ,  and logical formalization 
+
+
+-  This system is facilitated by  set of concrete activities that can be used to develop  great strategy and execute it on  day-to-day basis 
+
+
+-  These practices demystify strategy and empower leaders throughout the organization to take control of their strategic destiny 
+
+
+-  But typically ,  they are omitted from the process of corporate strategy making 
+
+
+-  ,  The process of creating  great strategy is very different from how that strategy is communicated after its discovery 
+
+
+-  Put another way ,  executives should learn how to think like Jeff Bezos and Reed Hastings when tackling new problems and not simply study the decisions they made 
+
+
+-  There is no need to wait for  visionary savior to create great strategy 
+
+
+-  ,  Many leaders avoid arguing about strategy at all costs 
+
+
+-  Arguing is the best way to do strategy ,  especially in groups ,  provided the arguments follow established rules of engagement that are rooted in the principles of deductive logic 
+
+
+-  Great strategy demands the exchange and vetting of ideas  both in its development and implementation 
+
+
+-  ,  Listen to Patty McCord ,  former chief talent officer at Netflix ,  who asserted ,  The main reason the company could continually reinvent itself and thrive ,  despite so many truly daunting challenges coming at us so fast and furiously ,  was that we taught people to ask ,  How do you know thats true? Or my favorite variant ,  Can you help me understand what leads you to believe thats true? Such questions spawned vigorous internal debates at Netflix that ,  McCord said ,  helped cultivate curiosity and respect and led to invaluable learning both within the team and among functions 
+
+
+-  ,  Why is debate so powerful? One reason lies in the fallibility of human reasoning 
+
+
+-  People typically argue inconsistently and are prone to confirmation bias  the tendency to interpret evidence in ways that confirm their preexisting beliefs 
+
+
+-  Being heard and having your ideas taken seriously leads to higher levels of commitment ,  both to specific strategic decisions and the organization as  whole 
+
+
+-  ,  Finally ,  reasoned debate is the only way to change how people think 
+
+
+-  Constructive debate helps participants understand how others in the group see the situation and allows them to arrive at  shared way of thinking 
+
+
+-  ,  To ensure that debates are constructive and arguing doesnt devolve into browbeating and power plays ,  they need to be orchestrated 
+
+
+-  This requires thinking about strategic conversations before they begin and answering questions such as the following: ,  What is the purpose of this conversation? Devote time and attention ,  perhaps in consultation with others ,  to specifying the scope and desired outcome of the strategic dialogue in advance 
+
+
+-  For instance ,  if leaders are concerned about  new competitor ,  the team should debate whether the entrant truly poses  threat before considering costly initiatives to counter it 
+
+
+-  Accordingly ,  the purpose of the meeting would be to articulate the strategy argument of the new competitor and determine whether it interferes with the companys own logic of success 
+
+
+-  Providing participants with clear guidance regarding the conversation  ( and assigning prework ,  if needed )  helps them prepare for constructive debate and reduces their uncertainty about the parameters of the discussion 
+
+
+-  ,  Who should participate? Assemble people with relevant information and expertise ,  those responsible for executing the resulting decisions ,  and those with the power to make the decisions 
+
+
+-  ,  What are the participants roles? Most participants will arrive with ideas and proposals of their own ,  and the meeting should be structured to encourage everyone to share their views 
+
+
+-  The facilitators job is to get everyone involved by making the participants feel comfortable expressing their views 
+
+
+-  The devils advocates job is to challenge claims put forth and ask uncomfortable questions 
+
+
+-  Ask the remaining participants to leave their job titles and ranks outside the room before the start of the meeting 
+
+
+-  Try reminding them that although the ultimate decision still rests with them ,  their authority should not be used to squelch debate 
+
+
+-  Instead ,  they should play subdued roles ,  not shoot down ideas ,  and allow their own arguments to be challenged by those with less power 
+
+
+-  ,  Where should the session take place? Choose  setting that offers the participants freedom of movement to encourage new ways of thinking 
+
+
+-  There should be enough space to rearrange the seating and multiple whiteboards for sharing ideas 
+
+
+-  ,  How should the conversation be opened? Ask whomever decided to convene the discussion and the facilitator to choose  starter question to kick it off 
+
+
+-  Choosing  good starter question requires trying to imagine the different ways  conversation could go and how  question might be interpreted by the different participants 
+
+
+-  For instance ,  in  meeting regarding stagnant sales ,   good starter question might involve asking each participant to arrive prepared to state what they believe the cause to be and why 
+
+
+-  Avoid yes or no questions ,  because they tend to polarize discussions and shut down  full consideration of the issues and processes at hand 
+
+
+-  ,  Constructively debating  proposed strategy requires  shared understanding of the strategy 
+
+
+-  ,  During  July 2016 earnings call with Wall Street analysts ,  Southwest Airlines CEO Gary Kelly found himself battered by hostile questions 
+
+
+-  Analysts wanted to know why Southwest ,  which was experiencing revenue and profit declines ,  was sticking to its long-standing policy of first-come ,  first-served seating instead of following the lead of other airlines and charging passengers  fee for seat assignments 
+
+
+-  The analysts argued that Southwest was leaving money on the table 
+
+
+-  But Kelly dismissed the idea ,  claiming that nickel-and-diming passengers ultimately would not increase the airlines profitability 
+
+
+-  ,  One might imagine that  similar debate had already taken place within Southwests headquarters as the executive team sought to reverse the airlines declining results 
+
+
+-  In such  situation ,  the ability to argue constructively is critical to reaching the right decision 
+
+
+-  The intuition that seating fees would not help Southwest might be correct ,  but it should not be accepted simply because it feels right or because thats what the boss believes 
+
+
+-  ,  Unfortunately ,  such debates devolve into shouting matches in many companies 
+
+
+-  ,  Instead ,  leaders can use strategy maps to surface and examine the underlying logic of their alternatives 
+
+
+-   strategy map is  visual depiction of  strategy argument ,  using boxes and arrows to represent the structure of connections between ideas 
+
+
+-  It allows leaders to see how proposed investments and actions are linked to desired outcomes ,  how parts of  business model fit together ,  and how causes will supposedly lead to effects 
+
+
+-  ,  How might Kelly and his team at Southwest have used  strategy map to guide  discussion of seating fees? To start ,  put yourself in the teams shoes 
+
+
+-  You know that Southwests ability to perform quick turnarounds of its planes is critical to its cost advantage 
+
+
+-  When  plane arrives at  departure gate ,  passengers are lined up and ready to go ,  and every employee at the gate and on the plane  flight attendants ,  pilots ,  baggage handlers ,  gate agents  helps them board and get ready for departure 
+
+
+-  ,  With this in mind ,  any consideration of fee-based seat assignments requires you to speculate about what will happen if Southwest abandons open seating: Will profits go up or will the impact be different? Such speculation involves visualizing scenarios  in this case ,  the current reality of open seating and  counterfactual one with assigned seating  to see how  change might reverberate through the system 
+
+
+-  The boxes reflect ideas ,  concepts ,  resources ,  or actions ,  while the arrows represent causal claims 
+
+
+-  An arrow from  to  asserts that  causes   that you believe the teamwork at the gate lowers costs through two distinct channels ,  one leading to greater capacity utilization and one leading to lower staffing levels 
+
+
+-  ,  Using the map allows the team to envision the impact of assigned seating 
+
+
+-  Moving away from open seating would increase the workload of gate agents 
+
+
+-  At other airlines ,  gate agents spend time responding to questions about seat assignments and addressing seat-change requests ,  upgrades ,  and other customer inquiries 
+
+
+-  ,  It may seem just as easy to talk about alternatives as map them ,  but weve found that there are several benefits to strategy mapping 
+
+
+-  ,  First ,  strategy maps improve communication by clarifying complex relationships between the elements of an organizations strategy 
+
+
+-  It is not obviously true that seat assignments would increase costs at Southwest 
+
+
+-  Creating  strategy map does not resolve the debate ,  but it does make clear how seat assignments may have negative operational consequences 
+
+
+-  ,  Second ,  strategy maps facilitate constructive debates 
+
+
+-  Seeing someones argument represented visually creates opportunities for people to recognize and express how their own views differ 
+
+
+-  An advocate of assigned seating would note that the strategy map ignores the increased revenue it would generate for Southwest ,  leading to  more productive exchange 
+
+
+-  ,  Third ,  strategy maps help surface unstated beliefs and assumptions 
+
+
+-  ,   final benefit of strategy mapping is that executives typically find it an intuitive way of developing and representing their arguments 
+
+
+-  Indeed ,  many already sketch out their ideas in this way 
+
+
+-  Still ,  productive strategy mapping takes discipline and practice 
+
+
+-  Here are  few tips for using strategy maps: ,  Start with the conclusion ,  and map only one conclusion at  time 
+
+
+-  Limiting the scope of the exercise helps avoid emotional and unpredictable disputes 
+
+
+-  ,  Identify and organize all plausible explanations 
+
+
+-  Adopt  brainstorming mindset to generate as many ideas as possible ,  including some  ( or many )  that are outside the box 
+
+
+-  For instance ,  at Southwest ,  the participants could have been asked to list all the activities and factors that enable the company to offer air travel at lower costs than its competitors 
+
+
+-  If the number of ideas starts to seem unmanageable ,  cluster them into related themes and concepts 
+
+
+-  This is particularly easy to do if the initial ideas have been captured on sticky notes 
+
+
+-  The quality of  strategy map depends on the how comprehensively it captures the causes  ( conditions ,  assumptions ,  or premises )  that might plausibly generate the maps conclusion 
+
+
+-  Combine and recombine the ideas on sticky notes to show how inputs lead to outputs or causes to effects 
+
+
+-  This iterative process enables the participants to explore the relationships between different ideas in  flexible ,  dynamic manner 
+
+
+-  ,  Strategic debates within companies tend to rely heavily on informal exchanges 
+
+
+-  Executives express ideas about the effects of  new rival ,   government policy ,  or an emerging technology on  strategic outcome and link it to  particular course of action 
+
+
+-  With  valid argument ,  if you accept the premises ,  you must accept the conclusion 
+
+
+-  With an invalid argument ,  you run the risk of overlooking critical assumptions and flaws in your reasoning ,  which in turn can lead to your companys downfall 
+
+
+-  ,  When Apple released the first iPhone in 2007 ,  executives at Nokia ,  then the leader in the mobile phone market ,  thought the new product had little chance of success 
+
+
+-  Its use was limited to 2G networks ,  whereas the leading phones were using the 3G standard 
+
+
+-  Imagine the debates that likely took place 
+
+
+-  The iPhone does not have good cellular phone technology ,  so it will not win in the cellular phone market ,  asserts the skeptic 
+
+
+-  Youre wrong! Apple has an amazing design sensibility ,  so of course they will dominate the cell phone market ,  argues the believer 
+
+
+-  Come on! Its  lousy phone; there is no way they can win ,  responds the skeptic 
+
+
+-  ,  This kind of exchange ,  familiar as it may be ,  is rarely productive 
+
+
+-  Such debates lead to bad decisions because of flawed logic 
+
+
+-  ,  The problem starts with the initial claim  ( The iPhone does not have good cellular phone technology ,  so it will not win in the cellular phone market )  
+
+
+-  The conclusion  (  so it will not win in the cellular phone market )  does not necessarily follow from the premise on which it is based  ( The iPhone does not have good cellular phone technology )  
+
+
+-  ,  Unfortunately ,  incomplete arguments of this type are not only common ,  they also can carry  lot of weight in strategic debates 
+
+
+-  Leaders and their audiences do not notice their gaps ,  because they appeal to implicit premises in their minds 
+
+
+-  Instantly and subconsciously ,  their minds bridge the gap with these implicit premises 
+
+
+-  This makes for easy conversation and lively debate ,  but it undermines good reasoning 
+
+
+-  ,  Strategy mapping encourages leaders to be more explicit about their claims 
+
+
+-  ,  Assessing validity is easier when strategy arguments are stated in propositional form 
+
+
+-  If you do this with the initial claim in the iPhone example ,  you get two statements: ,  Statement 1: The iPhone does not have good cellular phone technology 
+
+
+-  ,  Statement 2: The iPhone will not win in the cellular phone market 
+
+
+-  ,  The first statement is  premise  an empirical assumption about the iPhone that may or may not be true  and the second is the conclusion 
+
+
+-  The logical problem here is that nothing connects the two statements 
+
+
+-  ,  Logical formalization involves making the argument complete by explicitly stating how you believe Statements  and  are connected to each other ,  as so: ,  Premise A: The iPhone does not have good cellular phone technology 
+
+
+-  ,  Premise B: If  product has good cellular phone technology ,  then it will win in the cellular phone market 
+
+
+-  ,  Conclusion C: The iPhone will not win in the cellular phone market 
+
+
+-  ,  The claim is now complete  ( there are no missing premises )  ,  but the argument isnt logically valid yet 
+
+
+-  It is easy to see why the conclusion does not necessarily follow: We know of many examples where the technically superior product has not won in the market 
+
+
+-  It could be that none of the products in the market has good technology ,  and yet there will be  winner 
+
+
+-  ,  Still ,  the restated argument offers progress ,  because now we know what to fix 
+
+
+-   logically valid argument could be constructed by revising Premise B: ,  Premise B*: If  product does not have good cellular phone technology ,  then it cannot win in the cellular phone market 
+
+
+-  ,  The widespread agreement that the first iPhone would not succeed because it was not  very good phone was mistaken 
+
+
+-  Nokia executives ,  on the other hand ,  could reasonably believe that good cellular phone technology was  prerequisite for success 
+
+
+-  But by using logical formalization to identify what must be true for  certain vision of the future to hold ,  you can shift the terms of debate in productive ways 
+
+
+-  It helps bring the critical issues into focus ,  and it will help members of your strategy team move from fighting about whether they believe  conclusion to recognizing what they have to believe in order for it to be true 
+
+
+-  Here are two tips that can help: ,  Start with the easy stuff 
+
+
+-  As in the iPhone example ,  begin by trying to fill in the missing premises in an informal claim 
+
+
+-  If the informal claim is A is true ,  so  will happen ,  convert it into an if-then statement  ( If  ,  then  )  to make the causality clear 
+
+
+-  This may seem trivial ,  but an if-then statement represents  theory of how the world works ,  and stating it explicitly forces people to consider whether it holds under all circumstances 
+
+
+-  Keep in mind that the goal in formalizing  strategy argument is not the unassailable perfection that  logician seeks ,  but  deep ,  shared understanding of what your colleagues are saying 
+
+
+-  Often ,  people will have different ways of phrasing new linking premises; use those differences to illuminate conflicting ideas and arrive at  more comprehensive and collective understanding of the argument 
+
+
+-  The decisions entail trade-offs: having the courage and the discipline to say no to one course of action in the uncertain hope that another will be more promising 
+
+
+-  Frequently ,  these choices are irreversible  and their outcomes are likely to affect the careers of the leaders making them 
+
+
+-  Yet ,  as we have seen ,   majority of leaders lack confidence in the soundness of their companies strategies 
+
+
+-  ,  Much of the problem with strategy-making arises because executives focus on predicting what the world will look like in the future when debating strategic decisions 
+
+
+-  This is unproductive and frustrating; even the most accurate predictions are worth little if they are not embedded in  logically coherent strategy argument 
+
+
+-  ,  The core of every great strategy is  valid argument 
+
+
+-  It should include what needs to be true for the strategy to succeed ,  and it should specify the resources  ( people ,  technology ,  finances ,  and even regulators )  required to execute it 
+
+
+-  Constructive debate ,  iterative visualization ,  and logical formalization are essential tools for arriving at such arguments 
+
+
+-  They are  practical and accessible way for working executives and their teams to develop the skills and habits of mind needed to achieve strategic success 
+
+
+- After corporations committed to dramatically increasing their focus on racial equity in response to the killing of George Floyd in May 2020 ,  the hard work of making the changes needed to live up to those promises began 
+
+
+-  Unsurprisingly ,  those changes are meeting resistance ,  such as negative comments posted during virtual forums about race and  lawsuit filed by  White employee claiming that diversity training created  hostile work environment 
+
+
+-  And if anything threatens to thwart Americas progress toward open dialogue and racial equity ,  it is White peoples unwillingness to engage with the idea that if others are suffering from undeserved disadvantages ,  it is all but certain that they themselves benefit from undeserved advantages 
+
+
+-  ,  This critical understanding of systemic racism  that all of us ,  whether we want to or not ,  are participants within  system in which our racial membership has implications for important life outcomes  is antithetical to peoples desire or need to see themselves as decent ,  good ,  meritorious individuals 
+
+
+-  Our research shows that ,  because systemic racism suggests that White employees have benefited from  personal characteristic over which they have no control ,  systemic racism is difficult for many of them to acknowledge 
+
+
+-  As  result ,  calling out systemic racism provokes defensive behaviors that undermine efforts promoting change and make them more difficult and divisive 
+
+
+-  ,  Nevertheless ,  corporate leaders who genuinely support social change must see racism as systemic:  structural component that impacts every aspect of organizational life ,  from marketing to pricing ,  from supply chains to talent acquisition 
+
+
+-  And in order to make real progress toward racial equity within their organizations ,  leaders must also recognize that racial equity initiatives  just like all significant organizational changes ,  but with even greater emotional intensity  will face opposition and resistance 
+
+
+-  ,  The key to effectively responding to resistance is leveraging that human need to think of ourselves as good ,  because its accompanied by our need to think of our systems as fair and just  and this desire to restore justice is powerful 
+
+
+-  As researchers ,  our work indicates that if White individuals can both come to believe that systemic racial inequity exists and also see  role for themselves in the dismantling of racist systems ,  they will choose to do so  even if it is at  cost to the self or group ,  such as supporting policies that remove White advantages 
+
+
+-  ,  Just as some readers may feel uncomfortable with the ideas in this article ,  so too will many of your employees 
+
+
+-  These reactions fall into predictable patterns ,  which we and others have spent over 20 years documenting and we discuss below 
+
+
+-  Understanding the why behind  response provides insights into ways to counter the reflexive defensiveness that the notion of systemic racism elicits from many people 
+
+
+-  ,  To recognize the reality of systemic racism ,  White people must first recognize themselves as having  racial identity that affects the environments that they find themselves in ,  how others engage with them ,  and how they see themselves 
+
+
+-  Denial is one of the most common forms of White backlash: White people simply deny that racism is  significant problem 
+
+
+-  However ,  such opposition can manifest in surprising and subtle ways ,  which can make denial harder to counteract 
+
+
+-  But where racial inequality already exists ,  its impossible to make  or measure  progress in redressing inequality without talking about race or tracking racialized outcomes 
+
+
+-  In addition ,  White people who are opposed to racial equity are more likely to endorse colorblindness ,  or the idea that race does not matter and should not be acknowledged 
+
+
+-  Multiculturalism ,  on the other hand ,  which is typically favored by employees of color ,  takes the view that differences should be acknowledged and celebrated 
+
+
+-  As  result ,  even when they acknowledge that employees of color are disadvantaged ,  they still distance themselves from this problem by distancing themselves psychologically from the White racial identity 
+
+
+-   similar strategy is to point to personal hardships  ( Ive struggled with addiction or Im  child of divorce )  as evidence that the individual has not personally benefited from racial advantages 
+
+
+-  Yet ,  pointing to hardship or claiming that one deserves what one has due to hard work overlooks the reality that many non-White individuals have worked just as hard but without commensurate outcomes  and does not change the value that having White skin provides in society at this moment 
+
+
+-   growing category of backlash tactics fall under what we call distortion ,  or strategies wherein White people recognize the existence of racism but distort the nature of racial inequity to protect their own good feelings 
+
+
+-  Seeing racism as largely an issue of individual behavior is also problematic because it focuses efforts on remedies that do not address the systemic nature of racism 
+
+
+- 13 These findings align with observations from our consulting work ,  where we often hear from clients that they struggle with employees who believe that changes in hiring and promotion processes that are designed to remedy systemic racism will work against them 
+
+
+-  ,  While the research we describe above demonstrates how White people often respond defensively to racial equity efforts ,  we have also identified when and why they sometimes cope with their discomfort by choosing  fourth responsive strategy that is more productive: embracing the urge to dismantle unjust systems 
+
+
+-  So how can we bring employees to this point? Here ,  we provide three positive actions designed to counter the three defensive responses and increase the likelihood of the more productive response 
+
+
+-  One promising trend we have observed is that more and more organizations are disclosing demographic data regarding recruitment ,  hiring ,  promotion ,  leadership ,  and retention 
+
+
+-  Public disclosure of data works in direct opposition to the denial strategy by providing evidence of racial disparities 
+
+
+-  Such disclosures also directly counter the distortion strategy by making plain who is advantaged and who is disadvantaged and by which practices  ( including those that may seem good ,  such as recruiting primarily from elite universities )  
+
+
+-  For example ,  Nasdaq has proposed requiring companies to report on board diversity in order to be listed on the exchange 
+
+
+-  In the United Kingdom ,  large companies must provide nonfinancial information regarding their activities relating to employee and board diversity 
+
+
+-  population )  ,  but 75% of them are employed at lower-level jobs ,  this would meet the standard of diversity of racial representation ,  but not  standard of racial equity 
+
+
+-  This is why Coca-Cola has focused on the demographics of its leadership team; even though it has managed to increase the demographic diversity of its new hires ,  the executive team does not mirror the demographics of its largest markets 
+
+
+-  And even data on ,  say ,  the executive team is not necessarily helpful in aggregate: Studies on gender diversity on boards have found that even though there are increasing numbers of women on boards ,  they are often relegated to roles with relatively little influence 
+
+
+- 14 Organizations must push themselves to collect and understand better and more meaningful data in order to accurately track their progress 
+
+
+-  One of the ways in which distancing harms racial equity is by allowing White people to think that efforts toward racial equity need not involve them 
+
+
+-  But building  shared understanding of inequity as  characteristic of systems in which all people ,  regardless of race ,  are enmeshed entails inviting White people to participate in more active ways than the ubiquitous courageous conversation or listening tour 
+
+
+-   notable exception came from one leader ,  who acknowledged in  letter the anguish and trauma that many members of the organizational community were feeling but also urged all stakeholders ,  especially the majority ,  who are White ,  to consider how to actively engage with racism 
+
+
+-  This second component is noteworthy; by explicitly calling on White Americans to participate in this endeavor ,  this leader made it clear that White people have  seat at the table and an obligation to be part of the solution 
+
+
+-  And ,  in fact ,  research shows that explicitly inviting majority-group members to act on equity increases their support for and engagement with equity initiatives 
+
+
+- 15 ,  The lack of explicit expectations for White peoples participation in many equity efforts historically may be why most initiatives die on the vine once they move past the C-suite 
+
+
+- 16 Here ,  we would suggest leaders not only encourage White employees to participate but also highlight those who do 
+
+
+-  We advise this not to diminish the value of the work that BIPOC pioneers are doing to push these efforts forward but because people are more likely to change their minds  and their behavior  when they see that others similar to themselves hold particular attitudes and beliefs 
+
+
+-  In this way ,  inviting broad participation and highlighting how specific behaviors are consistent with the core value of equity will reinforce their importance in the pantheon of organizational values 
+
+
+-  ,  Collaboration also requires that leaders engage seriously with White employees fears of being penalized while they are still in the phase of learning 
+
+
+-  For this reason ,  we stress the importance of creating spaces where White employees can practice talking about racism 
+
+
+-  In this way ,  fears that inhibit White employees from talking about racism  and that inhibit learning  can be mitigated 
+
+
+-  Small group workshops are ideal for this purpose ,  as long as they are led by  skilled facilitator who sets the expectation that mistakes are likely and ensures that immediate constructive feedback is provided 
+
+
+-  The idea here is not to give people the opportunity to say offensive things; the expectation is that they can test ways of talking about race and change their behavior as they receive feedback 
+
+
+-  ,  Another way to manage these fears is to have well-defined rules and procedures to address offensive behaviors when they inevitably occur and to communicate these policies unambiguously 
+
+
+-   combination of safe learning spaces for White employees and clear guidelines regarding shared expectations for behavior can help to reassure all employees that learning is valued and that violations are treated both fairly and seriously 
+
+
+-  Distortion tactics can be especially difficult to counter because they essentially try to change the terms of the discussion and alter its goals 
+
+
+-  Countering this tactic requires that leaders be especially clear when setting the vision and specifying the goal of racial equity 
+
+
+-  ,   good deal of the literature aimed at managers makes the business case for diversity ,  no doubt reflecting in part the long-held  but now much-disputed  assumption that business leaders primary allegiance is to shareholders and that any initiative they undertake must contribute to the bottom line 
+
+
+- 17 But using improved organizational performance as the rationale for equity efforts can support an argument against diversity if it does not produce the anticipated gains 
+
+
+-  For example ,  recent research shows that when people who believe in the business case for diversity are on  diverse team that underperforms ,  they have more negative attitudes toward members of other social groups 
+
+
+- 19 In addition ,  research finds that  focus on the business case for diversity can actually undermine BIPOC employees by marking them as merely useful tokens 
+
+
+- 20 Thus ,  only highlighting the business case for diversity has some critical and potentially negative consequences 
+
+
+-  ,  We urge organizational leaders to instead base their case on widely held moral values of fairness and equity ,  with justice as their goal 
+
+
+-  Framing their vision in these terms allows leaders to acknowledge the reality that diversity ,  equity ,  and inclusion  ( DEI )  efforts require companies to prioritize long-term equity and organizational justice over the psychological discomfort of some employees and the possibility of short-term losses 
+
+
+-  Our research shows that openly recognizing this discomfort ahead of time can reduce White backlash ,  making White employees less likely to distance themselves and more likely to accept the reality of systemic racism 
+
+
+-  And we have found that when their hard work is acknowledged ,  White employees can become less prone to backlash and more likely to recognize racial privilege 
+
+
+- 21 ,  Establishing justice and equity as the basis for DEI efforts also enables leaders to communicate the psychological benefit that comes from working in  truly meritocratic environment 
+
+
+-  He stressed that the changes were meant to improve meritocracy at the company 
+
+
+- 22 In this way ,  Coca-Colas leaders acknowledged the discomfort that White employees had with the changes 
+
+
+-  At the same time ,  it emphasized that the efforts would not only benefit minority employees ,  who could gain confidence that their good performance would not be overlooked due to their race; the efforts would also have benefits for White employees ,  who could gain confidence that their career gains were the result of their hard work rather than their race 
+
+
+-  ,  It may be that not everyone in your organization is moved by the techniques for overcoming resistance to equity initiatives that weve described 
+
+
+-  Ultimately ,  if backlash cannot be overcome ,  it must be removed  or else it risks establishing backlash as tacitly acceptable 
+
+
+-  Employees  both White and BIPOC  evaluate how committed organizations are to change initiatives by watching how leadership responds to opposition and resistance 
+
+
+-  For this reason ,  leaders must not only be explicit about what they will and will not tolerate but also act upon those statements 
+
+
+-  For example ,  following inappropriate behavior by employees during an all-hands meeting ,  Cisco announced  $5 million donation to anti-racism groups ,  stated that the company will not tolerate racism ,  and fired several employees because of their conduct 
+
+
+- 23 ,  But regardless of where the line is drawn ,  the important point is that there is one: Employees make sense of their organizational culture by observing who and what is rewarded and what is penalized 
+
+
+-  While  lack of training or knowledge explains some opposition ,  leaders need to treat employees resistance to institutional changes designed to address systemic racism with the same determination with which they treat any opposition to  strategic organizational change: Identify and educate those who need more guidance and can be persuaded ,  and let go those who are unwilling to participate in the vision 
+
+
+-  ,  Leaders committed to making the changes necessary to advance meaningfully toward racial equity in their organizations must be prepared for some degree of internal opposition ,  most likely from White employees ,  who may variously feel discomfort ,  guilt ,  and/or threats to the existing system and their sense of self 
+
+
+-  As we have seen ,  these reactions are predictable and can be addressed systemically and intentionally  if not necessarily easily  just as with opposition to any other major strategic change that leaders spearhead 
+
+
+-  ,  Among the many challenges embedded in organizational changes related to racial equity is that corporate leaders must speak to two internal constituent groups: BIPOC employees and their allies ,  and White employees who do not believe in the existence of structural racism 
+
+
+-  To effectively communicate the urgency of the need for change ,  leaders need to acknowledge the deep harm that systemic racism has wrought on communities and employees of color ,  and connect their efforts at repairing this damage to deeply held social values and corporate purpose 
+
+
+-  Yet they must do this while simultaneously balancing those statements of solidarity with the possibility that such statements will put their non-ally White employees on the defensive and elicit the opposition that we described above 
+
+
+-  Our hope is that being prepared for this opposition will let organizational leaders preempt the many backlash tactics that have been and will be made against racial equity work 
+
+
+-  And by successfully countering such backlash ,  leaders and organizations will be better positioned to do the hard work of transformational change needed to dismantle current systems of racism and achieve racial equity 
+
+
