@@ -1,0 +1,1659 @@
+-  on 26 March 1991 ,  the night crew at the Chaparral Steel minimill in Midlothian ,  Texas ,  cast the first production run of near net-shape steel beams in the United States 
+
+
+-  General Manager Lou Colatriano grinned with tired satisfaction and headed home for his first break in forty-four hours 
+
+
+-  From  sketch on  paper napkin to the first red-hot slab of metal that emerged from  patented mold to streak down the new mill line ,  the elapsed time was twenty-seven months 
+
+
+-  That included design ,  mold development ,  modeling ,  pilot runs ,  and construction ,  and it represented expertise from five companies on three continents 
+
+
+-  One of our core competencies ,  explained CEO Gordon Forward ,  is the rapid realization of new technology into products 
+
+
+-  ,  Every manufacturing company in the United States would like to be able to make that statement 
+
+
+-  Yet  steel mill seems an unlikely place to look for lessons on the quick commercial realization of inventions 
+
+
+-  In fact ,  so does any factory ,  as innovation is generally associated with research laboratories and development organizations 
+
+
+-  Moreover ,  we usually assume that the pressure to get product out the door conflicts with learning 
+
+
+-  But as speed to market becomes an increasingly important criterion of competitive success ,  we need to rethink our concept of what  factory is 
+
+
+-  ,  For decades ,   
+
+
+-  factories were passive service organizations to the rest of the company ,  churning out products designed without benefit of manufacturing input and burying product and process defects under mountains of inventory 
+
+
+-  The past decade has seen  transformation of many of these operations into low-inventory organizations dedicated to total quality and to active participation in new product development 
+
+
+-  What is the next frontier for production? In this article  suggest that it is running operations as learning laboratories 
+
+
+-  ,   learning laboratory is an organization dedicated to knowledge creation ,  collection ,  and control 
+
+
+-  Contribution to knowledge is  key criterion for all activities ,  albeit not the only one 
+
+
+-  In  learning laboratory ,  tremendous amounts of knowledge and skill are embedded in physical equipment and processes and embodied in people 
+
+
+-  More important ,  however ,  are the nontechnical aspects ,  the managerial practices and underlying values that constantly renew and support the knowledge bases 
+
+
+-  ,  In this article  put Chaparral Steel under the microscope as an example of  highly successful learning laboratory; its leadership has put tremendous effort into creating  consistent learning system 
+
+
+-  As my references suggest ,  scholars studying best practices among Japanese manufacturers have made strikingly parallel observations ,  and Chaparrals policies are consistent with prescriptions by organizational learning theorists 
+
+
+-  Its high-quality standards have been rewarded by the market ,  and it consistently sets records for productivity ,  compared to both  
+
+
+-  ,   close look at the company reveals an organic learning system so tightly integrated that Forward says he can tour competitors through the plant ,  show them almost everything ,  and we will be giving away nothing because they cant take it home with them 
+
+
+-  His confidence derives from the fact that the learning laboratory cannot be constructed piecemeal 
+
+
+-  It is comprehensible only as an organic whole; close scrutiny is required to appreciate its delicacy 
+
+
+-  To complicate matters ,  such  corporate ecosystem is in continuous flux ,  constantly regenerating itself 
+
+
+-  Even if  competitor identifies important elements of the system ,  emulation will require time 
+
+
+-  The Chaparral system has evolved in response to  turbulent competitive environment ,  as Forward observes: We have to go like hell all the time 
+
+
+-  If the price of what we sell goes up too high ,   all of  sudden lots of folks will be jumping in 
+
+
+-  And they can get into business in eighteen months or so  
+
+
+-  We have to keep out front all the time 
+
+
+-  ,   learning laboratory does not occur spontaneously but is designed ,  created ,  and maintained through constant managerial attention to communicating the underlying values ,  checking the management systems smallest details for consistency ,  and adapting any inharmonious elements 
+
+
+-  Thus managers designing  learning laboratory need to adopt holistic ,  systems thinking 
+
+
+-  They will have to acknowledge the practical utility and bottom-line impact of corporate values 
+
+
+-  Everyone in the firm must appreciate the self-reinforcing nature of knowledge-creating activities 
+
+
+-  Only by comprehending the whole system can one understand why ,  when  fragment of the learning laboratory is pulled out to be examined  (  particular project ,   specific learning activity )  ,  it comes out vinelike ,  trailing roots back to deeply held values and widely observed management practices 
+
+
+-  ,  Learning requires creation and control of both external and internal knowledge for both current and future operations 
+
+
+-  Therefore ,  four distinguishing activities are critical to  learning laboratory:  (  )  problem solving  ( in current operations )   (  )  internal knowledge integration  ( across functions and projects )   (  )  innovation and experimentation  ( to build for the future )  and  (  )  integration of external information flows  ( see Figure  )  
+
+
+-  Each activity is the operational expression of an underlying value and is strongly supported by  compatible managerial system of procedures and incentives 
+
+
+-  Thus each activity ,  value ,  and managerial system functions as an internally consistent subsystem 
+
+
+-  Although  will describe each subsystem separately ,  the four are mutually aligned and interrelated; that is ,  values and managerial systems underlying one subsystem also support the other three 
+
+
+-  An in-depth look at the four subsystems at Chaparral suggests some of the principles that distinguish  learning laboratory 
+
+
+-  ,  Before exploring these subsystems ,  however ,  we need  brief explanation of Chaparrals near net-shape project ,  an innovative foray directly into the traditional territory of Big Steel that illustrates the companys knowledge creation and control subsystems 
+
+
+-  ,  One way to push equipment performance and ensure learning is to set goals for each project considerably beyond current production capabilities 
+
+
+-  Chaparral managers set  very ambitious goal for the near net-shape project: to produce large  ( eighteen-and twenty-four-inch wide )  structural steel I-beams for the same perpound cost as the simple round reinforcing bars  ( rebars )  ,  the companys first product 
+
+
+-  The challenge was to produce  more difficult product for the same cost 
+
+
+-  We decided on the twenty-four-inch because we wanted to explore the most technically challenging product 
+
+
+-  Because there may be some idiosyncrasies about the process that we need to learn ,  we also chose  second size  based on the amount of North American consumption 
+
+
+-  Reaching this cost objective  ( half of Big Steels )  required drastically reducing the energy costs  ( roughly 25 percent of total )  of rolling the steel into the required end shape 
+
+
+-  The nearer to the final  ( net )  shape the molten steel could be cast ,  the less rolling required 
+
+
+-  The steel-making molds and processes developed for the near net-shape project therefore embody knowledge beyond anything available on the market and ,  in fact ,  beyond anything the leading vendors of steel-making molds thought possible 
+
+
+-  The approximately four-foot copper alloy tube through which the molten steel passes to emerge in nearly I-beam shape is set  very ambitious goal for the near net-shape project: to produce large  ( eighteen- and twenty-four-inch wide )  structural steel I-beams for the same per-pound cost as the simple round reinforcing bars  ( rebars )  ,  the companys first product 
+
+
+-  &mldr; We decided on the twenty-four-inch because we wanted to explore the most technically challenging product 
+
+
+-  Because there may be some idiosyncrasies about the process that we need to learn ,  we also chose  second size &mldr; based on the amount of North American consumption 
+
+
+-  Reaching this cost objective  ( half of Big Steels )  required drastically reducing the energy costs  ( roughly 25 percent of total )  of rolling the steel into the required end shape deceptively simple in appearance 
+
+
+-  However ,  the mold is patented ,  which suggests that the combined expertise of Chaparral designers and Italian and German mold fabricators endowed it with cutting-edge knowledge 
+
+
+-  It is difficult to imagine how Chaparral could have succeeded in this knowledge-intensive project had the company not been run as  learning laboratory 
+
+
+-  ,  Some of the activities ,  values ,  and managerial practices described below characterize any high-quality organization 
+
+
+-  Since they operate as  system ,  we have to look at the whole operation to understand why emulating just some parts may never produce true learning laboratories 
+
+
+-  ,  The first critical learning subsystem is the triad of  (  )  the independent problem solving required for continuous improvement of current processes ,  (  )  egalitarianism as an underlying value ,  and  (  )  shared rewards as the reinforcing incentives system  ( see Figure  )  
+
+
+-  Empowered individuals ,  who command respect in the organization and who feel ownership in the system ,  have the self-confidence ,  freedom ,  and motivation to continuously solve problems 
+
+
+-  The principle involved here turns the old production saw of if it aint broke ,  dont fix it on its head and maintains: if it aint being fixed continuously ,  its broke 
+
+
+-  The often-articulated vision at Chaparral is to lead the world in the low-cost ,  safe production of high-quality steel 
+
+
+-  For  learning lab ,  the test of  vision is the extent to which it permeates the whole organization ,  guiding every micro and macro decision 
+
+
+-  Unless the vision can be directly translated into operational principles ,  that is ,  into guidelines for running the factory lines ,  it may have little effect on actual shop-floor behavior 
+
+
+-  Chaparrals goal of leading the world requires innovation beyond the current cutting edge of production techniques 
+
+
+-  Maintaining  cost advantage requires constant improvements in productivity 
+
+
+-  The vision dictates that those improvements cannot come at the expense of quality or employee safety 
+
+
+-  Therefore the goal for every hour ,  the criterion for every persons activity ,  is crystal clear: make ever more steel  increasingly better than anyone else 
+
+
+-  We never stray far from the market ,  says Hunt 
+
+
+-  At Chaparral ,  who owns  production problem and responsibility for its solution? An incident during the first few weeks of operating the near net-shape caster ,  when cooling hoses were bursting ,  provides some insight 
+
+
+-  You just show up 
+
+
+-  Everybody telephoned some person they thought might know how to fix the problem  vendors ,  experts  and within three to four hours we were getting calls back ,  says the senior operator 
+
+
+-  Service people were showing up ,  and we worked the problem out 
+
+
+-  If it had been just one guy ,  probably  foreman ,  and everyone walked out ,   it would have taken him ten times longer to find  solution 
+
+
+-  ,  Because the performance goal is very clear ,  supervisors do not need to micromanage the line ,  and the organization runs lean 
+
+
+-  For instance ,  two months after the first run of the near net-shape casting ,  the pulpit controls operator is carefully checking the timing on the line with  stopwatch 
+
+
+-  You just take it upon yourself to roll as much steel as you can whether you are the pulpit operator ,  the roller ,  the furnace operator 
+
+
+-  If it works ,  it is the de facto standard 
+
+
+-  At Chaparral ,  there is no formal requirement ,  as at some Japanese companies ,  for  certain number of improvement suggestions from each employee 
+
+
+-  Everyone is involved in some process improvement projects ,  and ,  as the foreman explains ,  We are all out here to make it run 
+
+
+-  However ,  the benefits from general ownership of all problems are that it is not possible to pass the buck and no one expects  steady-state manufacturing process ever 
+
+
+-  Outward symbols of values are important because they convey meaningful messages to all employees 
+
+
+-  At Chaparral there are no assigned parking places ,  no different colored hard hats or uniforms reflecting title or position ,  and the company dining room is  local diner 
+
+
+-  More unusual ,   scant two levels separate the CEO from operators in the rolling mill;  visitor is surprised when an operator stops Forward on  walk through the plant to discuss  new products problems 
+
+
+-  Repeated requests to interview  particularly knowledgeable project manager are politely rebuffed with  shrug and an explanation from  vice president: Sorry ,  he just doesnt want to 
+
+
+-  However ,  respect for the individual does not mean equality of responsibility ,  lack of discipline ,  or even consensual decision making 
+
+
+-  Chaparral has taken unusual steps to ensure that performance and incentive systems back up managements belief in egalitarianism 
+
+
+-  Even more radical  ( especially for  steel mill )  was the switch from hourly wages to salary for everyone 
+
+
+-  There are no time clocks at Chaparral 
+
+
+-  Why shouldnt everyone else? He is fond of saying that the management system was designed for the 97 percent who are conscientious people who want to put in  full days work 
+
+
+-  For instance ,  in contrast to many factories ,  operators are not assigned to shifts according to seniority 
+
+
+-  Everyone rotates into night shift ,   practice that fosters knowledge accumulation twenty-four hours  day and guards against  possible disproportionate accumulation of skills and knowledge in the most favored hours 
+
+
+-  How do senior employees feel about that? During the summer in Texas ,  one foreman rationalizes with  grin ,  youd rather work at night 
+
+
+-  ,  Steel-making is hot ,  dirty ,  demanding work; the pace of innovation and the constant pressure to produce more ,  better ,  and more safely in this organization exacerbate the brutal conditions imposed by the technology 
+
+
+-  What keeps the workforce from burning out? One factor is the incentive systems that have evolved 
+
+
+-  We think janitors and secretaries are important in our success ,  too ,  and they should share in the rewards ,  observes Forward 
+
+
+-  In 1988 ,  each employee received one share for every year worked at the company; 62 percent buy additional shares every month through payroll deductions 
+
+
+-   take better care not to waste anything because  feel like  am paying for it 
+
+
+-  Scholars studying the relationship between such incentive systems and productivity have not reached consensus about the benefits of employee shareholding  ( partly because shareholding agreements vary widely )  
+
+
+-  However ,  there is strong support for the notion that profit sharing generally does raise productivity 
+
+
+-  ,  The second subsystem revolves around knowledge accrual  ( see Figure  )  
+
+
+-  In the learning laboratory ,  knowledge is highly and visibly valued 
+
+
+-  Management invests in educating the whole person ,  not just the technical side ,  and knowledge flows freely across boundaries 
+
+
+-  The principle is this: every day ,  in every project ,  add to the knowledge resources 
+
+
+-  ,  In  learning laboratory ,  one would expect to see visible embodiment of knowledge creation and control in highly innovative physical systems 
+
+
+-  Because of the constant push to improve production ,  Chaparral managers have to design what they need ,  rather than purchase the best available equipment off-the-shelf Why design in-house? To keep the knowledge here ,   mill manager explains 
+
+
+-  ,  The physical processes following the molding step are also knowledge intensive 
+
+
+-  Chaparral processes seem clear outgrowths of skill ,  yet how does such expertise and knowledge accumulate? ,  Just as continuous processing has great advantages for manufacturing over most batch processing ,  so the unimpeded flow of information aids learning more than fragmented ,  batch-processed information 
+
+
+-  In contrast ,  Chaparral management emphasizes homogenizing the level of knowledge throughout; few pockets of information are isolated by position ,  function ,  or working shift 
+
+
+-  An individual garnering knowledge on  trip ,  at  conference ,  or from an experiment can readily transmit it ,  as all employees are located in the same place and know each other 
+
+
+-  The company was also designed to facilitate knowledge flows by encouraging as many accidental meetings as possible 
+
+
+-  Since many decisions go unrecorded and memos are anathema ,  it is important that people see each other frequently 
+
+
+-  This is  do-it-yourself company with no acknowledged staff positions and only  few positions that seem stafflike ,  such as personnel 
+
+
+-  In fact ,  everyone has line responsibilities ,  most of them tied directly to steel production ,  and decision making is pushed down to the lowest possible supervisory level ,  where the knowledge is 
+
+
+-  Lead operators are selected for their knowledge-transmitting as well as knowledge-creating skills ,  because much knowledge flows horizontally among peers 
+
+
+-  Work is structured with the objective of disseminating knowledge 
+
+
+-  For instance ,  in commissioning the new mill that receives the near net-shape product  ( that is ,  ramping it up to problem-free production )  ,  only two teams of operators are being trained 
+
+
+-  Each team works  twelve-hour shift  ( with paid overtime )  
+
+
+-  After the initial eight weeks of this grueling schedule ,  these operators will be dispersed among the rest of the crews to diffuse the knowledge they have created and assimilated about the new processs idiosyncrasies 
+
+
+-  The quality control department is responsible for reacting to quality problems identified by operators on the line  not by separate inspectors 
+
+
+-   maintenance foreman notes that at Chaparral ,  we get involved with the whole process 
+
+
+-  ,  Although the company has  marketing department ,  everyone is considered  salesperson 
+
+
+-  Security guards do data entry while on night duty and are trained paramedics as well 
+
+
+-  ,  No research and development  ( R&D )  department exists separate from production 
+
+
+-  This statement has implications beyond the obvious that there is no research function 
+
+
+-  Some of the problem solving and experimentation that are done in the midst of production involve research 
+
+
+-  However ,  interfacing with the possessors of the latest scientific knowledge is not restricted to an elite group of specialists 
+
+
+-  Knowledge accumulation in  learning lab cannot be the responsibility of  few special people 
+
+
+-  But the first time  went into one of them  thought  was entering Forest Lawn [Cemetery] 
+
+
+-  After you spend some time there ,  you realize you are in Forest Lawn 
+
+
+-  Not because there are no good ideas there ,  but because the good ideas are dying there all the time 
+
+
+-  When the worlds leading supplier was constructing the patented mold for the near net-shape project ,  the three-person team that shuttled back and forth to the site in Germany ,  learning about the fabrication process and serving as  source of information about the intended production process ,  included an operator 
+
+
+-  As described later in Subsystem Four ,  Chaparral employees at all levels are constantly tapping into the latest ,  most current knowledge banks around the world 
+
+
+-  ,  Since performance drives everything in this company ,  and individual incentives are tied to performance ,  employees seem engaged in  marathon relay race ,  where winning as  company team takes precedence over individual ownership of ideas ,  and knowledge is liberally shared 
+
+
+-  There are acknowledged experts ,  such as the director of operations who is an equipment whiz ,  and the mold expert who was largely responsible for the near-net shape design ,  and the organization does not lack for large egos 
+
+
+-  Lots of innovations take more than one good idea 
+
+
+-  They go through  gestation period ,  and lots of people figure out how to make sense of it 
+
+
+-  The point is to focus on the good of the whole 
+
+
+-  ,  Chaparral employees are often unable to identify the source of production innovation 
+
+
+-  In other places ,   few people do  lot of innovating 
+
+
+-  Here  lot of people do little bits that add up 
+
+
+-   millwright makes similar observations: No one is looked down upon 
+
+
+-   am more than likely going to help him out  different time 
+
+
+-  ,  An organization that values knowledge must provide mechanisms for continuous learning 
+
+
+-  ( Most apprenticeships are run by unions 
+
+
+-  )  As Forward notes ,  Expertise must be in the hands of the people that make the product 
+
+
+-  ,  The roughly three-and-a-half-year program allows apprentices to progress to the level of senior operator/ craftsman by successfully completing  , 280 hours of on-the-job training and designated formal schooling 
+
+
+-  The foremen of individual crews schedule the on-the-job training and evaluate the candidates systematic progression through various tasks in the factory 
+
+
+-  For example ,   , 200 hours in steel-pouring operations is one qualification in the ladle metallurgy apprenticeship 
+
+
+-  In addition ,  all apprentices complete study programs in safety ,  operating processes across the entire company ,  mathematics as related to operations ,  metallurgy ,  and basic mechanical maintenance in an effort to give all operators  solid basic understanding of the equipment used and the operating processes 
+
+
+-  Scheduling this study ,  which requires four hours of unpaid work  week ,  is left up to the individuals ,  who have five options: home study with manuals and videos; in-plant study in instructor-monitored study rooms; formal classes; personalized tutoring by instructors; and study in work areas as operations permit 
+
+
+-  ( Operators may also get credit for prior experience by proving knowledge on the job 
+
+
+-  )  Courses include basic engineering knowledge such as conduction in liquids and gases ,  as well as very specific skills such as ladder logic programming for understanding programmable controllers and lubricant storage and handling 
+
+
+-  Perhaps more surprising are such sessions as working with other people under troubleshooting skills 
+
+
+-  ,  The most unusual aspect is the instructors 
+
+
+-  Selected foremen rotate in from the factory floor to teach 
+
+
+-  It creates  lot of credibility for the education program on the factory floor ,  explains one instructor 
+
+
+-  ,  Chaparral also invests in outside courses of all types ,  tending to train its own people rather than hiring those with  particular skill 
+
+
+-  In few factories would  furnace controls operator attend  Dale Carnegie-type course to help him enhance the interpersonal skills critical to smooth teamwork 
+
+
+-  Line managers are expected to be technical experts ,  constantly up-to-date with cutting-edge technology  whether that be some aspect of metallurgy or human resources 
+
+
+-  The manager of the scrap shredding operations ,  for instance ,  has just attended  conference on recycling  in the future ,  Chaparrals expertise in recycling may be an important corporate capability 
+
+
+- 15 ,  The third subsystem in  learning laboratory involves constantly pushing knowledge frontiers  ( see Figure  )  
+
+
+-  The company must select suppliers for their superior capabilities  and for their willingness to be pushed beyond the bounds of their current knowledge 
+
+
+-  ,  Learning requires constant pushing beyond the known ,  and Chaparral employees are skilled experimenters 
+
+
+-  This extremely technical presentation was to help directors understand the methodical knowledge-creation process ,  enable them to identify critical decision points ,  and thereby better equip them to evaluate the risk 
+
+
+-  Another example of knowledge-creating experimentation more often found in research laboratories than factories is the one-sixth scale model of the near net-shape caster ,  which uses water to approximate the flow of steel 
+
+
+-  Many creative simulations are conducted right on the production line 
+
+
+-  The advantage is that the more closely the experimental environment approximates the final production environment ,  the more immediately relevant is the information generated 
+
+
+-  The disadvantage is the obvious potential to disrupt production  which is why most factories prefer to isolate experimentation 
+
+
+-  The soft molds held together just long enough to show this new casting processs feasibility 
+
+
+-  Hunt explains ,  We use products to do research 
+
+
+-  Here we rock the hell out of the boat 
+
+
+-  We dont know the factorys limits 
+
+
+-  When the German mold developers finished  prototype on schedule and called to ask how they should ship it ,  they were astonished to be told ,  Dont ship it at all; cut it up and make it look like this 
+
+
+-   new mold would be required 
+
+
+-  What surprised partners was that Chaparral did not appear to begrudge the wasted $40 , 000 per mold ,  since the knowledge engendered by each prototype enabled the next step in innovation 
+
+
+-  In contrast ,  risk is usually anathema in  production environment 
+
+
+-  Managers of  learning factory must tolerate ,  even welcome ,   certain amount of risk as  concomitant of knowledge acquisition 
+
+
+-  Says Forward ,  We look at risk differently from other people 
+
+
+-  We always ask what is the risk of doing nothing 
+
+
+-  If everyone experiments ,  learns ,  and innovates ,  then neither success nor failure can be heavily personalized 
+
+
+-  What happens when you try something and it doesnt work? What is the penalty? Everybody makes mistakes ,   Chaparral foreman responds 
+
+
+-  You dont have to cover up  mistake here 
+
+
+-  Since promoted to vice president of operations ,  Fournie is somewhat amused to find that visitors cant believe you can make  mistake like that and not get crucified 
+
+
+-  He tries to take the same attitude toward those who work for him: You dont start them out on $1 
+
+
+-  million projects ,  but you have to give them freedom to make mistakes 
+
+
+-  Tenacity makes lots of projects work here that dont work other places  but when it just cant be done ,  its hard to call the project off 
+
+
+-  One of his key criteria for determining if people are ready for promotion is whether they know when to ask for help ,  when to admit that they are in over their heads: Its  tough call &mldr; the hardest decision to learn to make 
+
+
+-  Although top managers and  few specialized gurus at Chaparral have extensive steel experience ,  when Chaparral was first set up ,  management decided not to look for workers with industry experience 
+
+
+-  Beach explains: We were looking for bright ,  enthusiastic ,  articulate people ,  and we preferred people who had not been exposed to other companies bad habits 
+
+
+-  Chaparral looks for a twinkle in the eye ,   zest for life ,  for basically conscientious people who can put in  strong days work and enjoy what theyre doing 
+
+
+-  This love of work is critical in an organization that deliberately runs somewhat understaffed to avoid laying people off during market downturns 
+
+
+-  Highly selective hiring procedures continue to reflect concern that new employees fit into the Chaparral culture ,  that at least one supervisor be personally committed to their training and progress ,  and that the team have  stake in their success 
+
+
+-  These very cautious ,  resource-intensive selection practices may account in part for the extremely dedicated workforce ,  which boasts an absentee rate about one-fourth that represented by the National Association of Manufacturers 
+
+
+-  ,  Since people are the key resource in  knowledge-intensive organization ,  keeping them is critical 
+
+
+- 17 Beach explains: From the very beginning ,  we designed this organization with Maslows hierarchy of needs in mind [i 
+
+
+-  ,  that once peoples basic needs for food ,  shelter ,  and belonging are satisfied ,  they will aspire to  fourth level of need ,  self-esteem ,  and finally ,  the fifth ,  self-actualization 
+
+
+-   know its not stylish ,  but we really believe in that hierarchy ,  so we constantly look at what will help people become self-actualized ,  at their ego needs 
+
+
+-  Asked what he looks for in  job ,   millwright responds: As long as  am moving forward ,   can think for myself: and  feel that  am contributing ,   will be happy 
+
+
+-  Chaparral managers believe that skilled ,  innovative people will leave an organization if they see no possibility for personal growth 
+
+
+-  Management has learned the necessity of training in advance of the need because of problems experienced early in the companys history ,  when operators who were automatically moved up into lead and then supervisory positions as vacancies opened proved underprepared 
+
+
+-  In response ,  Chaparral management established such idiosyncratic practices as viceing 
+
+
+-  When  similar absence occurs at Chaparral ,  the prior foreman works the extra hours ,  at his usual pay level ,  but in  subordinate role 
+
+
+-   supervisor explains ,  You get  little pay increase and  whole lot more responsibility  got  chance to see whether  really wanted to be  foreman or not ,  and it gives you  little respect for the bosss job 
+
+
+-  Recently the production managers for the three mills were given the title of general manager and asked to learn each others jobs and to cover for each other 
+
+
+- 19 ,   learning laboratory obviously needs access to the latest knowledge ,  embodied in the best minds and best equipment available 
+
+
+-  ,  At Chaparral ,  employees constantly scan the world for technical expertise that others have already invested in 
+
+
+-  Managers never hesitate to invent when necessary but only after assuring themselves through extensive searches that no available system will suit their needs 
+
+
+-  Three on-site laboratories support production through chemical and physical product analysis ,  but the company has created  virtual research organization through extensive networking and alliances 
+
+
+-  Information obtained externally is rapidly incorporated through development projects ,  flowing through the created network almost as readily as it does inside the walls of the learning laboratory ,  because in both cases people working directly in production transmit the knowledge 
+
+
+-  Chaparral employees visited the German vendor every few weeks ,  and ultimately Chaparrals expertise combined with the Germans cutting-edge knowledge to produce  patented mold that neither company could have made alone 
+
+
+-  Since it had not yet built its own rolling mill ,  and none existed anywhere that could receive the novel shape ,  managers identified  production laboratory in Mexico with very flexible equipment 
+
+
+-  Chaparrals superintendent of steel-melt technology went to Mexico to direct the simulation of the future mill design ,  using Mexican equipment and workers 
+
+
+-  However ,  knowing such sources of expertise exist would be useless if the factory were not able to tap them ,  to jointly create more knowledge ,  and then to absorb that knowledge into the production system 
+
+
+-  ,  Chaparrals collegial knowledge network seems more characteristic of  research laboratory than of  factory 
+
+
+-  Possibly because of Forwards early career as  research metallurgist ,  the company aggressively pursues the latest knowledge 
+
+
+-  Chaparral sought the coveted Japanese certification for steel ,  not because managers thought they would ever sell much steel in Japan ,  but because they believed the Japanese would go through the companys process carefully  and Chaparral would learn much from the exercise 
+
+
+-  Forward takes  distinctly nontraditional view of environmental scanning for  factory: By the time you hear about  technology in  paper at  conference ,  it is too late 
+
+
+-  This philosophy explains why Chaparral invests in unorthodox knowledge-gathering mechanisms ,  for instance ,  by cosponsoring  research conference with the Colorado School of Mining about  new alloy under investigation 
+
+
+-  The most notable example is the previously mentioned electric arc saw 
+
+
+-  The mill manager left the saw in place for almost  year to allow time for everyone to attempt solutions and to accept failure ,  while he sought an alternative technology: It is not clear that an in-house R&D facility would have helped in this case because the required invention lay in the unfamiliar realm of electromagnetic fields 
+
+
+-  Managers at Chaparral believe that through their virtual R&D organization ,  they can actually tap  larger variety of knowledge bases than they would be able to support internally ,  given their size 
+
+
+-  Still ,  they will have to continue investing in internal expertise in order to integrate the externally obtained knowledge 
+
+
+-  There is no value in recreating something  only in building on the best existing knowledge 
+
+
+-  People in  learning laboratory value the capability to absorb and use knowledge as much as to create it 
+
+
+-  As its practices suggest ,   key Chaparral value is global outreach  openness to innovation ,  whatever its origin 
+
+
+-  Knowledge is valued not so much for the pedigree of its source but for its usefulness 
+
+
+-  ,  To support information gathering and reinforce global outreach ,  the company invests heavily in employee travel  ( and regards the expenses as just that  investments )  ,  often sending  team ,  including foremen and technical staff as well as vice presidents and operators ,  to investigate  new technology or to benchmark against competitors 
+
+
+-  Newly acquired knowledge need not filter down through the ranks ,  because the people who absorbed it are the ones who will apply it 
+
+
+-  In 1990 ,  seventy-eight people from production ,  several of them operators ,  visited  customer site at least once 
+
+
+-  Forward elaborates: We send the people who can best tell us whats going on  whoever they are 
+
+
+-  In 1985 ,  while seeking Japanese suppliers ,  they identified  high-quality company that was not doing much development 
+
+
+-  ,  They are  source of information for the company as  whole 
+
+
+- 21 ,  The factory in fact any backroom operation ,  is not usually regarded as an arena for experimentation and learning 
+
+
+-  Moreover ,  the whole organization is designed around the creation and control of knowledge 
+
+
+-  The organization is unlikely to be open to outside knowledge if it does not place  strong value on sharing knowledge or does not give rewards for bettering the whole companys performance 
+
+
+-  Thus continuous learning depends upon the sense of ownership derived from the incentive systems ,  upon the pride of accomplishment derived from special educational systems ,  upon values embedded in policies and managerial practices ,  as well as upon specific technical skills 
+
+
+-  The line operator appears to take the same perspective on the conduct of daily activities as the CEO 
+
+
+- 22  learning laboratory may have trouble recreating itself Any organization is likely to be somewhat limited by its congenital knowledge and by the stamp placed upon it by its founders 
+
+
+-  Forward has noted that to stand still is to fall behind ,  and the companys credo to provide growth for its skilled people requires some forward momentum 
+
+
+-  How will it transplant the deep worker knowledge ,  the motivation ,  the commitment ,  and the informal systems of knowledge sharing? ,  For other companies interested in creating factories as learning laboratories ,  the questions are: Can it be done in  plant within  large corporation ,  where many of the managerial systems have already been set corporatewide and therefore are not at the plant managers discretion? Can an existing plant be transformed when plant managers may not have the luxury of selecting people as freely as Chaparral did? Can  company less geographically isolated hope to reap returns on investing in its employees intellectual advancement ,  or will they be lured away by other companies? ,  Similar questions were raised  decade ago when  
+
+
+-  manufacturers first began to understand how Japanese companies were competing on the basis of quality 
+
+
+-  Initially overwhelmed by the difference in activities ,  values ,  and managerial systems implied by the total quality approach ,  many  
+
+
+-  managers were pessimistic about their ability to change their operations to the extent needed and reluctant to invest in employee education 
+
+
+- -based factories achieve quality levels never even aspired to in 1980 
+
+
+- 26 As the references at the end of this article suggest ,  many of Chaparrals managerial practices and values also characterize best practices in Japan ,  such as investing extensively in formal and informal education; searching worldwide for the best technology and methods and absorbing that knowledge into home operations; and valuing employee empowerment ,  problem solving ,  and risk taking 
+
+
+-  factories can start up from scratch ,  creating  learning laboratory implies big changes 
+
+
+-  But do we really have any choice? No financial formulas ,  corporate reshuffling of departments ,  or exhortations by corporate management to integrate across functions will foster the creativity and productivity needed for international competition 
+
+
+-  ,  Experts on change management suggest that three critical elements are required for altering current practices:  (  )  dissatisfaction with the status quo;  (  )   clear model of what the changed organization will look like; and  (  )   process for reaching that model ,  that vision of the future 
+
+
+-  One way of stimulating dissatisfaction with current practices and hence motivation to change is to observe other companies where an alternative management style appears to be yielding superior results 
+
+
+-  Chaparral offers  model of  factory as  learning laboratory ,  and if the specifics are not transferable ,  the principles underlying the Chaparral vision are 
+
+
+-  It is possible to interrupt  factorys current systems by introducing new equipment ,  new learning skills and activities ,  new knowledge-creating management systems ,  or new values 
+
+
+-  As the Chaparral example demonstrates ,  learning skills ,  management procedures ,  and values are interrelated 
+
+
+-  Values unsupported by management systems are vapid; management systems that run counter to values are likely to be sabotaged; learning activities unsupported by values and management practices will be short-lived 
+
+
+-  If  learning capability is to be developed ,  the whole system must eventually be addressed 
+
+
+- During the past decade ,  many firms have concluded that information is one of their most critical business resources and that broadening information access and usage and enhancing its quality are key to improving business performance 
+
+
+-  The information-based organization ,  the knowledge-based enterprise ,  and the learning organization ,  forecasted by management experts ,  all require  free flow of information around the firm 
+
+
+-  Yet the rhetoric and technology of information management have far outpaced the ability of people to understand and agree on what information they need and then to share it 
+
+
+-  ,  Today ,  in fact ,  the information-based organization is largely  fantasy 
+
+
+-  Despite forty years of the Information Revolution in business ,  most managers still tell us that they cannot get the information they need to run their own units or functions 
+
+
+-  Many of their efforts to create information-based organizations  or even to implement significant information management initiatives  have failed or are on the path to failure 
+
+
+-  Only when information politics are viewed as  natural aspect of organizational life and consciously managed will true information-based organizations emerge 
+
+
+-  ,  Furthermore ,   good argument can be made  and there is increasing evidence for it  that as information becomes the basis for organizational structure and function ,  politics will increasingly come into play 
+
+
+-  In the most information-oriented companies we studied ,  people were least likely to share information freely ,  as perceived by these companies managers 
+
+
+-  As peoples jobs and roles become defined by the unique information they hold ,  they may be less likely to share that information  viewing it as  source of power and indispensability  rather than more so 
+
+
+-  ,  This assertion directly contradicts several academic and popular concepts about how widespread information and information technology will affect organizations 
+
+
+-  These thinkers have hypothesized that as organizations make widespread use of information technology ,  information will flow freely and quickly eliminate hierarchy 
+
+
+-  Political behavior regarding information should be viewed not as irrational or inappropriate but as  normal response to certain organizational situations 
+
+
+-  Valid differences in interpretation of information ,  for example ,  may lead to apparently intransigent behavior 
+
+
+-  At an electronics company we once worked with ,  the marketing organizations for direct and indirect channels could never agree on what constituted  sale 
+
+
+-  Getting the product to the end-customer was direct marketings sale; getting it to the distributor ,  even though it might return eventually ,  was how the indirect group wanted to measure its success 
+
+
+-  Later ,  as more product moved directly to buyers ,  end-customer sales became the official definition 
+
+
+-  Political disputes of this type will often arise when there is no consensus around the businesss information needs 
+
+
+-  ,  One reason the stakes are so high in information politics is that more than information is at stake 
+
+
+-  In order to arrive at  common definition of information requirements ,  organizations must often address not just the information they use ,  but the business practices and processes that generate the information 
+
+
+-  At  fast-growing specialty manufacturer ,  CEO-appointed information czars are responsible for ensuring consistency in the information-generating activities of their areas 
+
+
+-  For example ,  the order-processing czar mandated common companywide practices for assigning customer and product numbers ,  recognizing revenue ,  and determining contract prices 
+
+
+-  Out of each new process will come information on its performance  how long it takes ,  how much it costs ,  how satisfied the customer is with it  as well as the more traditional results-oriented information such as sales and profitability 
+
+
+-  Unfortunately ,  the very factors that make free information flow most desirable and necessary also make it less likely 
+
+
+-  An organization that is highly unstable and operating in an uncertain business ,  in which employees are uncertain about their job security and place in the hierarchy; needs as much information as possible about the environment and its own performance 
+
+
+-  After we define each model ,  we will evaluate their relative effectiveness along the dimensions of information quality ,  efficiency ,  commonality ,  and access 
+
+
+-  Sometimes the models conflict ,  and sometimes one model predominates 
+
+
+-  Table  shows the distribution of models among the companies we studied 
+
+
+-  Their technological efforts to alleviate information problems often involve  considerable amount of detailed planning and revolve around modeling and efficient use of corporate data 
+
+
+-  Their goal is to plan  technology infrastructure that can deliver information to each individuals desktop and then to build databases with the correct structure to store this information without redundancy 
+
+
+-  Some technical efforts around information management are reasonable; however ,  when the technological approach to information predominates ,  the companys model of information management can be described as technocratic utopianism 
+
+
+-  ,  Although neither the IS professionals nor the users may be consciously creating  technocratic utopia ,  there is an underlying assumption that technology will resolve all problems and that organizational and political issues are nonexistent or unmanageable 
+
+
+-  In fact ,  information itself  its content ,  use ,  and implications for managing receives little attention in this model 
+
+
+-  The model usually coexists ,  however uneasily ,  with other models; in fact ,  the technocratic utopian model is often held by  small group of technologists supported by many technical journals ,  consultants ,  and technology vendors 
+
+
+-  While the technologists plan  utopia around the free flow of information ,  the senior executives for whom they work usually ignore ,  or are ignorant of ,  their efforts 
+
+
+-  ,  Technocratic utopians often have three factors in common: they focus heavily on information modeling and categorization; they highly value emerging hardware and software technologies; and they attempt to address an organizations entire information inventory 
+
+
+-  They consider such modeling and categorization  key aspect of the engineering of information  ( indeed ,  information engineering is an established discipline within the IS profession )  
+
+
+-  In this ideal world ,  information flows like water ,  and the only task is to construct appropriate canals ,  aqueducts ,  and dams in order for information to flow freely to those who need it 
+
+
+-  Information sometimes feels as common in organizations as water; since it is so plentiful ,  there is  natural instinct to try to channel it rather than drown in it 
+
+
+-  ,  Information engineering is important ,  of course ,  but the political aspects cannot be neglected 
+
+
+-  Those knowledgeable about the back-room politics involved in bringing water to Los Angeles or about Robert Mosess political steamrolling in New Yorks water management will understand the role of politics in managing  natural resource like information 
+
+
+-  ,  Technologists also frequently assert that new forms of hardware and software are the keys to information success 
+
+
+-  Executives often hear that they will get the information they need when our new relational database system is installed or when our new network is complete 
+
+
+-  No technology has yet been invented to convince unwilling managers to share information or even to use it 
+
+
+-  In fact ,  we would argue that technology vendors suffer from the same political forces as do data modelers 
+
+
+-  The failure of the diskless workstation to thrive in the marketplace may well be due to individuals reluctance to lose control of their information 
+
+
+-   common example is the creation of an enterprise model   structured inventory and categorization of all data elements used throughout the firm 
+
+
+-  Such modeling exercises often take years and yield vast amounts of detail 
+
+
+-  Although their purpose is often to eliminate redundant data storage ,  they often yield little real business value 
+
+
+-  They believe ,  consciously or unconsciously ,  that informations value for business decisions is not only very high but also self-evident 
+
+
+-  They assume that information itself is valueless ,  or at least that its value is the same to all organizational members 
+
+
+-  Rarely do organizations consciously choose this state ,  in which individuals fend for their own information needs 
+
+
+-  Suddenly individuals and small departments could manage their own databases ,  tailoring their own reports to their own needs at any time and at minimal cost 
+
+
+-  This software firm had previously tried to develop an overall information management structure by asking key managers what information they needed to run the business 
+
+
+-  When the firm could not achieve consensus ,  it determined that  bottom-up structured exchange of documents across its network ,  using  new software technology developed for this purpose ,  would yield all of the required information 
+
+
+-  Even here ,  however ,  an alternative information model flourished in some quarters; as one senior executive put it ,  I get all the information  need in breakfast meetings with the CEO 
+
+
+-  Different realms often end up with different languages ,  and the subsequent fragmenting of information authority diminishes the power of the entire enterprise  just as the growth of powerful noblemen and their entourages inhibited the kings power in medieval times 
+
+
+-  When divisions have their own strategies ,  products ,  and customers ,  it is almost inevitable that their information needs will differ 
+
+
+-  The firm was organized along product lines; product division heads were informally referred to as barons 
+
+
+-  The latter executive eventually brought in consultants to give  seminar on the value of common data and systems  all ,  the last we heard ,  to no avail 
+
+
+-   new CEO arrived at  time when profits were down ,  and he felt he had no way to manage across the entire firm 
+
+
+-  ,  We have also seen  few examples of functional feudalism ,  in which financial and operational functions have their own information architectures and cannot achieve consensus on what should be monitored and how 
+
+
+-  In one high-technology manufacturing firm ,  for example ,  the quality function head created an executive information system that reported on operational performance and quality data 
+
+
+-  The quality-oriented system was building adherents  ( and product quality )  until the quality director left for  summer vacation 
+
+
+-  Powerful executives can create strategic alliances to share information or establish  common network or architecture ,  just as feudal lords banded together to build  road or common defense wall ,  go to war ,  or plan  marriage for mutual enrichment  although such communal efforts rarely include all of the lords 
+
+
+-  It is also possible that ,  as in Renaissance times ,  the proliferation of patrons will encourage innovation and creativity within each realm for example ,  the development of  particularly useful quality information system by one division 
+
+
+-  ,  Much depends on the approach the monarch takes to managing the realms information 
+
+
+-  ,  The rapidly growing specialty manufacturer mentioned above is an example 
+
+
+-  The CEO ,  who felt that information flow was critical to developing  flexible organization ,  decreed  policy of common information to bring about access to consistent information by all who needed it 
+
+
+-  Currently efforts are underway to embed this decree into  set of business practices and  technical architecture 
+
+
+-  This top-down approach is an example of enlightened monarchy at its best ,  since the action was taken not in response to  specific crisis but as  well-considered response to  broad organizational objective 
+
+
+-  The chart of accounts becomes the realms Magna Carta  ( great charter )  ,   document establishing rules that will be enforced by processes and enabled by an information technology platform 
+
+
+-  The CEO is usually considered the primary user of such  system ,  although some attempt is usually made to solicit the information requirements of other executives 
+
+
+-  However ,  the effort is not always successful 
+
+
+-  ,  One drawback to any information monarchy is the simple fact of mortality 
+
+
+-  Cultures and traditions take years to solidify in an enterprise 
+
+
+-  In one high-tech manufacturing firm ,  the founder CEOs retirement led to information anarchy for many years; only now is the firm beginning to establish  more structured environment 
+
+
+-  In contrast ,  technocratic utopianism ignores politics ,  anarchy is politics run amok ,  feudalism involves destructive politics ,  and monarchy attempts to eliminate politics through  strong central authority 
+
+
+-  Federalism treats politics as  necessary and legitimate activity by which people with different interests work out among themselves  collective purpose and means for achieving it 
+
+
+-  However ,  it takes tough negotiating and  politically astute information manager to make the federalist model work 
+
+
+-  Such an information manager needs to have the CEOs support  ( although not too much support ,  or  monarchy emerges )  as well as the trust and support of the lords and barons who run the divisions 
+
+
+-  He or she needs to understand the value of information itself as well as of the technology that stores ,  manipulates ,  and distributes it 
+
+
+-  Each realm contracts with the executive and with other realms to cede some of its information assets in return for helping to create  greater whole 
+
+
+-  This is  genuine leveraging of  firms knowledge base 
+
+
+-  ,  At IBM ,  the former head of corporate information services ,  Larry Ford ,  concluded that the firm needed to manage information in  dramatically new way 
+
+
+-  Ford and his organization produced an information strategy that focused on the value that information can bring to all of IBM 
+
+
+-  Would you share your product quality data with the service organization? How about sales? Eventually all the important information will be in easy-to-access data warehouses 
+
+
+-  ,  Of course ,  the politician has only so much time to ring doorbells 
+
+
+-   division may have hundreds of important data elements that need to be shared 
+
+
+-  IBM is finding that the time to educate and persuade information owners of their responsibilities is the biggest constraint to implementing  federalist model 
+
+
+-  Fords departure from IBM to head  software firm may also place the federalist initiative at risk 
+
+
+-  ,  The first step in managing information politics is figuring out which models people in the firm hold ,  which model currently predominates ,  which is most desirable ,  and how to achieve it 
+
+
+-  As we have noted ,  adopting multiple models will needlessly consume scarce resources and will confuse both information managers and users 
+
+
+-  Therefore ,   firm should choose one model and move continually toward it ,  however long it takes 
+
+
+-  In  business culture that celebrates empowerment and widespread participation ,  federalism is preferable ,  but it is harder to achieve and takes more time 
+
+
+-  Federalism requires managers to negotiate with each other in good faith while avoiding the temptation to use and withhold information destructively 
+
+
+-  ,  Table  summarizes our assessments of the five political models along four dimensions:  (  )  commonality of vocabulary and meaning;  (  )  degree of access to important information;  (  )  quality of information  that is ,  its currency ,  relevance ,  and accuracy; and  (  )  efficiency of information management 
+
+
+-  Even the definition of what  sale is can be variously interpreted by different divisions ,  to say nothing of more ambiguous terms such as quality ,  performance ,  and improvement 
+
+
+-  Many firms proclaim that all employees should have the information they need to do their work well 
+
+
+-  However ,  in making the choices about who actually needs what information ,  firms are making political decisions ,  whether or not they acknowledge it 
+
+
+-  ,  In many ways the quality of information is the most important of these indicators 
+
+
+-  Information quality is achieved through detailed attention to its integrity ,  accuracy ,  currency ,  interpretability ,  and overall value 
+
+
+-  As with other types of products ,  the quality of information is best judged by its customers 
+
+
+-  Even companies that declare themselves as firmly in the Information Age ,  however ,  rarely have measures or assessments of their informations quality 
+
+
+-  The incredible improvements in price-performance ratios for data storage technologies have reduced this issues importance somewhat 
+
+
+-  However ,  there is still the human factor 
+
+
+-  Multiple measures of the same item take time to analyze and synthesize 
+
+
+-  Effective management requires focusing on  few key performance indicators 
+
+
+-  Computers and disk drives may be able to handle information overload ,  but people still suffer from it 
+
+
+-  This makes possible the widespread access and distribution of meaningful information ,  which is then used for the benefit of the whole enterprise 
+
+
+-  Although satisfying all constituencies may require gathering more information than is absolutely necessary  ( hence decreasing efficiency )  ,  and the necessary compromises may reduce quality ,  federalism scores higher in the minds of the managers we interviewed than any other model 
+
+
+-  ,  Because federalism explicitly acknowledges the important positive role that information politics can play ,  it is apt to be the most effective model for companies that rely on individual initiative for generating collective action 
+
+
+-  Accomplishing it ,  of course ,  requires negotiating skills and the willingness of managers to take the time to negotiate 
+
+
+-  The temptation always exists to look to  strong monarch to resolve the endless negotiations by fiat ,  to fall prey once more to the alluring utopian vision painted by the technologists ,  to fall back into  nasty and brutish condition of feudal conflict ,  or to dissolve into the chaos of anarchy 
+
+
+-  In fact ,  as Table  shows ,  many of the firms pursuing federalism were also pursuing other models ,  either consciously or implicitly as  backup strategy 
+
+
+-  The monarch and his or her ministers mandate and oversee the right processes to generate the right information to be used in the right way  all enhancing information quality ,  at least as they perceive it 
+
+
+-  ,  Technocratic utopianism focuses on using information technology to dramatically improve data distribution 
+
+
+-  Because technocratic utopians do not concern themselves with the processes that produce information ,  the quality of information remains low 
+
+
+-  Further ,  the quality of information usage is inhibited by technocratic efforts such as complex data modeling that are often not understood or appreciated by line managers 
+
+
+-  Commonality and efficiency are the lowest possible ,  of course ,  but at least Individuals have easy access to the data they need 
+
+
+-  The customer controls information ,  thus its quality is likely to be high  unless the customer is an executive trying to take an organizationwide perspective 
+
+
+-  Feudalism gets only middling marks for quality; it may be high for individual divisions ,  but it is low from the corporate perspective 
+
+
+-  Phillips Petroleum ,  for example ,  radically reduced its management ranks after  raider-forced restructuring 
+
+
+-  One firm was  fast-growing personal computer  ( PC )  manufacturer when we studied it; since then ,  its growth has slackened 
+
+
+-  The other firm was  large manufacturer of several types of computers that was experiencing financial problems when we visited it 
+
+
+-  However ,  two key aspects of their cultures  their organizational structures and their relative financial success  had led to radically different information politics 
+
+
+-  The firm had an explicit ethic of open communications ,  stressing early notification of problems and  dont shoot the messenger response 
+
+
+-  Allowing others access to information requires  lot of trust ,  but that trust seems to exist here 
+
+
+-  In more difficult times ,  with new management ,  the open information environment may not persist 
+
+
+-  This is particularly true during the economically difficult times now facing the company 
+
+
+-  If an organizational structure is defined by information nodes ,  then those who freely surrender information may lose their place in the structure 
+
+
+-  Put more broadly ,  in the information-based organization ,  information becomes the primary medium of value and exchange ,  and who would give it away for free? ,  How do you know when your culture is right for more democratic information politics? There are  number of indicators 
+
+
+-  We have noticed ,  for example ,  that companies that successfully implement quality programs have to deal with many of the same issues affecting information flow 
+
+
+-  Similarly ,  companies highly attuned to customer satisfaction must be able to deal with negative results in  positive fashion   trait highly necessary in an information democracy 
+
+
+-  And geographic differences affecting the willingness to share information are legendary; how many times has it been uttered ,  Were having problems getting data from our French subsidiary 
+
+
+-  ,  Although technology will not lead us to an information utopia ,  there are still important technological factors to consider 
+
+
+-  Information engineering should be highly focused ,  information should be in units that managers can understand and negotiate with ,  and technology platforms should be as common as possible 
+
+
+-  ,  Previously we pointed out the folly of trying to engineer an organizations entire information inventory 
+
+
+- 14 This is particularly true in  federalist environment ,  in which each key information element will require substantial negotiations 
+
+
+-  Information management efforts must be directed at only those information elements that are essential to implementing strategy and to running the business day to day 
+
+
+-  At IBM ,  for example ,  the firms internal information strategy focuses primarily on customer and market information and secondarily on process quality information 
+
+
+-  ,  It is also important to acknowledge that not all information will be managed through technological means ,  just as most of the water around us does not run through our water meters 
+
+
+- 17 ,   key aspect of making information more widely available ,  ineffective technocratic utopias to the contrary ,  is the nature of the information technology platform 
+
+
+-  Specifically ,  technology for widespread information use must be common ,  easily used ,  and interconnectible 
+
+
+- 18 Technological realists recognize that their computers may not be best for all applications ,  but they meet basic needs 
+
+
+-  Common ,  standardized technology is essential if the same information is to be presented in the same way all around the company 
+
+
+-  Aetna Life  Casualty ,  American Airlines ,  Du Pont ,  IBM ,  and  large consumer products firm are all initiating efforts to build and operate  common platform for information distribution 
+
+
+-  This may seem obvious ,  but few companies can send  piece of data to all their workstations without considerable machinations to address different products ,  protocols ,  and other technical particulars 
+
+
+-  These companies are discovering that the same federalist approach required for achieving consensus on information meaning is also required to achieve consensus on  standard technology platform 
+
+
+- 19 ,  Along with having  suitable political culture and technology environment ,  companies desiring to change their information politics must elect  ( or otherwise get into office )  the right information politicians 
+
+
+-  In one fast-growing software company ,  for example ,  problems with information flow were widespread ,  but no one below the CEO took any ownership of the problem 
+
+
+-  Few would have embarked on initiatives to improve the way information  not just information technology  is used and managed 
+
+
+-  At companies such as IBM ,  Xerox ,  Kodak ,  and Merrill Lynch ,  recent CIOs have been fast-track executives with records of managing important non-technology aspects of the business 
+
+
+-  In order to take on broader responsibility for information management ,  they must at  minimum convince operational executives of their ability to understand and manage operational performance information 
+
+
+-  We have found  few CFOs with the sincere desire to do this but have seen no examples of  CFO becoming  successful information politician 
+
+
+-  The time demands of day-to-day information negotiation may require that the CEO delegate political authority to other managers 
+
+
+-  In fact ,  the concept of information ownership is antithetical to federalist information management 
+
+
+-  Rather ,  companies should institute the concept of information stewardship  responsibility for ensuring data quality  with ownership by the corporation at large 
+
+
+-  ,  For example ,  at  major direct marketing firm ,  nontechnical executives were intimidated by technology ,  and control over the firms sixty-million-name database was ceded to IS 
+
+
+-  When the CEO himself was denied  report ,  the IS head was deposed and replaced by  trusted nontechnical associate of the CEO 
+
+
+-  Yet because he could not understand the technology ,  he could not dismantle the walls around the data 
+
+
+-  ,  Explicitly recognizing the politics of information and managing them constructively is  difficult ,  complex ,  and time-consuming task 
+
+
+-  Effectively managing information politics requires  shift in organizational culture; new technology and even new executives alone are not enough to make this happen 
+
+
+-  They must view information as important to their success and be willing to spend time and energy negotiating to meet their information needs 
+
+
+-  As in real democracies ,  democratic information models like federalism require informed participation of all organizational citizens 
+
+
+-  ,  Yet in the mid-1970s ,  the production-line approach to service was the darling child of service gurus 
+
+
+-  We do not intend to debunk empowerment ,  rather we hope to clarify why to empower  ( there are costs ,  as well as benefits )  ,  how to empower  ( there are alternatives )  ,  and when to empower  ( it really does depend on the situation )  
+
+
+-  ,  In two classic articles ,  the Production-Line Approach to Service and the Industrialization of Service ,  Theodore Levitt described how service operations can be made more efficient by applying manufacturing logic and tactics 
+
+
+-  ,  McDonalds is  good example 
+
+
+-  They learn  set procedure for assembling the order  ( for example ,  cold drinks first ,  then hot ones )  ,  placing items on the tray ,  and placing the tray where customers need not reach for it 
+
+
+-  This production-line approach makes customer-service interactions uniform and gives the organization control over them 
+
+
+-  ,  What are the gains from  production-line approach? Efficient ,  low-cost ,  high-volume service operations ,  with satisfied customers 
+
+
+-  ,  Ron Zemke and Dick Schaaf ,  in The Service Edge: 101 Companies That Profit from Customer Care ,  note that empowerment is  common theme running through many ,  even most ,  of their excellent service businesses ,  such as American Airlines ,  Marriott ,  American Express ,  and Federal Express 
+
+
+-  ,  The humanistic flavor of empowerment pervades the words of advocates such as Tom Peters: ,  And from Jan Carlzon ,  CEO of Scandinavian Airlines Systems  ( SAS )  ,  In contrast to the industrialization of service ,  empowerment very much looks to the performer of the tasks for solutions to service problems 
+
+
+-  Workers are asked to suggest new services and products and to solve problems creatively and effectively 
+
+
+-  ,  What ,  then ,  does it really mean  beyond the catchy slogans  to empower employees? We define empowerment as sharing with frontline employees four organizational ingredients:  (  )  information about the organizations performance ,  (  )  rewards based on the organizations performance ,  (  )  knowledge that enables employees to understand and contribute to organizational performance ,  and  (  )  power to make decisions that influence organizational direction and performance 
+
+
+-  For now ,  we can say that with  production-line approach ,  these features tend to be concentrated in the hands of senior management; with an empowerment approach ,  they tend to be moved downward to frontline employees 
+
+
+-  The companys motto is people ,  service ,  and profits 
+
+
+-  Behind its blue ,  white ,  and red planes and uniforms are self-managing work teams ,  gainsharing plans ,  and empowered employees seemingly consumed with providing flexible and creative service to customers with varying needs 
+
+
+-  Here ,  too ,  we find turned-on people and profits 
+
+
+-  In fact ,  rigid operational guidelines help guarantee the customer reliable ,  low-cost service 
+
+
+-  UPS is  top-down ,  traditionally controlled organization ,  in which employees are directed by policies and procedures based on industrial engineering studies of how all service delivery aspects should be carried out and how long they should take 
+
+
+-  Although they represented diverse services  banking ,  travel ,  utilities ,  airlines ,  and shipping  and they disagreed on most points ,  they all agreed that empowerment is key to customer satisfaction 
+
+
+-  But is it? ,  What gains are possible from empowering service employees? ,  Check-in time at the hotel begins at   
+
+
+-  The waitress is taking an order in  modestly priced family restaurant; the menu says no substitutions ,  but the customer requests one anyway 
+
+
+-  ,  The customer wants  quick response 
+
+
+-  This is particularly valuable when there is little time to refer to  higher authority ,  as when the plane is leaving in fifteen minutes 
+
+
+-  Even before greeting customers ,  empowered employees are confident that they have all the necessary resources at their command to provide customers with what they need 
+
+
+-  Figure  depicts the relationships among service delivery ,  recovery ,  and customer satisfaction 
+
+
+-  ,  Fixing something after doing it wrong the first time can turn  dissatisfied customer into  satisfied ,  even loyal ,  customer 
+
+
+-  These employees lack the power and knowledge to recover ,  and customers remain dissatisfied 
+
+
+-  Have you ever washed  rental car? Decades of job design research show that when employees have  sense of control and of doing meaningful work they are more satisfied 
+
+
+-  ,  Research now supports our long-standing intuition that customers perceptions of service quality are shaped by the courtesy; empathy; and responsiveness of service employees 
+
+
+-  Customers want employees to appear concerned about their needs 
+
+
+-  Can empowerment help create this? One of us has done customer service research in branch banks that showed that when the tellers reported feeling good about how they were supervised ,  trained ,  and rewarded ,  customers thought more highly of the service they received 
+
+
+-  In short ,  when employees felt that management was looking after their needs ,  they took better care of the customer 
+
+
+-  In banking ,  where the customer receives no tangible benefits in the exchange other than  savings deposit slip ,   sour teller can really blemish  customers feelings about the encounter 
+
+
+-  The bank study showed that the tellers could accurately report how customers viewed overall service quality and how they saw the branches service climate  (  
+
+
+-  When it comes to market research ,  imagine the difference in response rates from surveying your employees and surveying your customers 
+
+
+-  Why? Their satisfied-no-matter-what customers spread the word about their service and become repeat customers 
+
+
+-  For example ,  Federal Express selects customer agents and couriers on the basis of well-researched profiles of successful performers in those jobs 
+
+
+-  The production-line approach trains workers easily and puts them right to work 
+
+
+-  In contrast ,  new hires at SAS are formally assigned  mentor to help them learn the ropes; Nordstrom department managers take responsibility for orienting and training new members of the sales team; customer service representatives at Lands End and  
+
+
+-  They receive far more information and knowledge about their company and its products than is the norm 
+
+
+-  Retail banking ,  department stores ,  and convenience stores are labor intensive ,  and their training and selection costs can run high 
+
+
+-  ,  Many consumer service organizations ,  such as department stores ,  convenience stores ,  restaurants ,  and banks ,  rely on large numbers of part-time and seasonal workers to meet their highly variable staffing needs 
+
+
+-  These employees typically work for short periods of time at low wages 
+
+
+-  To empower these workers ,   company would have to invest heavily in training to try to quickly inculcate the organizations culture and values 
+
+
+-  This training would probably be unsuccessful ,  and the employees wouldnt be around long enough to provide  return on the investment 
+
+
+-  Alternatively ,  the organization could pay higher wages to full-time ,  permanent employees ,  but they would be idle when business was slow 
+
+
+-  ,  Remember the hotel guest wanting to check in early and the airline passenger requesting special treatment at the gate? True ,  there is  benefit to empowering the employee to bend the rules ,  but only for the person at the front of the line! Customers at the back of the line are grumbling and checking their watches 
+
+
+-  They may have the satisfaction of knowing that they too may receive creative problem solving when and if they reach the counter ,  but it is small consolation if the plane has already left 
+
+
+-  ,  Based on our experiences as both researchers and customers ,  we believe that customers will increasingly value speed in service delivery 
+
+
+-  We also believe that many customers value no surprises in service delivery: They like to know what to expect when they revisit  service business or patronize different outlets of  franchise 
+
+
+-  ,  The research data show that customers perceive reliability  doing it right the first time  as the most important dimension of service quality 
+
+
+-  It matters more than employees responsiveness ,  courtesy ,  or competency; or the attractiveness of the service setting 
+
+
+-  Much of the touted appeal of the production-line approach was that procedurally and technocratically driven operations could deliver service more reliably and consistently than service operations heavily dependent upon the skills and attitudes of employees 
+
+
+-  The production-line approach was intended to routinize service so that customers would receive the best outcome possible from their service encounters  service delivery with no glitches in the first place 
+
+
+-  ,  We feel that service managers need to guard against being seduced into too great  focus on recovery ,  at the expense of service delivery reliability 
+
+
+-  Recovery has more sex appeal than the nitty-gritty detail of building quality into every seemingly mundane aspect of the service delivery system ,  but an organization that relies on recovery may end up losing out to firms that do it right the first time 
+
+
+-  ,  Sometimes creative rule breaking can cause  major problem for an organization 
+
+
+-  ,  These are some of the costs and benefits of empowerment 
+
+
+-  We hope this discussion will help service businesses use empowerment knowledgeably ,  not just because it is  fad 
+
+
+-  We have used anecdotal evidence ,  related research  (  
+
+
+-  More systematic research must assess whether this array of costs and benefits fully captures the whys  ( and why nots )  empowerment 
+
+
+-  This is largely because the production-line approach is an example of the well-developed control model of organization design and management ,  whereas empowerment is part of the still evolving commitment or involvement model 
+
+
+-  ,  profit sharing and stock ownership )   (  )  knowledge that enables employees to understand and contribute to organizational performance  (  
+
+
+-  ,  through quality circles and self-managing teams )  
+
+
+- 13 They represent increasing degrees of empowerment as additional knowledge ,  information ,  power ,  and rewards are pushed down to the front line 
+
+
+-  Employees are encouraged to contribute ideas through formal suggestion programs or quality circles ,  but their day-to-day work activities do not really change 
+
+
+-  ,  Suggestion involvement can produce some empowerment without altering the basic production-line approach 
+
+
+-  McDonalds ,  for example ,  listens closely to the front line 
+
+
+-  As another example ,  Florida Power and Light ,  which won the Deming quality award ,  defines empowerment in suggestion involvement terms 
+
+
+-  Employees believe their tasks are significant ,  they have considerable freedom in deciding how to do the work ,  they get more feedback ,  and they handle  whole ,  identifiable piece of work 
+
+
+-  Research shows that many employees find enriched work more motivating and satisfying ,  and they do higher-quality work 
+
+
+-  Teams are often appropriate in complex service organizations such as hospitals and airlines because individuals cannot offer  whole service or handle  customer from beginning to end of service delivery 
+
+
+-  ,  Employees in this environment require training to deal with the added complexity 
+
+
+-  Supervisors ,  who now have fewer shots to call ,  need to be reoriented toward supporting the front line ,  rather than directing it 
+
+
+-  Virtually every aspect of the organization is different from that of  control-oriented organization 
+
+
+-  Employees are extensively cross-trained to work where they are needed 
+
+
+-  Only time will tell if America West can make high-involvement work as it struggles with its financial crisis stemming from high fuel costs and rapid growth 
+
+
+-  It organized its  , 000 clerical workers in Memphis into superteams of five to ten people and gave them the authority and training to manage themselves 
+
+
+-  For example ,  early job enrichment efforts in the 1960s assumed that all employees would prefer more challenging work and more autonomy 
+
+
+-  By the 1970s it was clear that only those employees who felt the need to grow at work responded positively to job enrichment 
+
+
+- 15 As the research on it is still thin ,  it is at least possible that empowerment is  universal truth ,  but historical evidence weighs against its being the best way to manage in all situations 
+
+
+-  ,  We believe that both the empowerment and production-line approaches have their advantages ,  and that each fits certain situations 
+
+
+-  The key is to choose the management approach that best meets the needs of both employees and customers 
+
+
+-  Each contingency can be rated on  scale of  to  to diagnose the quality of fit between the overall situation and the alternative approaches 
+
+
+-  ,  Proposition 1: The higher the rating of each contingency  (  being the highest )  ,  the better the fit with an empowerment approach; the lower the rating  (  being the lowest )  ,  the better the fit with  production-line approach 
+
+
+-  ,  Proposition 2: The higher the total score from all five contingencies ,  the better the fit with an empowerment approach; the lower the total score ,  the better the fit with  production-line approach 
+
+
+-   production-line approach is  good fit with situations that score in the range of  to 10 
+
+
+-  ,  Proposition 3: The higher the total score ,  the more the benefits of increasing empowerment will outweigh the costs 
+
+
+-  ,  In what follows ,  we describe each contingencys implications for  production-line or empowerment approach 
+
+
+-  ,   production-line approach makes the most sense if your core mission is to offer high-volume service at the lowest cost 
+
+
+-  The question is: what is the value-added from spending the additional dollars on employee selection ,  training ,  and retention necessary for empowerment? This question is especially compelling in labor-intensive services  (  
+
+
+-  ,  fast food ,  grocery stores ,  and convenience stores )  and those that require part-time or temporary employees 
+
+
+-  Certain customer segments are just looking for cheap ,  quick ,  reliable service 
+
+
+-  They do want quality   warm hamburger rather than  cold one 
+
+
+-  ,  These customers prefer  production-line approach 
+
+
+-  Taco Bell wants to serve customers who want low-cost ,  good quality ,  fast food 
+
+
+-  Interestingly; the company believes that as more chains move to customized ,  service-oriented operations ,  it has more opportunities in the fast ,  low-price market niche 
+
+
+-  ,  The production-line approach does not rule out suggestion involvement 
+
+
+-  ,  An empowerment approach works best with  market segment that wants the tender loving care dimension more than speed and cost 
+
+
+-  For example ,  SAS targets frequent business travellers  ( who do not pay their own way )  
+
+
+-  Consequently ,  the company looked at every ingredient of its service package to see if it fit this segments definition of service quality ,  and ,  if so ,  whether or not customers would pay for it 
+
+
+-  ,  The relationship itself can be the principle valued commodity that is delivered in many services 
+
+
+-  When no tangibles are delivered ,  as in estate planning or management consulting ,  the service provider often is the service to the customer ,  and empowerment allows the employee to customize the service to fit the customers needs 
+
+
+-  The valuable service they sell is time 
+
+
+-  ,  It is very difficult to build challenge ,  feedback ,  and autonomy into  telephone operators job ,  given the way the delivery technology has been designed 
+
+
+-  In these situations ,  the technology limits empowerment to only suggestion involvement and ultimately may almost completely remove individuals from the service delivery process ,  as has happened with ATMs 
+
+
+-  ,  When technology constrains empowerment ,  service managers can still support frontline employees in ways that enhance their satisfaction and the service quality they provide 
+
+
+-  For example ,  managers can show employees how much their jobs matter to the organizations success and express more appreciation for the work they do 
+
+
+-  In other words ,  managers can do  better job of making the old management model work! ,  Routine work can be engaging if employees are convinced that it matters 
+
+
+-  Volunteers will spend hours licking envelopes in  fundraising campaign for their favorite charity 
+
+
+-  Disney theme park employees do an admirable job of performing repetitive work ,  partly because they believe in the values ,  mission ,  and show business magic of Disney 
+
+
+-  ,  Businesses that operate in unpredictable environments benefit from empowerment 
+
+
+-  In this environment ,  the service business can use  production-line approach 
+
+
+-  The stability allows ,  even encourages ,  management with policies and procedures ,  because managers can predict most events and identify the best responses 
+
+
+-  ,  Empowerment and production-line approaches demand different types of managers and employees 
+
+
+-  For empowerment to work ,  particularly in the high-involvement form ,  the company needs to have Theory  managers who believe that their employees can act independently to benefit both the organization and its customers 
+
+
+-  If the management ranks are filled with Theory  types who believe that employees only do their best work when closely supervised ,  then the production-line approach may be the only feasible option unless the organization changes its managers 
+
+
+-  For example ,  most industry observers would agree that Delta and American Airlines are managed with  control orientation rather than  strong empowerment approach 
+
+
+-  ,  Employees will respond positively to empowerment only if they have strong needs to grow and to deepen and test their abilities  at work 
+
+
+-  Again ,   checkered history of job enrichment efforts has taught us not to assume that everyone wants more autonomy ,  challenge ,  and responsibility at work 
+
+
+-  Some employees simply prefer  production-line approach 
+
+
+-  ,  Lastly ,  empowerment that involves teamwork requires employees who are interested in meeting their social and affiliative needs at work 
+
+
+-  It also requires that employees have good interpersonal and group process skills 
+
+
+-  ,  How likely is it that more and more service businesses will choose to face the customer with empowered employees? We would guess that far more service organizations operate at the production-line end of our continuum than their business situations call for 
+
+
+- 17 This survey revealed that manufacturing firms tend to use significantly more employee-involvement practices than do service firms 
+
+
+-  Manufacturing firms use quality circles ,  participation groups ,  and self-managing work teams far more than service firms 
+
+
+-  ,  Why is this so? We think that the intense pressure on the manufacturing sector from global competition has created more dissatisfaction with the old control-oriented way of doing things 
+
+
+-  Also ,  it can be easier to see the payoffs from different management practices in manufacturing than in service 
+
+
+-  Objective measures of productivity can more clearly show profitability than can measures of customer perceptions of service quality 
+
+
+-  However ,  these differences are now blurring as service competition increases and service companies become more sophisticated in tracking the benefits of customer service quality: ,  As service businesses consider empowerment ,  they can look at high-involvement manufacturing organizations as labs in which the various empowerment approaches have been tested and developed 
+
+
+-  Many lessons have been learned in manufacturing about how to best use quality circles ,  enriched jobs ,  and so on 
+
+
+-  And the added good news is that many service businesses are ideally suited to applying and refining these lessons 
+
+
+-  ,  In summary ,  the newest approaches to managing the production line can serve as role models for many service businesses ,  but perhaps not all 
+
+
+-  Before service organizations rush into empowerment programs ,  they need to determine whether and how empowerment fits their situation 
+
+

@@ -1,0 +1,2658 @@
+- Keeping and developing relationships with current customers is  key business strategy 
+
+
+-  Yet problems and complaints are bound to occur over the lifetime of customer relationships 
+
+
+-  Handling these effectively is vital to maintaining customer satisfaction and loyalty ,  as the example of Saturn illustrates 
+
+
+-  When faced with the need to repair  problem on 350 , 000 of its vehicles ,  the company chose to do whatever was necessary to satisfy customers: it set up an 800 number ,  went directly to some owners homes ,  and opened its checkbook to dealers 
+
+
+-  According to Joseph Kennedy ,  Saturns vice president of sales ,  service ,  and marketing ,  the goal was to fix both the car and the customer 
+
+
+-  We want Saturn to be  100-year car company 
+
+
+-  Saturn has achieved high levels of customer loyalty and in 1996 was rated number one in sales and dealer satisfaction in its class 
+
+
+-  ,  The impact of recovery strategies on  companys revenue and profitability is dramatic 
+
+
+-  Hampton Inn hotels ,  for example ,  realized $11 million in additional revenue from the implementation of its service guarantee and scored the highest customer retention rate in the industry 
+
+
+-  General Electric has found that ,  on average ,  customers buy fifteen major appliances in their lifetimes 
+
+
+-  Committed to maintaining customer loyalty ,  the company has invested heavily in the GE Answer Center to manage customer relationships and ensure that problems are addressed efficiently and effectively 
+
+
+-  ,  The ability to deal effectively with customer problems is also closely related to employee satisfaction and loyalty ,  which are critical concerns in industries where customer relationships are more closely associated with the individual service provider than with the organization 
+
+
+-  American Express pays careful attention to the job satisfaction of its investment advisers ,  since it estimates that more than 30 percent of an advisers clients would defect if the adviser left the company 
+
+
+-  In addition ,  customer complaints provide valuable insights into root causes of operations failures 
+
+
+-  Many quality-award winners ,  including Federal Express ,  Xerox ,  and Ritz-Carlton ,  use failure data when making decisions on process improvements ,  coupling service recovery with initiatives to increase customer satisfaction in the future 
+
+
+-  ,  Despite the benefits offered by effective service-recovery strategies ,  our research shows that the majority of customers are dissatisfied with the way companies resolve their complaints 
+
+
+-  This result is consistent with other findings indicating that most customers have more negative feelings about an organization after they go through the service-recovery process 
+
+
+-  Furthermore ,  the vast majority of companies do not take advantage of the learning opportunities afforded by service failures 
+
+
+-  Why is this? How can firms develop  process that supports both effective recovery and learning? ,  To guide managers in designing an effective strategy ,  we provide  four-stage approach to service recovery see Figure  )  ,  based on findings from  study we conducted to understand how customers evaluate service-recovery efforts 
+
+
+-  Our approach includes the implications of  successful recovery strategy on customer loyalty ,  employee satisfaction ,  and ,  ultimately ,  firm profitability 
+
+
+-  The first two stages focus on identifying and resolving individual customer problems 
+
+
+-  Stages  and  examine how recovery data can be classified and integrated with other firm data to identify profitable service-improvement investments 
+
+
+-  In presenting the approach ,  we share the best practices of companies that employ service-recovery strategies successfully 
+
+
+-  ,  The greatest barrier to effective service recovery and organizational learning is the fact that only  percent to 10 percent of dissatisfied customers choose to complain following  service failure 
+
+
+-  Why are customers reluctant to complain? Our research and other studies have uncovered four key reasons: customers believe that the organization will not be responsive; they do not wish to confront the individual responsible for the failure; they are uncertain about their rights and the firms obligations; and they are concerned about the high cost in time and effort of complaining 
+
+
+-  In addition ,  some customers anticipate negative ramifications 
+
+
+-  Our work in the health care industry ,  for example ,  indicates that some patients are reluctant to complain because they fear that it may result in lower service quality when the need for care arises again 
+
+
+-  What can firms do to remove these barriers and encourage dissatisfied customers to complain? ,  Examining the recovery practices of leading firms highlights several approaches that have been effective in identifying service failures: setting performance standards; communicating the importance of service recovery; training customers in how to complain; and using technological support offered through customer call centers and the Internet 
+
+
+-  Comparing services with tangible goods ,  Levitt observed that with services ,  You dont know what you arent going to get until you dont get it 
+
+
+-  His comment reflects customers unclear expectations about many services and helps explain why they do not complain when they are dissatisfied 
+
+
+-  One way to overcome the problem of unclear expectations is to implement service standards ,  which are often communicated through service guarantees 
+
+
+-  ,  By promising free delivery if  customer does not receive  package by 10:30  
+
+
+-  ,  FedEx makes it clear when the service has failed 
+
+
+-  With the help of scanner technology ,  the data on package pickup and delivery are transmitted directly to FedEx ,  removing the need for service reps to report many types of failures 
+
+
+-  Several restaurant chains ,  after determining that customers value lunch service within fifteen minutes of ordering ,  have established delivery time as the critical service standard 
+
+
+-  One restaurant has even placed alarm clocks on tables so that customers are fully aware of its compliance to standards 
+
+
+-  Service standards can even enable recovery to take place without the customer having to lodge  complaint 
+
+
+-  An operator of several Seattle restaurants gives all employees the authority to provide complimentary wine ,  desserts ,  or entire meals to compensate for errors and delays in service 
+
+
+-  The restitution is tied to service standards that management developed 
+
+
+-  Companies that are committed to developing lifetime customers ,  such as Promus Corp 
+
+
+-  and Nordstrom ,  recognize the significance of service recovery in achieving customer satisfaction and enhancing customer relationships 
+
+
+-  ,  The customer is always right! )  ,  these companies signal to employees the importance of taking responsibility for service failures and resolving problems 
+
+
+-  Employees become important listening posts ,  discovering customer concerns and facilitating recovery 
+
+
+-  ,  For example ,  while UPS conducts  variety of customer surveys and has programs in which executives meet directly with  national customer advisory group ,  it claims that the most important source of customer information about service issues and problems is the UPS drivers 
+
+
+-  UPS has built into their schedules an extra half-hour each week to spend time with customers ,  answering questions and receiving feedback about procedures ,  packages ,  and new services 
+
+
+-  This sends  strong message about the importance of recovery and the drive toward zero defects 
+
+
+-  UPS uses its quality management training efforts to communicate the importance of both resolving customer problems as well as learning from the failure 
+
+
+- 10 ,  In another example ,  USAA ,   large insurance and financial services company ,  has created its ECHO  ( Every Contact Has Opportunity )  approach to use its telephone reps as listening posts 
+
+
+-  The firms  , 000 sales-service reps gather market trend and competitor data ,  generate new product ideas ,  and deal with customer complaints 
+
+
+-  When  complaint is discovered ,   service rep assigns it to an action agent for quick resolution 
+
+
+-  As part of their work routine ,  telephone reps also report service failures to the appropriate unit inside USAA that uses this data to change faulty processes 
+
+
+-  The emphasis on identifying and resolving customer problems has led to an annual customer renewal rate of 98 percent 
+
+
+- 11 ,  Companies also use physical symbols to communicate the importance of service recovery 
+
+
+-  The Ritz-Carlton provides every employee from the CEO to the busboys with  wallet-sized card that lists the organizations core values along with twenty statements referred to as The Ritz-Carlton Basics 
+
+
+-  The statements contain several references to service recovery 
+
+
+-  For example ,  Statement  reads ,  Any employee who receives  complaint owns the complaint; Statement  declares ,  Instant guest pacification will be ensured by all 
+
+
+-  React quickly to correct the problem immediately 
+
+
+-  Follow up with  telephone call within twenty minutes to verify the problem has been resolved to the customers satisfaction 
+
+
+-  Communicating the value of service recovery creates an atmosphere conducive to identifying failures and achieving effective recovery 
+
+
+-  Some companies explicitly tell customers how to lodge  complaint and what to expect from the process 
+
+
+-  Scotiabank ,  one of Canadas large chartered banks ,  has prominently placed pamphlets in all its branches that explain the five-step process designed to help customers get their complaint heard and resolved 
+
+
+-  The pamphlet stresses the importance the bank places on maintaining customer relationships and promises quick action to resolve problems 
+
+
+-  It specifies with whom customers should initially lodge complaints and describes how to make appeals 
+
+
+-  The pamphlet provides phone numbers of  bank vice president and the banks ombudsperson for customers who are dissatisfied with the initial resolution 
+
+
+-  The strategy is designed to both encourage use of the complaint option and enhance the responsiveness of the process 
+
+
+-  Furthermore ,  the pamphlet reinforces to employees the value that Scotiabank places on service recovery 
+
+
+-  The use of toll-free telephone call centers to handle customer contacts ,  including complaints ,  is  growing trend 
+
+
+- 12 Since the introduction of the 1-800 service in the United States thirty years ago ,  the number of calls has grown from  million  year to more than 10 billion  year 
+
+
+-  Call centers offer several advantages over written correspondence in providing customers with convenient ,  low-cost access to service recovery 
+
+
+-  For example ,  research has found that oral communication is better suited to conveying compassion and empathy to irate customers than written communication 
+
+
+-  In addition ,  customers may feel more comfortable complaining over the phone than face-to-face 
+
+
+-  Call centers are even widely used where there is  small or minor tangible component to the service  (  
+
+
+-  ,  AT&T )  and when customers are present and have the option of complaining directly to  service provider 
+
+
+-  Holiday Inn ,  for example ,  has placed  sign in rooms that encourages customers who have concerns or comments about their stay to call the 800 number for the Holiday Inn Worldwide Guest Relations office 
+
+
+-  ,  General Electrics Answer Center serves as the core component of its customer relations and recovery strategy 
+
+
+-  The center is open twenty-four hours  day ,  365 days  year to service the approximately  million customers who call annually 
+
+
+-  GE places its 800 number directly on all its products and encourages customers experiencing problems to inform the company directly 
+
+
+-  By maintaining easily accessible and thorough customer and product records ,  GE service reps can quickly diagnose and solve problems ,  enhancing customer perceptions of responsiveness and lowering the cost of complaining 
+
+
+-  ,  Some firms are now using Internet websites to facilitate service recovery 
+
+
+-  Cisco Systems has created  database that provides  key word search of questions and answers provided to other customers 
+
+
+-  As new problems arise ,  they are added to the database 
+
+
+-  For more complex problems ,  Cisco has developed  troubleshooting engine ,  an expert system that walks users through problem-identification and -resolution processes 
+
+
+-  The company uses  series of questions created by service experts to lead customers to the solution 
+
+
+-  In addition ,  Cisco offers  bug toolkit ,   collection of interactive tools for identifying ,  tracking ,  and resolving software bugs 
+
+
+-  The companys online service-recovery program has reaped high customer satisfaction scores and significant cost savings 
+
+
+-  Based on that success ,  Ethan Thurman ,  Ciscos director of service marketing ,  concludes ,  You dont have to touch customers personally to make them feel good about your service 
+
+
+-  ,  We found that most complaints are lodged when customers experience what they perceive to be  serious problem ,   result consistent with other research 
+
+
+-  Thus ,  once customers have voiced complaints ,  they expect action 
+
+
+- 13 Customers form perceptions of fairness by assessing three aspects of service recovery: outcomes ,  procedural features ,  and interactional treatment 
+
+
+-  Outcome fairness concerns the results customers receive from complaints 
+
+
+-  Procedural fairness refers to the policies ,  rules ,  and timeliness of the complaint process 
+
+
+-  Interactional fairness focuses on the interpersonal treatment received during the complaint process 
+
+
+-  Each fairness dimension reflects several themes that emerged from our study ,  in which we asked  sample of 320 consumers in  large metropolitan area to recall  time when they complained to  service firm and describe what they found to be fair or unfair about how their complaint was handled  ( see the sidebar )  
+
+
+-  ( We describe the methodology and additional results of the study in the appendix )  
+
+
+-  ,  The study results indicate the critical need for firms to devote far more attention to recovery 
+
+
+-  For each of the three aspects of service recovery ,  most customers believed that they had been treated unfairly and overall were dissatisfied with the way their complaint was handled  ( see Figure  )  
+
+
+-  In this section ,  we look at the survey results and the fairness of outcomes ,  processes ,  and interactions in more detail 
+
+
+-  When services fail ,  customers expect to be compensated 
+
+
+-  We found that apologies also contribute to customers compensation for being inconvenienced or treated rudely 
+
+
+-  ,  Most customers surveyed judged the outcomes they received to be unfair 
+
+
+-  The driving force behind unfair assessments was the failure of companies to compensate adequately for the harm done or to recognize the costs incurred by customers in getting their complaint resolved  ( I had to come back to the store three times to get  20 percent refund! )  
+
+
+-  The most negative reactions were in response to complaints that were never resolved  ( We wrote them and then called three times ,  and the problem has not been looked at or fixed )  
+
+
+-  Clearly ,  firms need to better understand the outcomes that customers expect from  service failure and to construct compensation packages that better acknowledge costs of the failure to the customer 
+
+
+-  The minority of customers who were favorably impressed typically pointed to compensation that included reimbursement for the inconvenience associated with the failure as well as basic exchanges or repairs 
+
+
+-  Study findings indicate that fair procedures begin with the firm assuming responsibility for the failure 
+
+
+- 14 Other aspects of procedural fairness include having  flexible system that takes individual circumstances into account and obtaining input from the customer on what the final outcome should be 
+
+
+-  Less than half the customers surveyed found the recovery procedures they experienced to be fair 
+
+
+-  When the procedures were rated as fair ,  it was mostly because they were clear to the customer ,  and the problem was dealt with quickly and without hassles  ( All  had to do was explain what happened 
+
+
+-  In the more frequent cases where customers judged procedures to be unfair ,  those surveyed were frustrated by  prolonged ,  inconvenient process that required them to repeat their complaint to several firm representatives who seemed unconcerned about the situation 
+
+
+-  These employee responses prompted one respondent to comment that the firm operated on the principle that the customer is always wrong 
+
+
+-  According to respondents ,  the employees indifferent behavior was typically driven by an attitude that the firm was not responsible for the problem and that they were not going to resolve it  ( He told me that  should have been aware of their return policy ,  and he wasnt going to change it just for me )  
+
+
+-  We found that fair interpersonal behavior involves demonstrating politeness ,  concern ,  and honesty; providing an explanation for the failure; and making  genuine effort to resolve the problem  ( The ticket agent was very concerned with the lost reservation 
+
+
+-  She called  supervisor ,  and the two of them resolved the problem to my satisfaction )  
+
+
+-  Uncaring attitudes and little effort to resolve the problem caused half of the respondents to rate the treatment they received as unfair 
+
+
+-  ,  At first glance ,  the uncaring behavior of these employees may seem odd; is it so difficult for employees to be polite and to try to resolve the problem? Examining customers responses suggests two reasons for why it might not be so easy 
+
+
+-  First ,  customers often enter the complaint process in an angry mood 
+
+
+-  Considerable skill is required to defuse the anger and address the problem 
+
+
+-  Second ,  employees often lack the authority to take care of the problem 
+
+
+-  The situation is frustrating for customers and employees alike ,  particularly when the customer expects immediate action 
+
+
+-  ,  Our results indicate that the three fairness dimensions strongly affect customers evaluations of service recovery ,  together explaining 85 percent of the variation in satisfaction with the complaint handling 
+
+
+-  Further ,  performing poorly on even one fairness dimension severely limits the potential for customer satisfaction 
+
+
+-  This result indicates that firms fully compensating customers do not get  return on the investment if the restitution is provided by rude ,  unsympathetic employees or if the process is  hassle for the customer 
+
+
+-  It also appears that being fair helps in the court of public opinion when  customers request is clearly unreasonable ,  as in  case that Starbucks faced 
+
+
+-   customer claimed that Starbucks sold him two defective coffee makers  ( total value of $500 )  and forgot to include  free half pound of coffee with the purchase and that he was treated rudely by  clerk 
+
+
+-  The customer stated that unless the company took out  full-page ad in the Wall Street Journal apologizing ,  gave him  $2 , 500 machine ,  and funded  shelter for runaways ,  he would take out ads in the paper denouncing the company 
+
+
+-  The companys response and its history of treating customers fairly limited the potential damage of the episode 
+
+
+- 15 ,  What can firms do to improve recovery performance? We observed four practices that together dramatically improve service-recovery effectiveness: hiring ,  training ,  and empowerment; establishing service-recovery guidelines and standards; providing easy access and effective responses through call centers; and maintaining customer and product databases 
+
+
+-  Our research indicates that successful service recovery is highly influenced by the effectiveness of the front-line employee who receives the complaint 
+
+
+-  What it means is that the design of  recovery system must focus on the initial contact and on developing policies that enable employees to resolve the complaint efficiently 
+
+
+-  Servicerecovery performance must therefore be incorporated into human resource management practices 
+
+
+-  ,  Developing hiring criteria and training programs that take into account employees service-recovery role directly affects customers fairness evaluations 
+
+
+- 17 Roger Dow ,  vice president of sales and marketing at Marriott ,  observes: The guest-contact employee is the only one close enough to the customer to recognize and evaluate  problem and make it right for the customer and keep that customer 
+
+
+-  These point are brought up over and over again in the training of our employees 
+
+
+- 18 ,  FedEx gives customer service reps five weeks of training before assigning them to  service center and gives them an additional four hours of training per month 
+
+
+-  Because of this training ,  reps can resolve problems so effectively that few matters rise to higher organizational levels 
+
+
+-  According to one FedEx manager ,  The system has become so efficient that nothing escapes the net 
+
+
+-   take care of three customer problems  week because everything has been headed off closer to the line 
+
+
+-  My phone would be ringing off the hook if our front-line people were not legitimately trained and empowered to handle customer needs 
+
+
+- 19 ,  Another company that pays careful attention to hiring and training is Ford ,  which puts all job candidates through its Assessment Center to evaluate nine skill levels 
+
+
+-  Assessment areas that are particularly relevant to service recovery include written and oral communication ,  listening skills ,  problem analysis ,  organizing and following through ,  resilience ,  and stress management 
+
+
+-  Ford includes recovery skills in the training of employees at its Customer Assistance Center ,  the unit with primary responsibility for service recovery 
+
+
+-  Among the training topics covered are company policies ,  warranties ,  listening skills ,  defusing anger ,  and interpersonal skills 
+
+
+-  To provide new employees with  realistic preview of their jobs ,  the company uses simulations such as an irate customer meeting ,   meeting with dealers ,  and  written report of  dealer meeting 
+
+
+-  Training programs that include learning how to strengthen interpersonal skills and that provide  detailed knowledge of company complaint procedures support the implementation of  fair recovery plan 
+
+
+-  ,  Providing employees with the authority to respond to service failures strongly affects all three fairness dimensions 
+
+
+- 20 First ,  employees attitudes improve and their efforts increase when they are given the power to resolve problems 
+
+
+-  Second ,  the speed and convenience of the process are enhanced when employees can act immediately rather than having to seek out  manager or another department to respond to the problem 
+
+
+-  Third ,  outcome fairness improves if employees have the flexibility to provide the appropriate compensation ,  based on the customers circumstances and requirements 
+
+
+-  In addition ,  empowerment complements the use of service guarantees 
+
+
+-  Hotels such as Hampton Inn and Holiday Inn rely on employees to deliver on the promise and provide restitution if the service fails 
+
+
+-  At Hampton Inn ,  any employee ,  including reservations staff ,  janitors ,  and maids ,  can invoke the guarantee and provide the customer with  complete refund 
+
+
+-  ,  While empowerment contributes to service recovery in several ways ,  if used inappropriately it can lead to problems 
+
+
+-  If ,  for example ,   front-line staff member allows customers to check out late from  hotel room ,  it causes problems for housekeepers trying to ensure that rooms are ready for new guests 
+
+
+-  Or  restaurant hostess who allows customers to arrive late and finish late from the first seating may cause complications for the waiters and waitresses and those who prepare tables for the second seating 
+
+
+-  For example ,  Marriott managers clarify safe zones for employees 
+
+
+-  Safe zones represent decisions for which employees are allowed to take action 
+
+
+-  ,  setting  $2 , 500 limit on customer compensation )  ,  based on the nature of the problem and the value of the customer 
+
+
+-  Developing guidelines for service recovery that focus on achieving fairness and customer satisfaction represents  direct approach to improving performance 
+
+
+-  The As stand for Anticipate and correct problems before they occur; Acknowledge mistakes when they occur without placing blame or making excuses; sincerely Apologize for the mistake ,  even if you are not at fault; and make Amends for the mistake by taking corrective action and following up to ensure the problem has been resolved 
+
+
+-  These principles guide the specific policies for the recovery program 
+
+
+-  Similarly ,  the statements from the Ritz-Carlton Basics card give employees clear direction for providing fair service recovery 
+
+
+-  They mandate that employees be polite  ( interactional )  ,  take quick action  ( procedural )  ,  and correct the problem  ( outcome )  
+
+
+-  Ford has also developed standards for service-recovery responsiveness and accessibility 
+
+
+-  In addition to removing barriers to the customers decision to complain ,  call centers contribute to all three fairness dimensions 
+
+
+-  The hours of operation  ( twentyfour hours  day ,  365 days  year )  and the timely customer and product information at the GE Answer Center make for convenient access and fast resolution ,  enhancing procedural fairness 
+
+
+-  Customers receive  goodwill certificate ,  free home repair ,  and/or compensation for food spoilage ,  depending on the nature of the failure 
+
+
+-  These gestures further contribute to customer perceptions of fair outcomes 
+
+
+-  Extensive training of service representatives in recovery practices helps achieve high scores on interactional fairness 
+
+
+-  GEs customer research has verified that effective complaint resolution enhances customer repurchase decisions ,  demonstrating that the companys efforts yield significant financial rewards 
+
+
+-  Using databases in conjunction with call centers and websites helps firms achieve fairness goals 
+
+
+-  The entire focus of PCS Health Systems is on solving the customers problem on the first call ,  according to Kirby Bessant ,  vice president of service operations 
+
+
+-  This goal poses  challenge because service reps decision-making latitude is limited; PCSs health plan and HMOs have stringent requirements for administering benefits 
+
+
+-  The company uses customer-knowledge databases as the key source for immediate problem solving 
+
+
+-  The databases capture historical trends of clients  ( HMOs ,  health plans )  and patients 
+
+
+-  PCS analyzes these trends with its clients 
+
+
+-  Throughout ,  patient confidentiality is rigorously protected ,  and PCS strives for win-win-win outcomes for its clients ,  patients ,  and the company 
+
+
+-  ,  By recording service failures in  database ,  Cisco Systems also improves recovery ,  since identifying systemic problems leads to faster and more accurate diagnoses of customer complaints and to improvement of the company websites expert systems and troubleshooting engine databases 
+
+
+-  Ciscos approach gives the customer greater control and flexibility in resolving the problem ,  enhancing service fairness 
+
+
+-  GE maintains extensive databases on customer purchases and service incidents that help guide recovery decisions 
+
+
+-  For example ,  recognizing that customers become particularly upset when products fail just after  warranty expires ,  GE includes warranty information in the customer database ,  and service reps can adjust compensation accordingly  (  
+
+
+-  ,  offers the following advice on service recovery: Do whatever is necessary to take care of guests 
+
+
+- 22 Marriotts approach reflects the Malcolm Baldrige National Quality Award scoring system ,  which provides service-recovery points for complaint resolution that leads to quality improvement 
+
+
+-  The system also requires organizational learning ,  defined as the capacity or processes within an organization to maintain or improve performance based on experience 
+
+
+- 23 ,  Our study results show ,  however ,  that most firms fail to document and categorize complaints adequately ,  making learning more difficult 
+
+
+-  We found four explanations for this failure 
+
+
+-  First ,  in several cases ,  employees showed little interest in hearing the customer describe the details of the problem 
+
+
+-  They treated the complaint as an isolated incident needing resolution but not requiring  report to management 
+
+
+-  Second ,  many employees and managers devoted their energies to avoiding responsibility for the problem ,  instead blaming the customer for the failure 
+
+
+-  Customers left telephone messages ,  complained to several employees ,  and wrote letters  and still no action was taken 
+
+
+-  Fourth ,  firms appeared to have no systematic way to collect and distribute complaint information to the individuals responsible for the process that failed 
+
+
+-  ,  What can firms do to ensure that complaints are properly recorded ,  disseminated ,  and classified? Many of the practices identified in Stages  and  can also be used during Stage  
+
+
+-  For example ,  call centers record the details of each complaint and ensure that the information is made accessible or is distributed to all appropriate managers and employees 
+
+
+-  Emphasizing service recovery in training front-line employees and cultivating  learn from failure attitude are central to getting complaints reported internally 
+
+
+-  The Disney Orientation Program ,  in which all new hires participate regardless of position ,  gives considerable attention to handling guest inquiries and complaints 
+
+
+-  An important element of the Disney orientation in service recovery is stressing the importance of reporting service failures to supervisors 
+
+
+-  Disney tracks moment of truth failures in its effort to eliminate sources of customer problems 
+
+
+-  ,  In addition to the influence of training on the reporting of service failures ,  the design of the recovery process can make the reporting of problems  seamless component 
+
+
+-  For example ,  Ritz Carlton employees who receive complaints own the complaint 
+
+
+-  It is their job to report the incident to the operations unit responsible for fixing the problem ,  complete  guest incident form that goes to the manager ,  and respond to the customer on the status of the situation 
+
+
+-  The design of the process requires that failures be reported 
+
+
+-  ,  Similarly ,  the effectiveness of service guarantees has been attributed in large measure to the extensive training employees receive in recording details of the failure and implementing the guarantee 
+
+
+-  In addition ,  firms can facilitate the effective classification of service-failure data by creating internal complaint forms ,  accessing complaints made to front-line employees ,  and categorizing customers who complain 
+
+
+-  Complaint forms are internal documents used to record service failures  ( we are not referring to paperwork filled out by customers to register their complaints )  ,  including documentation of service guarantees that have been invoked 
+
+
+-  The purpose of the complaint form is to facilitate organizational learning and ensure that the complaint is brought to  fair conclusion 
+
+
+-  Xeroxs Customer Action Request Form provides detailed information about customer problems 
+
+
+-  Complaints are identified as resulting from failures in one or more of thirteen business areas  (  
+
+
+-  ,  equipment performance ,  service ,  mail order/delivery/installation ,  customer inquiries ,  sales )  
+
+
+-  For example ,  customer service problems have twelve possible codes  (  
+
+
+-  ,  difficulty obtaining service ,  service rep unable to fix problem ,  service pricing ,  repair time )  
+
+
+-  Three additional codes for root causes are identified 
+
+
+-  The first code deals with whether the problem primarily concerned process ,  people ,  product ,  or policy 
+
+
+-  Second ,  the problem is coded as primarily involving one of seven factors: attitude ,  communication ,  training ,  ethics ,  human error ,  technical ,  or invoice 
+
+
+-  The third code relates to business area  (  
+
+
+-  ,  sales ,  service ,  supply ,  and logistics )  
+
+
+-  Xerox also tracks the resolution ,  which includes who handled the problem ,  how it was handled ,  the financial implications of the recovery ,  and the details of customer contacts 
+
+
+-  When completed ,  the form is delivered to the customer relations administrator ,  who ensures that the information is provided to all relevant individuals 
+
+
+-  This comprehensive data collection and dissemination provides key information needed for service improvement 
+
+
+-  When they are present in the service factory ,  customers often lodge complaints with the nearest employee they can find  ( the individuals receiving the most inquiries at Disneyland and Disney World are the garbage collectors )  
+
+
+-  Ensuring that complaints delivered in this way are communicated back to the organization is  major challenge that requires answering the question ,  Why should an employee report  complaint? Meeting the challenge requires involving front-line employees in the management of quality and customer satisfaction and rewarding rather than punishing complaint reporting 
+
+
+-  ,  At Motorola and Marriott ,  front-line employees are responsible for finding opportunities for service-quality improvement ,  which encourages them to identify complaints 
+
+
+-  For example ,  Marriotts decision to invest in ironing boards in the rooms rather than small televisions for bathrooms  ( which managers thought advisable )  was based on the housekeepers tracking of the number of requests for ironing boards  ( and the complaints when they were not immediately available )  and the time they spent delivering the few ironing boards they had 
+
+
+-  By reporting and recording these complaints ,  the housekeeping department had the data necessary to justify its position 
+
+
+-  ,  When IBM Canada introduced an empowerment policy that allowed service reps to write checks to satisfy customer problems ,  it was  failure 
+
+
+-  Years of experience in IBMs culture had convinced most employees that they would be punished for spending this money ,  thus discouraging them from taking action to compensate customers or alerting management to problems and complaints 
+
+
+-  This resistance can be overcome by stressing and reinforcing values that promote the empowerment process 
+
+
+-  ,  By contrast ,  Nordstrom ,  with its mission to provide outstanding customer service ,  celebrates extraordinary efforts by employees to resolve complaints 
+
+
+-  The companys only rule is to use your good judgment in all situations 
+
+
+-  At Nordstrom ,  resolving and reporting service failures is an important part of the customersatisfaction promise 
+
+
+-  At company meetings and celebrations ,  Nordstrom uses stories to communicate instances in which employees went to exceptional lengths to provide excellent service including resolution of customer problems 
+
+
+-  As these examples illustrate ,  companies encourage the reporting of complaints when they focus on customer satisfaction and service quality and when they support and reward front-line employees for achieving those goals 
+
+
+-  First ,  an effective service-recovery effort can generate high levels of satisfaction; however ,  subsequent service failures can undo the goodwill generated by  successful recovery 
+
+
+-  Peterman Company puts all customers who have complained on  VIP list ,  and every subsequent purchase by those customers is hand-picked ,  inspected ,  and tested 
+
+
+-  Second ,   customer who complains frequently or is never satisfied with recovery efforts may be the wrong customer 
+
+
+-  Lovelock has developed several strategies for discovering and removing wrong customers 
+
+
+- 24 These customers may be seeking benefits not provided by the company ,  may require more resources to serve than profit generated ,  or may simply be criminals 
+
+
+-  They are particularly troublesome for firms that offer  100 percent unconditional service guarantee 
+
+
+-  To manage this problem ,  Hampton Inn maintains  database of customers who have invoked its guarantee; when they determine that  customer has violated their trust ,  rather than booking that customer  room they recommend another hotel 
+
+
+-  ,  Since customers complain about problems that they find important ,  complaints represent  valuable form of market information 
+
+
+-  However ,  because customers rarely complain when  service fails ,  companies seeking to improve service quality need to locate additional sources of information 
+
+
+-  The goal of data management is to ensure that the organization gathers relevant ,  credible ,  timely information and disseminates it to everyone involved in decisions on investments in service quality 
+
+
+-   market-driven approach to service research consists of many tools in addition to identifying and responding to complaints 
+
+
+- 25 Berry and Parasuraman have developed  Service- Quality Information System ,   comprehensive approach to: service-improvement planning and resource allocation 
+
+
+- 26 The system includes ,  but is not limited to: customer ,  employee ,  and competitor surveys; mystery shopping; focus groups; customer and employee advisory panels; and service operating performance data 
+
+
+-  In identifying opportunities to improve services ,  many firms integrate complaint data with data gathered through one or more of these research methods 
+
+
+-  For example ,  Delta Hotels uses guest comment cards and surveys ,  employee opinion surveys ,  mystery shoppers ,  and quality self-assessments 
+
+
+-  The multiple methods and sources of data provide the hotel with  comprehensive view of service quality 
+
+
+-  ,  Information from call centers and customer databases is also valuable 
+
+
+-  GE monitors the lifetime performance of every appliance sold as well as the quality of every customer interaction 
+
+
+-  The company integrates the data collected  (  
+
+
+-  ,  requests for servicing ,  product or service compliments and complaints ,  customer reactions to service calls ,  requests for product information )  into its product and service design decisions 
+
+
+-  Maintaining databases of customer purchases is particularly helpful in cases where the only indication that  service has failed is that the customer has stopped purchasing from the firm 
+
+
+-  Foremost Insurance Groups information system generates  list of insurance- policy cancellations monthly ,  which triggers  call to the customer to determine the cause of the defection 
+
+
+-  Staples has salespeople call accounts that have discontinued purchasing to assess the situation and try to win the customer back 
+
+
+-  While data may be collected by various sources within an organization ,  it must be made available to those responsible for implementing service improvements 
+
+
+-  Department meetings ,  which are held at least once  month ,  focus on the sharing of information ,  ideas ,  and plans for process improvement 
+
+
+-  The hotel has also created an Employee Representative Team ,  which includes one representative from each department and the general manager of  property 
+
+
+-  The team examines processes that involve more than one department 
+
+
+-  ,  Delta brings together front-line employees and managers at meetings to ensure both the sharing and the shared understanding of information 
+
+
+-  While Deltas approach emphasizes face-to-face communication ,  other companies use technology to accomplish similar goals 
+
+
+-  For example ,  Ford electronically distributes complaint information gathered at its service center directly to the dealerships responsible for settling the dispute 
+
+
+-  The same information is also sent to the marketing research and engineering departments ,  which integrate the complaint data with additional research information 
+
+
+-  John Deere uses e-mail ,  bulletin-board postings ,  and specialized monthly reports to ensure that the information reaches those who need it to improve service quality 
+
+
+-  Firms determining investment priorities in service improvement must examine the impact of various options  (  
+
+
+-  ,  increasing the speed of front-desk check-in versus expanding the room-service menu at  hotel )  on customer satisfaction ,  repurchase intention ,  process cost ,  and market share 
+
+
+-  The goal is to identify those process improvements that will have the greatest impact on profitability 
+
+
+- 28 Investment decisions should also be driven by customer profitability assessments 
+
+
+-  ,  United Airlines ,  for example ,  has determined that business travelers account for 40 percent of its business by headcount but supply 72 percent of its revenue; mile-collecting vacationers constitute 60 percent of travelers but provide only 28 percent of revenue 
+
+
+-  The most frequent business travelers ,  dubbed road warriors ,  generate 37 percent of revenue even though they make up only  percent of the passengers 
+
+
+-  United learned through complaints and survey results that the road warriors were the customers least satisfied and most frustrated with air travel 
+
+
+-  Based on the data ,  the company is investing $400 million to provide business travelers with better seats ,  food ,  and lounges;  special predeparture service to help them avoid long lines; more frequent-flier benefits; and perks such as showers in terminals 
+
+
+-  According to John Edwardson ,  Uniteds president ,  One of the things we are trying to do is pay  lot more attention to customers who pay us most 
+
+
+-  ,  The relationship between service recovery and firm profitability can be clearly seen by examining the service-profit chain 
+
+
+- 29 The profit-chain concept argues that profit results from customer loyalty ,  which results from customer satisfaction with the service system; customer satisfaction  ( value )  is generated by satisfied ,  loyal ,  and productive employees 
+
+
+-  The impact of service recovery can be traced through improvements in the service system  ( Stage  )  and through the direct effect on satisfaction of resolving  customer complaint  ( Stage  )  ( see Figure  )  
+
+
+-  ,  Our research indicates that resolving problems effectively has  strong impact on customer satisfaction and loyalty 
+
+
+-  Studies show that some customers are actually more satisfied with  firm that follows  service failure with  remarkable recovery than they would have been had the failure not occurred in the first place 
+
+
+- 30 Furthermore ,  data from Xerox and American Express have demonstrated that only customers scoring at the highest level on satisfaction measures tend to be both loyal purchasers and apostles ,  customers who encourage others to buy from the company 
+
+
+- 31 Since recovery is closely tied to satisfaction ,  the revenue and profitability impact of service recovery can be dramatic 
+
+
+-  Studies on the return on investment in complaint-handling units in several industries ,  including retailing ,  banking ,  and automotive service ,  indicate that service-recovery investments provide substantial returns ,  ranging from 30 percent to 150 percent 
+
+
+- 32 ,  Poor recovery following  bad service experience can create terrorists ,  customers so dissatisfied that they actively pursue opportunities to criticize the company 
+
+
+- 33 Our research found that the most negative reactions to poor recovery were expressed by customers previously loyal to the company 
+
+
+-  Loyal customers expected problems to be dealt with effectively and were disappointed when they were not ,  making service recovery key to maintaining the loyalty of these customers 
+
+
+- 34 While resolving  problem helps achieve the loyalty of one customer ,  using complaint data as an input into process improvement contributes to current and prospective customers satisfaction 
+
+
+-  Sustaining satisfaction over many encounters builds equity with customers ,  strengthening loyalty and further driving profitability 
+
+
+- 35 ,  Another important profitability question for companies to consider is how service recovery affects the employees involved 
+
+
+-  In examining the customer descriptions of service recovery ,  we found two interesting themes related to employees 
+
+
+-  First ,  customers who found the service recovery handled fairly commented that the employee was concerned about the problem ,  eager to help ,  and happy that the complaint was resolved to the customers satisfaction 
+
+
+-  Second ,  when customers indicated that they found the complaint handled unfairly ,  employees were frequently observed to be rude and defensive ,  indifferent to providing assistance ,  and increasingly angry as the dispute progressed 
+
+
+-  These findings suggest that individual service-recovery incidents affect the satisfaction of not only the customer but also the employees involved 
+
+
+-  Our research further suggests that employees faced with  large number of complaints to handle and no effective way to deal with them are likely to be very dissatisfied 
+
+
+-  Therefore ,  developing effective recovery programs and improving the service system should enhance service quality and increase employee satisfaction and loyalty ,  contributing to customer value and ultimately to improved profitability 
+
+
+-  ,  Compelling evidence that customer loyalty drives profitability in service industries has led to recommendations that firms shift their focus away from offensive strategies aimed at seeking new customers and toward defensive strategies aimed at satisfying and keeping current customers 
+
+
+- 36 Service recovery is  cornerstone of  customer satisfaction strategy 
+
+
+-  Over the lifetime of customer relationships ,  conflicts are inevitable 
+
+
+-  Our data confirm that managing those conflicts effectively is vital in maintaining customer loyalty and trust 
+
+
+- 37 ,  Our study results suggest that firms need to develop  comprehensive service recovery system that encourages dissatisfied customers to voice their complaints and that provides  fair process and outcome 
+
+
+-  To maximize the impact of the system ,  service design and investment decisions should reflect an understanding of the vital role that recovery plays in contributing to improved performance ,  customer and employee satisfaction ,  and firm performance and profitability 
+
+
+- Scholars and observers from disciplines as disparate as sociology ,  economics ,  and management science agree that  transformation has occurred  knowledge is at center stage 
+
+
+-  It is  high-value form of information that is ready to apply to decisions and actions 
+
+
+-  While knowledge and information may be difficult to distinguish at times ,  both are more valuable and involve more human participation than the raw data on which we have lavished computerization during the past forty years 
+
+
+-  Given the importance of such an asset ,  it is not surprising that organizations everywhere are paying attention to knowledge  exploring what it is and how to create ,  transfer ,  and use it more effectively 
+
+
+-  Knowledge management ,  in particular ,  has recently blossomed 
+
+
+-  ,  Unfortunately ,  however ,  abstract musings on the importance of knowledge ,  or on the emergence of knowledge-based economies and organizations ,  too often dilute discussions 
+
+
+-  Conceptual analysis is of little use to practitioners faced with questions about what specifically they should do as managers of knowledge 
+
+
+-  ,  In this article ,  we address the practical realities of the sometimes heady subject of knowledge management by focusing on  tangible ,  pragmatic entity ,  the knowledge management project 
+
+
+-  Such projects are attempts to do something useful with knowledge ,  to accomplish organizational objectives through the structuring of people ,  technology ,  and knowledge content 
+
+
+-  It is through projects and initiatives ,  however disjointed ,  that most significant change happens in organizations 
+
+
+-  Knowledge management projects are changing businesses today ,  and we believe it is time to examine them and learn from them 
+
+
+-  ,  Of course ,  by selecting the knowledge management project as the unit of analysis ,  we gain some benefits while forgoing others 
+
+
+-  Some beg the question of whether it is really knowledge that is being managed ,  and many are quite limited in impact 
+
+
+-  Very few contribute to the much touted goal of organizational transformation 
+
+
+-  As one might expect ,  it is proving far easier to talk and write about organizational transformation than it is to achieve it 
+
+
+-  Nevertheless ,  for many industries ,  the importance of knowledge as the basis of future competition is an established fact 
+
+
+-  Hyperbole and fantasies aside ,  the question remains: How can organizations use knowledge more effectively? ,  To understand how companies are managing knowledge today ,  we studied thirty-one knowledge management projects in twenty-four companies 
+
+
+-  ( For  list of the projects by type of business ,  type of knowledge managed ,  and primary objective ,  see the Appendix 
+
+
+-  )  In most companies ,  we addressed only one project ,  but to look at the breadth of knowledge management in  single firm ,  we also collected data from nine projects in one company ,  Hewlett-Packard  ( HP )  
+
+
+-  Our sources typically were the managers of the knowledge projects or of the knowledge management function across the organization 
+
+
+-  ,  First ,  we briefly discuss the many differences and some similarities of the initiatives and then present  high-level typology of knowledge management projects 
+
+
+-  Success and failure are ambiguous terms when applied to so nascent  field as knowledge management ,  but we identified eight key characteristics that we judged successful 
+
+
+-  We conclude by discussing some differences between success factors for knowledge management projects and those for other initiatives ,  for example ,  information or data management efforts 
+
+
+-  ,  Because knowledge management is evolving ,  even the most developed ,  mature projects we studied were unfinished 
+
+
+-  In every case ,  however ,   manager could articulate specific business and knowledge management objectives ,  and  few had already achieved some goals 
+
+
+-  Some were self-funding ,  using  market-based approach that charged users for knowledge services 
+
+
+-  Some took  hybrid approach ,  for example ,  relying on corporate funding during rollout but requiring  transition to self-funding over time 
+
+
+-  Some projects were managed or coordinated by  centralized corporate knowledge management function ,  while others occurred in  more bottom-up ,  decentralized fashion 
+
+
+-  Where some initiatives were fundamental to the very purpose and existence of  firm ,  others were peripheral; some defied economic justification; others generated revenue from external customers 
+
+
+-  ,  In some general ways ,  of course ,  all the projects were alike 
+
+
+-  These investments ,  however ,  ranged from  direct marketing firm that appointed  chief knowledge officer  ( CKO )  with no formal budget to  consulting firm with more than seventy positions designated to support knowledge management and an annual budget of more than $10 million 
+
+
+-  The projects also had similar objectives ,  which all explicitly focused on knowledge ,  as opposed to information or data 
+
+
+-  We identified four broad types of objectives:  (  )  create knowledge repositories ,  (  )  improve knowledge access ,  (  )  enhance knowledge environment ,  and  (  )  manage knowledge as an asset 
+
+
+-  ,   lot of the energy in knowledge management has been spent on treating knowledge as an it  an entity separate from the people who create and use it 
+
+
+-  Another ,  less structured form of knowledge as an it is the discussion database; participants record their own experiences on an issue and react to others comments 
+
+
+-  ,  We found three basic types of repositories:  (  )  external knowledge ,  for example ,  competitive intelligence;  (  )  structured internal knowledge ,  such as research reports ,  product-oriented marketing materials ,  and techniques and methods; and  (  )  informal internal knowledge ,  like discussion databases full of knowhow ,  sometimes referred to as lessons learned 
+
+
+-  Some companies are also using artificial intelligence software to manage knowledge ,  particularly in relatively narrow domains like technical support for customers 
+
+
+-  ,  Competitive intelligence systems may often be overlooked as knowledge management systems ,  but most effective ones will filter ,  synthesize ,  and add context to information from the external environment ,  which qualifies them for this category 
+
+
+-  An automobile manufacturer ,  for example ,  had  repository of external competitive intelligence knowledge based on  detailed business model that identified what information it should collect 
+
+
+-  Using  tool called GrapeVINE ,  the knowledge managers for this project not only interpreted raw information  providing context and synthesis that made it more valuable  but also routed the knowledge on different topics to managers with  specific interest in  subject 
+
+
+-  If the knowledge versus information distinction is considered  continuum instead of  dichotomy ,  then projects that focus on structured knowledge deal with the middle of the continuum 
+
+
+-  They usually contain document-based information that represents knowledge to some; at  minimum ,  however ,  these repositories are not storing data 
+
+
+-  At HP ,  for example ,   large ,  successful project called Electronic Sales Partner provided technical product information ,  sales presentations ,  sales and marketing tactics ,  customer/account information ,  and anything else that might benefit field personnel in the sales process 
+
+
+-  The leaders of this project whose business cards read knowledge manager  tried to add value to their repository through careful categorizations and pruning 
+
+
+-  Calling it the most successful implementation of software  have seen in twenty years ,  the manager of the sales support area reported phenomenal feedback from both submitters [of knowledge] and users 
+
+
+-  We found  similar sales-oriented document repository at Sequent Computer ,  where managers were just as enthusiastic 
+
+
+-  ,  Finally ,  there is the knowledge that resides in the minds of the people in an organization but has not been put in structured ,  document-based form commonly referred to as tacit  ( versus explicit )  knowledge; the different management approaches for tacit and explicit knowledge have been described elsewhere 
+
+
+-  To transfer tacit knowledge from individuals into  repository ,  organizations usually use some sort of community-based electronic discussion 
+
+
+-  In HPs corporate education division ,  for example ,   knowledge project was capturing tips ,  tricks ,  insights ,  and experiences into  Lotus Notes database and making them available to some  , 000 trainers and educators scattered throughout the corporations many sites 
+
+
+-  Thus this type of knowledge repository tries to accelerate and broaden the knowledge sharing that happens traditionally through the socialization of newcomers ,  the generation of stories within communities ,  and the general transmission of cultural rituals and organizational routines 
+
+
+-  These projects recognize that finding the person with the knowledge one needs and then successfully transferring it from that person to another are difficult processes 
+
+
+-  Managers involved in these projects commonly used phrases like get at the knowledge we know we have or sharing our knowledge  phrases that connote  need for and emphasize connectivity ,  access ,  and transfer 
+
+
+-  At Teltech Resource Network Corporation ,  the expert network was the primary business  not simply an improvement targeted at some segment of the operation 
+
+
+-  It provides  technical expert referral service by maintaining  comprehensive database of external technical experts 
+
+
+-  Teltech provides its services to engineers ,  researchers ,  or scientists who have occasional need for expert knowledge in technical domains 
+
+
+-  It motivates experts to participate in the network by paying them to answer clients questions when they are contacted 
+
+
+-  Teltech markets its services to technical managers and professionals within its client companies ,  while constantly seeking new customers 
+
+
+-  Gatekeepers at clients for Teltechs services include R&D managers and technical librarians 
+
+
+-  Microsofts project is unusual in the knowledge management context because it is closely tied to the staffing process for internal systems development projects and to the analysis of requirements for education and training 
+
+
+-  The project uses  database and Web interface to store the knowledge competency categories and personal profiles 
+
+
+-  The database currently provides  means of balancing employees educational and training objectives against current and projected job requirements 
+
+
+-  Plans are under way at Microsoft to extend the use of the system to software product development 
+
+
+-  ,  BP Exploration  ( BPX )  ,   division of the large ,  global oil company ,  successfully completed  pilot of  more internal and infrastructural approach to achieving knowledge access and transfer in its Virtual Teamwork project 
+
+
+-  BPX managers initially felt that much of the important knowledge in its organization was unstructured knowledge in peoples heads 
+
+
+-  Rather than extract it for  repository ,  managers aimed to facilitate the exchange of this tacit knowledge 
+
+
+-  They also provided substantial education and coaching on how people could use the system to solve real BPX problems 
+
+
+-  BP is sufficiently pleased with its knowledge project at BPX that its expanding the system throughout the company;  similar system for senior executives is already in place 
+
+
+-  BP is also exploring the use of computer-based knowledge repositories that could augment the face-to-face transfer of knowledge through videoconferencing; experts could answer frequently asked questions for an on-line repository 
+
+
+-  These projects focused on the communication of knowledge between people who would not otherwise work together 
+
+
+-  At Sematech ,  the semiconductor research consortium in Austin ,  Texas ,  managers instituted formal practices for knowledge transfer to ensure that sponsoring companies received research results 
+
+
+-  Sematech has  knowledge transfer organization and several formal roles for that purpose; it also holds many sessions of which the primary objective is knowledge transfer 
+
+
+-  Many take place in Austin or at sponsoring firms locations ,  but ,  most important ,  the company uses assignees from sponsoring firms in its R&D processes 
+
+
+-  While Sematech also has several technological channels for knowledge transfer in place ,  managers credit face-to-face transfers as the most effective by far 
+
+
+-  ,   third type of knowledge management project involves establishing an environment conducive to more effective knowledge creation ,  transfer ,  and use 
+
+
+-  We saw projects that were trying to build awareness and cultural receptivity to knowledge ,  initiatives attempting to change behavior relating to knowledge ,  and attempts to improve the knowledge management process 
+
+
+-  ,  Several companies were engaged in high-level and general efforts to change the organizational norms and values related to knowledge 
+
+
+-  At one large computer company ,   series of ongoing efforts encouraged the reuse of  particular kind of knowledge: component designs 
+
+
+-   direct marketing firms goal for its knowledge management efforts was to increase awareness of the knowledge embedded in client relationships and engagements ,  which ,  if shared ,  could enhance organizational performance 
+
+
+-  In both these organizations ,  the project managers felt that efforts to improve awareness of knowledge management should precede more formal ,  structured programs for building repositories 
+
+
+-  ,  Some companies make knowledge-related employee behavior  specific target of their projects 
+
+
+-   large consulting firm was trying to change employees perceptions of their jobs  from deliverers of consulting services to creators and distributors of management knowledge 
+
+
+-  One method was to make contributions to the firms structured knowledge base  significant factor in compensation decisions 
+
+
+-  While this effort has not been entirely successful  one knowledge manager reported that some consultants are still allergic to knowledge  the average consultant is more aware of ,  and takes more advantage of ,  knowledge resources than he or she did five years ago ,  according to the firms measurements 
+
+
+-  ,  Finally ,  some companies addressed the processes by which knowledge is created ,  shared ,  and used 
+
+
+-  At  general level ,   process orientation meant developing measures of the speed ,  cost ,  impact ,  and customer satisfaction of the knowledge management activities 
+
+
+-  After interacting with one of Teltechs experts ,  for example ,  customers are asked to assess the quality of the expert and the expertise offered 
+
+
+-  ,  At  more detailed level ,  some companies applied the approaches of process improvement and reengineering to knowledge management 
+
+
+-  For example ,  they described the desirable steps for the process of knowledge management 
+
+
+-  One automotive companys project specified the knowledge to employ during the new-car development process 
+
+
+-  At each step ,  guidelines specified the type of knowledge to consult ,  where it resides ,  and the types of decisions to make 
+
+
+-  The company also created decision audit programs to assess whether and how employees were applying the knowledge to key decisions 
+
+
+-  Its too early to say whether this effort will succeed; however ,  we fear it may be bringing too much structure to knowledge work processes and knowledge-based decisions 
+
+
+-  ,   fourth type of project focuses on managing knowledge as an asset 
+
+
+-  One way an organization does this is by treating knowledge like any other asset on its balance sheet 
+
+
+-  Skandia ,  the large Swedish financial services company ,  internally audits its intellectual capital every year for inclusion in its annual report to stockholders 
+
+
+-  Another is to focus the organization on how to increase or decrease its effective use of knowledge assets over time 
+
+
+-  By carefully reviewing and managing its patents ,  Dow Chemical ,  for example ,  saved $4 million during the first year of its new program and expects to generate more than $100 million in licensing revenues that it might otherwise have forgone 
+
+
+-  Efforts like Dows yield immediate monetary benefits and can improve investor perceptions ,  if adequately publicized 
+
+
+-  ,  The four categories of objectives weve described are ideal types 
+
+
+-  Of course ,  in real life ,  ideals rarely exist 
+
+
+-  Almost all the projects we studied had ,  in addition to the primary objective ,  aspects of the other objectives 
+
+
+-  At the direct marketing firm ,  for example ,  the CKO strove to inculcate  knowledge-friendly culture ,  while at the same time improving knowledge access by setting up formal ,  face-to-face knowledge transfer programs 
+
+
+-  While it is too early to tell ,  we expect that knowledge management initiatives along multiple fronts will be more effective than those that seek only one objective 
+
+
+-  ,  For example ,   company could profit from creating  repository and improving the knowledge management environment to motivate people to contribute to and access the repository 
+
+
+-  This framework ,  however ,  does not provide insights into how to allocate knowledge management resources 
+
+
+-  Overall business strategy ,  along with identification of core competencies and knowledge resources ,  should drive those decisions 
+
+
+-  How do we measure the value created by  knowledge repository ,  for example? Should we simply count hits on the database? And how do we assess  project striving to provide improved access to knowledge or  more knowledge-oriented culture? The projects benefits for the business are usually indirect ,  and establishing the link between knowledge and financial performance is ,  at best ,  tricky 
+
+
+-  They expect businesses to make money 
+
+
+-  ,  Before we could identify the characteristics associated with success for knowledge management projects ,  we needed to assess the performance of existing projects 
+
+
+-  Economic returns on knowledge are difficult to quantify and compare across organizations ,  so we used additional indicators of success to evaluate the sample projects 
+
+
+-  We used success indicators similar to those for assessing the effectiveness of other business change projects: ,  We didnt ask the managers of knowledge projects if they thought their projects were successful 
+
+
+-  Given the political pressures to portray new programs as successful and also the high level of hype and expectations about knowledge management in the press and at conferences ,  we wanted to remove this aspect of subjectivity from the analysis 
+
+
+-  We classified eighteen projects as successful and five projects as unsuccessful; eight projects were too new for us to determine success 
+
+
+-  Each of us rated the projects independently ,  and ,  in every case ,  we agreed on the classification 
+
+
+-  Several had failed to demonstrate financial benefits to date but had plans to show them in the future 
+
+
+-  They struggled to get organization members to contribute to repositories or use discussion databases 
+
+
+-  Only one or  few lonely visionaries championed these projects ,  and any sense that they would make or save money for themselves or their firms was either not under consideration or  long way off 
+
+
+-  Conditions might change in the future ,  but these projects were not currently succeeding 
+
+
+-  ,  We observed projects that contributed to successful knowledge management on two levels 
+
+
+-  The most ambitious type produced organizationwide impacts credited with either transforming the way the firm operated or even enabling it to survive 
+
+
+-  Impacts at this level were rare ,  however 
+
+
+-  The transformation was extensive in both depth and breadth of impact ,  and financial results improved markedly during the period of knowledge management 
+
+
+-  Line consultants drew heavily from the firms centralized knowledge centers ,  accessing previous presentations to other clients ,  process and system design specifications ,  work plans ,  and other project-oriented collateral and artifacts 
+
+
+-  One indicator of the initiatives impact was that the firm increased its win rate in proposals to clients; another was  higher than average growth rate compared with that of other large consulting firms 
+
+
+-  Senior managers described knowledge management as the core of the consulting strategy ,  and the concept was pervasive in the companys internal and external documents 
+
+
+-  Since it had employed approaches to knowledge management from its inception ,  it is difficult to argue that these tactics led to transformation ,  but survival is an equally important measure of success 
+
+
+-  Sematech had  nearby organization from which it could learn: Microelectronics and Computer Corporation 
+
+
+-  Also based in Austin ,  Texas ,  MCC had substantial difficulties in knowledge transfer ,  partly because it did not devote as much attention to the issue as did Sematech and had fewer face-to-face mechanisms for achieving it 
+
+
+-  Knowledge management was also critical to survival at Teltech 
+
+
+-  Its knowledge management approaches seemed to be working ,  as the company grew and had begun to consult on and even outsource some aspects  ( such as the operation of corporate libraries )  of knowledge management 
+
+
+-  ,  Transformation and survival notwithstanding ,  the more common type of success in knowledge management involves operational improvements limited to  particular process or function 
+
+
+-  The projects we studied aimed to improve new product development ,  customer support ,  education and training ,  software development ,  patent management ,  and many other functions and processes  and that was the primary form of success we found 
+
+
+-  It is difficult to evaluate how improvement in these relatively narrow areas translates into broader organizational performance 
+
+
+-  Because these are fundamentally change management projects ,  many generic critical success factors are also relevant 
+
+
+-  For example ,  the broader the initiative ,  the more crucial executive sponsorship is to its success 
+
+
+-  But setting aside the well-known change management homilies ,  we found eight specific factors that were common to the successful knowledge projects we studied 
+
+
+-  Because this was an exploratory effort ,  however ,  associating these factors with effectiveness in knowledge management should be viewed as hypothesized ,  not proven 
+
+
+-  Each might be  likely success factor for an organization wishing to build effective knowledge management projects 
+
+
+-  ,  The easiest and most impressive benefits from knowledge management projects involve money saved or earned 
+
+
+-  At Dow ,  for example ,   key focus of the knowledge management initiative was better management of company patents 
+
+
+-   specific goal was lowering taxes paid on patents that were no longer useful  an initiative that saved $4 million in the first year 
+
+
+-  At Texas Instruments ,   strategic focus was increasing revenues through licensing of patents and intellectual property; in 1995 ,  TI reportedly earned nearly $200 million  more than half its total profit  from patent licensing 
+
+
+- 10 ,  Benefit calculations may also be indirect ,  perhaps through improvements in measures like cycle time ,  customer satisfaction ,  or even phone calls averted 
+
+
+-  Hoffmann-LaRoche has designed projects to significantly reduce time to market for new drugs in an industry in which even  days delay can represent $1 million in lost revenues 
+
+
+-  Several knowledge management projects in the customer support process attempted to improve customer satisfaction by reducing waiting time for phone support or providing online knowledge 
+
+
+-  An HP support team studied the problems that dealers were experiencing ,  as revealed in their phone calls 
+
+
+-  Then the company preempted any potential calls by alerting customers to the most frequently asked questions and providing solutions through  Lotus Notes database 
+
+
+-  Another HP project in the customer support area  ( not officially  research site )  reduced the cost of answering customers calls by 50 percent in two years and also allowed the company to hire less technically experienced support analysts 
+
+
+-  ,  Knowledge management can be expensive ,  so inevitably it gets support in  firm when it is somehow linked to economic benefit or competitive advantage 
+
+
+-  Buckman Laboratories ,   specialty chemicals company that was an early adopter of  knowledge repository ,  spends  
+
+
+-  percent of its revenues on knowledge management ,  Ernst  Young calculates  percent of its revenues ,  and McKinsey  Company ,  10 percent 
+
+
+-  In industries like consulting  ( often described as knowledge businesses )  ,  the payoff from knowledge management projects remains largely perceptual 
+
+
+-  Ernst  Young ,  for example ,  measures the amount of knowledge it reuses in the form of proposals ,  presentations ,  and deliverables and the contributions of its knowledge repository to closing sales 
+
+
+-  Buckman Laboratories collects anecdotes of success in using knowledge to sell its specialty chemicals to customers 
+
+
+-  Company chairman Bob Buckman argues that specialty chemicals is  knowledge-intensive business ,  and without access to knowledge on how the chemicals are applied to customers problems ,  the company could not succeed for long 
+
+
+-  ,  Knowledge projects are more likely to succeed when they use the broader infrastructure of both technology and organization 
+
+
+-  It consists partially of technologies that are knowledge oriented  ( for example ,  Lotus Notes and World Wide Web-based intranets )  
+
+
+-  If these tools and the skills to use them are already in place ,  an initiative will find it easier to get off the ground 
+
+
+-  Most of the companies we interviewed employed multiple tools ,  which can either provide opportunities for organizational learning or increase functional specialization 
+
+
+-  At National Semiconductor ,  for example ,  engineers gravitated toward the Web ,  while sales and marketing personnel preferred Notes 
+
+
+-  Nationals knowledge managers were not worried about the different technologies ,  because they wanted to learn about the relative merits of Notes and the Web ,  and because they expected the two technologies to converge technologically over time 
+
+
+-  At the simplest level ,  this means  capable ,  networked PC on every desk or in every briefcase ,  with standardized personal productivity tools  ( for example ,  word processing and presentation software )  ,  so that people can exchange documents easily 
+
+
+-  HP calls this  common operating environment ,  and knowledge managers cite it as an important factor in sharing knowledge 
+
+
+-  More complex ,  functional desktop infrastructures can be the basis of some knowledge management projects ,  such as BPs videoconferencing technology 
+
+
+-  ,  Building an organizational infrastructure for knowledge management means establishing  set of roles and organizational groups whose members have the skills to serve as resources for individual projects 
+
+
+-  The companies we interviewed often found this difficult to do ,  in part because it involves spending money on new roles 
+
+
+-  Some firms ,  however ,  had multiple levels of new roles ,  from CKOs to knowledge project managers to knowledge reporters ,  editors ,  and knowledge network facilitators 
+
+
+-  ,  At Ernst  Youngs consulting business ,  for example ,  there are facilitators of twenty-two different knowledge networks ,  managers of several new knowledge-oriented organizations that create or distribute knowledge ,   CKO ,  and several new committees to prioritize knowledge projects and set knowledge strategy 
+
+
+-  BP has created  team of coaches to facilitate use of  sophisticated ,  global telecommunications infrastructure consisting of real-time desktop video via satellite ,  supporting document imaging ,  electronic white boards ,  and other state-of-the-art features 
+
+
+-  The coaches work with end users to create value from the technology 
+
+
+-  The expert systems movement of the 1980s confirmed this problem; it proved to be difficult to create rules that covered even narrow knowledge domains and even more difficult to update and modify the structure 
+
+
+-  One professional services firm  ( not in our study )  attempted to create  wholly unstructured knowledge repository ,  searchable on all words in the database 
+
+
+-  The designer wanted to use powerful parallel computers to make up for the lack of structure 
+
+
+-   pilot system was virtually unusable ,  always yielding either too many or too few items 
+
+
+-  Another important issue that arises is who controls decisions about the knowledge structure 
+
+
+-  In an international engineering firm ,  the manager of the knowledge base created  relatively unstructured repository ,  while the companys engineers ,  who worked with hierarchical mental models ,  were frustrated by the knowledge structure imposed on them 
+
+
+-  It is often useful to have  thesaurus to connect the searchers terms with the categorizers terms 
+
+
+-  At Teltech ,  for example ,  an extensive thesaurus of technical terms allows browsing and searching of the expert network through terms that make sense to users; Teltech employees continually add users terms to the thesaurus 
+
+
+-  The structure of the knowledge ,  therefore ,  is always changing according to current usage 
+
+
+-  Organizational culture should have several components with regard to knowledge: ,   culture with  positive orientation to knowledge is one that highly values learning on and off the job and one in which experience ,  expertise ,  and rapid innovation supersede hierarchy 
+
+
+-  While it is always hard to generalize about culture in large diverse organizations ,  we found strong evidence of  positive orientation toward knowledge in several of the companies we studied  from large consulting firms and high-tech manufacturers to small ,  knowledge-oriented businesses like Teltech 
+
+
+-  Individuals may believe their knowledge is critical to maintaining their value as employees and may be reluctant to share their knowledge with others 
+
+
+-  Although we found little evidence of this in our sample of successful projects ,  we saw frequent examples of it in the firms with unsuccessful projects 
+
+
+-  The employees of  large engineering company ,  for example ,  were unwilling to share knowledge for two reasons 
+
+
+-  In some cases ,  fearing layoffs ,  they were reluctant to share any information about mistakes or failures even though this knowledge was valuable to the company and could prevent others from making the same errors 
+
+
+-  In other cases ,  they didnt want to share positive knowledge ,  believing their value and ,  therefore ,  their job security was inextricably tied to their personal expertise 
+
+
+-  ,  In other notable examples ,  culture seemed to inhibit  projects objectives 
+
+
+-  Trade journals and industry awards reinforce the value of creativity in that industry ,  giving less prestige to work based on campaign efficacy  ( getting  consumer to buy your clients product or service )  
+
+
+- 11 It remains to be seen if and how the firms internal systems can change to overcome the norms and values at the industry level 
+
+
+-  High-technology businesses also struggle with this problem 
+
+
+-  Top engineers saw the use of an existing design as  sign of weakness ,  an admission that they couldnt do it themselves 
+
+
+-  ,  The third issue is the fit between an organizations culture and its knowledge management initiatives 
+
+
+-  Knowledge management projects are popping up all over at HP ,  but they are highly decentralized 
+
+
+-  HP executives believe the companys culture of highly autonomous business units would not support  coordinated ,  top-down project at the corporate level or even  corporate-level senior knowledge executive 
+
+
+-  Projects that dont fit the culture probably wont thrive ,  so management needs to align its approach with its existing culture  or be prepared for  long-term culture change effort 
+
+
+-  ,  In general ,  if the cultural soil isnt fertile for  knowledge project ,  no amount of technology ,  knowledge content ,  or good project management practices will make the effort successful 
+
+
+-  Evangelistic knowledge proponents can have some effect ,  but they will probably be both happier and more successful if they take  different job in  setting that already has  knowledge-friendly culture 
+
+
+-  ,  Clear purpose and terminology is particularly important for knowledge management 
+
+
+-  The terms knowledge ,  information ,  organizational learning  are subject to varied use and interpretation 
+
+
+-  The successful projects we found had paid attention to this factor ,  often by excluding some issues and concepts from their charters 
+
+
+-  ,  Some were careful to exclude the idea of data 
+
+
+-  Managers of  knowledge project at Chrysler tried to ensure that raw data and information did not go into its repositories of knowledge about engineering and design of key automobile components 
+
+
+-  When an engineer asked to include crash-test information in the repository of chassis design knowledge ,  the manager of the repository encouraged him to turn the information into knowledge by adding historical context ,  implications of the findings ,  comparisons with other cars or competitors ,  and learning from the crash-test process 
+
+
+-  Such sources of added value are an effective means of distinguishing knowledge from lesser forms of information and data 
+
+
+-  ,  Effective knowledge use implicitly means changing the way people think about knowledge ,  which almost always means changing the language they use 
+
+
+-  An experienced knowledge manager put it well: Normal business language gives the impression of being fact based ,  often drawing on military and natural science metaphors 
+
+
+-  But knowledge management deals with things like complexity ,  uncertainty ,  and organic growth 
+
+
+-  That calls for  new vocabulary ,  and managers arent used to it 
+
+
+-  ,  Gaining acceptance for the more conceptual ,  abstract vernacular of knowledge-based competition can be  barrier in many ways 
+
+
+-  Managers at one large engineering firm developed  detailed knowledge management strategy ,  but its engineering culture rejected it as too grandiose and abstract 
+
+
+-  Although senior managers supported the overall initiative ,  their eyes glazed over when presented with the details of the implementation process 
+
+
+-  ,  Knowledge managers must decide when and how to most effectively communicate their objectives 
+
+
+-  Some people actively avoided the term knowledge and framed their project only in already accepted business terms  ( for example ,  were going to reduce cycle time by finding new ways to reuse our engineering designs )  
+
+
+-  Others confront the language problem head on ,  as at Skandia ,  where the director of intellectual capital conducts an ongoing educational process 
+
+
+-  Knowledge managers must address the language issue in  way that fits their culture 
+
+
+-  Moreover ,  we believe that companies that disguise their knowledge management efforts by using other terminology will face rearguard actions eventually 
+
+
+-  Therefore ,  the motivation to create ,  share ,  and use knowledge is an intangible critical success factor for virtually all knowledge management projects 
+
+
+-  Motivational aids or incentives cannot be trivial ,  as some managers had learned 
+
+
+-  One manager ,  who had given out frequent flyer miles for browsing or contributing to  discussion database ,  found that the miles prompted initial use of the system but didnt foster ongoing activity 
+
+
+-  Another manager of an expert network planned to give  chocolate-covered ice cream bar  admittedly  high-quality one  to any expert who contributed  biography to the system ,  but the incentive wasnt sufficiently motivating 
+
+
+-  In  third instance ,  managers offered computer mouse pads for knowledge contributions; then they realized that most of the likely contributors used laptop computers with trackballs ,  not mice 
+
+
+-  Consultants at both Ernst  Young and McKinsey ,  for example ,  are evaluated partially on the knowledge they contribute to repositories and human networks 
+
+
+-  ,  If an organization chooses short-term incentives ,  they should be highly visible 
+
+
+-  Shortly after Buckman Laboratories introduced its new knowledge-sharing network ,  executives rewarded the top 150 knowledge sharers  ( judged by knowledge managers and knowledge network facilitators )  with  new laptop computer and an elaborate company trip to  resort 
+
+
+-  Recently ,  TI created an annual Not Invented Here ,  But  Did It Anyway award to acknowledge people who borrow good ideas from within and outside the company ,  and also those who share them 
+
+
+-  ,  Successful knowledge managers recognize that knowledge is transferred through multiple channels that reinforce one another 
+
+
+-  Successful knowledge projects usually address knowledge transfer through various channels ,  recognizing that each adds value in  different way and that their synergy enhances use 
+
+
+-  But MIT researcher Thomas Allen has found in many studies that scientists and engineers exchange knowledge in direct proportion to their level of face-to-face contact 
+
+
+-  Similarly ,  Chrysler is building knowledge repositories for engineering knowledge ,  but its managers attribute much of the companys recent success in new car development to putting everyone involved in developing  new car into the same building 
+
+
+-  ,  Like almost every other type of change program ,  knowledge management projects benefit from senior management support 
+
+
+-  We found ,  however ,  that strong support from executives was crucial for transformation-oriented knowledge projects but less necessary in efforts to use knowledge for improving individual functions or processes 
+
+
+-  The types of support that were helpful included: ,   senior manager who must advocate for knowledge management may not need  strong personal orientation to knowledge ,  but it surely helps 
+
+
+-  ,  Certainly ,  other factors affect the success of knowledge projects ,  but organizations that work on the eight weve discussed will be on their way to succeeding 
+
+
+-  ,  Having  knowledge-oriented culture ,  creating an organizational infrastructure ,  finding effective motivational tools ,  and developing senior management support appear to be the most important 
+
+
+-   senior management team that is truly committed to knowledge management will probably already have created some aspects of  knowledge-oriented culture and will support changes in performance assessments ,  which are key to altering motivation 
+
+
+-  Moreover ,  supportive executives will more likely allocate the resources needed to create an organizational infrastructure for knowledge management 
+
+
+-  Without proactive top management support to address the other three factors ,   company should begin to manage knowledge only on  small scale ,  focusing on improving the effectiveness of  single knowledge-oriented function or process 
+
+
+-  There may be  life cycle to building effective knowledge management practices and processes 
+
+
+-  ,  Increasingly ,  managers are becoming involved with various change programs; certainly ,  some of the success factors we have signaled here resemble those for programs in information systems ,  reengineering ,  or empowerment 
+
+
+-  ,  All projects benefit from senior management support ,  but we noticed that the attributes of executives who support knowledge projects are different 
+
+
+-  The CKOs in the organizations we studied made frequent public comments like ,  Were in the knowledge business ,  or Our intellectual capital is at least as important as our financial capital 
+
+
+-  They seemed to be more conceptual and have an implicit faith that knowledge management will benefit their organizations ,  although they usually also wanted to see the benefits measured whenever possible 
+
+
+-  ,  All change projects also benefit from  culture aligned to support their objectives 
+
+
+-  But the knowledge-oriented cultures being pursued in conjunction with successful knowledge management projects require more fundamental behavioral shifts than most other change efforts 
+
+
+-  Moreover ,  because knowledge is closely linked to power in organizations ,  these projects can have significant implications for  firms power structure 
+
+
+-  ,  Most change projects can profit from  process orientation ,  but there seem to be more obvious limits to the value of  process focus in knowledge projects 
+
+
+-  One firm in our study took the process approach to an extreme ,  defining one organizational learning process ,  four subprocesses ,  fifteen sub-subprocesses ,  and fifty-three sub-sub-subprocesses 
+
+
+-  After the first year ,  however ,  the firm had implemented only about  percent of the new processes 
+
+
+-  Certainly ,  the knowledge management project manager will find it useful to have  good sense of his or her customer ,  the customers level of satisfaction ,  and the productivity and quality of services offered 
+
+
+-  But project managers generally did not find it practical to describe in detail the process steps used in knowledge management 
+
+
+-  This is consistent with previous findings on improving knowledge work processes  ( if we can conclude that knowledge management is knowledge work )  
+
+
+-  But ,  in knowledge management initiatives ,  we observed that the complexity of human factors to be managed was much greater than for most data or information management projects 
+
+
+-  Unlike data ,  knowledge is created invisibly in the human brain ,  and only the right organizational climate can persuade people to create ,  reveal ,  share ,  and use it 
+
+
+-  Because of the human element in knowledge ,   flexible ,  evolving structure is desirable ,  and motivational factors for creating ,  sharing ,  and using knowledge are very important 
+
+
+-  ,  Recent popular change and improvement techniques have had life cycles beginning with revelation and ending with revilement 
+
+
+-  Hailed at the beginning  now we finally get it  as  bold break from the stodgy past ,  after only  few years ,  people may view an approach with disdain ,  often because it is implemented in  halfhearted or even cynical fashion 
+
+
+-  ,  Effective knowledge management is neither panacea nor bromide; it is one of many components of good management 
+
+
+-  Sound planning ,  savvy marketing ,  high-quality products and services ,  attention to customers ,  the efficient structuring of work ,  and the thoughtful management of an organizations resources are not diminished in importance by the acknowledgment that knowledge is critical to success and needs to be managed 
+
+
+-  At the margin ,  however ,  when  business faces competitors that perform well on those other dimensions ,  the difference between success and failure may well turn on how effectively it manages its knowledge 
+
+
+-  Less noticed has been the management of data ,  the sludge of the information age  stuff that no one has yet thought very much about 
+
+
+-  Yet data are ubiquitous 
+
+
+-  Almost every activity in which an enterprise engages requires data 
+
+
+-  ,  Data are used in ,  and created by ,  all daily operations ,  from serving  customer ,  to manufacturing  product ,  to tracking inventory 
+
+
+-  Data support managerial and professional work 
+
+
+-  Data are the critical inputs into almost all decisions ,  at all levels of an enterprise 
+
+
+-  Through data ,  managers learn about an organizations human and financial resources 
+
+
+-  Data may be combined in almost unlimited ways in the search for new opportunities ,  market niches ,  process improvements ,  and innovative products and services 
+
+
+-  ,  Because data implicitly define common terms like customer ,  they contribute to an organizations culture 
+
+
+-  They fill the white space in the organization chart 
+
+
+-  Enterprises strive to convert tacit knowledge into data 
+
+
+-  For example ,   salesperson may have  warm personal relationship with an important customer 
+
+
+-  But ,  for the enterprise as  whole to serve that customer ,  certain aspects of the relationship must be expressed in data 
+
+
+-  ,  Not surprisingly ,  most companies readily admit that they should manage data as business resources ,  just as they manage human and financial resources 
+
+
+-  Few companies even know what data they have; people cannot gain access to needed data; the quality of data is low;4 and data are not used effectively  ( see the sidebar )  
+
+
+-  ,  To manage any resource properly ,  companies must understand the roles it plays ,  its properties ,  the opportunities it offers ,  and the steps they must take to exploit those opportunities 
+
+
+-  But while data present enormous possibilities ,  they also present special challenges 
+
+
+-  For example ,  unlike other resources ,  data can be readily copied ,  shared among many people using information technology  ( IT )  ,  and then used in dozens of different ways 
+
+
+-  But the efficient dissemination of data rarely occurs 
+
+
+-  Instead ,  most individuals and business units ,  consciously or not ,  hoard data ,  leading to brutal political battles over ownership 
+
+
+-  Even in situations where the data are shared ,  individuals and units make and modify their own copies 
+
+
+-  The resulting inconsistencies defeat the purpose of sharing the data in the first place 
+
+
+-  Furthermore ,  it is difficult for organizations to enforce confidentiality and other policies regarding the use of data 
+
+
+-  ,  The enterprise seeking to manage data effectively must understand how data differ from other resources and what those differences imply 
+
+
+-  We first discuss the fundamental properties of data and consider how data differ from other resources 
+
+
+-  Next we explore the challenges and opportunities inherent in managing data 
+
+
+-  ,  Our discussion is limited to data  ( not information and knowledge )  because we think data deserve consideration in their own right 
+
+
+-  Furthermore ,   consensus has not yet emerged on the definitions of information and knowledge and on the distinctions between those concepts and data; we do not wish to join the debate here 
+
+
+-  At the same time ,  we believe that many of our prescriptions for managing data complement recommendations ,  based on observation of best practices ,  for managing information and knowledge 
+
+
+-  Indeed ,   company that cannot manage its data effectively is unlikely to do an excellent job in managing its information and knowledge 
+
+
+-  ,  Many authors have noted the distinctions between data and other organizational resources 
+
+
+-  In this section ,  we synthesize their work and our own observations to provide  framework for comparing data  ( or information and knowledge )  with other resources  ( see Table  )  
+
+
+-  ,  Before proceeding ,  we want to clarify our use of the terms resource and data 
+
+
+-  The American Heritage Dictionary7 provides two definitions of resource ,  both of which are pertinent here: an available supply that can be drawn upon when needed and a means that can be used to advantage 
+
+
+-  As these definitions suggest ,   resource is both necessary for an enterprise and  potential source of yet unrealized benefits 
+
+
+-  With these definitions in mind ,  we can list several categories of resources used by modern enterprises 
+
+
+-  There are the traditional resources  financial ,  human ,  plant and equipment ,  raw materials ,  and energy  and the so-called information age resources  data ,  information ,  and knowledge 
+
+
+-  ,  Philosophers ,  computer scientists ,  and information systems specialists have all pondered the notion of data 
+
+
+-  As used here ,  data  ( or  data collection or data set )  consist of two interrelated components: data models and data values 
+
+
+- 10 Data models are the definitions of entities ,  their attributes ,  and the relationships among them that enterprises use to structure their view of the real world 
+
+
+-  For example ,  you are an entity 
+
+
+-  As an employee ,  you have relationships ,  such as report manager and subordinates ,  with other employees 
+
+
+-  Data values are the specific realizations of an attribute or relation of the data model for particular entities 
+
+
+-  For example ,  the 123-45-6 in Employee ID  123-45-6 is  data value 
+
+
+-  This is quite natural  the Internal Revenue Service is interested in you as  Taxpayer while your employer is interested in you as an Employee 
+
+
+-  And Highest Degree Earned may be part of the Employee data model ,  but not the Taxpayer data model 
+
+
+-  Other attributes would be included in the Taxpayer model but not the Employee model 
+
+
+-  ,  While data  (  
+
+
+-  ,  the models and values )  are abstract ,  data records are concrete 
+
+
+-  They are the physical manifestations of data stored in paper files ,  spreadsheets ,  and databases ,  and presented to users in ways that make them easy to store and use 
+
+
+-  Now that we have defined our basic terms ,  we will look at the distinctive properties of data and data records and consider how these compare with the properties of the traditional resources 
+
+
+-  ,  There is  universal agreement in the literature that the most striking characteristic distinguishing data from traditional resources is their intangibility 
+
+
+-  In the past ,  the intangibility of data led some researchers to object to considering data  ( as well as information and knowledge )  as resources 
+
+
+-  That viewpoint has died away as evidence has grown of the ever-increasing role that these intangible resources play in all businesses ,  from traditional manufacturing to financial services ,  insurance ,  and other information-intensive industries 
+
+
+-  ,  If intangibility is defined as incapability of being defined by the senses , 11 then it is important to distinguish between data per se and the representation of data through  particular medium 
+
+
+-  As an abstract concept ,  data are clearly intangible 
+
+
+-  But data records are perfectly tangible ,  be they on paper ,  microfilm ,  or computer-related media  ( for example ,   magnetic tape or  disk )  
+
+
+-  In some cases ,  we need special equipment such as  computer to ascertain the presence of data records ,  but that need does not make them intangible 
+
+
+-  ,  According to the definition of intangibility quoted above ,  financial resources per se  ( whose realizations are either currency or data records )  should also be considered intangible 
+
+
+-  We are reluctant to do so ,  however ,  because one definition of tangibility is the capability of being valued monetarily 
+
+
+- 12 ,   resource is consumable if usage diminishes the amount of the resource available for future use 
+
+
+-  Money ,  raw materials ,  and energy are examples of consumable resources 
+
+
+-  Clearly ,  neither data per se nor data records are consumable 
+
+
+-  ,  Some authors have gone so far as to claim that datas nonconsumability distinguishes them from the other ,  more traditional resources 
+
+
+-  As for the question of wear and tear ,  we will discuss it later as depreciability 
+
+
+-  ,  By resource shareability ,  we mean the possibility that several users can simultaneously use the same unit of the resource 
+
+
+-  For example ,  two users cannot share the same dollar 
+
+
+-  But data are shareable in two ways 
+
+
+-  First ,  the same data may have multiple representations in different sets of records ,  each of which can be used simultaneously by different users 
+
+
+-  That makes data per se  shareable resource 
+
+
+-  Second ,  modern database management systems allow nearly simultaneous ,  multiuser access to the same data records 
+
+
+-  However ,  that shareability of data records may be hampered by the mediums limitations  ( for example ,  paper records are not available for simultaneous usage )  
+
+
+-  Shareability can also be intentionally constrained for security reasons via encryption or by limiting the access to data records via passwords 
+
+
+-  Obviously ,  shareability of data implies both opportunities and perils that are not pertinent for the management of the traditional resources 
+
+
+-  ,  Another characteristic of data is their ability to be copied; one can create an identical unit of the resource in question at  fraction of the cost of the original 
+
+
+-  It is ,  of course ,  the data records rather than data themselves that can actually be copied 
+
+
+-  Moreover ,  extra copies not only consume the recording medium but ,  more important ,  create the problem of maintaining consistency 
+
+
+-  First ,  it may allow users to work with data in more convenient environments 
+
+
+-  Second ,  it may allow users control of their own copy of the data ,  an important political consideration 
+
+
+-  Third ,  copying may mitigate the fragility of data ,  that is ,  the possibility that data may be inadvertently destroyed  ( see below )  
+
+
+-  Determining the desired degree of redundancy is an important issue in managing data as  resource 
+
+
+-  ,  As important as the ability to be copied is ,  it is the ability to transport data over large distances almost instantaneously that has really ushered in the information age 
+
+
+-  The ability to copy data locally existed for some time before progress in telecommunications technology made data transmission between distant locations possible 
+
+
+-  ( To be precise ,  electronic data transmission is not actually transportation of data records ,  but rather the creation of copies at the destination point 
+
+
+-  With the possible exception of electricity ,  no other resource can be transported with the ease and efficiency of electronically stored data 
+
+
+-  The other possible exception is money ,  which can also be transmitted electronically through its data proxy! ,  Fungibility means that one unit of the resource in question can be substituted with another unit of the same resource ,  if the latter is available 
+
+
+-  But data units ,  that is ,  individual data items ,  are unique; we cannot substitute  persons date of birth with another data item  ( for example ,  name or sex )  about that person or about somebody else 
+
+
+-  While we can sometimes infer the value of one data item from that of another  ( for example ,  age from date of birth )  ,  such situations are exceptional 
+
+
+-  As far as data records are concerned ,  we can obviously substitute one record with another if they both represent the same data item 
+
+
+-  ,  The nonfungibility of data raises special management problems 
+
+
+-  For example ,  as  defense against possible defects in units of other resources ,  managers can choose to keep  larger supply of the resource in question 
+
+
+-  But for data ,  this strategy is meaningless;  defective data item cannot be replaced with another data item 
+
+
+-  And ,  of course ,  keeping extra copies of data records will not help if the copies are made from an erroneous original or have become outdated 
+
+
+-  ,  By fragility of  resource ,  we mean the degree or ease with which it can be inadvertently destroyed or lost in routine use 
+
+
+-  The situation with data is altogether different 
+
+
+-  Though paper records can be inadvertently lost or destroyed ,  it is the remarkable ease with which computer-stored data records can be  ( and all too frequently are )  unintentionally overwritten or wiped out altogether that makes us consider data records fragile 
+
+
+-  Also ,  computerized data can be inadvertently destroyed when new systems replace old and can be easily lost among high volumes of other data 
+
+
+-  Of course ,  computer-stored data can be protected from overwriting and are routinely backed up or copied in most commercial environments 
+
+
+-  Still ,  many users lack the skills needed to work confidently with such protection mechanisms 
+
+
+-  Given the nonfungibility of data ,  it is not surprising that many users tend to err on the side of caution 
+
+
+-  In fact ,  experience shows that unwarranted proliferation of data copies is often caused by no reason other than concern for datas fragility 
+
+
+-  ,   versatile resource is one that can be used for  variety of purposes 
+
+
+-  In the abstract ,  each resource category is versatile to an almost unlimited degree  ( for example ,  think of the variety of existing raw materials )  
+
+
+-  But  particular raw material for  specific manufacturing process may have limited alternative uses beyond that process 
+
+
+-  At the other extreme is money ,  which has the widest range of possible use 
+
+
+-  ,  The versatility of data ,  along with their other characteristics ,  provides  company with valuable sources of new business and improvement opportunities 
+
+
+-  ,  data-driven )  marketing is one example 
+
+
+-  The negative side of data versatility is the possibility of misuse 
+
+
+-  One kind of misuse occurs when data ,  legitimately collected for one purpose ,  are used for another ,  illegitimate one 
+
+
+-  Ambiguities in data semantics compound this problem 
+
+
+-  For example ,   salesperson may view  sale as complete when he or she and the customer have verbally agreed to the deal 
+
+
+-  But the legal department doesnt view the sale as complete until  contract is signed; the production department ,  until the product is delivered; and the finance department ,  until payment is received 
+
+
+-  Loebl gives  particularly poignant series of examples involving energy data and concludes ,  The single most significant source of error in data analysis is misapplication of data that would be reasonably accurate in the right context 
+
+
+- 13 Misunderstandings are further exacerbated because explanations of data semantics  (  
+
+
+-  ,  data dictionaries )  are not kept current and may be difficult to obtain 
+
+
+-  Finally ,  many users ,  even sophisticated ones ,  simply ignore them 
+
+
+-  ,  It is easy to underestimate the practical importance of misinterpreted data semantics 
+
+
+-  Suboptimal ,  even grossly incorrect ,  decisions result 
+
+
+-  And misinterpretation of data semantics can lead to political conflicts 
+
+
+-  For example ,  the various interpretations of sale are all correct from the  ( limited )  perspectives of functional organizations 
+
+
+-  Though some data sets are sold on the open market  ( for example ,  historical performance of financial markets ,  point-of-sale data ,  many kinds of customer lists )  ,  most data sets are not for sale ,  and their valuation poses difficult theoretical and practical problems 
+
+
+-  ,  Decades of research on these problems have not yet produced clear results14 for several reasons: the failure to separate the information content  (  
+
+
+-  ,  data )  from the information technology; the predilection to analyze data as  fungible commodity or resource; the absence of intrinsic values in data  (  
+
+
+-  ,  datas value depends on specific applications )  and the versatility of data usage 
+
+
+- 15 ,  Data valuation raises several additional concerns 
+
+
+-  First ,  it is almost always easier to estimate the costs of data than to estimate the dollar value of their benefits ,  which can lead to unwise decisions not to obtain data whose utility is uncertain 
+
+
+- 16 Second ,  issues related to internal transfer prices for data can be difficult to resolve 
+
+
+-  For example ,  some organizations charge users to access data sets 
+
+
+-  This practice may discourage usage   result that may be contrary to managements intent 
+
+
+-  On the other hand ,  without an indication of users willingness to pay ,  it is difficult to weed out those data sets that are of no utility whatsoever 
+
+
+-  ,  Depreciation is defined as a decrease or loss in value because of wear ,  age ,  or other cause  ( other cause does not include  decrease in the quantity of the resource )  
+
+
+-  Depreciability of the financial and human resources are ambiguous: for the former ,  it is complicated by the possibility of inflation and deflation; for the latter ,  the difficulty stems from varying relationships between age and job performance and from differences among individual workers 
+
+
+-  ,  The value of data does not usually diminish because of use  ( we disregard as negligible the wear on the recording medium and computer used )  
+
+
+-  The more people use  stock tip ,  the less the value of that information to each person 
+
+
+-  Similarly ,  enterprises do not sell or share their data because doing so may diminish the value of the data 
+
+
+-  If only current data values  ( for example ,  current salary )  are of interest ,  they must be updated as aspects of the real world they describe change 
+
+
+-  If data are time-stamped ,  then they typically become less valuable as time passes  ( for example ,  an employees 1998 salary will probably be much less valuable in ten years )  
+
+
+-  Data-mining techniques can make excellent use of detailed historical records ,  so older data can be quite valuable 
+
+
+-  In most cases ,  then ,  data do not depreciate with use but they do with age; there are so many exceptions ,  however ,  that  general statement is probably not justified 
+
+
+-  The same dichotomy of sources exists for data 
+
+
+-  ,  Unlike many other resources ,  data are generated by  tremendous number of sources 
+
+
+-  Every transaction with suppliers and customers ,  most internal operations ,  and managerial and professional work all supply data 
+
+
+-  Although management approaches such as the customer-supplier model are applicable ,  the sheer diversity of data sources adds enormous complexity 
+
+
+- 19 ,  The original sources of many data sets are undocumented or even unknown 
+
+
+-  Typically ,  these data sets can neither be used with confidence nor improved 
+
+
+-  The Internet is exacerbating the problem 
+
+
+-  Of course ,  we do not always know the source of other resources  for example ,  of  gallon of gasoline 
+
+
+-  But agreed-on standards help guarantee that uniformity of content and gallons of gasoline are fungible 
+
+
+-  Interesting data ,  on the other hand ,  are new or different ,  and the data items themselves are not fungible ,  thwarting standardization 
+
+
+-  ,  Whenever pertinent features of the real world change ,  data value changes and/or new data are created 
+
+
+-  New data result from everyday business ,  often at astounding rates 
+
+
+-  This property of data ,  which we call renewability ,  does not really apply to other resources ,  with the possible exception of solar power 
+
+
+-  But the spontaneous nature ,  the rate ,  and the degree of data renewal are far greater for data than for any other resource 
+
+
+-  ,  The situation is  bit more involved for data records 
+
+
+-  In most cases ,  it takes time and effort for  change to be reflected in the appropriate data records 
+
+
+-  Thus  persons address changes the day that he or she moves ,  but it is some time until all databases are updated 
+
+
+-  ,  Naturally ,   manager wants to use the most current data 
+
+
+-  Renewability affects this desire in two ways 
+
+
+-  First ,  ensuring that data are current is an important task; business processes that capture change must be reliable 
+
+
+-  Second ,  unless the mechanisms to ensure currentness are synchronized ,  inconsistencies are sure to arise in redundant databases 
+
+
+-  Decision-making meetings can then dissolve into heated exchanges about whose data are accurate 
+
+
+- 20 The exception is financial resources ,  which can be stored through their data surrogate 
+
+
+-  This property contributes to other properties ,  such as copyability ,  shareability ,  and transportability 
+
+
+-   compact means of storage should make data easier to manage 
+
+
+-  The cost of storing data is low  ( and getting lower )  compared with the cost of storing other resources 
+
+
+-  On the other hand ,  cheap storage may contribute to decisions to save everything ,  including data that are no longer useful 
+
+
+-  An unintended consequence is that useful data may be harder to find 
+
+
+-  Cheap storage may also contribute to independent decisions by multiple organizations within an enterprise to store their own copies ,  leading to unnecessary data redundancy 
+
+
+-  ,  Management of any resource seeks to achieve the following goals: to possess  sufficient but not excessive supply of the resource ,  based on user needs and usage patterns; to provide legitimate users with timely and efficient access to the resource; to protect the resource from unplanned destruction and unauthorized access and use; to maintain and improve the quality of the resource; and to promote effective and efficient usage of the resource for the maximum benefit of the enterprise 
+
+
+-  ,  For each goal ,  we consider the managerial implications in light of the fundamental properties of data discussed above 
+
+
+-  ,  The basic issues in managing supply involve identifying the users of the resource ,  their needs ,  and their usage patterns and making arrangements for obtaining the resource 
+
+
+-  For traditional resources such as raw materials ,  new technologies have enabled the application of inventory-management approaches such as just-in-time 
+
+
+-  Ronen and Spiegler have argued that these approaches can be applied to managing data inventory as well 
+
+
+- 21 We agree with their argument against generating unnecessary data but caution that managers should not underestimate the particular problems that arise in data supply management 
+
+
+-  ,  First of all ,  the nonfungibility of data implies that the supply challenge is not to determine the right amount of identical units ,  but rather the scope and relevancy of the data 
+
+
+-  The key question for managers is not how many units of data are needed but which data are needed 
+
+
+-  ,  Second ,  while the nonconsumability of data eliminates one concern of supply management for traditional resources  ( not having enough )  ,  it creates the all-too-familiar problem of data oversupply 
+
+
+-  Storing unnecessary data is expensive ,  not so much because it wastes the storage medium ,  but because it diverts management attention and makes needed data more difficult to find 
+
+
+-  Just getting reliable information about the various data stored throughout  large organization is  daunting task at best 
+
+
+-  ,  Third ,  identifying users and understanding their needs is much more difficult for data than for other resources 
+
+
+-  In addition ,  the data requirements of different users  (  
+
+
+-  ,  different semantical interpretations of seemingly identical terms )  often have to be reconciled   difficult problem not encountered with traditional resources 
+
+
+-  ,  Fourth ,  some requests for data are erratic and unpredictable 
+
+
+-  The nonconsumability of data does not eliminate the need to know usage patterns ,  which provide timely updates of data values to guarantee the currentness of data 
+
+
+-  ,  Fifth ,  as we mentioned earlier ,  both the cost and value of data are poorly understood ,  making it difficult to ascertain the loss caused by the absence of data versus the cost of keeping an excessive data supply 
+
+
+-  In addition ,  for traditional resources ,  extra expense and inconvenience notwithstanding ,  an unexpected surge in demand can usually be met  ( money borrowed ,  temporary workers hired ,  and so on )  
+
+
+-  This is usually not the case with data 
+
+
+-  ,  Finally ,  traditional resources are usually acquired through ,  or under the control of ,   single organizational entity responsible for acquiring the resource for the entire enterprise 
+
+
+-  In contrast ,  data are usually acquired or developed by individual organizational units to satisfy their own needs ,  with little or no centralized control ,   task made easier by the development of decentralized and mobile computing 
+
+
+-  For many traditional resources ,  listings of available alternatives and selection criteria  ( for example ,  price ,  quality )  are available or can be easily obtained 
+
+
+-  This is seldom true for data 
+
+
+-  Fortunately ,  the general principles of customer-supplier management can be successfully applied to data suppliers 
+
+
+- 22 ,  Assuming that the enterprise has the right resources ,  individual users still must be able to access them 
+
+
+-  While we appreciate the difficulties of getting the people and equipment in place to shovel the parking lot of  warehouse after an unexpected snowstorm ,  it is fair to say that issues of access to data are far more complex than for other resources 
+
+
+-  Issues range from the architectures and technical means to store and access data ,  to users being able to find the data they need ,  to data sharing 
+
+
+-  ,  In most cases ,  only electronically stored data can satisfy the access requirements of the modern enterprise 
+
+
+-  Given the remarkable progress in speed ,  accuracy ,  and affordability of optical readers ,  it is perplexing that large quantities of data are still stored as paper records 
+
+
+-  The instantaneous transportability of computer-stored data records has contributed to the concentration of important organizational data in large mainframe databases accessible to users from remote terminals 
+
+
+-  For  while ,  this architecture seemed to be the technical solution to the data-access problem ,  and it is still prevalent in many companies 
+
+
+-  But it is no longer the only  ( or even the most desirable )  means to organize data 
+
+
+-  The rapid proliferation of personal computers and new ways to network have led ,  for example ,  to client-server architectures and distributed databases 
+
+
+-  It seems that almost as soon as some data architecture achieves wide recognition and acceptance ,  technological progress and new user demands render it outdated 
+
+
+-  Although computers permit instantaneous access to electronically stored data ,  most large enterprises find themselves with  bewildering variety of data residing in databases developed for individual business tasks with little coordination in hardware ,  software ,  and data-modeling approaches 
+
+
+-  Providing efficient access to data in these environments is difficult 
+
+
+-  Indeed ,  many users do not even know where to look for the data they need 
+
+
+-  ,  Thus the first lesson is that unless the data resource is developed  ( or ,  more realistically ,  redeveloped )  as an enterprisewide resource ,  no technological wizardry will guarantee efficient access to the organizations data 
+
+
+-  Second ,  speed of access to data has proved to be only one feature sought by users 
+
+
+-  This has led companies to store data used for operational purposes in transactional systems and data for decision-support purposes in data warehouses and data marts 
+
+
+-  And ,  of course ,  both the number of users and their data requirements will continue to grow rapidly 
+
+
+-  Third ,  enterprises should expect continuing improvements in technological means for data storage and transmission and in user interfaces 
+
+
+-  Periodically ,  the weight of the accumulated changes will lead to major changes in the way data are organized and accessed 
+
+
+- 23 ,  Data sharing raises additional concerns 
+
+
+-  Theoretically ,   combination of data properties ,  including shareability ,  nonconsumability ,  and instantaneous transportability ,  should allow for any number of harmonious sharing arrangements 
+
+
+-  In practice ,  of course ,  data sharing has proven difficult 
+
+
+-  Typically ,  data are collected and used by organizational units to perform their particular tasks without regard for the needs of other units or those of the enterprise as  whole 
+
+
+-  Possession of data conveys power and influence 
+
+
+- 25 So what is the motivation to let others know of their existence ,  never mind to share them? ,  Concerns for the security of any resource involve two principal issues: guarding the resource against unplanned destruction and preventing unauthorized users from accessing it 
+
+
+-  First ,  unauthorized access to important data may have greater consequences than unauthorized access to any other resource ,  even money 
+
+
+-  Second ,  the fragility and nonfungibility of data make the security problem particularly acute 
+
+
+-  Third ,  the nonconsumability of data makes it less likely for the enterprise to discover unauthorized usage through simply observing that the quantity of the data is diminished 
+
+
+-  The fact that usage of electronically stored data does not require physical proximity exacerbates the situation 
+
+
+-  On the positive side ,  the copyability of data suggests  straightforward  ( at least ,  in principle )  strategy for guarding them against possible destruction by periodically making backups 
+
+
+-  Moreover ,   number of methods exist for securing data ,  including data encryption ,  virus detection software ,  and access control software 
+
+
+-  Yet despite the availability of these tools and the obvious importance of security ,   recent study revealed  troubling lack of appreciation of ,  and effort devoted to ,  security in many organizations 
+
+
+-  Confidentiality means that some data must be held privileged or otherwise controlled in their access ,  use ,  and dissemination 
+
+
+-  Privacy means that individuals and organizations have rights to control the collection ,  storage ,  and dissemination of data about them 
+
+
+-  Obviously ,  data versatility threatens privacy: data collected with no privacy objections for one purpose may well prove unacceptable for another 
+
+
+-   tension exists between the promise of data mining and the search for heretofore undiscovered insights into consumers and their expectations of privacy 
+
+
+-  It did not take early programmers long to realize the paramount importance of data quality for successful data processing 
+
+
+-  Concern for the quality of data in large databases ,  in both the private and public sectors ,  has arisen only recently ,  however 
+
+
+-  Recognition of the importance of quality data is growing ,  as evidenced by the stream of reports in the general28 and trade29 press 
+
+
+-  ,  Understanding the nature of data supports the effective management of data quality 
+
+
+-  First ,  data quality encompasses data models ,  data values ,  and data records 
+
+
+- 30 Even seemingly mundane data-modeling decisions can have enormous consequences  witness the trouble and expense of the Year 2000 problem ,  which was caused by decisions to save  few bytes of storage and which many predicted 
+
+
+- 31 Second ,  data are abstract ,  so we cannot ascertain their quality through direct measurement  ( as ,  say ,  we can measure the chemical composition of  raw material )  
+
+
+-  Usually ,  we must compare the data to real-life counterparts ,  which can be expensive or ,  for some historical data ,  impossible 
+
+
+-  Third ,  because of the nonfungibility of data ,  we do not strive for uniformity 
+
+
+-  And  defective data item cannot be simply replaced by another ,  flawless one 
+
+
+-  Fourth ,  because of the shareability ,  copyability ,  and transportability of data ,  faulty items can reach  great many users almost instantaneously 
+
+
+-  Indeed ,  bad data are like  virus 
+
+
+-  There is no way of telling where they will turn up or what impact they will have 
+
+
+-  Fifth ,  in contrast to other resources ,  quality levels are usually unknown to users 
+
+
+-  Finally ,  the sheer volume of data typically created and stored exacerbates the problems of managing data quality 
+
+
+-  ,  Fortunately ,  solutions to many of these problems have been discovered ,  and many companies are improving the quality of their data 
+
+
+- 32 The most successful efforts focus not on finding and detecting errors but on discovering and remedying their root causes 
+
+
+- 33 Data quality programs are not easy to implement ,  but those who have done so report excellent results: reduced costs ,  improved customer satisfaction ,  and more confident decision making 
+
+
+-  ,  Using any resource in the most beneficial manner is always  challenge 
+
+
+-  For traditional resources ,  the principal issue is resource allocation among various organizational units that submit requests for  limited supply of the resource 
+
+
+-   classic example is the request for money or budget 
+
+
+-  The challenge of optimizing the use of data is quite different 
+
+
+-  First ,  many enterprises do not use the data that are readily available effectively 
+
+
+-  Most enterprises use data reasonably well in operations ,  but not in planning and decision making 
+
+
+-  Indeed ,  many organizations admit that they are data rich and information poor 
+
+
+- 34 The past decade has seen advances: the creation of new ,  data-driven businesses; electronic data interchange  ( EDI )  ,  which has revolutionized ordering ,  invoicing ,  and billing; and data-driven marketing 
+
+
+- 35 Only  minority of enterprises have used these tools to their advantage 
+
+
+-  Even those that have been successful have not exploited even  fraction of the potential of their data 
+
+
+-  ,  The issue of usage becomes even more important at the strategic level 
+
+
+-  Fundamental questions  ( What data will we need to execute  given strategy? How can we exploit data to create new opportunities? How will the availability of new types of data through the Internet affect our strategy? )  rarely come up 
+
+
+-  Yet it is likely that the judicious exploitation of data will be even more important to success in the future ,  for two key reasons 
+
+
+-  First ,  managing traditional resources is based on data  thus making data the meta-resource 
+
+
+-  Second ,  competition during the previous decades has leveled the field in terms of exploiting the traditional resources ,  leaving data ,  the relative newcomer ,  as the potentially most promising source for gaining competitive advantage 
+
+
+-  ,  Ultimately ,  the language that all managers speak is money 
+
+
+-  The difficulties in valuing data underlie these various issues of data usage 
+
+
+-  First ,  organizational issues contribute to many of the problems we have discussed 
+
+
+-  Ownership and accountability for data are unresolved issues in most enterprises;36 political battles for control of data and information are among the most brutal we have witnessed 
+
+
+- 37 Furthermore ,  the appropriate managerial infrastructure has not yet been determined 
+
+
+-  Some historians argue that middle management arose to fill an information-processing need 
+
+
+-  The penetration of IT ,  reengineering ,  and other movements has decimated ,  but not eliminated ,  middle management 
+
+
+-  ,  Second ,  no other resource is experiencing such explosive changes as data ,  as far as its growing importance and the technological means by which it is acquired ,  stored ,  transported ,  and used 
+
+
+-  The following prescriptions will not solve all data problems ,  but they will help  company make  solid beginning 
+
+
+-  ,  As we noted previously ,  data quality involves many considerations 
+
+
+-  But two are straightforward: ensuring that data models are clearly defined and that data values are accurate 
+
+
+-  The creators of data models and data values should be held accountable for clear definition and accuracy 
+
+
+-  Managers should equip data creators with the tools of quality management ,  including customer needs analysis ,  measurement ,  quality control ,  and root cause analysis and demand improvements 
+
+
+-  Benefits accrue to both creators and users 
+
+
+-  Users benefit because the data they use are easier to understand and interpret ,  and they can use it with confidence 
+
+
+-  Creators benefit because the expense they incur to answer questions and make corrections is reduced 
+
+
+-  Both benefit because users ,  especially those outside the enterprise ,  are more satisfied 
+
+
+-  ,  Such programs are similar to internal data quality programs but are directed at data suppliers from outside the enterprise 
+
+
+-  These programs have proven to be enormously effective in manufacturing; similar programs ,  suitably adopted ,  pay rich dividends for data at low cost 
+
+
+-  There are many ways to define and implement supplier data programs 
+
+
+-  All focus ,  at least to some degree ,  on data quality ,  so this prescription is closely related to the first 
+
+
+-  ,  Most enterprises have far more data than they can possibly use; yet ,  at the same time ,  they do not have the data they really need 
+
+
+-  In many cases ,  the failure to clearly define how the data will be used lies at the root of the problem 
+
+
+-  It is simply easier to collect data 
+
+
+-  The result is too much data of questionable value 
+
+
+-  Our prescription is simple: define in detail the most important uses of data ,  translate those uses into data requirements ,  communicate those requirements to the creators and suppliers of data ,  and eliminate data that do not meet requirements 
+
+
+-  ,  Information chains are cross-functional business processes that manipulate raw data  ( obtained from external sources or created internally )  ,  package them into higher-value data or information ,  make them available to downstream customers ,  and use them to create business value 
+
+
+-  In most enterprises ,  the individual functions are usually managed and conducted fairly well 
+
+
+-  But the hand-offs between functions are poorly managed ,  and results suffer 
+
+
+-  The most important information chains should be identified and the techniques of process management ,  adopted for data ,  applied 
+
+
+-  The first step is to define cross-functional management accountability 
+
+
+-  ,  IT has been quite effective in enabling reasonably well-established and -managed information chains to perform faster and cheaper ,  with greater capacity 
+
+
+-  But technology alone ,  or worse ,  technology with ineffective data management ,  is not  solution 
+
+
+- 39 Indeed ,  an overreliance on IT appears to exacerbate problems 
+
+
+-  Enterprises must first manage information chains and put them into reasonable working order ,  before applying the newest technology 
+
+
+-  Our prescription simply extends that time-tested maxim to data 
+
+
+-  ,  Most enterprises have no idea what data they have ,  which data are most critical ,  the sources of critical data ,  and the degree of redundancy 
+
+
+-  Information chains are the sources of much data and may be the most important component of the inventory 
+
+
+-  But the enterprise can at least develop ,  keep current ,  and publish an inventory of the most critical data and the sources of those data 
+
+
+-  It is appropriate to begin this task by first implementing  process that captures new data and data sources 
+
+
+-  Once that process is in place ,  the task of identifying and adding existing data  ( and sources )  can begin 
+
+
+-  ,  Management exhortations to the contrary ,  most organizations and individuals do not readily share data 
+
+
+-  Naturally ,  there are many circumstances under which data should not be shared 
+
+
+-  The terms and conditions specified must include the allowed use of the data  ( for example ,  can the accessing organization resell the data? )  ,   fair transfer price ,  the technical means of access ,  quality assurance ,  and  means of resolving conflicts 
+
+
+-  ,  An example is the seemingly innocuous task of specifying  definition ,  to be used throughout the enterprise ,  of customer 
+
+
+-  The definition may be desired ,  for example ,  to make the enterprise easier to do business with or to identify opportunities to cross-sell products and services 
+
+
+-  Unfortunately  ( or fortunately ,  depending on ones perspective )  ,  each organizational unit has slightly different relationships with customers 
+
+
+-  The accumulated experience and knowledge for conducting business with customers is reflected in each units data model 
+
+
+-  And that data model has indeed become each units formal definition of its customers 
+
+
+-  The task of developing  common definition ,  even if all units agree that it is  good idea ,  is equivalent to asking each unit to suboptimize its way of treating customers 
+
+
+-  And no unit would readily agree to do so unless the new way is clearly better 
+
+
+-  ,  It may be appropriate to codify these accountabilities into an overall data policy 
+
+
+-  Bad data can spread like  virus ,  while good data remain locked in  vault 
+
+
+-  And the prescriptions require all managers and units to do their parts 
+
+
+-  Without strong leadership from the top ,  data management programs risk falling prey to the disparate agendas of functional areas and their leaders 
+
+
+-  ,  Each of these prescriptions requires clear management accountability for data 
+
+
+-  One trap is to assume that if data are in the computer ,  they must be the CIOs responsibility 
+
+
+-  While the CIO may be responsible for the underlying technology ,  most data are generated and used by operational and decision-making units that are not under his or her control 
+
+
+-  The CIO is often removed from important data 
+
+
+-  Accountability for data must lie with those closer to data creation and use 
+
+
+-  Prescriptions  through   ( quality program ,  supplier program ,  and honed data needs )  should normally be the responsibility of functional areas ,  although  centralized function may provide common tools and methods 
+
+
+-  Prescription   ( data inventory )  is normally  centralized function 
+
+
+-  Prescription   ( terms and conditions for data sharing )  requires agreement from units in possession of data 
+
+
+-  ,  Data are created and used in enormous quantities in activities ranging from the most mundane operation to the most far-reaching strategic decision 
+
+
+-  They are rarely managed well 
+
+
+-  To improve this situation ,  enterprises and managers must understand the properties of data and manage them as resources 
+
+
+-  As we have seen ,  data ,  unlike many conventional resources ,  are intangible ,  easy to copy and transport ,  and renewable 
+
+
+-  Enterprises must think about and manage data differently 
+
+
+-  The prescriptions described here can help  company begin to take better advantage of this traditionally underutilized resource 
+
+

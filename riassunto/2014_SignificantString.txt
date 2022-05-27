@@ -1,0 +1,1041 @@
+-  No longer languishing at the periphery of organizations ,  these quantitative analysts today are recognized as highly skilled specialists trained to take on the most significant  ( and often the most complex )  business challenges 
+
+
+-  They are the latest examples of numbers people ,  whose direct lineage goes back to the 1940s ,  when Ford Motor Co 
+
+
+-  recruited  team of statistical whiz kids  ( including Robert  
+
+
+-  The recent emergence of the digital enterprise has created  seemingly insatiable management appetite to amass and analyze data 
+
+
+-  This demand coincides with the rapidly decreasing cost of storing those data and preparing them for analysis ,  along with the growth in computing power to support the application of increasingly sophisticated techniques for extracting meaning from complex data 
+
+
+-  ,  Todays data scientists are often singled out as  breed apart  and for good reason 
+
+
+-  Moreover ,  they must learn to acquire and manipulate both numeric and nonnumeric data to solve  changing menu of business problems 
+
+
+-  ,  To better understand what distinguishes data scientists from other quantitative analysts  ( and what it takes to get the best out of data scientists )  ,  we recently surveyed more than 300 analytics professionals working in different types of companies  ( ranging from startups to large multinationals )  in  variety of industries in the United States to learn how they viewed their work and their place in the organization 
+
+
+-  ( See Data Scientists and Analysts: Whats the Difference? )  We found substantial differences between the two 
+
+
+-  For example ,  data scientists were far more likely to view their work as critical to better business outcomes 
+
+
+-  Almost all data scientists surveyed  94%  said analytical abilities are  key element of their companies business models and strategies ,  compared with only 65% of those who identified themselves as analysts 
+
+
+-  Similarly ,  96% of data scientists said their analyses are used to make key decisions ,  versus 77% of quantitative analysts 
+
+
+-  ,  Data scientists were much more apt than analysts to say their projects often or always address new problems  ( 85% to 58% )  and to say that they find surprising and valuable business insights outside of formal projects  ( 89% to 54% )  
+
+
+-  These perceptions suggest that many managers understand how committed and creative data scientists can be in solving complex problems 
+
+
+-  ,  Thats good news 
+
+
+-  But ,  after supplementing our survey with interviews of business leaders ,  IT executives ,  chief analytics officers ,  industry observers and data scientists ,  we had  worrying sense of dj vu 
+
+
+-  Todays data scientists ,  like previous generations of analysts ,  are proud of their abilities 
+
+
+-  But according to many executives ,  the new crop of data scientists may be falling into the old traps 
+
+
+-   common complaint is that data scientists are aloof and seem uninterested in the professional lives and business problems of less-technical coworkers; they dont see  need to explain or talk about the implications of their insights ,  which makes it difficult for them to partner effectively with professionals whose business expertise lies outside of the technical realm 
+
+
+-  ,  In focus groups with executives ,  we learned that many organizations suffer from  lack of trust in the technologies ,  the data and ultimately the data scientists themselves 
+
+
+-  Neither data scientists nor managers are very good at speaking the others language ,  and executives compound the problem by the way they manage data scientists 
+
+
+-  They should pay attention to the lessons learned from managing other types of quantitative analysts 
+
+
+-  ,  In our own work with companies that employ data scientists ,  weve noticed that the organizations that create the most value from data science are those that seek game-changing insights into the open-ended questions that matter most to the business 
+
+
+-  For  retailer ,  it might be ,  how can we identify previously undiscovered products for cross-selling opportunities? For  mobile phone company ,  it might be ,  where can we find new revenue streams to offset the decline in revenues from calls and texts? For  hospital ,  it might be ,  how can we translate the written notes on patients charts to improve patient care and outcomes? ,  To avoid repeating some of the mistakes that have undermined the success of previous generations of analytical talent ,  executives should consider the following seven recommendations: ,  In the past ,  efforts to get business value from data were often isolated and lacked executive support 
+
+
+-   mandate from the companys senior leadership is essential to elevate analytics into  transformational possibility 
+
+
+-  Some companies have demonstrated their commitment by appointing  chief data and analytics officer  ( CDAO )  who is responsible for ensuring that the organization has the data ,  capabilities and mind-set needed to be successful 
+
+
+-  The CDAO will also give data scientists direction and keep them focused on important business objectives while clearing bureaucratic obstacles and establishing partnerships with business customers 
+
+
+-  ,  However ,  since the CDAO does not own business processes ,  he or she must work closely with other members of the management team to embed data analytics into decision making and ensure that insights from data scientists are put into practice and produce measurable outcomes 
+
+
+-  ,  Data scientists are most effective when they are supporting  strategy they believe in 
+
+
+-  You need to frame the outcomes that would be valuable for the business 
+
+
+-  At Intuit ,   software company headquartered in Mountain View ,  California ,  data scientists are facing more open-ended questions from executives ,  with higher expectations about the creation of business value but often with less-specific assignments ,  according to George Roumeliotis ,  the companys senior data scientist 
+
+
+-  Once they understand how they can make  difference to the business ,  dont micromanage 
+
+
+-  ,  To build  trusted working relationship with decision makers ,  data scientists must learn to communicate with businesspeople about what matters to them 
+
+
+-  ,  put it this way: Data scientists are brilliant ,  but they sometimes struggle to cast their findings in terms relevant to the business: revenue ,  profit ,  cost savings ,  delighted customers or customers retained 
+
+
+-  Given that data scientists seldom own the outcome but merely influence it ,  it is critical that these analysts learn how to speak the language of business-people  and vice versa 
+
+
+-  Investments in training to develop your data scientists business acumen and communications skills can pay huge dividends 
+
+
+-  Managers ,  too ,  must take steps to become more numerate and data literate 
+
+
+-  Companies have to train decision makers in these skills as well as hire new managers who already have them 
+
+
+-  ,  Data scientists engage in highly complex and knowledge-intensive work 
+
+
+-  For many reasons  including knowledge sharing ,  intellectual stimulation and resource sharing  it makes sense for data scientists to be grouped together organizationally but physically to be close to decision makers 
+
+
+-  ,  Many large organizations create  core hub that is responsible for ensuring that data scientists have ample opportunities to learn ,  share and grow 
+
+
+-  At Monster Worldwide ,  the parent company of the Monster 
+
+
+- com global employment website ,  this approach also gives data scientists  consistent context and way of working 
+
+
+-  We make sure our people around the world have common goals ,  methods and processes and  common view of our market and customer base ,  said Jean-Paul Isson ,  global vice president for predictive analytics and business intelligence ,  who heads up the companys data science group 
+
+
+-  ,  In addition to building trust between the two groups ,  locating data scientists with the teams they support makes it easier for them to get faster and more personal feedback on project plans and prototype solutions 
+
+
+-  It also allows organizations to include them in meetings without the disconnects that come with remote participation 
+
+
+-  Given that 75% of the data scientists we surveyed were reporting to either IT or operations ,  it seems that close interaction with business groups is not happening often enough 
+
+
+-  ,  There is no substitute for direct exposure to business processes and customers 
+
+
+-  Dont keep your data scientists penned up in the office; get them out into the world where they can see problems firsthand 
+
+
+-  For example ,  New York Citys analytics department had data that showed that rodent problems ,  the number of ambulance visits and delinquency in paying property taxes were all associated with higher incidences of fire in buildings 
+
+
+-  This ,  in turn ,  led to an interesting discovery: Owners who had applied for permits to do exterior brickwork on their properties were significantly less likely to have fires 
+
+
+-  According to Mike Flowers ,  New York Citys former chief analytics officer ,  the permits were  tell of an owner who cared 
+
+
+-  ,  Data scientists have important capabilities and may have reasons to feel special 
+
+
+-  Instead ,  leaders should focus on building teams of people with different skills who can work together to solve difficult problems and exploit opportunities 
+
+
+-  ,  Scott Page ,   professor at the University of Michigan who has studied diversity and problem solving extensively ,  has shown that when dealing with complex problems ,  diversity trumps individual ability 
+
+
+-  The idea also applies to analytics: Combining business analysts ,  data scientists ,  visualization experts and modelers from different disciplines and functional areas enables teams to tackle problems that would be too difficult for individuals to solve alone 
+
+
+-  ,  Data scientists arent indifferent to money  they expect to receive competitive wages 
+
+
+-  But often they are most motivated by intellectual challenge and recognition 
+
+
+-  In particular ,  our research suggests that data scientists are highly motivated by peer group recognition 
+
+
+-  The Institute for Operations Research and the Management Sciences  ( INFORMS )  sponsors the Franz Edelman Award to recognize and reward outstanding examples of operations research ,  management science and advanced analytics in practice ,  while the Association for Computing Machinery sponsors the annual KDD Cup competition in the field of knowledge discovery and data mining 
+
+
+-  Data scientists share their enthusiasm and ideas with colleagues at conferences such as the OReilly Strata Conference and through Kaggle 
+
+
+- com data science competitions sponsored by organizations including Netflix ,  GE and Thomson Reuters 
+
+
+-  ,  Managers at one company told us that they are creating two separate career tracks for data scientists  one for people who want to go into management and  second ,  with the title senior data scientist ,  for those who want to operate in  more purely analytical realm 
+
+
+-  This approach will help ensure that data scientists dont get sidetracked solving problems that no one cares about 
+
+
+-  To achieve significant value ,  executives will have to deliberately and thoughtfully create conditions for data scientists success 
+
+
+-  Executives can begin by recognizing that data scientists arent miracle workers 
+
+
+-  They are ,  however ,  highly skilled professionals who ,  working collaboratively with others in the organization ,  will play  vital part in realizing big value from big data 
+
+
+- Its an old idea: If you want to build  company that truly motivates its employees ,  it has to have  sense of purpose 
+
+
+-  Purpose ,  according to Ratan Tata ,  the recently retired CEO of the Tata Group ,  is a spiritual and moral call to action; it is what  person or company stands for 
+
+
+-  When such  purpose exists ,  it provides employees with  clear sense of direction ,  helps them prioritize and inspires them to go the extra mile  which ,  the argument goes ,  should ultimately be good for profit 
+
+
+-  ,  Purpose ,  by its nature ,  transcends making money: It is about people coming together to do something they believe in and allowing profit to follow as  consequence ,  rather than as an end in itself 
+
+
+-  It is hard to fulfill  purpose in the absence of money ,  so purpose-driven organizations either must rely on donations or benefactors to sustain themselves  ( as most charities and aid organizations do )  ,  or they must become self-funding through their own profits 
+
+
+-  ,  Is it possible for  company to strive for  higher purpose while also delivering solid profits? Some have argued that pursuing goals other than making money means ,  by definition ,  spending on things that arent profit-maximizing 
+
+
+-  Others have countered that by investing in worthwhile causes ,  the company is doing something intrinsically valuable that will generate  long-term payoff to all parties 
+
+
+-  ,  But ,  ultimately ,  this is  well-rehearsed and tired debate ,  with plenty of evidence available to support both sides of the argument 
+
+
+-  The important question is not whether there is some tension between purpose and profits; there is 
+
+
+-  Instead ,  the question to ask is: How can the tension between purpose and profits best be managed? What structures does  company need to put in place to ensure that its higher-order purpose isnt squeezed out by short-term profit seeking? How can executives ensure that employees keep these dual goals in mind on  day-to-day basis? And how can this balance be achieved on  long-term basis? ,  This article is based on research that we have conducted over the last five years looking at the organizational challenges involved in managing two different objectives at the same time 
+
+
+-  )  We have discovered that there are  few fundamental organizing principles that help  company sustain its sense of purpose over time while still achieving  solid level of profitability 
+
+
+-  Goal-framing theory provides  deep understanding of why pursuing what we call pro-social goals  which we define as goals that involve working toward common causes that go beyond just making money and staying in business  creates  stronger motivational basis for working in organizations than pursuing self-interest goals that emphasize financial gain or personal enjoyment 
+
+
+-  ,  The article is structured as follows: We provide  brief overview of goal-framing theory ,  then describe three companies that have sustained  balance over time between purpose and profits 
+
+
+-  Based on this combination of theory and evidence ,  we then describe some practical ways of applying these insights inside your own company 
+
+
+-  ,  Understanding how  companys goals influence its performance requires understanding what motivates employees behavior on  day-to-day basis 
+
+
+-  That individuals are motivated to do their own work well is important ,  but  company with  higher-order purpose is typically asking them to also take  broader view and influence their joint effort toward common goals 
+
+
+-  Collaborative effort of this type involves  lot more than just doing  task well; it also takes understanding of and commitment to the common goal ,  and it takes the flexibility to use ones wits ,  especially when new situations arise 
+
+
+-  For this kind of work ,  employees must be motivated in  special way 
+
+
+-  ,  There are numerous ,  partly overlapping views on what drives motivation in companies 
+
+
+-  However ,  most have little to say about the links between company goals and individual motivations ,  that is ,  what motivates employees to behave in ways that help  or dont help  the company or group to which they belong 
+
+
+-  ,  Goal-framing theory starts from the idea that ,  at any moment ,  people have  major area of concern that makes them focus on specific aspects of their work and neglect others 
+
+
+-  When employees are concerned about feeling good ,  they will look out for the fun parts of their job ,  for the one activity in their job that really excites them ,  and they will neglect things that feel boring or  bit uncertain 
+
+
+-  When the major concern is income and/or promotion ,  an employee will focus on opportunities to earn extra money or make  good impression that helps raise the odds of getting promoted and will neglect other aspects of the job 
+
+
+-  And when the major concern is to realize  common goal ,  such as getting  product launched on  tight timeline or delivering on  fundraising campaign ,  employees will attend mainly to that goal and will downplay concerns for relaxation ,  making more money or getting  better position 
+
+
+-  The essence of  pro-social goal is that it motivates the employee to ask ,  What should  do to make us succeed? rather than What should  do to get ahead? or What will be the most enjoyable thing to do? ,  What factors influence the relative strength of these three types of goals? Obviously ,  innate differences between individuals plays  part ,  but  much stronger influence is typically the immediate stimuli employees receive from those around them in their working environment and from their superiors 
+
+
+-  If all the talk is about the size of the annual bonus ,  the gain goal will immediately dominate others 
+
+
+-  But many companies want their employees to help the organization realize common goals ,  rather than to prioritize personal gain or fun on the job 
+
+
+-  So the challenge becomes how to make such common goals more salient and meaningful to employees across the company 
+
+
+-  To  large extent ,  this is  matter of trying to convey the purpose of the company to employees so they can see how their efforts fit with those of other employees to fulfill its overall purpose 
+
+
+-  This works best if the purpose is pro-social ,  because that provides  very direct link from the company goals to  pro-social orientation of the employees 
+
+
+-  It takes  great deal of effort to establish and maintain such goals ,  and they are easily displaced by gain or hedonic goals 
+
+
+-  Working toward company goals without being rewarded and without feeling good is not  stable long-term proposition 
+
+
+-  So there is  delicate balance needed here ,  and goal-framing theory provides some valuable insights into how it might be maintained 
+
+
+-  ,  As  first guideline ,  the companys statements should prioritize pro-social goals ahead of financial goals 
+
+
+-  For example ,  if  medical-products company is seeking to put patients first ,  then this goal should be center stage in all external and internal communications 
+
+
+-  Financial goals ,  in contrast ,  should be approached in an oblique or indirect way; they should be seen as the natural consequence of achieving the pro-social goals ,  rather than as ends in themselves 
+
+
+-  If financial goals are given too much prominence ,  they will typically displace the pro-social goals 
+
+
+-  ,  Second ,  the fragility of pro-social goals means that they need reinforcing and supporting on  consistent and regular basis through incentive and reward systems ,  through informal conversations and discussions ,  through symbolic management and through formal structures that we call counterweights 
+
+
+- 10 For example ,  individual rewards should be linked to the performance of the group ,  operating unit or company as  whole ,  rather than just to individual outcomes 
+
+
+-  And managers should seek to acknowledge and highlight behaviors that support the pro-social goals of the company by ,  for example ,  building them into annual reviews and publicly celebrating and rewarding employees who successfully strive to meet the companys pro-social goals 
+
+
+- 11 Without such reinforcement ,  employees will see  disconnect between the demands of their immediate job and the espoused goals of the company ,  and the pro-social goals will end up being displaced in favor of gain or hedonic goals 
+
+
+-  ,  Goal-framing theory provides  useful new way of looking at the challenges companies face in aligning behavior around goals 
+
+
+-  Our research found many companies with  clear sense of purpose ,  typically expressed as  set of pro-social goals such as putting employees first or investing in local communities 
+
+
+-  But ,  in the majority of cases ,  there was no discernible impact on the way employees actually behaved 
+
+
+-  Sometimes the pro-social goal was just  set of words  in effect ,   veneer on top of  gain-driven company 
+
+
+- 12 ,  Sometimes the pro-social goal had been genuine at some point in the companys history ,  but over time ,  its meaning atrophied as other goals became more salient 
+
+
+-  However ,  we also found  small number of highly successful companies whose pro-social goals seemed genuine 
+
+
+-  ( See About the Research for  list of the 15 companies interviewed 
+
+
+-  )  In talking to employees at multiple levels and in looking at the way they behaved and the things they valued ,  we could see evidence that these companies pro-social goals were influencing employee motivation and behavior 
+
+
+-  We focus on three cases here 
+
+
+-  Unlike  number of its competitors ,  Handelsbanken steered  course through the Swedish financial crisis in the early 1990s without government help ,  and it has sailed through the last five years of turbulence with uninterrupted growth in equity per share and with top ratings for customer satisfaction 
+
+
+-  ,  How has Handelsbanken been so consistently successful? Its pro-social goal is not very original: It is simply to be customer-focused 
+
+
+-  As the company declares on its website: Since the early 1970s ,  Handelsbankens organization has been strongly decentralized and operations are always based on the customers requirements 
+
+
+-  This means that all business decisions regarding individual customers relationships with the Bank are taken close to the customer 
+
+
+- 13 ,  But rather than just talk about customer focus ,  Handelsbanken has built  management model that supports its goals 
+
+
+-  This reduces the cost of information transfer and supports rapid responsiveness to changing market conditions 
+
+
+-  The company was also  pioneer of the beyond-budgeting movement: It has moved away from setting budgets on  top-down basis ,  and instead it expects branch managers to set their own targets 
+
+
+- 14 ,  There is no emphasis on maximizing returns or shareholder returns; the goals are simply to track  moving target by always having higher customer satisfaction and profitability than  weighted average of the competition 
+
+
+-  These goals are then linked to  combined profit-sharing and employee stock ownership scheme called Oktogonen 
+
+
+-  This model has been employed since the 1970s ,  so that today employees own more than 40% of the total equity ,  and many long-term employees have become millionaires 
+
+
+-  The equal profit-sharing scheme is an excellent example of how financial rewards can strengthen  pro-social goal rather than displace it 
+
+
+-  ,  One of Indias biggest conglomerates ,  Tata Group had revenues of more than $90 billion in 2012 ,  spread over such sectors as IT services ,  steel ,  cars ,  chemicals and hotels 
+
+
+- 15 The group was founded in 1868 by Jamsetji Tata ,  and it has always been strongly influenced by the Tata family 
+
+
+-  Family-founded trusts hold 66% of the equity capital of Tata Sons ,   holding company 
+
+
+-  Below that sit various Tata operating companies ,  some wholly owned by Tata Sons ,  others public companies where Tata Sons has  minority stake 
+
+
+-  ,  Tatas pro-social goal is to improve the quality of life for the communities we serve 
+
+
+-  As stated on the corporate website ,  the community is not just another stakeholder in business ,  but is in fact the very purpose of its existence 
+
+
+- 16 As with Handelsbanken ,  this is not  highly original statement of purpose ,  but it is backed up with supporting mechanisms that ensure it is taken seriously 
+
+
+-  ,  The charitable trusts that own 66% of Tata Sons spend their profits on charitable causes such as clean water delivery ,  literacy and health care 
+
+
+-  The Tata operating companies are then expected to put significant investments into the local communities they serve 
+
+
+- 17 ,  The Tata Group wields influence over the operating companies in  number of informal ways 
+
+
+-  Group functions provide training and education and quality management services ,  and Tata Sons executives sit on the boards of the operating companies 
+
+
+-  The Tata Group is also highly visible in its commitment to community development in ,  for\nexample ,  its launch of the Nano car and the low-cost Swach water purifier 
+
+
+-  ,  HCL Technologies ,  with headquarters in Noida ,  India ,  was  second-tier player in the highly competitive IT services sector when Vineet Nayar became president in 2005 
+
+
+-  Nayar ,  who became CEO in 2007 ,  decided to differentiate HCL through the quality of its management  by putting his employees first and by enabling them to create value in their relationships with customers 
+
+
+-  He embarked on  major transformation program ,  first pushing everyone to accept that the company was underperforming and needed to change and then putting in place  series of specific initiatives that were designed to help employees service their clients better 
+
+
+-  For example ,  he pushed all managers to place the results of their 360-degree appraisals online to make them more accountable to their employees; he also created  service ticket scheme ,  so that if an employee wasnt happy about something he could open  ticket to get the attention of the relevant manager 
+
+
+-  Nayar tracked the number of tickets opened ,  and the speed with which they were closed ,  as an indicator of employee well-being 
+
+
+-  ,  As these initiatives began to take hold ,  Nayar captured his philosophy with the slogan employees first ,  customers second ,  which he announced  with some trepidation  at the annual global customer meeting 
+
+
+-  Further initiatives were added ,  such as the Employee Passion Indicator Count  ( EPIC )  survey ,  which was used to identify the key passions of employees and to steer them towards jobs where these could be put to use 
+
+
+-  ,  By 2012 ,  HCL had recorded an industry-leading compound annual growth rate of 24% 
+
+
+-  In our discussions with HCL employees ,  it was clear that many  ( though admittedly not all )  had bought into Nayars employees first model and saw the company as  highly attractive employer 
+
+
+-  Turnover rates were lower than in competitor companies ,  and the highest ratings on the EPIC survey were around collaboration and client service 
+
+
+-  )  ,  So what are the insights from these three brief case studies? The basic premise is that what motivates employees consistently to realize company goals also makes economic sense 
+
+
+-  The companies discussed are in very different industries ,  and the length of time they have been pursuing their pro-social goals varies enormously 
+
+
+-  The first point is that there are only  limited number of pro-social goals that  company can meaningfully target 
+
+
+-  For Handelsbanken ,  it is all about the customer; for Tata ,  it is about the communities in which the company operates; and for HCL ,  the pro-social goal is employee well-being 
+
+
+-  Other common pro-social goals involve  focus on employee safety  ( mining company Rio Tinto )  or the natural environment  ( consumer products company Seventh Generation )  
+
+
+-  We did not find evidence that companies thrived because they dreamt up  highly unique pro-social goal that nobody else had thought of 
+
+
+-  Rather ,  the evidence suggests the successful companies are the ones that were able to translate pedestrian-sounding pro-social goals into consistent and committed action 
+
+
+-  ,  Pro-social goals need supporting systems if they are to stick 
+
+
+-  We know that people take cues from those around them ,  but people are fickle and easily confused ,  and gain and hedonic goals can quickly drive out pro-social goals 
+
+
+- 18 So  key insight is that these three companies have built  wealth of supporting systems to help them operationalize their pro-social goals at different levels ,  and thereby make them stick 
+
+
+-  At Handelsbanken ,  the supporting systems are relatively formal: the highly decentralized branch structure ,  the removal of budgets and the equal profit-sharing system 
+
+
+-  At Tata ,  the supporting systems are more informal and are reinforced through the visible initiatives and pronouncements of the top executives 
+
+
+-  At HCL ,  the supporting systems were ,  initially ,  Nayars personal promotion of the employees first agenda plus  set of innovative practices designed to reinforce it 
+
+
+-  And in the first two organizations ,  in particular ,  there has been consistency in these systems over many years ,  which further reinforces their value 
+
+
+-  Such consistency matters because it signals that management is sincere 
+
+
+-  One important form of supporting system is to incorporate tangible manifestations of the companys pro-social goals into the day-to-day work of employees 
+
+
+-  For example ,  IBM sends future managers to work with NGOs on development projects in Nigeria ,  Ghana ,  Tanzania and the Philippines to put substance behind its Corporate Citizens Core program 
+
+
+- 19 We have also seen health care companies bring patients into their offices to talk about how the companys products have helped them 
+
+
+-  For employees working on the front lines of their company ,  such systems are unnecessary ,  but many back-office employees lose touch with their companys raison dtre ,  so this is  good way of making it visible 
+
+
+-  ,  Another important supporting system is to find ways of measuring progress on pro-social goals and to report them publicly 
+
+
+-  For companies that see customer focus as their goal ,  the Net Promoter Score has become  popular measure; for those that seek to put their employees first ,  engagement scores are often used; and for those that focus on safety ,  lost-time injuries are typically  preferred metric 
+
+
+-  Unfortunately ,  there arent yet established measures for community or environmental pro-social goals ,  though some companies are experimenting with them; one example is Guardian News  Medias annual sustainability report 
+
+
+-  Regardless of the measure used ,  what matters is that the information is shared in  transparent and consistent way with the relevant stakeholders 
+
+
+-  HCLs initiative to share feedback on how well managers are doing for all employees to see is  good example 
+
+
+-  ,  Pro-social goals need  counterweight to endure 
+
+
+-  Goal-framing theory shows how easy it is for pro-social goals to be driven out by gain or hedonic goals ,  so even with the types of supporting systems described above ,  it is quite common to see executives bowing to short-term financial pressures 
+
+
+-  Thus ,   key factor in creating enduring pro-social goals is  counterweight ,  by which we mean any institutional mechanism that exists to enforce  continued focus on  nonfinancial goal 
+
+
+-  For Handelsbanken ,  the Oktogonen profit-sharing system is the counterweight 
+
+
+-  For Tata Group ,  it is the family-endowed trusts 
+
+
+-  retailer John Lewis ,  the counterweight is the employee council ,  which represents the employees as ultimate owners of the company 
+
+
+-  At the Guardian newspaper ,  the counterweight is the editor ,  who is appointed by the ultimate owner of the newspaper  ( the Scott Trust Limited )  and is free to exercise editorial control over content ,  regardless of the companys commercial priorities 
+
+
+-  The counterweight holds the power of the executive office in check and ensures that the long-term interests of the organization are not sacrificed for short-term benefits 
+
+
+-  The key is that the counterweight has real influence; it must hold the leader to account 
+
+
+-  ,  Alignment works in an oblique ,  not linear ,  way 
+
+
+-  In most companies ,  there is an implicit belief that all activities should be aligned in  linear and logical way ,  from  clear end point back to the starting point 
+
+
+-  But goal-framing theory suggests that the most successful companies are balancing multiple objectives  ( pro-social goals ,  gain goals ,  hedonic goals )  that are not entirely compatible with one another ,  which makes  simple linear approach very hard to sustain 
+
+
+- 20 As Ratan Tata ,  former CEO of the Tata Group ,  has observed ,  Profits are like happiness in that they are  byproduct of other things  [companies] need sustainability strategies that recognize that you can make money by doing good things rather than the other way around 
+
+
+- 21 In their best-selling business book Built to Last ,  Jim Collins and Jerry Porras argue that visionary companies with pro-social goals had better long-term profitability than their benchmark competitors ,  which typically opted for narrower financial goals 
+
+
+- 22 ,  What does this mean in practical terms? If you want your employees to align around  pro-social goal ,  you have to eschew narrow ,  linear thinking ,  and instead provide more scope for them to choose their own oblique pathway 
+
+
+-  This means emphasizing the pro-social part of the story on  consistent basis  the intention being that by encouraging individuals to do good ,  their collective effort leads ,  seemingly as  side-effect ,  to better financial results 
+
+
+-  The logic of pro-sociality first ,  profitability second needs to find its way deeply into the collective psyche of the company 
+
+
+-  ,  For example ,  while Carlsberg A/S ,   brewing company based in Copenhagen ,  Denmark ,  has pursued ambitious profitability and growth ambitions ,  the majority of its shares are owned by the Carlsberg Foundation 
+
+
+-  Whats more ,  the foundations associated with the brewing company have shaped Danish cultural life for more than 100 years 
+
+
+-  This subtle linking of beer and high-brow culture is very much part of the companys identity 
+
+
+-  Who is responsible for pursuing  pro-social agenda? If you head up  division or business unit ,  it is clearly your job to define what your pro-social goals are and to put in place the supporting structures and systems described here 
+
+
+-  But what if you are lower in the corporate hierarchy? It is tempting to think this is someone elses problem ,  but actually there is no reason why you cannot follow your own version of the same process 
+
+
+-  We have seen quite  few mid-level managers make  real difference ,  and often quite quickly ,  using the principles outlined here 
+
+
+- 23 Many CEOs react in much the same way: They know they are supposed to have  corporate vision or purpose ,  but they secretly think that wordy statements about the purpose of their business are just empty rhetoric 
+
+
+-  And it doesnt take long for employees and other observers of the company to figure this out 
+
+
+-  ,  The purpose of this article is to help you to understand why and how  corporate purpose matters and to show how it can be realized without sacrificing profitability  and indeed may result in higher profitability 
+
+
+-  Goal-framing theory shows that  companys goals make  difference only when they work on the beliefs of employees ,  and that the most valuable goals are those that support collaborative work  what we have called pro-social goals 
+
+
+-  However ,  these goals compete with other goals for individual mind share and are easily driven out by gain and hedonic goals 
+
+
+-  As  result ,  corporate executives have to work doubly hard to affirm pro-social goals and to develop systems and structures that reinforce them 
+
+
+- Rising labor costs in China and other emerging economies ,  high supply chain and logistics costs ,  and wide differentials in the costs for electricity and natural gas in different parts of the world are provoking  fresh round of relocation of manufacturing and production 
+
+
+-  While some labor-intensive jobs are moving out of China to Southeast Asia or the next emerging low-cost regions ,  some high-profile manufacturing work is returning to the United States ,  to the cheers of some who are proclaiming the beginnings of  manufacturing renaissance 
+
+
+-  Wal-Mart holds supplier conferences to promote Made in  
+
+
+-  ,  and the retail giant encourages manufacturers to commit to producing in the United States by promising to purchase $50 billion more in  
+
+
+-  Consultants proclaim the reemergence of the United States as  competitive place for manufacturing  and are pushing their services with reshoring conferences ,  reports and lots of advice 
+
+
+-  ,  While the macroeconomic data on comparative labor and factor costs may be compelling ,  the actual process of reshoring  bringing assembly work back from abroad  is hard work 
+
+
+-  This is especially true when the resources upon which  company draws  ( the supplier base ,  the workforce ,  and even the companys own internal product design capabilities )  have atrophied 
+
+
+-  In an earlier paper ,  my Harvard colleague Gary Pisano and  documented the loss of the industrial commons in the United States ,  the shared resource base upon which manufacturers draw 
+
+
+- s Appliance Park operations in Louisville ,  Kentucky; Googles efforts in partnership with Flextronics International Ltd 
+
+
+-  to assemble the MotoX smartphone in Fort Worth ,  Texas;  high-end technology product manufactured at Flextronics facilities in Austin ,  Texas; as well as comparison factories in Europe and Asia 
+
+
+-  )  What can we learn from these efforts to help managers prepare for reshoring? ,  The benefits were no surprise 
+
+
+-  More importantly ,  the closeness reduces the length of ordering cycles ,  enabling companies to respond more quickly to market changes 
+
+
+-  Thus ,  it was important to pay  wage rate that was globally competitive when adjusted for productivity ,  and there can be no compromises on quality 
+
+
+-  Stabilizing the workforce ,  addressing organizational skills gaps ,  rethinking the capital/labor ratio ,  localizing the supply base and rethinking product design to leverage the proximity to manufacturing turned up consistently as important focus areas for managers 
+
+
+-  ,  In this article ,   reflect on the experiences of these large reshoring projects and make recommendations for managers who are considering the United States as  location choice for new product-assembly operations 
+
+
+-  Whats more ,  while most of the observations in this article are specific to reshoring in the United States ,  they contain insights that are relevant to markets and production around the globe 
+
+
+-  ,  Establishing product-assembly operations means hiring people ,  often in large numbers 
+
+
+-  Appliance Park had  goal of hiring  , 500 new workers; the reshoring project in Fort Worth had the same target 
+
+
+-  Finding enough people with the right skills  and finding them fast enough to support the ramp-up of operations  was an enormous challenge 
+
+
+-  Fort Worth used six employment agencies to recruit job applicants ,  but the percentage of workers who first made it through the screening process and then continued past the first few days or weeks on the job to become  part of the regular workforce was depressingly low 
+
+
+-  By Friday ,  they were gone ,  recounted  manager in Fort Worth 
+
+
+-  Over the course of 10 weeks ,  the company had to hire  , 500 workers to yield the required  , 500 employees to begin volume production 
+
+
+-  ,  High worker turnover is  problem on the shop floor because it injects variability and unpredictability into production schedules 
+
+
+-   factory cannot run  manufacturing line with consistent output and quality without  stable workforce 
+
+
+-  The same people need to come to work every day and run the production processes in  repeatable and consistent way 
+
+
+-  Constantly having to replace workers who drop out is not  path to success; the expenses associated with recruiting and training new employees when so many walk out the door are substantial 
+
+
+-  ,   found that this problem had two main components: worker understanding and expectations of what  modern factory production job is ,  and managements ability to give workers reasons to stay 
+
+
+-  Lean production systems ,  extensive use of measurement and information technology on the shop floor ,  and sophisticated quality systems have transformed the roles of frontline production and supply chain logistics workers 
+
+
+-  Yet worker perceptions of what manufacturing jobs entail have not kept pace 
+
+
+-  Many fresh recruits come to the job with inadequate preparation and an unrealistic view of what might be expected of them 
+
+
+-  We hired people off the couch ,  remarked one plant manager 
+
+
+-  ,  As  result ,  it was not surprising that many workers didnt have  clear picture of what the factory environment was like 
+
+
+-  As another manager noted ,  the long-term unemployed represented  major pool from which companies drew 
+
+
+-  They were prepared neither for the expectations placed on them nor the environment in which they would be working 
+
+
+-  One Fort Worth manager commented that high attrition was an inevitable consequence 
+
+
+-  If you looked in the trash can at the building exit ,  we found  lot of badges that workers discarded on their way out the door 
+
+
+-  If  company is going to invest in training and the development of the skill base of its production workers ,  how can it ensure that they will stay on and help turn the investment into  long-term capability? ,  As for offering workers  reason to stay ,  Appliance Park managers have tackled the problem of job abandonment by segmenting their remediation efforts into two phases: pre-employment and post-employment 
+
+
+-  One of the most effective pre-employment activities has been to encourage applicants to complete training and certification 
+
+
+-  Short term ,  this meant looking for people who had participated in training and certification programs such as Certified Production Technician or Certified Logistics Technician programs developed by the Manufacturing Skills Standards Council ,  an industry-led organization in the United States 
+
+
+-  Although MSSC certifications are not the only vehicle ,  the idea was to encourage prospective employees to make some type of co-investment in making their job work 
+
+
+-  There was  healthy measure of self-selection among participants who completed these programs 
+
+
+-  ,  In the programs ,  candidates developed proficiency in fundamental factory skills ,  and their personal investment in training tended to increase their level of commitment to staying 
+
+
+-  Almost two-thirds of the MSSC certification candidates received their certification in less than three months; they arrived at the factory with  better understanding of what they would face and what the work entailed 
+
+
+-  ,  Flextronics managers found that thoroughly explaining the content of factory work and the expectations on the shop floor were vital to reducing turnover 
+
+
+-  For example ,  many new recruits didnt know how to react to fluctuating demand ,  which resulted in day-to-day volatility in the level of the work 
+
+
+-  Managers across all the sites we studied also stressed the need to set clear expectations about showing up for work on time and getting work done on time 
+
+
+-  I cant run  25-person line with three people late ,  explained one manager 
+
+
+-  ,  Success in reducing job dropouts post-hiring occurred most often when companies built  skills progression system that showed workers  path to more highly skilled and responsible positions 
+
+
+-  While extrinsic motivators such as compensation and benefits  ( especially health care benefits )  contributed to retention ,  they appeared to be less important than intrinsic motivators focused on achievement and personal growth 
+
+
+-  ,  Appliance Park managers built  path for entry-level plastic injection molding machine employees that progressed through three A levels for operators ,  followed by three B levels of molding technician and three C levels of molding processor positions 
+
+
+-  It also gave them opportunities to move from A level operator into different paths in positions in quality and inspection ,  or conveyance and logistics 
+
+
+-  This internal skill-building and credentialing system aligned well with manufacturing needs ,  but more importantly ,  it gave workers goals to aspire to as well as an ability to gauge their own progress 
+
+
+-  Fort Worth managers were keen to publicize successes ,  such as an individual worker who reached  new level of achievement or successes among veterans or disabled workers 
+
+
+-  ,  Managers at other companies preferred to do training in-house ,  finding that schools often didnt have  strong enough connection with current manufacturing practices to do even basic-level training 
+
+
+-  Flextronics managers in Austin had to recruit and train almost  , 000 new employees for the Assembled in USA technology project 
+
+
+-  But they were able to draw upon 170 different training programs that the site already offered in  wide range of production technologies  ranging from the operation of electronic component placement machines to basic quality and lean production methodologies 
+
+
+-  ,  Longer term ,  many companies are increasingly working with local community colleges to incorporate industry credential systems and/or training into the schools programs and to attract students 
+
+
+-  Some manufacturers ,  including Toyota Motor Manufacturing Kentucky in Georgetown ,  Kentucky ,  are anticipating approaching retirement cliffs as their workforce ages and are using training programs as vehicles to fill an impending need for new workers 
+
+
+-  Others ,  such as BMW in South Carolina ,  work closely with local schools in work-study arrangements and help with curriculum design 
+
+
+-  In  very real way ,  these are investments in the health of an important element of the industrial commons 
+
+
+-  ,  The United States has  generational skills deficiency in many important technical areas ,   challenge that is also evident in many other countries that have experienced significant offshoring 
+
+
+-  In contrast to China ,  which has developed vast pools of technical resources ,  the United States and Europe havent trained enough young people in these areas 
+
+
+-  In the United States ,  there is still strength in the automotive ,  construction equipment and aerospace sectors  ( although far less than there was 20 years ago )  
+
+
+-  However ,  the gaps in metalworking and metallurgy  welding ,  machining ,  forging and casting ,  metal finishing and plating ,  precision machining and operating sophisticated machine tools  are acute 
+
+
+-  The offshoring of high-volume assembly jobs over the last two decades means there also arent enough automation engineers and other specialists to support the setup of extensive new assembly operations 
+
+
+-  This was painfully evident in Austin ,  where Flextronics had to pull automation engineers in from  sister factory in Guadalajara ,  Mexico 
+
+
+-  ,  For some products for which much of the manufacturing has moved offshore ,  there are generational skills gaps in both product development and the shop floor 
+
+
+-  Its hard to find Americans who can operate  modern printed circuit board line ,  let alone program the automatic placement or advanced optical inspection tools that populate it 
+
+
+-  Simply hiring  capable workforce doesnt translate into restoring manufacturing capabilities; frequently ,  the basic processes have to be rebuilt or transplanted back from offshore 
+
+
+-  Our operations management leadership program ended up becoming training of procurement agents ,  explained one of the Appliance Park leaders 
+
+
+-  We didnt even have  pipeline of emerging manufacturing talent ,  because it had become all about sourcing goods 
+
+
+-  Rather than having  focus on design for manufacture and efficient assembly and processing ,  companies had concentrated on low-cost ,  competitive sourcing 
+
+
+-  ,  In Fort Worth ,  Flextronics management flew in  team of 150 manufacturing leaders from around the world  including  skilled manufacturing manager from Hong Kong who years earlier had built  Nokia handset factory on the same site  to establish basic processes 
+
+
+-  Over  10-week period ,  the team established all the basic assembly ,  test and logistics processes for inbound and outbound supply chains ,  as well as training the initial production workforce ,  an engineering support organization and support organizations like the moonshine shop ,  which built and modified production fixtures 
+
+
+-  They left behind five experienced managers who then continued to train and oversee the workforce 
+
+
+-  When we were hiring directors ,  senior managers and managers ,  we could not find anyone under the age of 40 ,  explained the plant manager at Fort Worth 
+
+
+-  The United States has abandoned that part of the industry with all of the offshoring ,  and we will need to rebuild this base for electronic manufacturing if we want it to come back 
+
+
+-  ,  Flextronics was able to draw on  global resource pool because it frequently established new facilities or moved existing manufacturing operations as part of routine consolidations 
+
+
+-  Appliance Park faced  similar skills challenge ,  and while it could draw upon some existing resources ,  it couldnt simply fly in an experienced team 
+
+
+-  We doubled the size of our operations leadership program ,  and had those people shadow the graybeards to build up the knowledge 
+
+
+-  ,  The key challenge in both cases was to establish shop floor leadership that could not only launch production but could also quickly engage in process-improvement projects to drive quality and production yield improvements 
+
+
+-  The workforce is brand new ,  the equipment is brand new ,  you have to have the workforce to pull it all together ,  explained one of the GE managers 
+
+
+-  Nobody coming out of college these days is knowledgeable or excited about doing this kind of work ,  commented  manager at Fort Worth 
+
+
+-  We cant afford to only hire people who are over 40 or bring people in from abroad 
+
+
+-  This problem was  long time in the making ,  and it cant be solved overnight 
+
+
+-  When work was offshored from the United States or Europe to Asia over the last two decades ,  the principal driver was labor arbitrage 
+
+
+-  With that offshoring came substantial substitution of labor for capital  the replacement of hard automation using expensive capital equipment with manual processes 
+
+
+-  So when work comes back ,  most people assume that we will simply go back to using more automation 
+
+
+-  Manufacturing in China enabled rapid product changeovers ,  and we trained consumer markets worldwide to expect this kind of flexibility 
+
+
+-  If you want to have five million new smartphones on hand to sell on the first weekend after  new phone model launches ,  you will need  lot of people ,  not automation 
+
+
+-  While the latest automation technologies often have reduced setup or changeover times ,  managers should not assume that we should necessarily use more robots 
+
+
+-  ,  The key considerations are length of product run and frequency of changeover 
+
+
+-  Investments were expected to have  one-year payback for unique tools and  two-year payback for tools that could be reused 
+
+
+-  ,  In Austin ,  Flextronics managers built several no-touch electronic printed circuit board lines 
+
+
+-  In this particular case ,  the sophistication of the boards ,  the exacting quality level and the very low mix of product types to be produced justified investment in  higher level of automation 
+
+
+-  Direct labor content was therefore comparatively low 
+
+
+-  In Austin ,   supervisor could oversee two no-touch lines; in China ,   supervisor oversaw one line staffed with 13 dedicated operators 
+
+
+-  ,   recently visited  medical products factory in Denmark where the production engineers were continually experimenting with the balance between manual and automated processing 
+
+
+-  Having  slightly higher mix of manual operations promoted significantly more flexibility ,  and as the production engineers configured processing equipment for locations in eastern Europe and the Far East ,  they adjusted the labor mix in accordance with the labor costs 
+
+
+-  Even in high-labor-cost Denmark ,  the engineers were careful to avoid over-automating 
+
+
+-  ,  The more important management issue is how to redeploy workers who are freed by process improvements or the substitution of automation 
+
+
+-  How does one translate these gains into sustaining growth? ,  Recognizing the critical link to workforce stability ,  Appliance Park managers established  strategy that would increase the amount of vertical integration  bringing work back in-house to utilize labor freed up from productivity improvements 
+
+
+-  That has risks ,  of course ,  because it means less flexibility in adjusting to demand variability 
+
+
+-  But if production operators are secure in the knowledge that improving productivity will translate into growth and not job losses ,  their goals will be aligned with managements 
+
+
+-  ,  When manufacturing went through the first big waves of offshoring to China ,  companies often used kitting of parts to keep assembly lines supplied 
+
+
+-  ,  Over time ,  China-based manufacturers localized their supply chains ,  inviting key suppliers to set up near them to reduce costs and shorten replenishment times 
+
+
+-  They also replaced suppliers who didnt move 
+
+
+-  This lowered costs and had the ancillary benefit of lowering duties for sales to the Chinese domestic market 
+
+
+-  ,  In such industries ,  moving production back to  country such as the United States therefore often means  manager will face  hollowed-out supply base 
+
+
+-  This is certainly the case for many electronic devices  for example ,  almost all of the parts for the MotoX came from China ,  Korea or elsewhere in Asia 
+
+
+-  In the United States ,  there are no domestic suppliers of touchscreen displays or batteries ,  and most of the circuit boards and components had to come from abroad as well 
+
+
+-  Ironically ,  the fragile components had to be kitted and carefully packed ,  and the physical volume of material that had to be moved meant higher logistics costs than if the phone had simply been assembled in Asia 
+
+
+-  The value density of the parts was much lower than that of completed phones 
+
+
+-  Thus ,  the economic benefits of customization and nearness to market had to substantially exceed the increased transportation and supply chain logistics costs 
+
+
+-  They recognized that ,  internally ,  they had lost  whole generation of manufacturing engineers ,  so they had to pick the areas where they wanted to focus and rebuild core competencies 
+
+
+-  Pick where you want to invest in core competencies ,  and acknowledge where you want to have strategic suppliers  where you arent going to make the deep investment yourselves ,  explained  manager there 
+
+
+-  ,  Rebuilding  supplier ecosystem takes commitment 
+
+
+-  The long-term development of capabilities becomes far more important than short-term haggling over price 
+
+
+-  Some have described the new model as\nco-innovation   cooperative ,  tight partnership between an original equipment manufacturer and its suppliers that entails  much higher level of information sharing and collaboration to solve design and production problems 
+
+
+-  ,  The key premise behind reshoring is that closeness to product design ,  reduced order cycles and lower costs of carrying inventory in the pipeline should offset higher absolute production costs 
+
+
+-  So how can corporate customers help? ,   retailer such as Wal-Mart  ( or  manufacturer supplied by  
+
+
+-  factories )  can actually do  great deal to improve the efficiency of the overall supply chain by active partnering and by providing greater transparency to demand 
+
+
+-  This doesnt necessarily mean rock-solid forecasts and orders that are finalized earlier; rather ,  it means earlier and more frequent sharing of demand signals ,  as well as  commitment to work together to improve overall supply chain efficiency for the longer term 
+
+
+-  ,  Manufacturing partners that have more visibility to what is coming ,  whether demand will move up or down ,  can better react to changes 
+
+
+-  This isnt  surprise to experienced supply chain managers ,  who know that communications is key to efficiency: Its what we teach in supply chain classes 
+
+
+-  Yet many of us have not yet learned this lesson  or have yet to recognize that the requirement to communicate extends beyond the walls of ones own organization 
+
+
+-  Any supply chain will perform better with open communication and visibility across all its segments ,  but  supply chain centered on  fast-response local production factory will benefit much more than one that has weeks or months of inventory in ocean containers coming from China 
+
+
+-  ,  The generational skills gap created by offshoring also increased the distance between product designers and those who did the actual assembly work on the shop floor 
+
+
+-  When companies first moved production offshore ,  the production processes were well understood ,  so the linkages could be maintained 
+
+
+-  But as product designs changed and new advanced technologies evolved and were incorporated ,  the difficulties in reimagining production have increased 
+
+
+-  Having the work in-house is important for our learning 
+
+
+-  Having that design piece of this thing on-site ,  having the design team interact with the operators who actually make it ,  and seeing the tools open up on the bench ,  how the tool works ,  the thought process  learning that and how that cycles back into the design  there is  value to that ,  explained the head of the plastics competency center at Appliance Park 
+
+
+-  Flextronics managers characterized this linkage as  competitive edge for R&D teams ,  as incremental innovations most often come when teams get their hands dirty in the production environment 
+
+
+-  That meant moving more value-add components and parts critical to the differentiation of the final product in-house or into the hands of  strategic supply partner 
+
+
+-  Fort Worth developed  similar late customization capability  the ability to rapidly deliver  customized color and\ninscription patterns for consumers who wanted  unique product 
+
+
+-  The combination of the two can produce sustainable advantages that can keep production onshore and close to the market beyond the current favorable economic environment 
+
+
+-  ,  Offshoring from the United States and other high-cost economies to low-cost emerging market countries was  dominant theme of manufacturing in the late 1990s and 2000s 
+
+
+-  Now reshoring offers the promise of reestablishing the link between product design and manufacturing ,  between original equipment manufacturers and strategic supplier ecosystems 
+
+
+-  As managers work through the challenges described in this article ,  the big picture is shifting away from the centrality of labor-cost arbitrage as  driver of location decisions 
+
+
+-  Instead ,  it is moving to the supplier ecosystems as  key complementary asset and the importance of developing people ,  skills and organizational capabilities that make the most of closeness to the market 
+
+
+-  ,  These changes have broad implications for not just the United States ,  but other markets as well 
+
+
+-  Rising demand for manufactured products in emerging markets means that managers must design supply chains for the production of goods that balance proximity to diverse markets with the locations of their capabilities and their supply ecosystems 
+
+
+-  In many ways ,  the challenges of reshoring to the United States are the challenges of establishing production and supply to serve any market in the world 
+
+
+-  Doing that well will always be  source of competitive advantage 
+
+
