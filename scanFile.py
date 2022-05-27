@@ -6,7 +6,7 @@ if __name__ == "__main__":
     for year in range(1990, 2022):
         fileToScan = []
         TopWords = []
-        SignificantString = []
+
 
         # read first 3 line from csv file
         with open(f'output/{year}_scores.csv') as csv_file:
@@ -24,7 +24,9 @@ if __name__ == "__main__":
                 TopWords.append(row)
 
         # read 3 file.txt and extract significant string
+        coutFile = 0
         for singleFile in fileToScan:
+            SignificantString = []
             text = ""
             with open(f'data/{singleFile}') as file:
                 for line in file:
@@ -36,18 +38,20 @@ if __name__ == "__main__":
                     if len(word) != 0 and word[0] in string:
                         SignificantString.append(string)
 
-        # remove duplicates strings from SignificantString
-        seen = set()
-        results = []
-        for item in SignificantString:
-            if item not in seen:
-                seen.add(item)
-                results.append(item)
-        SignificantString = results
+            # remove duplicates strings from SignificantString
+            seen = set()
+            results = []
+            for item in SignificantString:
+                if item not in seen:
+                    seen.add(item)
+                    results.append(item)
+            SignificantString = results
 
-        # write SignificantString to file
-        with open(f'riassunto/{year}_SignificantString.txt', 'w') as file:
-            for string in SignificantString:
-                file.write("- ")
-                file.write(string)
-                file.write("\n\n\n")
+            # write SignificantString to file
+            with open(f'riassunto/{year}_SignificantString_{coutFile}.doc', 'w') as file:
+                for string in SignificantString:
+                    file.write("- ")
+                    file.write(string)
+                    file.write("\n\n\n")
+
+            coutFile += 1
