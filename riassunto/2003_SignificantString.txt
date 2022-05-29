@@ -1,0 +1,1509 @@
+- Over the past decade ,  companies have become increasingly aware of the social and environmental pressures facing business 
+
+
+-  Many management scholars and consultants have argued that these new demands offer terrific opportunities for progressive organizations ,  and innovation is one of the primary means by which companies can achieve sustainable growth 
+
+
+-  Companies that ignore these pressures ,  the argument goes ,  do so at their own peril 
+
+
+-  But the reality is that managers have had considerable difficulty dealing with sustainable development pressures 
+
+
+-  In particular ,  their innovation strategies are often inadequate to accommodate the highly complex and uncertain nature of these new demands 
+
+
+-  ,   strategy that integrates the goals of innovation and sustainable development is needed 
+
+
+-  In contrast to conventional ,  market-driven innovation ,  sustainable development innovation  ( SDI )  must incorporate the added constraints of social and environmental pressures as well as consider future generations 
+
+
+-  SDI is therefore usually more complex  ( because there is typically  wider range of stakeholders )  and more ambiguous  ( as many of the parties have contradictory demands )  
+
+
+-  Furthermore ,  sustainable development pressures can be driven by science that has yet to be accepted fully by the scientific ,  political and managerial communities 
+
+
+-  Amid such uncertainty ,  sustainable development innovation is often difficult and risky 
+
+
+-  Nevertheless ,  faced with increasing pressure to consider sustainable development ,  many organizations have revised their business models ,  and these changes are often highlighted in corporate sustainability reports and Web pages 
+
+
+-  For instance ,  DuPont Co 
+
+
+-  has publicly stated that ,  by 2010 ,  it will reduce its greenhouse gas emissions by two-thirds while holding its annual energy use to 1990 levels 
+
+
+-  ,  Achieving such goals requires investments in innovation ,  and that has been an alluring argument for improving both environmental and economic performance  the so-called win-win situation 
+
+
+-  Some observers assert that sustainable development can generate  round of what the economist Joseph Schumpeter called creative destruction ,  offering opportunities for new entrants and potential threats for incumbent businesses 
+
+
+-  Others have advocated radical new technologies ,  products ,  processes ,  business models and environmental innovations to change the present unsustainable industrial patterns 
+
+
+-  According to that argument ,  competency-enhancing incremental innovation is insufficient to meet sustainable development pressures 
+
+
+-  Instead ,  competency-destroying radical innovation is needed ,  and it will likely create new capabilities that will ultimately challenge current business practices 
+
+
+-  ,  Those arguments aside ,  few companies have been investing heavily in sustainable development innovation 
+
+
+-  The problem is that ,  although radical change might well be the means by which companies can achieve sustainable growth ,  in practice considerable difficulties ,  barriers and paradoxes exist for implementing such  strategy 
+
+
+-  Furthermore ,  the current approaches for managing innovation are insufficient to deal with the additional demands of sustainable development 
+
+
+-  ,  Consider the experience of Monsanto Co 
+
+
+-  From the 1970s to the 1980s ,  Monsanto ,  then  chemicals company ,  entered the emerging field of bioscience 
+
+
+-  It pioneered the development of genetically modified  ( GM )  crops that reduce the need for pesticides  ( because the plants are more resistant to insects )  and herbicides 
+
+
+-  According to then CEO Robert Shapiro ,  the technology was replacing stuff with information ,  and the companys corporate slogan in 1997 was Sustainable development for the worlds future 
+
+
+-  ,  At first ,  Monsanto seemed to be doing everything right 
+
+
+-  The company successfully made the difficult and risky transition from chemicals to bioscience ,  accumulating technical competencies through acquisitions and research and development 
+
+
+-  It was also savvy enough to avoid disrupting the competencies of its customers and partners 
+
+
+-  Farmers could use the same skills and equipment ,  and complementary innovators such as food producers initially conducted their businesses as they had done before ,  because the processing properties of GM plants were the same as for regular crops 
+
+
+-  ,  At the same time ,  though ,  Monsanto began encountering major opposition from environmental groups and European consumers 
+
+
+-  The companys promotion of sustainability benefits was challenged by safety advocates ,  antiglobalization activists and environmental groups ,  among others 
+
+
+-  Many of those organizations argued vehemently against genetic modification technology ,  often with derogatory Web sites such as www 
+
+
+- com and www 
+
+
+- com 
+
+
+-  ,  What went wrong? In short ,  although Monsanto was successful at technological innovation ,  it failed at sustainable development innovation 
+
+
+-  Monsantos customers and partners  ( namely ,  the farmers and food producers )  have relatively similar interests ,  such as the production of safe ,  high-output ,  low-cost crops 
+
+
+-  In contrast ,  other stakeholders  ( specifically ,  safety ,  environmental and antiglobalization advocates )  were raising concerns about gene transfer from GM crops to wild plant species ,  increased pest resistance and the possibility of the developing economies becoming overly dependent on seed companies 
+
+
+-  Traditional approaches to innovation usually ignore such stakeholders ,  but many of them can play pivotal roles in sustainable development initiatives 
+
+
+-  And that was Monsantos mistake: It failed to recognize the complex ,  ambiguous and ultimately disruptive impact of such secondary stakeholders 
+
+
+-  For example ,  pressure to label GM products later disrupted the business practices of food producers and retailers ,  making those stakeholders reluctant to handle GM products and creating  demand for non-GM foods in Europe 
+
+
+-  ,  In retrospect ,  its easy to see why Monsanto stumbled 
+
+
+-  With an aggressive ,  scientific corporate culture ,  the company was not prepared to assuage the public fears of genetic modification 
+
+
+-  In 2000 ,  CEO Shapiro admitted as much: Weve learned that there is often  very fine line between scientific confidence ,  on the one hand ,  and corporate arrogance ,  on the other 
+
+
+-  &mldr; It was natural for us to see this as  scientific issue 
+
+
+-  We didnt listen very well to people who insisted that there were relevant ethical ,  religious ,  cultural ,  social and economic issues as well 
+
+
+-  Today ,  Monsanto continues to struggle with  tarnished image and lackluster financial performance 
+
+
+-  ,  Decades ago ,  when Schumpeter described innovation as waves of creative destruction   difficult and expensive process of throwing out the old in favor of the new by offering irresistible and irreversible changes , 10 such waves enabled the Industrial Revolution 
+
+
+-  Steam power was replaced with electricity ,   more flexible energy source ,  and iron was replaced with steel ,   stronger material 
+
+
+-  In the 1940s ,  another wave formed ,  dominated by mass-production techniques ,  synthetic materials and oil ,  which itself is now being challenged , 11 given the growing concerns over resource depletion ,  energy security and climate change ,  among other issues 
+
+
+-  ,  Innovation is now widely recognized as the main driver of industrial growth  as well as  major cause of social and environmental disruption 
+
+
+-  From  companys perspective ,  innovation can be  primary source of sustained competitive advantage12 as well as  significant source of risk ,  competitive disruption and failure 
+
+
+-  R&D projects ,  for instance ,  can be unpredictable ,  and even when they are successful ,  unforeseen or uncontrollable external factors often determine whether an innovation gains widespread acceptance 
+
+
+- 13 ,  Indeed ,  innovation has widespread business and public policy implications ,  both as opportunities for competitive advantage and as potential sources of disruption  ( see The Double-Edged Sword of Innovation 
+
+
+-  Business executives have traditionally focused on the left side of the table  ( quadrants  and  )  ,  whereas public policymakers have concentrated on the right side  ( quadrants  and  )  
+
+
+-  SDI ,  however ,  requires the management of all four quadrants 
+
+
+-  That ,  obviously ,  is no easy task because of the number of constraints and pressures involved ,  many of which are contradictory 
+
+
+-  Even so ,  the accumulation of skills necessary in managing all four quadrants could itself become  source of competitive advantage that other companies will find difficult to replicate 
+
+
+-  ,  The development of any radical technology can be  particularly difficult task ,  irrespective of SDI ,  because it usually involves  departure from the present knowledge base  ( and is thus competency-destroying )  and may also require vastly different organizational ,  administrative and infrastructure requirements 
+
+
+-  Companies often prefer an incremental  ( or competency-enhancing )  approach ,  because it allows them to continue profiting from their proven technology and organizational competency base 
+
+
+- 14 In some cases ,  though ,   companys current competencies can actually hinder the organization from innovating15 and blind it to the exploration of new opportunities 
+
+
+- 16 For example ,  mechanical engineers working to improve the environmental performance of cars might focus on mechanical improvements to the internal combustion engine and miss the potential opportunities emerging in chemical engineering ,  such as fuel cell technology 
+
+
+-  ,  The competency-destroying/-enhancing dichotomy has implications not only for the innovating organization ,  but also for suppliers ,  customers and complementary innovators called the innovation value-added chain17  ( here referred to as primary stakeholders )  
+
+
+-  The adoption of an innovation such as fuel cells in autos might be hindered if the technology requires customers to learn vastly different operating skills or if complementary innovators ,  such as fuel suppliers ,  lack the competencies to produce and distribute hydrogen  ( the energy source for fuel cells )  cheaply and efficiently 
+
+
+-  Other factors are often critical but frequently overlooked ,  namely ,  stakeholder complexity and ambiguity ,  as well as the pressures driving SDI 
+
+
+-  ,  Stakeholder complexity: Because the development of radical technology is likely to have widespread social implications ,  it is often controversial , 18 as is frequently the case with SDI 
+
+
+-  Sustainable development requires the recognition of  wide range of stakeholders ,  including secondary ones  ( such as environmental groups )  that are not directly involved in  market relationship but can still greatly affect  companys business 
+
+
+- 19 The additional interacting pressures from social and environmental concerns make SDI more complex20 than conventional market-driven innovation 
+
+
+-  Past research on innovation dynamics has implicitly recognized the importance of primary stakeholders  ( such as suppliers ,  complementary innovators and customers )  but has not fully appreciated the role of secondary ones that are often highly influential in sustainable development innovation 
+
+
+-  ,  Stakeholder ambiguity: Because the various stakeholders often have disparate goals ,  demands and opinions ,  they can easily interpret the same situation differently ,  especially when the information necessary to make informed decisions is limited 
+
+
+-  Ambiguity can emerge for  number of reasons  when the application of radical technology is based on science that is not yet fully accepted21  ( for example ,  biotechnology or hydrogen-based energy systems )  or when pressures to disrupt conventional technologies are based on such science  ( for example ,  studies on climate change )  
+
+
+-  Uncertainty can easily hinder acceptance of an innovation ,  as people debate the validity and safety of the underlying scientific and technical concepts 
+
+
+-  Until  consensus emerges ,  many companies will oppose changing their business models for what might turn out to be incorrect science 
+
+
+-  Furthermore ,  certain stakeholders could simply have irreconcilable differences with one another based on ethical ,  religious ,  cultural ,  social or other issues 
+
+
+-  For instance ,  cattle ranchers and vegetarians might never agree on meat consumption 
+
+
+-  ,  SDI pressures: Sustainable development pressures create needs ,  but how can companies reap the benefits of SDI? Schumpeters reference to irresistible and irreversible innovation is driven more by the market  ( quadrants  and  )  than by public policy  ( quadrants  and  )  
+
+
+-  Many companies will not implement carbon dioxide reductions without government pressures in the form of scheduled or anticipated regulations ,  such as those from the Kyoto Protocol on Climate Change 
+
+
+-  Instead ,  companies might very well revert to the old emissions standards once the Kyoto Protocol expires 
+
+
+-  ,  The traditional approaches to innovation have generally focused on  narrow range of stakeholders ,  including suppliers ,  complementary innovators ,  customers ,  investors and regulators 
+
+
+-  Such analyses consider the impact of  competency-destroying innovation on each of those parties 
+
+
+-  For example ,  an innovation that enhances the competencies of  customer holds greater promise than one that destroys them 
+
+
+-  ,  In contrast ,  sustainable development innovation also considers the wide range of secondary stakeholders ,  including safety advocates ,  local communities and activists for various causes  ( antiglobalization ,  animal rights ,  environmental issues and so on )  
+
+
+-  Identifying and dealing with those parties may not be as straightforward ,  and their concerns often involve the perception of  technologys impact on society  ( quadrant  )  
+
+
+-  Thus radical technologies might be considered too risky ,  whereas incremental ones that are based on well-understood science are less likely to generate controversy 
+
+
+-  ,  SDI ,  therefore ,  builds on traditional approaches for managing innovation by also recognizing the disruptive potential of secondary stakeholders 
+
+
+-  An appreciation for the complex and often ambiguous demands and concerns of those parties will enable companies to develop more effective sustainable development capabilities and integrate the demands from those various groups 
+
+
+- 22 ,  Canada-based Suncor Energy Inc 
+
+
+-  ,   major North American energy producer ,  and TransAlta Corp 
+
+
+-  ,   large electric utility ,  have taken alternative approaches to sustainable development innovation 
+
+
+-  Instead of relying on industrywide technological creative destruction ,  which can be controversial ,  the companies have focused on accumulating and exploiting not only new-to-the-company technologies ,  but also capabilities in dealing with secondary stakeholders 
+
+
+- 23 In the future ,  such approaches may well become the required business model for companies in that industry 
+
+
+-  Suncor and TransAltas strategies have been driven in part by concerns over energy security ,  sustainability and ,  more specifically ,  climate change  an area creating major pressures for innovation ,  particularly for countries that have ratified the Kyoto Protocol for the reduction of greenhouse gases 
+
+
+-  ,  Canada is one such country ,  and its challenges are particularly daunting 
+
+
+-  It is one of the worlds biggest users and producers of energy  and  major generator of greenhouse gases 
+
+
+-  Canada is also heavily reliant economically on the United States  they are each others biggest trading partners ,  and Canada is one of the largest foreign sources of energy for the  
+
+
+-  Because the United States has not ratified the Kyoto Protocol ,  Canadian companies could be at  disadvantage within their major markets 
+
+
+-  Canada and its energy sector have much at stake 
+
+
+-  To complicate matters ,  there is considerable controversy because ,  as with many sustainable development issues ,  climate change is still being debated within the scientific community 
+
+
+-  And the economic issues are perhaps even more contentious ,  with estimates suggesting that the Canadian economy could shrink anywhere from 0% to 3% by 2010 
+
+
+- 24 ,  For Suncor and TransAlta ,  concerns over climate change and energy security represent  potential Schumpeterian wave of creative destruction 
+
+
+-  Both companies have core businesses that are ultimately unsustainable  extraction of oil from large known reserves and the production of electricity from cheap coal 
+
+
+-  Yet both organizations have found effective solutions for growing their businesses in  sustainable way 
+
+
+-  ,  In 1991 ,  Suncor was the Canadian subsidiary of Sun Oil Co 
+
+
+-  ,  based in Philadelphia ,  operating  chain of gas stations  ( Sunoco )  and producing around 50 , 000 barrels per day with conventional exploration and production in western Canada 
+
+
+-  It also had  business that had grown out of the 1967 government-sponsored Great Canadian Oil Sands initiative to exploit the extensive ,  yet low-grade ,  oil sands of northern Alberta 
+
+
+-  The company was owned 75% by Sun Oil Co 
+
+
+-  To the Canadian public ,  Suncor was known for two things:  poor environmental record and the image of  quintessential money-losing joint venture between the Canadian government and business 
+
+
+-  With oil prices at $15 per barrel ,  Suncor was using bucket-wheel conveyor-belt technology to produce synthetic oil from what were then called tar sands at about $20  barrel 
+
+
+-  Employee morale was low ,  and both owners were eager to exit the business 
+
+
+-  ,  Today ,  Suncor is independent from its former corporate and government owners and is one of the pillars of the Canadian energy sector 
+
+
+-  Since 1991 ,  it has quadrupled production to 225 , 000 barrels per day ,  and ,  with its $3 
+
+
+-  Through incremental technological innovation it has increased operating efficiencies ,  bringing the cost of production down from $20 to around $11 
+
+
+-  The company has also accumulated competencies in manufacturing synthetic oil 
+
+
+-  Unlike conventional oil companies ,  Suncor has  known 50-year supply of raw material and is thus now more of  manufacturer than an explorer 
+
+
+-  In fact ,  its traditional technological competencies  ( oil and gas exploration and production )  have largely become obsolete 
+
+
+-  The turnaround at Suncor has been amply reflected in the stock market: Suncors share price has increased by more than  , 000% since its initial public offering in 1992 
+
+
+-  ,  But Suncors technological successes are only part of the story 
+
+
+-  Over the years ,  the company was able to develop political competencies by successfully lobbying for royalty reductions from the Canadian government 
+
+
+-  Even though the oil sands were initially economically unviable ,  the government regarded their development as strategically important for national energy security and industrial growth 
+
+
+-  By learning how to lobby and exploit certain public policy issues effectively  ( quadrant  )  ,  Suncor was thus able to develop important competencies for managing secondary stakeholders 
+
+
+-  ,  But it took time for Suncor to develop those capabilities ,  and there were setbacks along the way 
+
+
+-  The oil sands projects are the largest source of energy on the continent ,  and they have an enormous impact on the environment as the biggest producer of greenhouse gases in Canada 
+
+
+-  In the mid-1990s ,  environmentalists threatened the projects with costly delays 
+
+
+-  One group behind that effort was the Pembina Institute for Appropriate Development ,  which was founded in 1986 in Drayton Valley ,  in the heart of Alberta oil country 
+
+
+-  Pembina has since extended its reach across Canada and is now recognized as one of the countrys most effective science-based environmental groups 
+
+
+-  It has gained  reputation as an organization with technical proficiencies and  willingness to be tough on industry ,  yet also prepared to work constructively with companies to improve their practices 
+
+
+-  ,  One of those companies is Suncor 
+
+
+-  Years ago ,  Rick George ,  Suncors CEO since 1991 ,  broke ranks with the industry and actively engaged environmentalists and other secondary stakeholders 
+
+
+-  That commitment ,  which has diffused throughout the Suncor organization and is strongly associated with Georges leadership ,  has paid off 
+
+
+-  The companys relationship with Pembina ,  for example ,  has enabled it to accumulate skills in dealing with other activist groups that are more radical 
+
+
+-  For instance ,  Suncor managed to minimize Greenpeace Internationals opposition to an Australian oil shale venture because it had credible Canadian environmentalist allies 
+
+
+- 25 Such an approach  called strategic bridging  has allowed Suncor not only to accumulate capabilities for managing secondary stakeholders ,  but also to access  network of credible allies that can help reduce the ambiguity of stakeholder concerns 
+
+
+-  ,  Strategic bridging was merely one aspect of Suncors strategy 
+
+
+-  Speaking at gatherings of the Canadian energy industry ,  CEO George acknowledged that rural unrest with industry intrusion was on the rise ,  and concerns over air pollution were legitimate 
+
+
+-  Also ,  Suncor has pledged to make 12% of its workforce indigenous ,  given that such populations dominate many of the areas in which the company works 
+
+
+-  The company also discussed the reduction of greenhouse gases well before Kyoto ,  and it pioneered an international emissions trading contract with Syracuse ,  New York-based Niagara Mohawk Power Corp 
+
+
+-  At the time ,  Niagara Mohawk was switching from coal to natural gas ,  thus reducing its emission of greenhouse gases 
+
+
+-  Suncor purchased the utilitys resulting emissions credits in order to offset carbon emissions from its own growing oil sands business and to stimulate  market for such credits 
+
+
+-  In such ways ,  Suncor successfully addressed social and environmental disruption issues  ( quadrant  )  
+
+
+-  ,  Soon after the emissions trading deal ,  Suncor announced  $100 million investment in renewable energy 
+
+
+-  The company also joined the Clean Air Renewable Energy Coalition ,  an alliance of environmental ,  municipal and corporate groups that successfully lobbied the Canadian government for wind-power incentives a victory that ,  according to Gordon Lambert ,  Suncors vice president for sustainable development ,  was made possible thanks to the companys political skills gained from kick-starting Canadas oil sands business 
+
+
+-  The coalition estimates that renewable energy sources are growing by more than 30% per year ,  and the wind-power industry is expected to surge from $4 billion in 2000 to $43 
+
+
+-  ,  At first ,  traditional competencies in the oil and gas industry might seem incompatible with those required for wind energy 
+
+
+-  However ,  accumulated competencies in political lobbying and stakeholder relations facilitated  better understanding of the nontechnical dimensions of innovation ,  enabling Suncor to embark on what might otherwise have been  competing disruptive technology 
+
+
+-  Suncor was also able to recognize the importance of secondary stakeholders and resolve their concerns 
+
+
+-  ,  TransAlta ,   publicly traded major electric utility ,  has followed  similar strategy to that of Suncor 
+
+
+-  Based in Alberta ,  Canada ,  TransAlta has relied on that regions abundant low-cost coal ,  among the cheapest in North America 
+
+
+-  But in the late 1980s ,  under the leadership of then CEO Ken McCready ,  TransAlta became ,  along with Suncor ,  one of the first companies in Canada to adopt  strategy explicitly for sustainable development 
+
+
+-  McCready was aware of changing societal attitudes ,  especially with respect to carbon dioxide emissions from coal burning ,  even though low-cost coal had been TransAltas traditional competitive advantage 
+
+
+-  McCready rightly anticipated that  major regulatory limitation or social backlash against coal  ( quadrant  )  would have  major disruptive effect on TransAltas operations  ( quadrant  )  
+
+
+-  ,  In the mid-1990s ,  McCready was succeeded as CEO by Steven Snyder ,  who recruited Bob Page ,   former dean of environmental studies at the University of Calgary ,  as TransAltas vice president of sustainable development 
+
+
+-  Under their leadership ,  the company has embarked on  number of projects 
+
+
+-  It has ,  for instance ,  worked to reduce greenhouse gas emissions by investing in the development of new grasses on Ugandan cattle ranches and reforestation projects in Central America 
+
+
+-  Page stated that the acquisition was part of TransAltas plan to invest $1 billion to $2 billion over the next 10 years in order to meet its commitment of increasing its generation capacity from various renewable energy sources to 10% by 2012 ,  the end of the first Kyoto commitment period 
+
+
+-  ,  Like Suncor ,  TransAlta has accumulated competencies in political lobbying and managing stakeholder relations that have facilitated  better understanding of the nontechnical dimensions of sustainable development innovation ,  enabling the company to develop what might otherwise have been  competing disruptive technology  ( that is ,  wind power )  
+
+
+-  Thanks to such strengths ,  TransAlta has stated that ,  with the appropriate regulatory systems in place ,  it could reduce its carbon dioxide emissions to  net quantity of zero by 2024 
+
+
+-  The company plans to accomplish that through  series of actions: reducing its emissions by using clean-coal technology and other innovations ,  increasing its reliance on renewable energy and offsetting the remainder of its emissions through international emissions trading contracts 
+
+
+-  ,  Monsanto ,  Suncor and TransAlta have all invested in potentially competency-destroying innovations26 and were judicious in managing the possible disruptive effects on their operations as well as those of their primary stakeholders 
+
+
+-  But Suncor and TransAlta also exploited their nontechnological competencies ,  which allowed them to avoid disrupting secondary stakeholders ,  while Monsanto did not  ( see Three Cases of Sustainable Development Innovation )  
+
+
+-  Although Monsanto CEO Shapiro might have courted high-profile influential intellects like Amory Lovins of the Rocky Mountain Institute and Paul Hawken of the Natural Step movement ,  he seems to have neglected more grass-roots environmental and sustainable development organizations 
+
+
+-  As  consequence ,  Monsanto missed critical market intelligence that those groups could have provided 
+
+
+- 27 ,  Another reason for the success of Suncor and TransAlta was that both companies chose the less controversial path of using established science  ( namely ,  wind power )  
+
+
+-  Of course ,  that strategy might not have been feasible for Monsanto ,  but the key message is this: Any organization that relies on science that is potentially controversial must be prepared to deal with the wide range of nontechnical issues ,  many of them contradictory ,  which are inherent to sustainable development innovation 
+
+
+-  ,  For  current example of the various issues ,  consider the new technology of fuel cells: electrochemical devices that produce electricity through clean hydrogen-based chemical reactions rather than environmentally detrimental processes like combustion from carbon-based fuels 
+
+
+-  of Vancouver ,  Canada ,  had  major breakthrough that boosted the power output of previous fuel cell technology by  factor of  
+
+
+-  This is the most significant breakthrough in fuel cells that Ive ever seen 
+
+
+- 29 ,  Ballard believes that its technology may eventually replace the gas piston engine in motor vehicles ,  leading to  widespread shift toward  hydrogen economy  ( versus the present carbon-based one )  that would alleviate growing concerns over greenhouse gas emissions and climate change 
+
+
+-  From  technological perspective ,  Ballard must minimize disruptions to the competencies of primary stakeholders 
+
+
+- 30 Major investments in large-scale hydrogen production ,  delivery and maintenance facilities will also be needed 
+
+
+-  Incumbent industries might counter with hyperinnovation ,  making the initial fuel-cell initiatives that much less lucrative 
+
+
+-  ( Consider that in response to the advent of coal-fueled steel ships ,   flurry of innovations in wooden boats and sailing occurred over  few decades at the end of the 19th century  more than what took place in the previous 500 years 
+
+
+-  )  From  strategic perspective ,  Ballards fuel cells could have more serious implications for companies such as Honda Motor Co 
+
+
+-  ,  which has core competencies in engine manufacturing ,  than for other producers that subcontract their engines 
+
+
+-  ,   number of perceptual issues could also be obstacles 
+
+
+- 31 First ,  consumers expect more features and power than necessary 
+
+
+-  Specifically ,  subcompact cars often have more than 120 horsepower ,  which is actually much more than required for regular driving 
+
+
+-  Perhaps that is one reason why the Toyota Prius ,  with 70 horsepower ,  remains  niche vehicle catering to the eco-market 
+
+
+-  Second ,  some consumers are attracted to the powerful engine sounds ,  or exhaust notes ,  of sports cars; fuel cells do not make noise 
+
+
+-  Third ,  hydrogen is commonly associated with the Hindenburg disaster and the hydrogen bomb ,  neither of which is scientifically relevant to fuel cell safety ,  but perceptions often overshadow reality 
+
+
+-  Finally ,  activists might question the environmental impact of hydrogen production ,  increased traffic congestion and continued exploitation of other resources required to manufacture fuel cell cars 
+
+
+-  In fact ,  addressing the publics concerns and perceptions  that is ,  managing stakeholder ambiguity  might well be the key to the technologys success 
+
+
+-  Indeed ,  innovation is  messy ,  complicated process ,  and the additional constraints of sustainable development only make it more so 
+
+
+-  Organizations that fail to understand that could well find themselves making costly mistakes in bringing new technologies to market 
+
+
+- We are all familiar with the modern-day managers mantra that we live in times of great and constant change 
+
+
+-  Because the world is turbulent ,  it is said ,  and the competition is hyperturbulent ,  managers must take seriously the job of continually initiating and adjusting to change 
+
+
+-  Resistance to change is bad 
+
+
+-  ,  Might we suggest that you turn off the hype and look out the window? Do you notice anything out there resembling all that supposed change and turbulence? We perceive our environment to be in constant flux because we only notice the things that do change 
+
+
+-  We are not as keenly aware ,  however ,  of the vast majority of things that remain unchanged  the engine of the automobile you drive  ( basically the same as that used in Ford Motor Co 
+
+
+- s Model  )  ,  even the buttons on the shirt you wear  ( the same technology used by your grandparents )  
+
+
+-  This ,  indeed ,  is  good thing ,  because prolonged and pervasive change means anarchy  and hardly anybody wants to live with that 
+
+
+-  Sure ,  important changes have been taking place recently ,  but the truth is that stability and continuity also form the basis of our experience 
+
+
+-  In fact ,  change has no meaning unless it is juxtaposed against continuity 
+
+
+-  Because many things remain stable ,  change has to be managed with  profound appreciation of stability 
+
+
+-  Accordingly ,  there are times when change is sensibly resisted; for example ,  when an organization should simply continue to pursue  perfectly good strategy 
+
+
+-  Whats needed is  framework whereby pragmatic ,  coherent approaches to thinking about change can be explored 
+
+
+-  ,  Todays obsession with change focuses on that which is imposed dramatically from the top 
+
+
+-  This view should be tempered ,  however ,  by the realization that effective organizational change often emerges inadvertently  ( organic change )  or develops in  more orderly fashion  ( systematic change )  
+
+
+-  )  ,  Dramatic change is frequently initiated in times of crisis or of great opportunity when power is concentrated and there is great slack to be leveraged  ( for example ,  in the sale of assets )  
+
+
+-  It can range from rationalizing costs ,  restructuring the organization and repositioning strategy to reframing the organizations mind-set and revitalizing its culture 
+
+
+-  Usually ,   companys leadership commands this dramatic change in the expectation of compliance by everyone else 
+
+
+-  Although this kind of initiative can be effective ,  it can also be misguided and engender covert resistance 
+
+
+-  For example ,  consider the case of Vivendi Universal 
+
+
+-  In  five-year buying spree in the late 1990s ,  former CEO Jean-Marie Messier borrowed heavily against Vivendis water-utility business ,  acquiring numerous telecommunications ,  media and entertainment firms ,  including Seagram Co 
+
+
+- s Universal Studios and the Universal Music Group ,  in an ill-fated attempt to build  vertically integrated media conglomerate 
+
+
+-  ,  Systematic change is slower ,  less ambitious ,  more focused ,  and more carefully constructed and sequenced than dramatic change 
+
+
+-  Often it is promoted by staff groups and consultants who handle planning and organizational development 
+
+
+-  Over the years ,  many approaches to systematic change have appeared ,  including quality improvement ,  work reprogramming ,  benchmarking ,  strategic planning and so on 
+
+
+-  As the nature of these approaches suggests ,  systematic change draws heavily on technique and ,  in that sense ,  is change imported to the organization 
+
+
+-  ,  Whereas dramatic change is usually driven by the formal leadership and systematic change is usually promoted by specialists ,  organic change tends to arise from the ranks without being formally managed 
+
+
+-  It often involves messy processes with vague labels like venturing ,  learning and politicking and is nurtured behind the scenes in the skunk works of big companies such as 3M Co 
+
+
+-  ,  The trouble is that the organic approach can be splintered and is itself anarchical 
+
+
+-  When informal groups indulge in experiential learning ,  narrowed competences can result if each focuses on promoting only what it knows best to serve its own interests 
+
+
+-  ,  The important thing to understand about organic change is that it is not systematically organized when it begins or dramatically consequential in its intentions ,  and it does not depend on managerial authority or specialized change agents 
+
+
+-  Clever leadership can ,  however ,  stimulate organic change by socializing the organization to prize it 
+
+
+-  Companies ,  such as 3M ,  Honda ,  Sony and Intel ,  have recognized that managerial support and network building can be the key to generating change initiatives at the grass-roots level 
+
+
+-  ,  In our view ,  neither dramatic nor systematic nor organic change works well in isolation 
+
+
+-  Dramatic change has to be balanced by order and engagement throughout the organization 
+
+
+-  Systematic approaches require leadership and ,  again ,  depend on broad engagement 
+
+
+-  And organic change ,  though perhaps the most natural of the three approaches ,  eventually must be manifested in  systematic way ,  supported by the leadership 
+
+
+-  ,  Throughout the years ,  we have acquired in-depth familiarity with many organizational change situations  some gleaned from our experiences as consultants or when working in managerial capacities ourselves ,  others as part of research projects to track the strategies actually realized by companies over many decades 
+
+
+-  ,  Because dramatic change alone can be just drama ,  systematic change by itself can be deadening ,  and organic change without the other two can be chaotic ,  they must be combined or ,  more often ,  sequenced and paced over time ,  creating  rhythm of change 
+
+
+-  When functioning in  kind of dynamic symbiosis ,  dramatic change can instead provide impetus ,  systematic change can instill order ,  and organic change can generate enthusiasm 
+
+
+-  ,  We have seen this symbiosis arising in three main modes 
+
+
+-  Revolution is dramatic ,  but often comes from organic origins and later requires systematic consolidation 
+
+
+-  And rejuvenation is fundamentally organic ,  but usually must make use of the systematic ,  and its consequences can be inadvertently dramatic 
+
+
+-  In illustrating this framework ,  we cite older examples alongside newer ones ,  which helps us to make another crucial point: The problem with change is the present 
+
+
+-  That is ,  an obsession with the new tends to blind managers to the fact that the basic processes of change and continuity do not change 
+
+
+-  So older examples ,  because their consequences have settled ,  can be more insightful than newer ones 
+
+
+-  ,  We associate revolution with dramatic acts that change  society 
+
+
+-  These acts spark the drama; then leadership arises ,  but only if the conditions ,  organically ,  are right 
+
+
+-  Consider the following: ,  Think of all the totalitarian tyrannies in todays corporations all the dramatic change devoid of organic underpinnings and lacking systematic support 
+
+
+-  The leader acts alone ,  heroically it seems ,  and everyone else is supposed to follow 
+
+
+-  Dennis Kozlowski at Tyco )  and the dramatic downsizings  ( Chainsaw Al Dunlap at Scott Paper Co 
+
+
+-  ,  To appreciate when leader-initiated revolution can work ,  consider the case of Steinberg ,  Inc 
+
+
+-  Entrepreneur Sam Steinberg propelled two major changes in 1933 and 1968 ,  which despite their 35-year separation ,  were remarkably similar 
+
+
+-  ,  In 1933 ,  one of the companys eight stores struck it bad ,  as Steinberg phrased it ,  incurring unacceptable losses of $125  week 
+
+
+-  He closed the store one Friday evening ,  converted it to self-service  (  new concept for Montreal )  ,  changed its name ,  slashed its prices by 1520% ,  printed handbills ,  stuffed them into neighborhood mailboxes and reopened on Monday morning 
+
+
+-  That certainly seems dramatic ,  but he did this in just  single store 
+
+
+-  Only when the changes proved successful did he convert the other stores  systematically 
+
+
+-  Then ,  in Steinbergs words ,  We grew like Topsy ,  at least until the mid-1960s ,  when the company  then much larger with almost 200 stores  faced fierce competition 
+
+
+-  In 1968 ,  the company initiated large ,  permanent ,  across-the-board price reductions ,  coupled with  complete shift in merchandising philosophy 
+
+
+-  But these changes too began in one store before being allowed to spread to the rest of the operation ,  with enormous success 
+
+
+-  ,  In their organic origins ,  corporate revolutions can also resemble the political ones of 18th-century America and France 
+
+
+-  For instance ,  organic changes helped to undermine established behaviors and induce new learning at Volkswagen AG ,   company whose strategic evolution we have studied by looking back to the inception of its first automobile in 1934 
+
+
+-  In the 1960s ,  many middle managers at the company believed it had to move away from its reliance on the Beetle ,  but their consistent lobbying was to no avail 
+
+
+-  With the arrival of  new ,  deeply knowledgeable chief executive ,  however ,  that pent-up organic foment was catalyzed into revolution ,  and Volkswagen quickly began to produce more stylish ,  front-wheel-drive ,  water-cooled cars 
+
+
+-  ,  Such stories are ,  in fact ,  common 
+
+
+-  Organic changes infiltrate and bypass skeptical areas of the organization and ,  through gradual experimentation and persistent small victories ,  open up the system to really dramatic change 
+
+
+-  ,  Revolutions must be consolidated: They have to get beyond the dramatic to the systematic and the organic 
+
+
+-  Companies are judged on the products and services they deliver ,  not on the changes they make 
+
+
+-  As the experiences of British Airways Plc show ,  there are better and worse ways to pace the consolidation of dramatic change 
+
+
+-  By 1993 ,  however ,  it had become Europes most profitable carrier and was benchmarked as  provider of world-class customer service 
+
+
+-  How did this occur? Upon his arrival in 1983 ,  Colin Marshall ,  the new CEO ,  wasted no time in commanding dramatic change 
+
+
+-  His first two years were characterized by ambitious and rapid change: The workforce was downsized and assets were sold because of poor performance; in one 24-hour period ,  Marshall terminated 161 managers and executives 
+
+
+-  ,  Two years later ,  sensing that  slower ,  more tolerable rhythm would be appreciated ,  Marshall launched systematic consolidation through training programs that encouraged managers to enhance customer service 
+
+
+-  By 1985 ,  the company opted for organic change to complement the systematic initiatives: Employees with proven interpersonal skills were asked to develop  family climate for customer-facing employees 
+
+
+-  In 1987 ,  systematic and faster-paced reengineering of work processes was introduced ,  as BA invested heavily in information technology to build  new reservation system 
+
+
+-  Ayling anticipated higher competitive pressures in the long term and thus wanted to streamline the airline cost structure immediately 
+
+
+-  The business logic seemed to make sense ,  but the way he went about it backfired 
+
+
+-  Ayling suddenly announced dramatic change through major cost cutting and staff reductions on the same day when the company announced record profits 
+
+
+-  Most employees were shocked because they had not been informed ,  and the announcements timing and the magnitude of sacrifices demanded of them did little to win them over 
+
+
+-  ,  Clearly ,  corporate revolutions are not uniformly effective ,  and many times something else is called for 
+
+
+-  ,  Reform  by which we mean re-forming  social system in an orderly way  used to be favored in politics and in business 
+
+
+-  The carefully developed Marshall Plan ,  the subsequent growth of the European Community  ( now the European Union )  and the successful redevelopment of postwar Japan are outstanding examples of change driven largely by systematic efforts 
+
+
+-  These are cases where the cumulative effects of the initiatives amounted to changes as massive as those of many full-fledged revolutions 
+
+
+-  ,  In practice ,  systematic change must be realized organically ,  not only around conference tables where plans are hatched ,  but also in operations ,  where real things happen 
+
+
+-  However ,  like  revolution that never advances beyond its drama ,  reform that becomes mired in procedures is equally useless 
+
+
+-  When operational planning takes precedence ,  everything can become too systematic 
+
+
+-  ,  Two variants of reform ,  though ,  are especially effective in stimulating organic change 
+
+
+-  ,  Many organizations use systematic training and development programs to breed an atmosphere conducive to organic change ,  most notably General Electric Co 
+
+
+- s Work-Out process that had been launched to encourage frontline workers to improve workplace efficiency 
+
+
+-  Another interesting example described by Richard Pascale5 and his coauthors is that undertaken by the United States Army 
+
+
+-  Over  grueling 14-day period ,  an organizational unit of  , 000 to  , 000 people goes head to head with  competitor of like size in  highly realistic simulation ,  including desert tank battles and aircraft support 
+
+
+-  Six hundred instructors are involved ,  one for each person with managerial responsibility; they shadow their trainees through the 18-hour days 
+
+
+-  The debriefing event  ( or After Action Review ,  where hardship and insight meet )  can be harassing ,  with officers often cowering under the intense scrutiny 
+
+
+-  But according to the commander of the exercise ,  it has changed the Army dramatically 
+
+
+-  &mldr; It has instilled  discipline of relentlessly questioning everything we do 
+
+
+-  ,  Here the emphasis of the reform is to drive organic change directly 
+
+
+-  General Electrics Six-Sigma efforts come to mind ,  as does kaizen  ( total quality management )  ,  used so successfully by Japanese companies like Toyota Motor Co 
+
+
+-  ,  While initially showing shades of revolution and later rejuvenation ,  Louis Gerstners changes at IBM Corp 
+
+
+-  might be best described as energized reform  steady and consistent 
+
+
+-  The company simply returned to listening to customers and managing relationships ,  focusing once again on key business results ,  devolving more authority and accountability from staff groups to line managers and carefully reengineering work processes to reduce long-term costs 
+
+
+-  ,  Often ,  significant corporate change comes about largely ,  although not exclusively ,  as the result of organic efforts embedded deep within an organization 
+
+
+-  This corporate rejuvenation can come about in  variety of ways 
+
+
+-  Indeed ,  this is probably how most of the really interesting changes in business and even society happen 
+
+
+-  Sometimes  single ,  seemingly peripheral or even inadvertent initiative remakes an organization 
+
+
+-  This is not revolution ,  although the consequences may be revolutionary 
+
+
+-  After seven years of experimentation  ( supported by the board )  and 100 , 000 tons of wasted glass ,  he had yet to prove he could make soluble glass 
+
+
+-  As each problem was solved ,   new one took its place 
+
+
+-  Patents were granted ,  and the company licensed the process worldwide 
+
+
+-   grass-roots ,  production-process redesign had transformed into  successful strategy ,  revolutionizing the company and its industry 
+
+
+-  ,  In one of our most intensive studies of change ,   large telecommunications company under fierce global competition was losing market share and money rapidly 
+
+
+-  Seeking new ways to address customer needs and reduce costs ,  new leadership brought  wave of dramatic changes:  new executive team ,   25% downsizing ,   wide array of consultants and all manner of big-change projects ,  including three restructurings in three years 
+
+
+-  )  Only about one in five of the large change initiatives launched by their senior managers met with demonstrable success 
+
+
+-  At the same time ,   host of smaller initiatives launched by middle management fared much better ,  with about four out of five producing good results 
+
+
+-  Whereas the dramatic revolutionary actions largely failed ,  the more organic initiatives sustained and revitalized the company well after the new leadership was gone 
+
+
+-  ,  Companies such as HP or 3M have been able to sustain their innovative capacities over long periods of time by finding  workable combination of steady organic change supported by systematic change 
+
+
+-  As Shona Brown and Kathleen Eisenhardt put it ,  balancing tensions between the organic and the systematic tends to keep an organization on the edge of order and chaos and so helps to sustain its innovative capability 
+
+
+-  Such organizations systematically invest in  wide variety of low-cost experiments to continuously probe new markets and technologies; they pace the rhythm of change to balance chaos and inertia by applying steady pressure on product-development cycles and market launches; and they maintain speed and flexibility by calibrating the size of their business units to avoid the chaos that is characteristic of too many small units and the inertia associated with most large bureaucracies 
+
+
+-  This kind of continuous innovation can be found not only in high-tech firms ,  but also in so-called staid academic institutions 
+
+
+-  Although there was little deliberate overall strategic change  especially with regard to the essential missions of the university ,  namely ,  teaching and research  McGill was ,  in fact ,  changing all the time 
+
+
+-  Programs ,  courses and research projects were under constant revision and updated by the faculty 
+
+
+-  Of course ,  the university administration systematically facilitated the organic changes through budget allocations ,  facilities construction ,  new procedures for hiring and tenure and so on 
+
+
+-  ,  Although universities are unusual in many respects ,  they are akin to manufacturing corporations in an important way 
+
+
+-  While both organizations may tolerate occasional bursts of dramatic change ,  mostly they hum along ,  experiencing less-pervasive streams of small changes8  here and there ,  organic and systematic  pursuing  process that Eric Abrahamson has labeled dynamic stability 
+
+
+-  ,  Rather than foment revolution ,   leader can induce change by personal example or by recalibrating an organizations culture to encourage its people to undertake organic initiatives 
+
+
+-  Gandhi lived and functioned far from the centers of conventional power; he never sought election and never led by edict ,  but through example he inspired the Indian people to rise up and take control of their destiny 
+
+
+-  He did not drive dramatic change so much as foment popular rejuvenation 
+
+
+-  ,  Certainly few ,  if any ,  stories from business come close to matching that degree of poignancy ,  but there are many business leaders who do energize people with the palpable force of their authentic acts 
+
+
+-  Murai spurred the development of the innovative Asahi Super Dry product that revolutionized Japanese drinking taste and Asahis fortunes by gently pushing  basic theme: He simply got the production and marketing people to talk to each other 
+
+
+-  Or consider Christian Blanc ,  the CEO whose first step toward revitalizing the Air France Group was to disclose that his compensation was 255th within the company  after which he took an additional 15% cut 
+
+
+-  ,   global electricity company based in Arlington ,  Virginia ,  continually encourage frontline workers to expand their expertise and autonomy  not just by providing them with training ,  but also with the kind of sensitive strategic and financial information usually reserved only for senior managers 
+
+
+-  Such basic acts of conviction and faith can inspire rejuvenations tantamount to organic revolutions 
+
+
+- 10 ,  DRAMATIC CHANGE MAKES for grand stories in the popular press ,  first about its promises and later about its often-dramatic collapses 
+
+
+-  Unlike the phoenix of mythology ,  which could rise from its own ashes but once every 500 years ,  companies cannot continue to rely solely upon the mythical promise of dramatic reemergence 
+
+
+-  This is not to argue that companies should abandon dramatic initiatives ,  but rather that lasting ,  effective change arises from the natural ,  rhythmic combination of organic and systematic change with the well-placed syncopation of dramatic transformation 
+
+
+-  The world continues to move ahead in small steps ,  punctuated by the occasional big one  just as it always has 
+
+
+-  It is now time to manage change with an appreciation for continuity 
+
+
+- For 50 years ,  management theory and practice have adopted  technical ,  analytical approach in which the role of the so-called soft factors like emotions and feelings has largely been denied 
+
+
+-  That trend is now being reversed ,  with both academics and managers recognizing the powerful role that emotions play in shaping corporate behavior 
+
+
+-  The real challenge ,  however ,  is to link emotions to performance goals and objectives 
+
+
+-  The central leadership responsibility is to ensure that the companys vision and strategy capture peoples emotional excitement ,  engage their intellectual capacities ,  and produce  sense of urgency for taking action 
+
+
+-  In essence ,  it is  task of unleashing organizational energy and marshaling it in support of key strategic goals 
+
+
+-  )  ,  Research suggests that the best leaders first mobilize organizational energy ,  then focus it 
+
+
+-  But how to define  force like the wind ,  both invisible and powerful? Organizational energy is seen only in its effect: the force with which  company functions 
+
+
+-  Just as burnout is said to have three dimensions  ( emotional ,  cognitive and physical )  ,  so is organizational energy considered the interplay among  companys emotional ,  cognitive and physical states 
+
+
+-  Though difficult to directly observe or measure ,  organizational energy is palpable when put to use  driving the intensity ,  pace and endurance of  companys work ,  change and innovation processes 
+
+
+-  ,  Organizational energy is related but not identical to the sum of the energy of individuals 
+
+
+-  Individual energy ,  especially of leaders ,  influences organizational energy ,  and the energy state of the organization affects the energy of individuals 
+
+
+-  Long recognized by managers ,  the distinction between individual and organizational energy is now receiving more attention in academic circles 
+
+
+-  ,  Companies differ in both intensity and quality of energy 
+
+
+-  Intensity refers to the strength of organizational energy as seen in the level of activity ,  the amount of interaction ,  the extent of alertness and the extent of emotional excitement 
+
+
+-  Symptoms of low energy are often obvious: apathy and inertia ,  tired-ness ,  inflexibility and cynicism 
+
+
+-  Qualitatively ,  organizational energy can be characterized as positive energy  ( for example ,  enthusiasm ,  joy and satisfaction )  or negative energy  ( fear ,  frustration or sorrow )  
+
+
+-  In fact ,  it is the intersection of intensity and quality that determines an organizations energy state ,  which usually falls into one of four categories 
+
+
+-  )  ,  Although different parts of an organization can be mapped to different energy zones ,  most organizations are characterized by one particular zone at any given point 
+
+
+-  The exception would be  highly diverse and decentralized company ,  in which the business unit may be the most appropriate level for analyzing and managing energy 
+
+
+-  Sometimes diverse energy states within one company suggest the need for greater intraorganizational integration 
+
+
+-  ,  Companies in the comfort zone have low animation and  relatively high level of satisfaction 
+
+
+-  With weak but positive emotions such as calm and contentedness ,  they lack the vitality ,  alertness and emotional tension necessary for initiating bold new strategic thrusts or significant change 
+
+
+-  ,  For  long period before its listing in the London Stock Exchange ,  Old Mutual Plc  South Africas dominant insurance company  exemplified this energy state 
+
+
+-  Populated with decent ,  educated people  almost entirely white  and widely considered upright and responsible ,  Old Mutual was South Africas Ma Bell 
+
+
+-  They spoke politely ,  avoided contentious issues and worked at  steady pace 
+
+
+-  The financial results ,  although not spectacular ,  were average ,  and the company was well-liked 
+
+
+-  ,  Post-apartheid ,  Old Mutual began to experience aggressive competition in financial services ,  along with new opportunities ,  such as international expansion 
+
+
+-  OMs new leadership recognized the need for drastic action: changing the legal structure ,  establishing  corporate center in London and launching  massive transformation program 
+
+
+-  ,  Companies in this energy state demonstrate weak ,  negative emotions  frustration ,  disappointment ,  sorrow 
+
+
+-  People suffer from lethargy and feel emotionally distant from company goals 
+
+
+-  ,  Aktiebolegat SKF  the Swedish company that invented the bearing business  was in the resignation zone for most of the last two decades 
+
+
+-  It was only modestly profitable despite outstanding technology ,  brand strength and global footprint 
+
+
+-  Market share inched down ,  and there was constant incremental restructuring and rationalization 
+
+
+-  ,  An engineers company ,  SKF was always attractive to technically qualified ,  mild-mannered people who disliked open competitiveness 
+
+
+-  Until Sune Carlsson  ( CEO from September 1998 to April 2003 )  jolted SKF into action ,  SKF managers operated in  state of mild frustration 
+
+
+-  ,  Companies in the aggression zone experience internal tension founded on strong ,  negative emotions 
+
+
+-  Tension drives their intensely competitive spirit ,  which manifests itself in high levels of activity and alertness  and focused efforts to achieve company goals 
+
+
+-   software company  operates in the aggression zone 
+
+
+-  Employees live by the mantra: Its never good enough to win; all others must lose 
+
+
+-  Oracles comparative advertising reinforces this intensely aggressive culture 
+
+
+-  Driven by individual-level financial incentives and CEO Larry Ellisons personal embodiment of aggressiveness ,  Oracle has attracted employees who love to fight and win 
+
+
+-  ,  Directing that aggressiveness toward competitors has led to outstanding results for Oracle 
+
+
+-  Salespeople earn double commission whenever Oracle products or services supplant those of its main competitors 
+
+
+-  At each stage of its evolution ,  Oracle has surpassed competitors: Remember Ashton-Tate? asked Ellison ,  two years before his 2003 unsolicited bid to acquire PeopleSoft Inc 
+
+
+-  ,  In the passion zone ,  companies thrive on strong ,  positive emotions  joy and pride in the work 
+
+
+-  Employees enthusiasm and excitement mean that attention is directed toward shared organizational priorities 
+
+
+-  Perrin stimulated organizational exuberance for 20 years and moved the French luxury products company from $50 million to $1 
+
+
+-  ,  Although the Perrin-led Cartier engaged in intense competition with Rolex ,  Chanel and Christian Dior ,  competitors were never its focus  creativity was 
+
+
+-  Well-established Cartier norms strengthened that passion for creativity ,  including one requiring that all new products bridge the old and the new 
+
+
+-  Designers were to capture the zeitgeist of an early Cartier piece and combine it with inspiration from the finest contemporary art 
+
+
+-  Companies in the comfort zone or the resignation zone operate at low levels of attention ,  emotion and activity 
+
+
+-  Companies in the aggression zone or the passion zone display higher levels of focused emotional tension ,  collective excitement and action taking 
+
+
+-  ,  High-energy companies display an urgency that makes them more productive 
+
+
+-  Being constantly alert allows them to process information and mobilize resources quickly 
+
+
+-  Low-energy companies prefer standardization and institutionalization 
+
+
+-  They try to avoid the surprises ,  exceptions and risks on which high-energy companies thrive 
+
+
+-  ,  High energy helps align employees perceptions ,  emotions and activities 
+
+
+-  Low-energy organizations suffer from conflicting priorities and lack of cooperation; high-energy companies bundle and channel their forces for shared goals ,  creating  foundation for organizational cohesion 
+
+
+-  ,  Energy is not an unmixed blessing ,  however ,  and unless managed wisely ,  it can degenerate into one of three main pathologies or energy traps 
+
+
+-  Companies that keep adopting major change initiatives without making time for regeneration are susceptible to the acceleration trap 
+
+
+-  Most change-management programs assume that the change is an exceptional episode 
+
+
+-  In reality ,  most employees contend with ongoing change ,  which tends to dilute the credibility of management demands to give ones all 
+
+
+-  ,  But ABB was continuously under pressure ,  and the strains began to show 
+
+
+-  For example ,  according to numerous media reports and our interviews and research ,  internal conflicts in the power-generation sector mushroomed 
+
+
+-  What had formerly been  healthy level of tension in ABBs organizational energy degenerated into intense rivalries 
+
+
+-  ,  In September 1998 ,  new CEO Gran Lindahl added one more initiative to the already tired company:  drastic reorganization 
+
+
+-  Once again ,  people had to forgo established relationships orchestrated by mature geographical managers and start working for young ,  ambitious and aggressive business-area executives 
+
+
+-  ,  Classic organizational exhaustion resulted ,  bringing with it fragmented managerial attention and increased difficulty with prioritizing 
+
+
+-  Pressured field managers ended up spinning their wheels 
+
+
+-  The exhaustion caused Lindahl and his successor ,  Jrgen Centerman ,  to exert even more pressure ,  and the acceleration trap finally took complete hold of the company by 2002 ,  with little reserve energy left to revitalize this nearly burned-out organization 
+
+
+-  ( Today ,  under CEO Jrgen Dormann ,  there are positive signs ,  but he nevertheless has  tough fight ahead to ensure the companys survival 
+
+
+-  Energy is first built as  capacity   potential for intense action  and then that capacity must be used in phases 
+
+
+-  Successful application of organizational energy is self-reinforcing ,  expanding the energy potential 
+
+
+-  To manage the process of creating and deploying energy ,  managers must adopt  rhythm of highly intense and less intense phases 
+
+
+- 10 ,  Weakening  companys ability to leverage resources is the inertia trap 
+
+
+-  This trap ensnares victims after too long  stretch of either success or poor performance 
+
+
+-  ,  Long success in  stable environment may convince companies  ( say ,  Old Mutual )  that they have found the ideal system 
+
+
+-  As long as the environment does not change too radically ,  the companys tight alignment of strategy ,  organizational structures and culture improves performance 
+
+
+-  But inevitably the environment does change 
+
+
+-  The alignment becomes  handicap as companies find they cant muster the energy to overcome its rigidity 
+
+
+- 11 Similarly ,  with too long  stretch of operating below capacity ,  companies lose elasticity  ( like SKF )  
+
+
+-  Mediocrity makes them lose confidence; they become either reactive or passive 
+
+
+-  ,  Old Mutual escaped inertia by initiating  listing on the London Stock Exchange 
+
+
+-  The complete change in OMs operating context and its new ,  forceful leadership jolted managers out of complacency 
+
+
+-  In SKFs case ,  Carlsson and ,  later ,  Tom Johnstone openly broke with company norms to focus on productivity and profitability 
+
+
+-  ,  When  company faces external threats  ( or opportunities )  at the same time as it confronts internal discord ,  it may fall into the corrosion trap 
+
+
+-  Instead of working together to meet external challenges ,  people channel their energy into internal fights 
+
+
+-  We have observed that often the behavior of senior managers is responsible 
+
+
+-  Leaders who act in  patently self-interested way or demonstrate little personal involvement with the external challenges erode peoples passion for business ,  their optimism and their readiness to collaborate 
+
+
+-  ,  Consider one large ,  Europe-based corporation that suffered  crisis in 2002 
+
+
+-  Senior managers successfully created  sense of urgency that employees could identify with ,  and workers manifested their commitment by accepting  modest 3% raise 
+
+
+-  The sense of betrayal was corrosive ,  leading to massive strikes and the frostiest labor relations in company history 
+
+
+-  In the end ,  top management was obliged to leave 
+
+
+-  ,  Corrosive energy leads to self-reinforcing negativity 
+
+
+-  Because people unconsciously respond to one anothers emotional displays by imitating or exaggerating them ,  even relatively minor events evolve into negative emotions that spiral out of control 
+
+
+- 12 ,  When Paul Lego was at Westinghouse Electric Corp 
+
+
+-  ( between 1990 and 1993 )  ,  his arrogance and isolation within  coterie of favorites led to  breakdown of trust and self-confidence among managers 
+
+
+-  Divisional heads focused anger on colleagues rather than on outside competitors 
+
+
+-  Eventually ,  the corrosive forces of internal rivalry destroyed the company 
+
+
+-  ,  Companies that succeed at radical change generally adopt one of two approaches for unleashing and channeling organizational energy: the slaying the dragon strategy  ( moving into the aggression zone by focusing peoples attention ,  emotions and effort on  threat )  ,  or the winning the princess strategy  ( moving into the passion zone by building enthusiasm for an exciting vision )  
+
+
+- 13 On the rare occasions when  company can combine the strong positive and negative emotions of both zones ,  the results are spectacular 
+
+
+-  Companies with neither strategy fall victim to an energy trap and decline to mediocrity or to crisis 
+
+
+-  ,  This strategy involves  clear articulation of an imminent threat ,  the release of strong ,  negative emotions and the channeling of those emotions toward overcoming the threat 
+
+
+-  Threats such as bankruptcy ,   dangerous competitor or  disruptive technology require moving employees from the comfort or resignation zone to the aggression zone 
+
+
+-  )  ,  In July 1990 ,  when Dutch giant Philips Electronics shocked the financial world with  huge loss ,  the semiconductor division was the primary culprit 
+
+
+-  The new division CEO ,  Heinz Hagmeister ,  moved employees from the comfort zone  ( people in the profitable passive-components business )  and others from the resignation zone  ( those in unprofitable integrated circuits )  to the aggression zone 
+
+
+-  ,  Jan Timmer ,  the new corporate CEO ,  started the ball rolling 
+
+
+-  In  senior-team meeting that came to be called Centurion  ,  he presented  dummy newspaper postdated by seven months with the headline Philips Declares Bankruptcy 
+
+
+-  Only drastic cost cutting would avert bankruptcy 
+
+
+-  ,  Hagmeister used the same shock therapy within his division 
+
+
+-  revealed dramatic gaps not only in inventory levels ,  sales expenses and overall costs ,  but also in customer delivery and in the time it took to develop new products 
+
+
+-  Given the crisis in the overall company ,  divesting  ( or even closing )  the semiconductor division was  real possibility 
+
+
+-  ,  Having aroused strong negative feelings ,  Hagmeister channeled them into dragon slaying 
+
+
+-  He created projects for reducing head count ,  cutting sales cost ,  improving delivery time ,  pruning the product portfolio and integrating the  
+
+
+-  arm of the business into the divisional structure 
+
+
+-  For each project ,  managers specified accountability ,  milestones ,  measurements and deadlines 
+
+
+-  In some instances ,  the majority of team members had no other operational responsibility 
+
+
+-  By means of  regular review ,  called Centurion II ,  executives monitored the progress of each project in detail ,  backed by new norms 
+
+
+-  ( For example ,  managers offering excuses were asked to leave the meeting and were allowed to return only after devising  new plan consistent with the agreed-on goals )  
+
+
+-  He stayed engaged ,  never avoiding or delegating  necessary task because it was unpleasant 
+
+
+-  People must experience the threat personally in order for collective emotions to be unleashed 
+
+
+- 15 Second ,   highly disciplined process must channel the emotions 
+
+
+-  Third ,  leaders must continuously guide ,  monitor and control the process 
+
+
+-  Their visible involvement and personal commitment are essential 
+
+
+-  ,  Because anger ,  fear ,  hate or shame are such powerful emotions ,  slaying the dragon can effectively shock people into action 
+
+
+-  However ,  the strategy has its downside 
+
+
+-  Sometimes it leads to organizational myopia ,  with people overly focused on one well-defined threat 
+
+
+-  Also ,  companies with the slay-the-dragon strategy rarely create major innovations or succeed in building new growth trajectories 
+
+
+-  And once the dragon is slain ,  there may be  rush for the comfort zone 
+
+
+-  ,  This strategy relies on strong ,  positive emotions  ( excitement ,  enthusiasm )  to move people into the passion zone 
+
+
+-  To engage peoples dreams and openness to heroic effort ,  leaders have to create an object of desire  the princess  and invoke passion so strong that people will overcome passivity and satisfaction with the status quo 
+
+
+-  ,  As the new century dawned ,  few companies were changing as fundamentally as Sony 
+
+
+-  Historically  producer of analog-technology-based stand-alone audio and video products ,  Sony was confronting  transformation of its business 
+
+
+-  The IT ,  media and consumer electronics industries were converging toward  digital ,  Internet-based home entertainment business 
+
+
+-  Sony CEO Nobuyuki Idei articulated  new vision to enlist the organization in an adventure: Young and old alike are truly mesmerized by digital technology ,  he said 
+
+
+-  We must also become dream kids at all levels of Sony to create something new ,  something that will meet our future customers expectations 
+
+
+-  ,  To make the princess real ,  Idei created VAIO World ,   way for Sonys employees to visualize how linking Sonys diverse offerings could help the company excel at meeting the new worlds entertainment requirements 
+
+
+- 17 ,  Although its too early to judge whether Sony will be successful with its winning-the-princess strategy ,  Ideis vision has dispelled the self-doubt that many within the company were voicing and has created an energy spurt resulting in new VAIO computers 
+
+
+-  ,  Thus ,  slaying the dragon requires high-energy ,  brave and commanding leadership; winning the princess needs calm ,  gentle ,  inspiring and empathic leaders 
+
+
+-  Because the former strategy channels aggressive energy into disciplined execution ,  it requires top-down instructions and meticulous plans 
+
+
+-   strategy that unleashes passion ,  however ,  needs leaders who create an environment of curiosity ,  excitement and ownership 
+
+
+-  When his first call for  new personal computer found no volunteers ,  he did not force anyone to develop one 
+
+
+-  Instead ,  he and Kunitake Ando ,  who later assumed the role of Sonys chief operating officer ,  created the VAIO Center ,   virtual organization intended to help employees from all product divisions fall in love with the concept 
+
+
+- 18 ,  Making people see ,  believe in and commit to an opportunity is inherently more difficult than getting them to acknowledge  threat 
+
+
+-  The first and most difficult task in pursuing the winning-the-princess strategy is to define ,  describe and substantiate the intangible 
+
+
+-  It must be simple ,  clear ,  convincing and moving 
+
+
+-  Second ,  leaders must embody that vision 
+
+
+-  Their personal credibility and symbolic actions are key in attracting and retaining peoples commitment ,  suppressing the noise of day-to-day activities and creating space and excitement for what is initially  fragile aspiration 
+
+
+-  Third ,  leaders have to balance the often playful activities involved in seeking an intangible future with the comparatively unexciting protection of the ongoing business 
+
+
+-  ,  The ideal would be to combine the aggression zones immediacy ,  discipline and decisiveness with the passion zones enthusiasm ,  joy and pride 
+
+
+-  But its  major challenge to blend top-down ,  planned change that is focused on survival with the experimentation ,  creativity and playfulness of pursuing  long-term vision 
+
+
+-  One risk is that the contradictions and ambiguities inherent in integrating the strategies might lead to the worst of all worlds in which neither works 
+
+
+-  ,  The only way to combine the two strategies is to create  path to the princess that automatically involves slaying the dragon that is ,  to envision  future that can only be realized if current problems and threats are overcome ,  as Larry Ellison is attempting to do in his dramatic makeover of Oracle 
+
+
+-  ,  The princess  ( the vision )  is to see Oracle transform the IT industry into  utility ,  with hardware ,  data and applications residing in  central location and customers gaining access to them over the Internet 
+
+
+-  In such  world ,  Oracle would evolve from  database company into  provider of integrated services ,  covering  full range of mutually compatible applications 
+
+
+-  In addition to buying database products from Oracle ,  customers would rely on Oracle for all applications   fully integrated product and service offering 
+
+
+-  ,  To Oracle employees ,  the princess is clear  if they succeed in making Ellisons vision  reality ,  they would be part of the worlds dominant software company 
+
+
+-  To any software engineer ,  the idea of people everywhere in the world being able to access the full power of IT using only  PC and  Web browser has enormous intellectual and emotional appeal and thus is likely to spur involvement 
+
+
+-  ,  But the dragon is built into the strategy 
+
+
+-  In order to make the vision credible to customers ,  Oracle had to become its own test site 
+
+
+-  Eat your own dog food ,  Ellison said ,  when he announced  target of saving $1 billion by adopting the approach internally 
+
+
+-  Between 2000 and 2001 ,  the company succeeded in moving its operating margin from 14% to 37% 
+
+
+-  This strategy is also in keeping with Oracles hotly competitive spirit 
+
+
+-  For if the vision were to be realized ,  key competitors would suffer: IBM would lose its main source of revenue  systems integration  and Microsoft would cease to control business customers IT access 
+
+
+-  ,  Leaders at some companies do not have  choice of strategy for creating energy 
+
+
+-  If the company faces  visible threat ,  it has to create  dragon: Princesses mean little to people worried about survival 
+
+
+-  Similarly ,  when there really is no imminent threat ,  no leader can make  dragon credible 
+
+
+-  In most cases ,  however ,  the situation is neither black nor white ,  and managers have  choice 
+
+
+-  ,   sound strategy choice is rarely founded on external factors such as competition or market climate 
+
+
+-  Internal organizational factors are more significant ,  in particular these three: top-management style ,  the companys existing energy state and its organizational heritage 
+
+
+-  ,  First is senior managers behavior or style 
+
+
+-  When managers try to behave at cross-purposes to their true nature ,  they create cynicism ,  not energy 
+
+
+-  Most CEOs are inherently better leaders of one or the other strategy ,  and their companies are more likely to succeed when the strategy meshes with the leaders natural style 
+
+
+-  ,   second criterion for strategy choice is the existing energy state of the company 
+
+
+-  Slaying the dragon is easier to implement and more effective for unleashing energy in companies caught in the comfort zone 
+
+
+-  Given  state of relative satisfaction ,  it is difficult to create excitement and sustainable energy in these companies by calling for  better future 
+
+
+-  Companies trapped in the resignation zone ,  in contrast ,  already perceive  discrepancy between the reality and the ideal 
+
+
+-  Winning the princess is best here because it can more easily transform latent desire into productive energy 
+
+
+-  Companies experiencing low ,  negative energy have  harder time trying to slay dragons ,  because they risk sinking into deeper despair and passivity ,  even paralysis 
+
+
+-  ,  Third ,  company history matters 
+
+
+-  Its  lover not  fighter and prefers to spend its energy on creating new products that customers could not have imagined 
+
+
+-  Winning the princess comes more naturally to  company that began with the express purpose of allowing engineers to have fun at work by playing with new technologies 
+
+
+-  Oracles history ,  in contrast ,  is more like the history of the samurai warriors that Ellison is known to admire 
+
+
+-  ,  In short ,  organizational energy creates the necessary combination of cognitive ,  emotional and action-taking capabilities and aligns the resulting force to achieve business goals 
+
+
+-  That is why ,  without  high level of energy ,   company cannot achieve radical productivity improvements ,  cannot grow fast and cannot create major innovations 
+
+
+-  It is time that corporate leaders acknowledge this simple reality and begin to pay explicit attention to how they can unleash the energy their organizations need if they are going to achieve the kind of performance they seek 
+
+

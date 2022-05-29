@@ -1,0 +1,1992 @@
+- A returns policy for excess inventory is  commitment by  manufacturer ,  service provider ,  or distributor upstream to accept products from  downstream channel member 
+
+
+-  The format of returns policies varies in and across industries 
+
+
+-  The most generous policy promises to refund the full wholesale price for all returned products ,  while less generous policies offer credits against future orders 
+
+
+-   partial returns policy gives only partial credit or refund 
+
+
+-  Manufacturers and distributors of  wide range of products have long allowed retailers to return excess inventory 
+
+
+-  In 1932 ,  Viking Press became the first book publisher to accept returns 
+
+
+-  ,  In the early 1980s ,  Parker Brothers ,  which was so successful with its Monopoly board game ,  attempted to enter the market for childrens books 
+
+
+-  The project failed ,  partly because Parker Brothers refused to accept returns from retailers 
+
+
+-  Currently ,  college bookstores return about 40 percent of all new textbooks ,   proportion that has grown steadily over time 
+
+
+-  Consequently ,  the cost of returns to publishers has been rising ,  leading them to tighten their returns policies 
+
+
+-  The National Association of College Stores has formed  Returns Issue Taskforce to address the issue of returns policies 
+
+
+-  Despite their use in many industries for years ,  returns policies continue to be controversial 
+
+
+-  ,  Today ,  returns policies are common in the distribution of books ,  magazines ,  and newspapers ,  recorded music ,  computer hardware and software ,  greeting cards ,  and pharmaceuticals 
+
+
+-  Returns policies are more widespread in Japan than in the United States ,   fact worth noting as international businesses step up efforts to penetrate that market 
+
+
+-  Japanese manufacturers accept returns of apparel ,  cosmetics ,  and electrical appliances in addition to the products commonly covered by returns policies in the United States and Europe 
+
+
+-  ,  Returns policies are also  controversial issue in the computer industry 
+
+
+-  When IBM cut the price of its PC Junior in the early 1980s ,  it provoked  bitter response from distributors that had bought large inventories at higher prices and could not return excess stock 
+
+
+-  More recently ,   vice president at IBM admitted ,  We are not the best in the terms and conditions regarding returns policies 
+
+
+- s annual report ,  Gross margins can be strongly affected in particular periods by aggressive pricing strategies and return privileges associated with new product introductions and upgrades 
+
+
+- 6 ,  Given the widespread use of returns policies and the difficulties they generate ,  it is important to have  systematic framework for figuring out when and how to adopt returns policies 
+
+
+-  In this paper ,  we analyze the benefits and costs of accepting returns and also compare returns policies to alternative ways of coordinating the distribution channel 
+
+
+-  In particular ,  we analyze end-user demand ,  distribution of information in the channel ,  the structure of competition at the manufacturer and retailer levels ,  and production and logistics costs to identify the factors that management should consider in determining  returns policy 
+
+
+-  The analyses generate  framework for deciding if  returns policy should be part of the marketing mix and ,  if so ,  how to structure the policy  ( see Table  )  
+
+
+-  ,  The framework can optimize the use of returns policies by helping management avoid many pitfalls and problems that have beset other businesses returns policies 
+
+
+-  It applies to any product with  limited life due to physical decay  ( pharmaceuticals )  ,  product obsolescence  ( computer hardware and software ,  greeting cards ,  magazines ,  and newspapers )  ,  or saturation of demand  ( books and recorded music )  
+
+
+-  In the framework ,  the upstream channel member can be  manufacturer ,  service provider ,  or distributor ,  while the downstream member can be  distributor or retailer 
+
+
+-  For simplicity ,  we refer to the upstream entity as  manufacturer and the downstream entity as  retailer 
+
+
+-  ,  At the most superficial level ,   returns policy encourages retailers to carry larger stocks 
+
+
+-  To understand when and how to implement  returns policy ,  however ,  we must probe deeper and ask why retailers would want to carry less stock than the manufacturer deems desirable 
+
+
+-  We address this question by considering retailers incentives ,  brand safeguards ,  end-user demand ,  information distribution in the channel ,  as well as the structure of competition at the manufacturer and retailer levels 
+
+
+-  ,  The most obvious reason for retailers reluctance to carry more stock is uncertain product demand; retailers fear having excess inventory 
+
+
+-  The potential for excess inventory is exacerbated if the retailer accepts returns from consumers 
+
+
+-  Unless the manufacturer mitigates this risk ,  retailers will stock conservatively to reduce the risk of excess inventory 
+
+
+-  By stocking conservatively ,  however ,  retailers limit the manufacturers potential sales 
+
+
+-  The shorter the life of the product and the higher the costs of carrying inventory ,  the more serious this issue becomes 
+
+
+-  ( If the product life were not limited and carrying costs were low ,  retailers could simply carry excess inventory forward for future sales 
+
+
+-  )  ,  Using  returns policy as insurance does not address the important implementation issue of who should offer the returns policy 
+
+
+-   manufacturer must consider whether it or the retailers can better absorb the risk of excess inventory 
+
+
+-  Even if the manufacturer accepts returns from retailers ,  the risk does not disappear ,  but merely shifts up the distribution channel 
+
+
+-  ,  There are three situations in which the manufacturer ,  rather than the retailer ,  can better absorb the risk of excess inventory 
+
+
+-  The first is when the manufacturer is simply larger than the retailer 
+
+
+-  For example ,  Hallmark Cards accepts returns from corner drugstores ,  and entertainment giants like Time Warner take records and CDs back from music stores 
+
+
+-  Accordingly ,  Japanese manufacturers accept returns of  wider range of products than  
+
+
+-  manufacturers ,  which face  much more concentrated distribution channel 
+
+
+-  ,  The second situation is when the manufacturer can transfer unsold products among retailers at relatively low cost 
+
+
+-  To the extent that local weather changes are not correlated ,  national demand will be subject to less uncertainty than local demand 
+
+
+-  If the manufacturer can reshuffle products among retailers cheaply ,  it should accept returns from retailers and arrange to reship products from regions where demand is unexpectedly low to areas of high demand 
+
+
+-  In the extreme case where the cost of reshuffling products among retailers is minimal ,  the manufacturer should consign the product to retailers 
+
+
+-  Hence the retailer faces no risk of unsold inventory 
+
+
+-  ,  Technology plays  key role in transferring products among retailers 
+
+
+-  For instance ,  before the advent of low-cost telecommunications and computer processing ,  ticket agencies had to buy theater and concert seats ,  bearing the risk of not being able to sell their stock 
+
+
+-  ,  The third situation is when the manufacturers demand is less volatile than the retailers demand 
+
+
+-  Consider ,  for instance ,   reseller of personal computer products: since computers ,  monitors ,  and printers are complements ,  any changes in product demand tend to be correlated 
+
+
+-  By contrast ,  because Hewlett-Packard is diversified across several product lines ,  including computers ,  medical equipment ,  and measurement equipment for various industries ,  changes in the demand for the various lines are not so strongly correlated 
+
+
+-  In this case ,  resellers are subject to more extreme bouts of feast or famine in demand than an individual manufacturer like Hewlett-Packard 
+
+
+-  ,  In all three situations ,  the manufacturer has an obvious alternative to  returns policy 
+
+
+-  It could reduce the wholesale price ,  compensating retailers for the risk of excess inventory 
+
+
+-  Cutting wholesale prices ,  however ,  is an indiscriminate policy that does not directly address the problem of risk: lower wholesale prices benefit retailers that sell large volumes regardless of their ability to bear risk 
+
+
+-  ,  Whenever demand is uncertain ,  there is the risk of excess inventory 
+
+
+-  Some retailers deal with this problem by marking down the product when it is nearing the expiration date; others sell stale products 
+
+
+-  Such sales undermine the manufacturers brand 
+
+
+-  An obvious way to discourage retailers from selling stale goods is to institute  returns policy and give the retailer  more attractive way to deal with expiring products 
+
+
+-  ,  Another way to discourage retailers from selling stale products is to monitor retailers and penalize them 
+
+
+-   returns policy ,  however ,  achieves the same result without the cost of monitoring and unpleasant confrontations that occur when  manufacturer imposes penalties 
+
+
+-  ,  Many manufacturers produce their own branded products as well as products under others brand names 
+
+
+-  They should not be concerned ,  however ,  with retailers that sell stale products that do not bear the manufacturers brand name 
+
+
+-  For example ,  if  supermarket sells stale private-label milk ,  only its own reputation will suffer 
+
+
+-  Goodman Fielder ,   large Southeast Asian food and beverage maker ,  accepts returns of branded goods but not of private-label items 
+
+
+-  ,  One reason retailers want to return products to manufacturers and may resort to selling stale products is that they may in turn be pressured to accept returns from their own customers 
+
+
+-  End-user returns at the end of the channel trigger  chain reaction of pressure for returns all the way from the retailer to the distributor to the manufacturer 
+
+
+-  This end-user push runs up the channel ,  contrasting with the usual direction of distribution in which manufacturers push product down the channel 
+
+
+- 10 ,  Accordingly ,  to understand how to coordinate the distribution channel ,   manufacturer must determine why end users want to return products to retailers 
+
+
+-  While some of the arguments for end-user returns policies are similar to those for distributor returns ,  there are some unique issues 
+
+
+-  ,  One is to ensure end users against the risk that the product will not satisfy them 
+
+
+- 11 Nelson distinguishes search and experience attributes: while buyers can discern search attributes ,  such as price and appearance ,  by examining the product ,  they can learn about  products experience attributes only by using the item 
+
+
+- 12 So end users face risk with experience attributes whenever they purchase products that they have not previously used ,   hurdle that looms largest with new products 
+
+
+-  ,  The end users risk of loss is greatest with big ticket items and those requiring  considerable matching investment ,  whether in money or users time 
+
+
+-  For example ,  software can be very expensive and certainly requires time and effort to install and learn 
+
+
+-   user can read software reviews and see the box at the store ,  but only by running the program will he or she know if it is suitable 
+
+
+-  Intuit once advertised  very generous returns policy  Quicken buyers could get  full refund without having to return the product ,  simply by telling the company that they were dissatisfied 
+
+
+-  ,  Even with mature products ,  there are times when end users may want  returns policy 
+
+
+-  Social customs adjust accordingly: in societies such as China and Italy where few retailers accept returns or exchanges ,  it is more common to present gifts of cash rather than goods 
+
+
+-  ,   generous returns policy is almost  sine qua non of mail-order selling 
+
+
+-  Buyers cannot see or touch the product ,  so ,  unless the item is  pure commodity like twenty-pound white photocopy paper ,  they will seek insurance against an inappropriate fit ,  color ,  or pattern 
+
+
+-  Indeed ,  assurances of generous returns figure prominently in brochures of established mail-order houses such as  
+
+
+-  ,  Are there alternative ways to assuage end users concerns? Warranties are  more limited way to facilitate introducing new products and sales by mail order 
+
+
+-   warranty accords buyers specific rights only if the product fails to meet objective specifications 
+
+
+- 13 By contrast ,   returns policy ensures against the end users subjective dissatisfaction as well 
+
+
+-  Customers may return something simply because they changed their minds; there may not be anything wrong with the product 
+
+
+-  ,  Another alternative is to reduce prices 
+
+
+-  This method ,  however ,  is blunt: it benefits all end users ,  including those who dont worry about being dissatisfied with the product 
+
+
+-  By contrast ,   returns policy focuses on the end users who potentially will be dissatisfied; it stimulates demand in  discriminating way 
+
+
+-  ,  Despite increasingly sophisticated market research ,  new products fail at prodigious rates throughout the world 
+
+
+- 14 Retailers are wary of committing limited resources and shelf space to  product that might fail 
+
+
+-  Moreover ,  their fear of product failure is exacerbated by their informational disadvantage relative to the manufacturer 
+
+
+-  Retailers suffer from two disadvantages related to product information 
+
+
+-  ,  Before launching  new product ,  the manufacturer usually does research to gauge market demand and may have private information about the quality of its product 
+
+
+-  It may have better information about market demand and product quality than the retailers do 
+
+
+-  If the manufacturer communicates this information to retailers ,  retailers know that the manufacturer has an incentive to exaggerate and may have difficulty checking the information before putting the product on the shelf 
+
+
+-  ,  In the case of books ,  recorded music ,  and computer hardware and software ,  manufacturers are constantly introducing new titles ,  upgrades ,  or new versions 
+
+
+-  Understandably ,  retailers are reluctant to order large stocks of any title or version for fear these will become obsolete after  new title or upgrade is issued 
+
+
+-  ,  In addition ,   new products success or failure may depend on the manufacturers advertising and promotion 
+
+
+-  The manufacturer may shirk such supporting efforts ,  especially for products with short life cycles and uncertain demand 
+
+
+-  In these circumstances ,  retailers cannot easily verify whether  product failed because demand was unexpectedly poor or because the manufacturer did not support it 
+
+
+-  ,  Retailers know that an established manufacturer is much less likely to push products with poor potential or that are about to be superseded ,  or to shirk advertising and promotion 
+
+
+-  These problems are most severe for manufacturers that have not established good reputations 
+
+
+-  ,   returns policy is one way  new manufacturer can credibly signal information about expected market demand and product quality and ,  in so doing ,  gain better access to the retail channel 
+
+
+-  As Chu has explained ,   manufacturer that is sure its product will sell well can afford to offer  generous returns policy ,  knowing that retailers will not return the items 
+
+
+- 15 By contrast ,  it is difficult for the manufacturer of  relatively inferior product to follow suit 
+
+
+-  ,   returns policy is also  way the manufacturer can commit to investments in advertising ,  promotion ,  and other activities to enhance product sales 
+
+
+-  Essentially ,   returns policy places the consequence of product failure squarely on the manufacturer ,  thus aligning manufacturers incentives with the retailers 
+
+
+-  ,  With  returns policy ,   manufacturer can also assure retailers that it will not bring out new products so quickly that the retailers stock will be obsolete 
+
+
+-  If the manufacturer did so ,  retailers would return the superseded items ,  thus punishing the manufacturer 
+
+
+-  ,  We are not saying that products offered with  returns policy never fail 
+
+
+-  Rather ,   manufacturer will never offer to accept returns when it knows in advance that the product will fail or that it will soon release  new version 
+
+
+-  Also ,   manufacturer that accepts returns will invest in advertising and promotion 
+
+
+-  The fact that disputes between publishers and bookstores persist despite generous returns policies does not mean that returns policies fail to resolve issues of information sharing within the channel 
+
+
+-  The real test is to ask how many more new titles bookstores would have distributed without returns policies 
+
+
+-  ,  In the United States ,  manufacturers of branded consumer products make widespread use of slotting allowances to secure valuable retail shelf space 
+
+
+-  (  slotting allowance is  lump-sum transfer from  manufacturer to  retailer for carrying  new product 
+
+
+-  )  Slotting allowances are another way manufacturers of superior products can distinguish themselves from those producing inferior ones 
+
+
+-  We contend ,  however ,  that returns policies may aid information transmission between manufacturers and retailers more effectively than slotting allowances 
+
+
+-  One reason is that ,  if quality is truly high ,  the manufacturer offering the returns policy will not have to take any products back 
+
+
+-  In this sense ,  the returns policy is  cost-free signal 
+
+
+-  By contrast ,  if the manufacturer chooses to distinguish its product through  slotting allowance ,  it must pay the allowance even though the product sells well 
+
+
+- 17 ,  Through its effect on retailers stocks ,   returns policy also has strategic implications for  manufacturers profits by having an impact on competition among retailers and among brands 
+
+
+-  Stock levels influence competition among retailers 
+
+
+-  The smaller the retailers stocks ,  the less intensively they will compete against each other and ,  hence ,  the higher the retail prices will be ,  relative to wholesale price 
+
+
+-  By encouraging retailers to carry larger stocks ,   returns policy will intensify competition among retailers 
+
+
+- 18 If retailers carry larger stocks ,  they will compete more intensively and retail prices will be relatively lower 
+
+
+-  From the manufacturers standpoint ,  given the wholesale price ,  the lower the retail price ,  the more retailers will sell and the higher the manufacturers profit will be 
+
+
+-  ,  Retail stocking levels also affect competition among brands 
+
+
+-  Most retailers carry several competing manufacturers products 
+
+
+-  To the extent that these are very close substitutes ,  if one brand is out of stock ,  retail customers may simply switch to  competitor 
+
+
+-  For instance ,  when Kodak film is out of stock ,  an amateur photographer might quite happily purchase Fuji instead 
+
+
+-  The retailer cares only that its margin on Kodak film exceeds that on Fuji ,  so it trades off the cost of carrying excess Kodak inventory against the cost of  stock-out 
+
+
+-  ,  The problem is even more severe for airlines that receive bookings from travel agents 
+
+
+-  If  flight at the travelers preferred time is fully booked ,  the agent is likely to recommend another airline rather than the next best flight on the same airline 
+
+
+-  The more substitutable the competing products are ,  the more likely the consumer will switch and the lower the cost to the retailer of  stock-out 
+
+
+-   returns policy strengthens  manufacturers position relative to competing brands in this situation 
+
+
+- 19 It reduces the cost of carrying excess inventory and tilts the balance in the retailers mind toward carrying larger stocks of the manufacturers product 
+
+
+-  Consequently ,  the probability of  stock-out and of consumers switching to competing brands will be lower 
+
+
+-  ,  An alternative to returns privileges is stocking quotas set by the manufacturer for each retailer 
+
+
+-  Because retailers are likely to resist quotas ,   returns policy is  better alternative 
+
+
+-  The manufacturer could also set  lower wholesale price 
+
+
+-  This ,  however ,  does not directly address competition and needlessly benefits retailers that face little competition or carry few competing brands 
+
+
+-  ,  To optimize using returns policies ,  management must balance the benefits against the costs 
+
+
+-  By its very design ,   returns policy encourages retailers to order larger stocks 
+
+
+-  To the extent that some of the additional stocks are returned ,   returns policy generates additional costs for the manufacturer 
+
+
+-  We now analyze the factors that affect these costs 
+
+
+-  ,  We should emphasize that retailers do not deliberately overstock 
+
+
+-  They have limited storage facilities and shelf space and an opportunity cost in terms of time and space 
+
+
+-  If they carry an item that does not sell ,  albeit one that can be returned ,  they lose the margin that they could have earned by stocking and shelving an item that would have sold 
+
+
+-  Accordingly ,  they have no incentive to stock an item that they know will not sell 
+
+
+-  ,  One obvious cost of  returns policy is the organizing ,  packing ,  and shipping of products back and forth 
+
+
+-  In the textbook industry ,  logistics cost about 35 cents on every dollars worth of books in inventory at the end of the academic term ,   cost of 22 cents for the bookstore and 13 cents for the publisher 
+
+
+- 20 ,  Another cost is the depreciation that the manufacturer incurs on returned items 
+
+
+-  Returned items depreciate for several reasons  they may be damaged in shipment ,  decay physically ,  and lose their marketability over time 
+
+
+-  Generally ,  the depreciation is the difference between the salvage value and the cost of production 
+
+
+-  The higher this depreciation ,  the more the returns policy will cost 
+
+
+-  The factors of logistics costs and economic depreciation are related 
+
+
+-  For magazines ,  newspapers ,  and books ,  the logistics costs are so high relative to the salvage value that some publishers ask bookstores to destroy the items rather than ship them back 
+
+
+-  ,  For returned items ,  the relevant production cost is the incremental cost ,  excluding indirect costs 
+
+
+-  The incremental costs of producing books ,  CDs ,  computer software ,  and pharmaceuticals are quite low 
+
+
+-  For instance ,  the cost of pressing  CD is about $1 or  percent to 10 percent of the retail price 
+
+
+-  For software and pharmaceuticals ,  incremental manufacturing costs are so low that ,  even though returned items may have no value at all ,  manufacturers lose relatively little on returned items 
+
+
+-  ,  By contrast ,  the incremental costs of manufacturing consumer electronics such as color TVs and video recorders are quite high 
+
+
+-  These products are bulky and sensitive to mishandling; hence ,  the logistics of dealing with returns is relatively costly 
+
+
+-  Accordingly ,  manufacturers of consumer electronics are relatively stringent about accepting returns of their products 
+
+
+-  ,  Absent returns policies ,  the manufacturer can avoid the incremental costs of not accepting returns; it will incur the indirect costs whether it accepts returns or not 
+
+
+-  Thus the manufacturer should focus on incremental costs when considering  returns policy 
+
+
+-  ,  One of the few certainties about the demand for new books ,  CDs ,  and software is that it is uncertain 
+
+
+-  With consumers increasing cost-consciousness ,  forecasters cannot even predict the demand for new pharmaceuticals 
+
+
+-   returns policy transfers the cost of excess stocks from retailers to the manufacturer and encourages retailers to increase their stocks 
+
+
+-  The more uncertain demand is ,  the greater the cost of  returns policy to the manufacturer will be 
+
+
+- 21 ,  Demand uncertainty ,  however ,  means that retailers are not necessarily more willing to carry risk than the manufacturer 
+
+
+-  The more uncertain that demand is ,  the more retailers will press for returns privileges 
+
+
+-  So ,  if demand is very uncertain ,  the best arrangement is for the manufacturer and retailers to compromise and share the risk 
+
+
+-  Later ,  we discuss how partial returns policies share risk between the manufacturer and retailers 
+
+
+-  ,  Retailers ,  as well as manufacturers ,  play  role in promoting retail sales ,  by merchandising ,  doing point-of-sale advertising ,  and providing attractive shelf space 
+
+
+-  By reducing the risk of losses due to excess inventory ,   returns policy lessens some of the retailers incentive to invest in such efforts 
+
+
+- 22 ,  Thus the manufacturer faces  trade-off in accepting the risk ,  which dulls retailers incentives ,  or passing the risk to retailers ,  which may undermine its own commitment to the product 
+
+
+-  To strike the correct balance ,  the manufacturer must consider the relative strength of its influence versus the retailers influences on retail sales 
+
+
+-  The relatively stronger party needs  larger share of the incentive and hence should carry  larger share of the risk 
+
+
+-  ,  For example ,  besides producing books under their own imprints ,  some book publishers print and publish for third parties under other imprints 
+
+
+-  These third parties manage their own marketing ,  pricing ,  and distribution 
+
+
+-  Because Irwin has relatively little control over the imprints ,  it does not accept returns ,  although it has returns policies for its own imprints 
+
+
+- 23 ,  When implementing  returns policy ,  the simplest way to address the retailers incentive to overstock and avoid point-of-sale marketing efforts is for the manufacturer to offer  partial returns policy; it rebates only part of the wholesale price for returned items 
+
+
+-  In this way ,  the manufacturer and the retailers share the risk ,  thus providing some incentive for all parties to do their part 
+
+
+- 24 Partial risk gives the manufacturer an incentive to support the product and to select new introductions carefully 
+
+
+-  Similarly ,  partial risk gives retailers the incentive to order conservatively and promote the product 
+
+
+-  The charge for or limit on returns need not necessarily be linked to logistics costs 
+
+
+-  The charge for returns that achieves this objective could be more or less than the logistics costs 
+
+
+-  ,  Another partial returns policy is one with  time limit for returns 
+
+
+-  Big State ,  an independent distributor of recorded music ,  limits returns by quantity and time 
+
+
+-  ,  Another way to limit returns in  more focused way is to figure  retailers returns history into decisions on pricing ,  credit ,  and even on whether to continue dealing with the retailer 
+
+
+-  The falling costs of information technology facilitate monitoring quantities and returns ,  something publishers routinely do 
+
+
+-  ,  Manufacturers should not view returns as just  problem that proper implementation can help control 
+
+
+-   returns policy can be an important element of  program to improve quality 
+
+
+-  Although management may exercise great care in design ,  testing ,  and inspection ,  unanticipated snags can arise with any product 
+
+
+-  These problems can fester and grow without management ever learning the cause of failure 
+
+
+-  As the manufacturers immediate customer ,   retailer can provide guidance ,  suggestions ,  technical assistance ,  and even development support 
+
+
+-  By instituting  returns policy ,  management can effectively and visibly involve retailers in the quality improvement process 
+
+
+-  Management found nothing wrong with the returned products and guessed that the end users had bought super VGA monitors without the corresponding super VGA cards 
+
+
+-  To resolve this problem ,   team from the University of California-Los Angeles recommended that the distributor bundle cards with the monitors 
+
+
+-  This was an instance in which  product met technical specifications ,  yet failed because customers did not use it correctly 
+
+
+-  The distributors returns policy identified the cause of the problem 
+
+
+-  ,  We have found  number of factors that should influence  manufacturer to accept returns  ( see Table  )  
+
+
+-  What should  manufacturer do when these factors carry different weights with different retailers? How should  manufacturer deal with  mix of retailers that differ in risk aversion ,  competitiveness ,  and skepticism?  time-consuming ,  costly way is to tailor  returns policy for each retailer 
+
+
+-  Another way is to design  menu of alternative returns policies ,  in which options with more generous returns privileges are coupled with higher wholesale prices ,  and allow every retailer to choose among the options 
+
+
+- 26 For instance ,  McKesson offers  returns program that features  host of options that trade off returns policies with wholesale price discounts 
+
+
+-  The lowest wholesale price comes with very strict limits on returns and  restocking fee for any returned merchandise 
+
+
+-  The guaranteed sale option ,  on the other hand ,  offers the most liberal returns policy but  higher wholesale price 
+
+
+-  For instance ,  some publishers offer bookstores cash benefits in return for tighter controls on returns 
+
+
+-   small bookstore may prefer  comprehensive returns policy at the expense of higher wholesale prices ,  whereas  large chain ,  which can easily reshuffle books among its various outlets ,  might prefer  lower wholesale price with no right to return unsold products 
+
+
+- 27 ,  Any manufacturer may find that the benefits and costs of  returns policy pull in different directions 
+
+
+-  For instance ,   new entrant may be under pressure from retailers to accept returns but may have less financial capacity to bear the risk 
+
+
+-  Or ,  in the case of  new consumer electronic category like the Sony/Philips mini-disc ,  retailers may fear that the product will fail and press for returns privileges ,  but manufacturers may worry about the logistics and excessive production costs 
+
+
+-  ,  Whether  manufacturer should accept returns depends on the balance between the benefits and costs 
+
+
+-  Our analysis explains why returns policies are commonplace for some products and rare in others 
+
+
+-  For instance ,  the costs of producing books ,  CDs ,  and computer software are so low that ,  even though returned items may have no value at all ,  manufacturers lose relatively little on returns policies 
+
+
+-  Moreover ,  manufacturers must constantly push new titles to skeptical retailers 
+
+
+-  By using our framework ,  management can optimize the use of returns policies and avoid many problems that have beset returns policies in other industries 
+
+
+-  But this long-established pattern is rapidly giving way to cooperation ,  with both sides working together to streamline the distribution channel system 
+
+
+-  Examples of channel partnerships cover the full spectrum of contemporary retailing 
+
+
+-  Perhaps most often cited is Wal-Mart and Procter  Gambles partnership ,  initiated in 1985 
+
+
+-  Lou Pritchard ,  then sales vice president of P&G ,  has recounted how he and the late Sam Walton developed the concept of  partnership built on trust and committed to  shared vision  meeting the customers needs while driving out excess costs in the system by changing it 
+
+
+-  Aided by new information technologies such as electronic data interchange  ( EDI )  ,  the two companies dramatically improved the efficiency of their product flows: P&Gs on-time deliveries to Wal-Mart improved significantly ,  while inventory turnover increased dramatically 
+
+
+-  Kmart and other discounters were quick to establish their own partnerships ,  followed by conventional department stores  ( such as Mercantile Stores )  and specialty chains 
+
+
+-  ,  More recently ,  channel partnerships have become popular in the apparel industry 
+
+
+-  VF Corporation ,  Levi Strauss ,  and other leading manufacturers have formed quick response partnerships with both discounters and department stores 
+
+
+-  By early 1993 ,  VF had some 300 partners in its flow replenishment system and promoted the partnership idea with advertisements in trade publications 
+
+
+-  ,  Channel partnerships have been hailed as the embodiment of  new philosophy for buyer-seller relations  one that can be applied well beyond the consumer products marketing arena 
+
+
+-  The concept uses modern information and communications technologies to lower costs and improve service to the customer 
+
+
+-  The customer can be  nurse obtaining supplies in  hospital ,   factory worker being supplied with  component ,  or  consumer buying apparel in  department store 
+
+
+-   CSC Index Group report on channel partnership ,  for instance ,  cites examples of successful partnerships in hospital supply distribution ,  in marketing of pharmaceuticals to veterinarians ,  and in retailing 
+
+
+-  ,  In this article ,  we focus on partnerships between retailers and their suppliers ,  which are spreading quickly and have potentially enormous impact on marketing efficiency 
+
+
+-  We address the following questions: ,  Our analysis is based on interviews with retailers and manufacturers that are utilizing partnerships and with consultants in the field ,  as well as on published accounts and presentations at industry and academic conferences 
+
+
+-  ,  While the term channel partnership has been used to designate  variety of relationships between buyers and sellers ,  we define it as an ongoing relationship between  retailer and an independent supplier in which the parties agree on objectives ,  policies ,  and procedures for ordering and physical distribution of the suppliers products 
+
+
+-  Some partnerships also include agreements for packing ,  price marking ,  new product development and testing ,  and/or joint sales promotion activities ,  but the primary focus is almost always on ordering and physical distribution 
+
+
+-  Thus channel partnerships might also be called supply partnerships 
+
+
+-  ,  Our definition of  channel partnership is similar to Johnston and Lawrences definition of  value-adding partnership ,  which they characterized as a set of independent companies that work closely together to manage the flow of goods and services along the entire value-added chain 
+
+
+-  Channel partnerships that involve only retailers and producers of finished goods do not encompass the entire value-added chain ,  but some partnerships also include upstream suppliers of semifinished materials or components 
+
+
+-  Hammond points out that quick response capabilities at the point of contact with the end user depend on the capabilities of the business units at all stages of  channel or global value chain 
+
+
+-  For this reason ,  fabric producers have actively promoted partnerships in which they join with their immediate customers  ( apparel manufacturers )  and retailers to improve the overall flow of goods and information 
+
+
+-  ,  When  retailer and  supplier agree to work as partners ,  there is  dramatic change in the way they deal with each other ,  as Richard Bravmen of Symbol Technologies described at  Quick Response Conference: ,  One way to coordinate merchandise flows through  channel is with vertical integration   
+
+
+-  Some retail chains such as The Limited ,  whose wholly owned subsidiary Mast Industries serves as its primary supply source ,  use this approach 
+
+
+-  Channel partnerships seek to achieve some of the efficiencies of vertically integrated systems without common ownership 
+
+
+-  ,  In some ways ,  channel partnerships are similar to franchise systems ,  as in the auto industry ,  and exclusive distribution networks ,  such as Benettons 
+
+
+-  But ,  while the latter systems are based on exclusive supply agreements ,  channel partnerships are usually nonexclusive 
+
+
+-  One exception is Levi Strausss relationship with Designs Exclusively Levi Strauss  Company ,   specialty chain that carries only Levis products 
+
+
+-  For most retailers ,  it is essential to work with multiple suppliers because no one producer can supply all the lines the retailer carries 
+
+
+-  ,  The basis of  cooperative relationship between  retailer and  supplier is not new; there have been partnerships in various forms for many years: ,  These partnerships differ from the channel partnerships that began to emerge in the late 1980s in that  single supplier is responsible for managing  product category 
+
+
+-  Contemporary channel partnerships ,  as noted earlier ,  are almost always nonexclusive 
+
+
+-  ,  The recent emergence and rapid adoption of the partnership concept has been made possible by the increasing availability ,  reliability ,  and declining cost of digital information/communication technologies 
+
+
+-  The critical technologies for implementing channel partnerships include bar coding ,  scanning at the point of sale and elsewhere ,  EDI ,  and database management 
+
+
+-  ,  The establishment of industry standards for product identification and data interchange have also facilitated partnerships 
+
+
+-  Standards in the apparel industry developed after fabric and apparel manufacturers and retailers demonstrated potential partnering benefits in tests during 1986 to 1988 
+
+
+-  Without industry standards ,  companies seeking to cooperate with their suppliers and/or customers would be confronted by  babel of incompatible ,  proprietary systems and procedures that would make the whole idea extremely costly ,  if not impossible 
+
+
+-  ,  While adequate technology coupled with industry standards are necessary conditions for effective channel partnerships ,  they are insufficient for their acceptance 
+
+
+-  Supermarket chains ,  food wholesalers ,  and their suppliers adopted bar coding ,  scanning ,  and EDI based on industry standards several years earlier than in the apparel industry 
+
+
+-  But there were few channel partnerships in the food distribution system as of late 1994 
+
+
+-  Apparently managers need other incentives to convince them of the necessity for partnerships 
+
+
+-  ,  In the apparel industry ,  one factor motivating retailers and suppliers to change their operations has been the rapid growth of vertically integrated specialty store chains 
+
+
+-  The entire system is centrally managed ,  based on point-of-sale  ( POS )  data captured in each store for each stockkeeping unit  ( SKU )  
+
+
+-  This system has enabled The Limited to replenish store inventories of fast-selling items rapidly while reducing prices on slow movers early in the season 
+
+
+-  As  result of this and other competitive advantages ,  the company has gained market share at the expense of department stores and traditional specialty stores; they ,  in turn ,  have been stimulated to try partnering to achieve at least some of the efficiencies of integrated systems 
+
+
+-  ( Perhaps partly as  result ,  department stores appeared to regain some lost market share in the early 1990s 
+
+
+-  In 1984 ,  in an effort to stem the import tide ,  domestic textile and apparel producers formed an association called Crafted With Pride in the  
+
+
+-  Initially ,  CWP attempted to influence consumers to buy domestic products through an advertising campaign and product labels 
+
+
+-  Later ,  CWP shifted its focus to providing superior service to retailers ,  based on the advantages of local domestic production 
+
+
+-  This was the starting point for the quick response  ( QR )  movement ,  which became ,  to some degree ,  self-reinforcing as industry executives ,  consultants ,  and publications vied with each other to preach the gospel of quick response 
+
+
+-  ,  For some retailers ,  an important impetus to partnering has been the growing competition among different retail formats 
+
+
+-  Warehouse clubs and deep-discount drugstores enjoyed rapid growth during the 1980s ,  creating strong competitive pressures for established retailers ,  especially conventional supermarkets 
+
+
+-  In response to these pressures ,  the major food industry trade associations commissioned  study showing the potential efficiency gains that could be achieved by efficient consumer response ,  in which distributors and suppliers would work together to bring better value to the grocery consumer 
+
+
+-  ,   final factor that stimulated interest in channel partnerships has been the growth of just-in-time delivery systems in automotive and other industries 
+
+
+-  These systems are functionally very similar to the ones used for finished goods in retail stores 
+
+
+-  ,  By mid-1993 ,  many different types of retailers and suppliers had formed numerous channel partnerships  ( see Table  for examples of the partnerships diversity )  
+
+
+-  While most partnerships have dealt with ordering and distributing basic products with relatively long life cycles ,  The Limiteds experience indicates that the approach can also be used ,  with some modifications ,  for fashion apparel 
+
+
+-  While only large companies are listed in Table  ,  some small firms ,  such as Warren Featherbone ,   producer of childrens clothing with annual sales of about $20 million ,  have successfully implemented partnerships 
+
+
+-  ,  Bar coding ,  scanning ,  EDI ,  and other digital technologies can improve efficiency and effectiveness in one of two ways: by automating existing processes or by reengineering them 
+
+
+-  The distinctive advantage of channel partnerships is that they allow more fundamental modifications in merchandising and distribution processes than suppliers or retailers could achieve if they continued to act independently 
+
+
+-  For this reason ,  we believe that successful channel partnerships will be based on  joint approach to reengineering rather than simply automating traditional procedures 
+
+
+-  As  food industry study of efficient consumer response  ( ECR )  pointed out ,  Automating inefficient business processes is both complex and ineffective 
+
+
+-  ECR focuses first on reengineering business processes to make them efficient ,  then automating them ,  at much lower cost ,  to further reduce wasted time and cost 
+
+
+- 10 ,   logical starting point for process improvement is to document the existing steps 
+
+
+-  In this section ,  we describe the typical stages in the traditional  ( prepartnership )  merchandising and distribution processes that retailers and suppliers ,  independent of each other ,  employ 
+
+
+-  In the following section ,  we explore how partnerships are reengineering the processes to be more effective and efficient 
+
+
+-  ,  The main steps involved in conventional merchandising and distribution processes are outlined in Figure  
+
+
+-  The specific process components and ways to implement them vary among different retailers and products: new product development for fashion apparel ,  for example ,  differs dramatically from that for food or household products 
+
+
+-  But the process overview in Figure  is  useful general framework for analyzing the improvement opportunities channel partnerships offer 
+
+
+-  ,  The process begins when the retailer plans an assortment for  particular product category 
+
+
+-  It makes decisions on how broad the assortment of styles ,  colors ,  brands ,  and other product variations will be; how much shelf or floor space to devote to the category and how to allocate space among suppliers lines and product types; how much inventory to carry; and what type of fixtures to use 
+
+
+-  The retailer may reconsider these and related strategic questions infrequently or every season 
+
+
+-  ,  Traditionally ,   suppliers only involvement in assortment planning has been to try to gain more space or  greater share of the retailers inventory investment through personal selling efforts and trade promotion and ,  sometimes ,  by providing display fixtures 
+
+
+-  ,  Manufacturers develop and test new products and offer them to retailers ,  which place initial orders for some of the products  ( Figure  ,  box  )  
+
+
+-  Developing new products may occur on  regular ,  seasonal cycle ,  as in the apparel industry ,  or may be sporadic 
+
+
+-  ,  Traditionally ,  the manufacturer has done most new product development ,  including concept development ,  design ,  and testing before any presentation to retailers 
+
+
+-  ,  Once retailers place their initial orders ,  suppliers process the orders ,  prepare them for shipment ,  ship the merchandise to distribution centers or stores ,  and bill the retailers 
+
+
+-  The retailers ,  in turn ,  receive and check the shipments ,  redistribute them to stores if necessary ,  and make payments 
+
+
+-  ( Figure  omits these steps for initial orders to simplify the diagram 
+
+
+-  The same order placement and fulfillment steps are ,  however ,  shown for replenishment orders 
+
+
+-  )  ,  Once  retailer stocks  product ,  and assuming that its life expectancy is long enough to permit reordering ,  the next stage is to replenish retail stocks 
+
+
+-  In traditional systems ,  the retailer has been responsible for most or all resupply tasks ,  including recording sales ,  returns ,  and merchandise transfers ,  calculating and/or checking inventory ,  forecasting future needs ,  checking proposed purchases against financial limits  ( open to buy control )  ,  and placing orders 
+
+
+-  The retailer usually transmits orders by telephone ,  mail ,  or ,  more recently ,  fax 
+
+
+-  The suppliers role in replenishment is to influence buying decisions through selling efforts and promotion; in some cases ,  suppliers have helped retailers in manual inventory checking 
+
+
+-  ,  Traditionally ,  whether  product could be reordered at all has depended not only on the expected duration of consumer demand but also on the time required to fill retailers orders 
+
+
+-  Often ,  even products with relatively long life expectancies  up to six months cannot be reordered within  season ,  with the result that popular styles and colors are frequently out of stock 
+
+
+-  ,  When an order is placed ,  the supplier responds with  series of order processing and shipment steps 
+
+
+-  This process includes receiving the purchase order and entering it in an order processing system ,  checking credit ,  assembling the order ,  packing ,  invoicing ,  and arranging to ship ,  typically via common carrier 
+
+
+-  In most cases ,  replenishment orders are filled from the suppliers finished-goods stock 
+
+
+-  In the apparel industry ,  many orders are shipped incomplete or even with substitutions of one item for another 
+
+
+-  ,  Shipments to  retailers distribution center or stores are usually handled by the lowest-cost common carrier ,  with no concern for reducing transit time 
+
+
+-  ,  As orders are shipped ,  the supplier enters them into an inventory control system  ( box  )  
+
+
+-  The supplier then uses the information about shipments and inventory ,  along with current assessments of market conditions ,  to forecast sales and schedule production and purchases accordingly 
+
+
+-  In traditional systems ,  the supplier relies primarily on analysis of its own shipment data ,  perhaps supplemented with field sales personnels information about retail sales trends 
+
+
+-  ,  The retailers distribution center  ( in some cases ,  the stores )  receives incoming orders from suppliers and redistributes them to individual stores 
+
+
+-  The retailer checks the shipment against the suppliers invoice and the original purchase order ,  records any discrepancies ,  and inspects the merchandise for defects 
+
+
+-  ,  If the shipment is received at  distribution center ,  it may be allocated to individual stores or added to reserve stock after arrival  ( postdistribution )  
+
+
+-  Alternatively ,  the shipment may arrive in batches that have already been assigned to stores 
+
+
+-  Such predistributed shipments are transferred as quickly as possible to the stores to minimize delays 
+
+
+-  In the apparel industry ,  typical lead times between order placement and receipt have been thirty to sixty days; this means that ,  for predistributed shipments ,  item quantities for each store have been determined long before the date on which the merchandise actually arrives at the store 
+
+
+-  ,  When the merchandise is finally on sale in the store ,  the retailer provides information and advice to customers and maintains displays 
+
+
+-  Sales personnel also observe trends and report them to department managers and/or buyers 
+
+
+-  ,   primary goal of channel partnerships is to reengineer processes to decrease the total system cost ,  shorten the time to replenish inventories ,  and reduce the amount of inventory carried in  channel 
+
+
+-  Ideally ,   task force including both retailer and supplier representatives redesigns  merchandising and distribution process 
+
+
+-  Improvements in the process may include: ,  Few ,  if any ,  partnerships have evolved to the point where they include all the process changes we describe 
+
+
+-  In fact ,  most currently focus on replenishment ,  order processing ,  and receiving and distribution 
+
+
+- 11 The basic steps in automatic replenishment are outlined in Figure  
+
+
+-  ,  Ordering basic merchandise begins with the electronic capture of sales information at the point of sale  ( shown in Figure  ,  box  )  by using UPC-coded price tickets and scanning technology to update inventory records instantaneously 
+
+
+-  Periodically ,  the amount of inventory of each SKU is compared with the amount specified in the model stock that the supplier and the retailer jointly develop for each store 
+
+
+-  The model stock for an item is usually based on its recent sales history ,  modified to account for anticipated promotional activities and market trends 
+
+
+-  More advanced systems combine dynamic modeling of sales trends with managers judgment to allow for continuous revision of stock levels ,  thereby tying orders even more closely to unfolding market demand 
+
+
+-  ,  The model stock quantity for an SKU is set at  level sufficient to cover expected demand ,  with  prespecified probability ,  between the placement of an order and its arrival at the store 
+
+
+- 12 Often the model stock quantity is determined to provide  95 percent service level  ( probability of being in stock )  for each SKU 
+
+
+-   major benefit of the partnership approach to the retailer is that well-designed model stocks yield significantly higher rates of inventory turnover than traditional merchandising methods 
+
+
+-  For example ,  in the flow replenishment system at Vanity Fair Mills ,  department store model stocks of intimate apparel are designed to produce an annual turnover rate of four ,  about twice as rapid as the recent average for this type of store 
+
+
+-  ,  In principle ,  POS data can be used to generate replenishment orders whenever the inventory of any SKU falls below  prespecified level 
+
+
+-  In practice ,  most partnerships call for orders to be placed at fixed intervals such as every week or every two weeks 
+
+
+-  In some cases ,  POS data are sent directly from each store to the supplier; alternatively ,  the POS data may be aggregated for all the stores served by  retailer distribution center 
+
+
+-  ,  As shown in boxes 3a and 3b in Figure  ,  replenishment orders can be created in any of three ways: ,  Orders from retailers or the supplier are used to create warehouse order-picking documents 
+
+
+-  Increasingly ,  apparel and other manufacturers are applying price tickets to their products and making them floor ready 
+
+
+-  These tasks are shifted from store personnel to the supplier ,  which can usually do them more efficiently 
+
+
+-  ,   key feature of channel partnerships in apparel and some other product categories is the suppliers commitment to quick response 
+
+
+-  This may mean ,  for example ,   promise to ship core items five days after receiving an order 
+
+
+-  Some manufacturers ,  such as Vanity Fair Mills ,  have adopted modular manufacturing systems to achieve quick response ,  which requires  complete reorganization of production processes ,  including retraining ,  investment in additional equipment ,  and changes in compensation 
+
+
+- 13 ,  Outgoing orders are usually packed and marked for individual stores 
+
+
+-  They may also be shipped directly to the stores ,  assuming that this does not lead to uneconomical ,  small shipments 
+
+
+-  An alternative is to ship the orders ,  designated and marked for each store ,  in  single batch to the distribution center 
+
+
+-  At the distribution center ,  the orders are cross-docked and shipped to the stores  ( together with orders from other suppliers )  with minimal delays 
+
+
+-  Some retailers prefer to receive combined shipments at their distribution centers ,  delaying the allocation of merchandise by stores until that time 
+
+
+-  The rationale for this postdistribution approach is that it permits changes in allocating merchandise based on sales during the time between preparation of an order and its receipt ,  but the delay and additional merchandise handling is  matter of some dispute 
+
+
+-  ,  Whether shipments are made to distribution centers or directly to stores ,  the supplier can notify the retailer of the shipments electronically ,  which allows the retailer ,  in cooperation with the carrier ,  to schedule arrival and handling 
+
+
+-  Many carriers ,  like Federal Express ,  can track shipments in transit and provide revised schedule information when needed 
+
+
+-  ,  Scannable shipping container labels serve as the link between each carton in the shipment ,  the automatic shipping notice ,  and the original purchase order 
+
+
+-  Shipping container marking  ( SCM )  technology has greatly improved the efficiency of receiving and store distribution tasks at the retailers distribution center or at the store level 
+
+
+-  On receipt of  shipment ,  carton labels are scanned to determine the order ,  the cartons contents ,  and the store to which the carton should be cross-docked 
+
+
+-  With increasing trust ,  retailers replace complete verification of the order with statistical sampling of the vendors shipping accuracy 
+
+
+-  Thus ,  for many of the most efficient partnerships ,  floor-ready shipments arrive at the retailers distribution center ,  are scanned ,  and are then cross-docked to trucks bound for the individual stores without the containers ever being opened 
+
+
+-  ,  In some partnerships ,  retailers can pay for received shipments electronically and ,  in many cases ,  automatically ,  when sign-off on the shipment triggers the payment 
+
+
+-  With increasingly sophisticated automatic replenishment systems ,  retailer payment for inventory can occur as the stock is being sold to the consumer 
+
+
+-  ,  Several field tests have shown the potential benefits of reengineered merchandising and distribution processes 
+
+
+-  The tests demonstrated that the time between the sale of an item and its replenishment in  retail store could be reduced by as much as 75 percent 
+
+
+-  Subsequent quick response projects at Dillard Department Stores ,   
+
+
+-  Penney ,  and Wal-Mart supported the Kurt Salmon tests by showing increases in sales of 20 percent to 25 percent ,  improvements of 30 percent in inventory turnover ,  and gains in in-stock performance from 70 percent or 75 percent to 95 percent or more 
+
+
+- 14 ,  More recently ,  Kurt Salmon Associates has prepared  study for the Efficient Consumer Response Working Group ,   consortium of grocery retailers and manufacturers interested in promoting channel partnerships in the dry grocery business 
+
+
+- 15 This study indicated that the time between production of an item and its purchase could be reduced from 104 days to 61 days with  partnership approach based on process reengineering 
+
+
+-  In the traditional system ,  inventory was pushed through the channel ,  with consumer acceptance taking  backseat in the ordering process 
+
+
+-  Buyers ,  focusing on gross margin percentages ,  were tempted by the promotional deals to buy aggressively and ,  in the dry grocery business ,  even adopted forward buying policies in which products were bought only when deals were available 
+
+
+-  As  result ,  total inventories in the food distribution channel are significantly greater than they would be if purchases were timed to meet consumer demand patterns 
+
+
+- 16 With point-of-sale purchase data as the driver ,  the new approach uses consumer demand to pull inventory through the channel 
+
+
+-  It thus results in less inventory held by both parties ,  higher in-stock rates ,  fewer markdowns ,  and ultimately greater sales to the consumer 
+
+
+-  ,  While virtually all the channel partnerships that have formed so far are designed to improve the efficiency of order handling and shipping processes ,  there are other ways to cooperate that are logical extensions of retailer-supplier partnerships 
+
+
+-  These include joint new product development and testing ,  deeper involvement of suppliers in assortment planning ,  and joint promotional programs 
+
+
+-  ,  Some partnerships ,  after experiencing success in automatic replenishment ,  have turned their attention to improving new product development 
+
+
+-  Their primary goals are to speed the time to market and ,  thereby ,  improve the market acceptance of product introductions 
+
+
+-  ,  Integrated computer systems and computer-aided design have facilitated not only the development process but also the presentation of new products to retailers ,  particularly in the apparel business 
+
+
+-  Video conferencing has also been used to facilitate this joint process 
+
+
+-  ,  Retailers are also getting more involved in new product testing before introduction ,  in either market tests or surveys in which the retailers customers give their opinions on potential market acceptance 
+
+
+-  This has proved particularly beneficial in the apparel business where ,  until recently ,  there has been relatively little market testing of new designs 
+
+
+-  ,  When  retailer and  supplier agree on  model stock for the suppliers line ,  they are jointly planning  product assortment 
+
+
+-  In most partnerships ,  the scope of the assortment planning is limited to  single suppliers product line and is typically based on the retailers recent sales history 
+
+
+-  ,  Innovations in assortment planning revolve around the concept of category management ,  in which  retailer works with one or  few suppliers to analyze and manage  given product category as  strategic business unit 
+
+
+-  They evaluate the performance of each SKU in  category on the basis of its rate of sale ,  gross margin ,  direct product costs ,  and space utilization 
+
+
+-  Retailers that have adopted category management develop sophisticated space-allocation models that combine store-level POS data with direct product cost information to make store-by-store assortment and display decisions on the basis of direct product profitability 
+
+
+-  ,  In the dry grocery business ,  some suppliers have lent their marketing and technical expertise to help their customers design and utilize category management systems 
+
+
+-  After  six-month study of  partners dairy case ,  Krafts recommendations for space allocation led to increased volume and reduced out-of-stocks for the retailer and better positioning and higher sales for Kraft 
+
+
+- 17 ,   third area in which the scope of retailer-supplier partnerships might be extended is that of joint sales promotion programs 
+
+
+-  Some suppliers are exploring the potential of direct marketing programs geared to consumers characteristics in individual store trading areas 
+
+
+-  Direct marketing messages can ,  for example ,  be tailored to appeal to teenagers ,  senior citizens ,  or other groups heavily represented in  particular trading area 
+
+
+-  Tailored marketing communications ,  together with adaptation of  stores product assortment to its customers needs ,  can enable suppliers and retailers to achieve even greater shared efficiencies 
+
+
+-  ,  There is much still to be learned about how channel partnership arrangements evolve over time 
+
+
+-  The experiences of suppliers and retailers to date provide some suggested requirements for establishing and maintaining  successful partnership 
+
+
+-  Kurt Salmon Associates explained the adoption of quick response in the general merchandise industry: ,   second prerequisite is top managements full commitment 
+
+
+-  Successful partnering inevitably means major changes in the way each party operates 
+
+
+-  Top management must support the changes in systems ,  organizational structure ,  and culture 
+
+
+-  Partnering can be very difficult if functional specialists are not accustomed to working with their counterparts in other departments and still less with specialists on the other side of the partnership 
+
+
+-  In  retail organization ,  for example ,  implementing automatic replenishment requires the joint efforts of the buying organization ,  information systems ,  distribution ,  and store management 
+
+
+-   few retailers have accomplished this by adopting  category management organization structure ,  with the category manager as the leader of the cross-functional team 
+
+
+-  Other companies have established ad hoc task forces to design and install the procedures and facilities for  partnership and/or have established the position of director of partnership programs 
+
+
+-  Typically ,  the director acts as  staff coordinator in setting up and managing partnerships 
+
+
+-  ,  Top management must also work to change the adversarial attitudes that have traditionally characterized relations between retailer buyers and vendor salespeople 
+
+
+-  Since trust is  critical issue in building and maintaining partnerships ,  it is imperative to change organizational cultures on both sides and regard partners as collaborators rather than adversaries 
+
+
+-  ,  Related to cultural change is the issue of incentives for retail buyers and supplier salespeople 
+
+
+-  To provide incentives for the effective functioning of  partnership ,  companies must develop compensation systems that reward both buyers and salespeople ,  at least in part ,  on the basis of common performance measures 
+
+
+-  These might include some of the same measures used to assess overall partnership performance ,  as we discuss later 
+
+
+-  ,  In some of the most notable partnerships ,  including Wal-Mart and P&G ,  the vendors commitment to relocate some of its staff near the retailer has been critical to establishing and maintaining the new systems 
+
+
+-  Most vendors are unwilling or unable to make this level of commitment 
+
+
+-  In many cases ,  it is difficult even to provide dedicated staff for the partnership 
+
+
+-  When dedicated staffing is impossible ,  confidentiality can become  sensitive issue on both sides 
+
+
+-  ,  Another issue concerns who bears the cost of cleaning out old inventory before introducing automatic replenishment 
+
+
+-  Retailers face the task of reducing their inventories through markdowns to the model stock level 
+
+
+-  In most cases ,  partners must negotiate who absorbs the cost of the markdowns 
+
+
+-  As noted above ,  the manufacturer can take full responsibility for replenishing retailer shelves ,  the manufacturer can suggest an order with retailer approval ,  or the retailer has full responsibility for ordering 
+
+
+-  The adopted approach often depends on the sales predictability in the merchandise category ,  the forecasting skill of each party ,  and the trust the retailer has in the manufacturer 
+
+
+-  ,  Maximizing the benefits of efficient merchandise and information flow may require both retailers and manufacturers to change prices 
+
+
+-  The success of automatic replenishment depends on the accurate sales forecasts used to develop model stocks 
+
+
+-  Promotional price reductions induce spikes and troughs in retail sales ,  which increase the complexity of the forecasting task 
+
+
+-  And retailers that rely on periodic promotions may hesitate to reduce their safety stocks for fear of being out of stock on  key promotional item 
+
+
+-  Manufacturers trade promotions are also problematic because they encourage retail buyers to load up on discounted items in excess of the ideal replenishment quantity 
+
+
+-  Given this incompatibility between promotional pricing and the efficiency goals of partnering ,  it is not surprising that many leaders in the partnership movement ,  including Wal-Mart ,  Dillards ,  and Procter  Gamble have everyday low pricing policies 
+
+
+-  ,  Measuring  partnerships progress should be linked to the goals of lowering costs and improving service to the customer 
+
+
+- 19 The nonfinancial measures include time-based measures that break down the time between order generation and restock; reliability measures such as POS data accuracy and order lead times; yield measures such as the proportion of merchandise sold at full price; and measures of customer satisfaction 
+
+
+-  In addition ,  we suggest measures of inventory levels  ( days of inventory )  or ,  equivalently ,  inventory turnover rates ,  vendor shipment accuracy ,  and in-stock levels  ( percent of time an SKU is in stock )  
+
+
+-  Careful benchmarking of these process measures over time energizes the partners ,  highlights potential problem areas ,  and provides  leading indicator of financial performance ,  which may not improve in the early phases of  partnership 
+
+
+-  ,  Financial measures include return on investment for  product category and direct product profit for  category and individual SKUs 
+
+
+-  These measures differ from the gross margin and net sales measures traditionally used to evaluate category and item performance 
+
+
+-  Because most retailers have yet to develop disaggregate cost data for individual products ,  many use gross margin return on investment to measure the progress of their partnership efforts 
+
+
+-  ,  We have described  new approach to manufacturer-retailer relationships  one that relies on trust and collaboration  to improve the flow of goods and information 
+
+
+-  This approach has been widely adopted by suppliers and retailers in the grocery ,  household appliances ,  and hardware and housewares industries ,  in addition to the general merchandise industry 
+
+
+-  However ,  there are still several issues to resolve: ,  How widespread will channel partnerships eventually become? Many argue that retailers and manufacturers that choose not to partner will find it nearly impossible to compete with the more efficient ,  effective business systems of those that do 
+
+
+-  By this logic ,  partnering will not necessarily provide  lasting differential competitive advantage ,  but it will be  prerequisite for competing in the future retail arena 
+
+
+- -based company sells prestigious high-priced liquor under the same established brand name in almost every country around the world 
+
+
+-  Recently ,  the director of global marketing at corporate headquarters received strong complaints from the head of the companys subsidiary in Japan about the substantial quantities of the product that had entered Japan through the gray market 
+
+
+-  The gray market products are sold at  considerable discount ,  thus cannibalizing product sales through authorized channels and threatening the high-prestige image of the product in Japan 
+
+
+-  ,  The homogenization of customer demand around the world ,  the lowering of trade barriers ,  and the emergence of international competitors all contribute to the pressure on companies to market truly global products ,  that is ,  products that are almost identical everywhere and backed by global advertising strategies 
+
+
+-  Examples are such products as Coke and Pepsi-Cola ,  Levis jeans ,  Swatch watches ,  Nikon and Minolta 35mm cameras ,  Sony car stereos ,  Honda Civic or BMW 320i cars ,  Caterpillar tractors ,  and Vizir ,   liquid detergent from P&G Europe 
+
+
+-  ,  At the same time ,  these largely undifferentiated global products are sold at different prices in different countries ,  based on such factors as purchasing power ,  exchange rate changes ,  and competition 
+
+
+-  Because of readily available ,  inexpensive information on worldwide prices made possible by modern data transfer and telecommunications systems and low transaction costs ,  such global products are often threatened by gray markets that cannibalize sales in countries with relatively higher prices and damage relationships with authorized distributors ,  as the opening example illustrates 
+
+
+-  ,  In this paper ,  we discuss how multinationals are addressing the gray market threat through various price coordination methods 
+
+
+-  These companies control the threat without resorting to drastic measures ,  such as differentiating the products for each country or revamping the distribution channels 
+
+
+-  Even though the coordination mechanisms are likely to incur  cost ,  they are often preferable to other measures because they allow companies to benefit from product standardization and  unified positioning strategy for their global products 
+
+
+-  ,  Research on pricing issues is underrepresented in the international marketing literature 
+
+
+-  In their research ,  Aulakh and Kotabe suggest that the reason for the neglect of this important issue is the inherent difficulty in getting information from international companies due to the sensitive nature of such information 
+
+
+-  We first examine the circumstances that have increased the threat of gray markets to multinational companies during the past few years 
+
+
+-  We then describe how multinational companies coordinate their prices in different countries and thus control the gray markets for their products 
+
+
+-  Finally ,  we summarize the costs ,  risks ,  and benefits of each approach and suggest  framework for determining the appropriate method 
+
+
+-  ,  Bucklin defines gray market goods as genuinely branded merchandise distinguished only by their sale through channels unauthorized by the trademark owner 
+
+
+-  According to Cross ,  Stephans ,  and Benjamin ,  The goods appear to be ,  and in most cases are ,  physically identical in every way ,  including their trademarks 
+
+
+-  Therefore ,  price is the major difference 
+
+
+-  Gray markets are the result of arbitrage in which companies buy  product in the market and sell it in other markets ,  benefiting from the prevailing price differential 
+
+
+-  ,  Gray market goods typically are international products with  unique brand name ,  high international price differences ,  and low costs of arbitrage 
+
+
+-  The costs connected with the arbitrage of goods from one country to the other are transportation costs ,  tariffs ,  taxes ,  and costs for modifying products ,  such as changing the usage instructions for pharmaceutical products 
+
+
+-  ,  There are three types of gray markets  ( see Figure  )  ,  In all three cases ,  gray marketers profit from trading products through channels that the manufacturer has not authorized 
+
+
+-  Some large retailers  ( for example ,  Kmart in the United States )  stock their stores with items purchased in gray markets and not from authorized distributors or directly from the manufacturer 
+
+
+-  ,  The main reasons why gray markets have become so threatening to many multinational companies are the increasing number of global products and the decreasing cost of price information in different countries 
+
+
+-  Gray markets spring up when information on prices for basically the same product in different countries is easy and cheap to get 
+
+
+-  We interviewed  gray marketer in Europe who creates markets in many product categories  ( mainly pharmaceuticals and medical equipment )  whenever price differentials between countries are large enough to support profitable operations 
+
+
+-  The basis of this gray marketers success is  large database of price lists in each relevant market for every product category where the company is active 
+
+
+-  Product specifications for every available category are backed up on CD-ROM so that customers price and quantity requests can be answered instantly 
+
+
+-  The database is updated every week by business partners in each country 
+
+
+-  Currently ,  the new price lists are sent to the information collection center via fax 
+
+
+-  ,  Direct consumer access to such  database is the next logical step 
+
+
+-  In the future ,  every consumer with  computer may have access to the prices of any number of product categories anywhere in the world ,  and will be able to buy directly from the least expensive source 
+
+
+-   human intermediary will not be needed for the creation of gray markets 
+
+
+-  ,  Changes in exchange rates that cause products to become more expensive in one country than in another also create gray markets 
+
+
+-  gray market expanded because of the high dollar exchange rate in the early 1980s 
+
+
+-  gray market was estimated at $7 billion per year with an annual growth rate of 20 percent 
+
+
+-  After  substantial devaluation of the dollar versus other major currencies in the late eighties ,  the United States has become relatively inexpensive and is currently  source country for gray markets 
+
+
+-  ,  Gray markets also exist without any exchange rate fluctuations ,  simply because the price in each country is  reflection of local price elasticity 
+
+
+-  This explains their existence in European Common Market countries where exchange rates have not varied substantially for quite some time 
+
+
+-  In this case ,  agreements have furthered access to products in all European countries 
+
+
+-  For example ,   European Commission regulation mandates that auto manufacturers have to deliver  car to every citizen in any country of the European Union 
+
+
+-  This free access to products in the European community has not led to the harmonization of prices ,  which varied as much as 40 percent in 1991 
+
+
+-  The car buyer can order  car from  catalog for delivery in about three weeks 
+
+
+-  The buyers average savings are around 12 percent to 20 percent of the German authorized dealer prices 
+
+
+-  ,  Generally ,   certain level of gray market activity or leakage is acceptable if it leads to incremental profits without damaging relationships with the trade or customers perception of the product in the high-priced segment 
+
+
+-  Beyond  certain level ,  however ,  all gray market activities impair the companys long-term profitability 
+
+
+-  ,  If the gray goods serve an additional market segment that would not buy the product at the higher price ,  gray markets can result in higher profits for the company ,  even if the supply of gray goods cannibalizes some demand in the high-priced countries 
+
+
+-  However ,  the company must consider  number of factors 
+
+
+-  First ,  it must weigh the benefits of the incremental sales to the lower-priced segments against the losses ,  attributable to cannibalization ,  in the higher-priced segments 
+
+
+-  Then the company must consider the authorized distributors reactions to losing sales to the gray market 
+
+
+-  If their business is harmed ,  the manufacturers relationship with them could become more difficult 
+
+
+-  Finally ,  the company must consider the impact of the gray market imports on the products and trademarks image in the higher-priced countries 
+
+
+-  ,  If  company determines that the gray market activities are not acceptable ,  it may react with the following measures:  (  )  legal protection or government intervention;  (  )  restrictions of and threats to the retailers ,  perhaps with  warning that franchise rights will be forfeited;  (  )  fewer warranties for products bought on the gray market; and  (  )  acquisition of the gray marketer 
+
+
+-  ,  Typically ,  companies call for government intervention ,  demanding sanctions against unauthorized product flows across national borders 
+
+
+-  EU Commission and EU Court rulings have quashed companies attempts to single out specific country markets and treat them differently from others 
+
+
+-  paid  penalty of 700 , 000 ECU when it tried to keep its German partner ,  Herlitz AG ,  from exporting Parker pens from Germany to other European countries 
+
+
+-  )  ,  In the United States ,  there is  long history of decisions on gray markets 
+
+
+- 10 ,  In practice ,  there are only  few instances where gray markets can be legally restrained 
+
+
+-  In some way ,  all connections between manufacturer and foreign distributors are affiliations ,  leading to common control over the trademark ,  thereby condoning gray markets 
+
+
+-  ,  Instead of reacting to gray markets after they have occurred ,   well-managed multinational company should proactively prevent or at least restrict gray market activities before they occur 
+
+
+-  The company could differentiate products by changing the physical attributes of the product for sale in other countries ,  or vertically integrate ,  possibly all the way to the retail level 
+
+
+-  But these draconian measures are often associated with high costs 
+
+
+-  An alternative is restructuring pricing decisions to coordinate international prices of the global product 
+
+
+-  Coordination does not imply the same prices in all countries; the prices in individual countries still reflect the respective price elasticities as well as transaction costs 
+
+
+-  The organizational behavior literature distinguishes between formal and informal ways to coordinate 
+
+
+-  Centralization refers to the hierarchical level at which the decision authority is located 
+
+
+-  Formalization refers to the extent to which the subsidiaries making decisions at the local level have to follow headquarters policies 
+
+
+-  Ways to informally coordinate include implementing  corporate culture ,  establishing additional communication flows ,  and designing alternative reward systems 
+
+
+-  ,  Accordingly ,   multinational company has four basic options in dealing more effectively with the increased interdependence of its prices in different countries 
+
+
+-  Although  company can choose one or the other ,  it can also pursue  combination: ,   multinationals headquarters can shape pricing decisions at the country or regional level by transfer pricing ,  rationing ,  and specifying  price range 
+
+
+-  If local or regional pricing decisions are creating undesirable gray markets ,  they can be influenced by changes in the transfer price that the central organization charges the subsidiary for the product 
+
+
+-  When one multinational company in our sample discovered that large quantities of  product ended up in  high-priced country after it had sold it to  subsidiary in  low-priced country ,  the company imposed a tax on the product when it was sold to the low-priced country 
+
+
+-  That is ,  it raised its transfer price 
+
+
+-  Imposing  tax raises the marginal costs to the subsidiary ,  which now will raise the price in order to maximize the profit ,  thus reducing the price differential and making arbitrage less attractive 
+
+
+-  If  local distributor knowingly sells the product through unauthorized channels ,   tax can also be seen as  fine ,  which penalizes the subsidiarys behavior while reducing its profit 
+
+
+-  ,   companys ability to set transfer prices is ,  of course ,  often limited by country tax codes 
+
+
+-  Treasury ,  for example ,  has indicated that it will penalize multinational companies that evade taxes by manipulating transfer prices so profits appear in countries where tax rates are relatively low 
+
+
+-  Even though gray market activities may motivate the changes in the transfer prices ,  their tax implications have to be weighed as well 
+
+
+-  ,  Closely related to transfer pricing is rationing the product quantities that are allocated to each country or region 
+
+
+-  If headquarters knows roughly how many units are directed to other countries ,  it can limit ,  or even forestall ,  gray market activities by rationing the number of units sold in the diverting country 
+
+
+-  Faced with  limited quantity ,  the local manager is likely to raise the local price ,  and the price difference will decrease 
+
+
+-  Consequently ,  gray market activity will no longer be as attractive 
+
+
+-  ,  Effective use of transfer pricing and rationing assumes that headquarters has reliable information on market conditions in the countries involved in the gray market activities 
+
+
+-  But ,  perhaps even more important ,  effective application of these methods requires that the central office controls the product 
+
+
+-  This is more likely to be possible today than ,  say ,  ten years ago when local production facilities manufactured the product to the countrys specification 
+
+
+-  With the spread of globalized products ,  more multinationals have taken advantage of scale economies by centralizing production in one country and supplying other countries from there 
+
+
+-  ,   change in transfer prices and rationing causes country managers to adjust their prices so that price differences between countries become smaller 
+
+
+-  In the example above ,  the company influenced the pricing decision in the low-priced country by imposing  tax 
+
+
+-  An alternative approach for the company is to lower the transfer price in the higher-priced country where the gray goods ended up 
+
+
+-  As  rule ,  it is more desirable for the corporation to reduce price differentials by inducing the subsidiary in the low-priced country to increase its price than to get the subsidiary in the high-priced country to lower its price ,  especially if the low-priced market is relatively small and unimportant 
+
+
+-  Lowering prices in some countries could result in an erosion of the price level throughout the region ,  wiping out attractive distribution margins 
+
+
+-  This would be especially damaging if the high-priced country were also relatively large 
+
+
+-  ,  At the extreme ,  headquarters could decide to stop marketing its product altogether in  low-priced country ,  either by raising its transfer price so that it becomes unprofitable for the distributor in that country to carry it any longer ,  or simply by limiting its supply to zero 
+
+
+-  They have stopped marketing their product to relatively small low-priced countries  ( such as Greece )  ,  because the product would find its way through gray markets to high-volume ,  high-priced countries  ( such as Germany )  
+
+
+-  ,  Kucher developed  price range model that allows  company to define  price range for each country 
+
+
+- 12 Within this range ,  the country manager can set prices according to local conditions 
+
+
+-  Kuchers model has been applied successfully to several products ,  among them pharmaceuticals in European markets 
+
+
+-  In the case of two countries ,  optimal prices are computed separately for each country on the basis of country-specific price response functions 
+
+
+-  Then  profit function is generated jointly for both markets ,  with profit expressed as  function of arbitrage costs between the two countries 
+
+
+-  The specific variable used is arbitrage costs as  percentage of the higher of the two optimal prices 
+
+
+-  If this percentage rate is very high  that is ,  if the arbitrage costs are relatively high  the optimal prices will be the same as those resulting from totally autonomous price setting 
+
+
+-  Empirical studies indicate that pricing decisions are one of the most highly decentralized marketing decisions 
+
+
+- 13 ,  There are two reasons for this decentralized approach:  (  )  country managers usually can best assess customer and competitor reactions to pricing decisions in their countries; and  (  )  country-level decisions enhance the companys ability to react swiftly to changes in the competition and customer preferences 
+
+
+-  ,  The prices resulting from  decentralized approach ,  however ,  are optimal for the company as  whole only if the pricing decision in one country does not affect sales and/or profitability in another country 
+
+
+-  Country managers who act independently maximize profits by setting optimal prices for their country 
+
+
+-  If prices in one country are set significantly higher than they are in another ,  gray markets are likely to emerge ,  generating additional sales in the low-price country that reduce sales in the high-price country 
+
+
+-  Because markets in individual countries usually cannot be insulated effectively from one another ,  highly decentralized pricing decisions can be considered the cause of gray markets that create poor results for the corporation as  whole 
+
+
+-  ,  If the gray markets are directly attributable to decentralized price setting in every country ,   centralized approach in which corporate headquarters tells country managers to price  product at  prescribed level seems appropriate 
+
+
+-  In our introduction ,  the country manager for   
+
+
+-  liquor company in Japan complained about gray market imports of  high-prestige brand that were not only siphoning off sales but also undermining the brands positioning strategy in Japan 
+
+
+-  These imports were traced to the United States where they had been sold to  distributor at  highly competitive price 
+
+
+-  The distributor ,  in turn ,  had sold some of the products to an entrepreneur who realized that he could profit by parallel importing ,  that is ,  by shipping the liquor to Japan and selling it there on the gray market 
+
+
+-  The company could have told the country manager in Japan to lower prices so that there would be no more incentive for gray market activities 
+
+
+-  sales not to sell the liquor to any distributor in the United States at prices below  certain level 
+
+
+-  First ,  there is  lack of good information about local conditions at the central headquarters 
+
+
+-  Also ,  centralized price setting may keep the local subsidiaries from acting quickly to remain competitive 
+
+
+-  Country managers in Japan and the United States may resent headquarters telling them what prices to charge in their countries ,  particularly if they previously had the authority to set prices or if their rewards were based on bottom-line results 
+
+
+-  In the country managers mind ,  prices were optimal before headquarters interference 
+
+
+-  If sales do not meet expectations ,  local managers can easily blame the shortfall on  presumably incorrect price mandated by the central administration 
+
+
+-  In  survey by Beutelmeyer and Mhlbacher ,   highly centralized and standardized pricing policy was associated with  high level of dissatisfaction among local managers 
+
+
+- 14 ,  Many multinational companies have moved toward more centralization by shifting decision-making authority from the country to the regional level 
+
+
+- 15 Regionalization is  compromise between the traditional strategies of relatively autonomous subsidiaries and complete centralization 
+
+
+-  Regionalization can also be  stepping stone toward  more global strategy 
+
+
+-  For many companies ,  the world is not an undifferentiated marketplace ,  yet certain regions are similar enough that the multinational can apply similar pricing policies to all countries within that region 
+
+
+- 16 ,  If  company has given its local subsidiaries considerable decision autonomy in the past ,  the change toward regionalization has to be managed skillfully 
+
+
+- 17  successful change to regionalization requires informal coordination through committees ,  personal contact ,  and task forces 
+
+
+-  ,  While regionalization is an effective way to address problems of gray markets across countries of the region ,  there remains the problem of worldwide coordination 
+
+
+-  Gray markets can still operate between regions ,  such as between the Asian countries and the United States 
+
+
+-  Thus corporate headquarters needs to monitor the price developments in each region and ,  if necessary ,  coordinate prices between regions 
+
+
+-   regionalized structure may make price coordination easier than if gray markets emerge between individual countries ,  simply because there are fewer prices and players to worry about 
+
+
+-  ,  Another way multinational companies can influence prices at the local level is to prescribe  process for the country managers setting prices 
+
+
+-  For example ,  at one large multinational company ,  which is battling an equally large global competitor ,  pricing decisions were made independently at the local level ,  and each country manager had  particular strategy for meeting the competition 
+
+
+-  The rules relate its products price to the competing product considered the price leader 
+
+
+-  Another multinational company told its country managers to price  specific product at par with  major competitors 
+
+
+-  ,  When  company orders its country managers to relate prices to the competitors ,  it does not address the gray market threat directly 
+
+
+-  On the other hand ,  if the competing company controls its gray markets by coordinating prices between countries ,  then relating to these prices should help the company that is piggybacking control its gray market activities 
+
+
+-  ,  In  more direct approach ,  country managers could relate their prices to the prices for the same product in other countries 
+
+
+-  This process requires the identification of lead countries  the most important countries in terms of profits and sales  where the country managers have chosen the prices they consider optimal 
+
+
+-  For the nonlead countries ,  on the other hand ,  headquarters could instruct the country managers to set their prices at  level that prevents gray market profitability 
+
+
+-   manager of  worldwide producer of food-packaging machines told us that instructions from headquarters to the nonlead countries resulted in  local management that was frustrated and demotivated 
+
+
+-  To keep formalization successful ,  it has to be complemented with informal ways of coordinating 
+
+
+- 19 Quelch and Hoff describe how global companies influence local marketing decisions not just by directing and approving ,  but also by persuading and informing 
+
+
+- 20 Raffee and Kreutzer discuss various informal coordination tactics useful in global marketing ,  such as establishment of discussion groups and coordination groups ,  following  lead-country concept ,  and instituting global product responsibility 
+
+
+- 22 Poynter and White claim worldwide advantages with introduction of  horizontal organization 
+
+
+- 24 ,  What do informal coordination approaches have in common ,  and how can they be used to control worldwide or regional gray markets? First ,  they assume common business values backed by compatible incentive systems 
+
+
+-  Thus  country manager would not set  low price for  product if it would cause the growth of gray market activities and subsequent price erosion in other countries 
+
+
+-  The decision is based on overall corporate goals ,  even though the low price might result in the best profits or be necessary for that country to remain competitive 
+
+
+-  The CEOs leadership and thoughtful human resource management is important 
+
+
+-  Giving local managers regional or global tasks ,  such as the introduction of  new product into several countries ,  can also encourage shared values 
+
+
+-  The more the multinational company relies on collaborative efforts among country units ,  the more difficult it is to define outcome measures ,  such as sales and profit ,  for which the country manager is solely responsible 
+
+
+-  The president of  large international company ,  for example ,  stated that regional managers had the freedom to ignore his advice with respect to prices for the product in their regions 
+
+
+-  Yet he also said that life could become quite difficult for them if they did 
+
+
+-  Companies that have successfully implemented informal coordination often use rotated regional or global task assignments 
+
+
+-  Thus  particular country manager may have to recommend prices in all countries within  region to limit gray markets 
+
+
+-  Because of this mutual dependency ,  they are willing to go along with the proposed pricing policy 
+
+
+-  ,  Another feature of informal coordination is an emphasis on horizontal information flows ,  which allow country managers to learn about gray markets in other countries 
+
+
+-  If country managers first discuss prices ,  they can assess their impact on sales in one country on sales and profitability in another 
+
+
+-  Country managers in two adjoining countries may also decide to coordinate price promotions 
+
+
+-  ,  In  proactive approach to coordinating its pricing decisions for global products ,   multinational company has to select an appropriate method and plan its implementation 
+
+
+-  Based on research in the organizational behavior and management control literature ,  we have found two factors that influence the choice of method ,  the level of local resources and the level of environmental complexity 
+
+
+- 25 ,  Centralization and the application of economic measures are both based on the assumption that corporate headquarters is especially well informed about each countrys market conditions 
+
+
+-  This is more likely if the target markets in all countries are similarly defined ,  the company applies  global marketing strategy ,  and the product and other elements of the marketing mix ,  such as advertising and distribution ,  are highly standardized 
+
+
+-  That is ,  if the level of environmental complexity with respect to the pricing decision is relatively low 
+
+
+-  ,  Economic measures are preferred to centralization if the local subsidiary commands  relatively high level of resources that give it relative power with regard to headquarters 
+
+
+-  If gray markets emerge ,  headquarters should leave the pricing authority at the local level and coordinate prices through transfer pricing ,  rationing ,  or prescribing  price range 
+
+
+-  Decentralization makes the country manager feel committed to the pricing decision and put extra effort into its implementation 
+
+
+-  ,  Informal coordination methods and formalized pricing procedures are appropriate for multinational companies whose marketing strategy and mix are more highly adapted to local conditions because the markets are considered quite different from one another ,  thus creating  highly complex environment for setting prices 
+
+
+-  This also implies that the local managers knowledge of their markets is superior to the pricing information available to corporate headquarters 
+
+
+-  If headquarters is trying to coordinate pricing decisions between subsidiaries that are all relatively strong and command considerable resources ,  an informal coordination process is more effective 
+
+
+-  ,  The following examples from our sample  all companies that dealt with gray markets  demonstrate the successful implementation of price coordination methods that appropriately fit the companys level of environmental complexity and local resources 
+
+
+-  They show that  company can reduce environmental complexity by using  more complete information base and then adopting the appropriate method for its level of resources 
+
+
+-  For example ,   multinational producer of high-tech hospital equipment sold its products to highly independent country subsidiaries ,  which ,  in turn ,  sold to  national net of specialized dealers 
+
+
+-  Each subsidiary manager employed  technical engineering staff to ensure that the high-tech machines were used correctly 
+
+
+-  In those European countries where the subsidiaries were burdened with the high cost of the service programs  due to the physicians relatively low education level  central headquarters charged  lower transfer price 
+
+
+-  This kept the price competitive and ensured the local subsidiaries profitability 
+
+
+-  ,  The effect of this transfer pricing policy was  number of different prices throughout Europe ,  which created opportunities for gray market activities 
+
+
+-  Buying managers in sophisticated hospitals that required relatively little or no service took advantage of the situation by ordering machines in countries where customers normally required  relatively high level of service 
+
+
+-  The managers in these countries were happy to sell the machines across the border at  low price as long as it was above the relatively low transfer price 
+
+
+-  Headquarters could not ignore the resulting complaints from country managers who lost sales in this way to competing subsidiaries in other countries 
+
+
+-  ,  Consistent with our framework ,  the company chose informal coordination methods to solve the problem 
+
+
+-  First ,  it defined three lead countries that represented the important markets by sales volume 
+
+
+-  Third ,  it gave the main pricing authority to the local managers in the lead countries who set prices so that gray market activities were not lucrative 
+
+
+-  Finally ,  it changed the reward system by basing part of the local managers yearly bonuses on the whole groups success 
+
+
+-  After one year ,  the problems were solved 
+
+
+-  ,   producer of standardized household equipment sold its products through very strong country subsidiaries to wholesalers ,  which then sold them to retailers 
+
+
+-  Thus the level of local resources was considered high ,  and the environmental complexity ,  with respect to the pricing ,  was low 
+
+
+-  All markets were fairly similar ,  and the competition was assessed as an oligopoly with four major players 
+
+
+-  ,  According to our framework ,  economic measures would have been the most appropriate method of price coordination 
+
+
+-  But the pricing behavior this company  ( and many of its competitors )  adopted can be characterized as formalized price coordination ,  in which prices are set according to the market leaders prices 
+
+
+-  This pricing policy resulted after the marketing manager learned from the managing director of  big retail chain in Germany that he had been offered the companys products by  foreign wholesaler for less than the price that the manufacturer charged its German wholesalers 
+
+
+-  He demanded reduced prices for the products delivered through the German wholesalers 
+
+
+-  ,  To combat this gray market ,  the company introduced price range models ,  that is ,  it resorted to economic measures 
+
+
+-  It estimated price response functions for each country and calculated country-specific optimal prices 
+
+
+-  Then it adjusted the local prices with regard to the arbitrage costs between countries and the profit function for the company 
+
+
+-  The resulting price range for each country left local subsidiary managers with some pricing authority yet limited the gray market activities that could result from prices outside the specified ranges 
+
+
+-  ,  Two competing European producers of house-building equipment had highly centralized production ,  so the country subsidiaries for both companies were mainly distribution centers 
+
+
+-  The level of local resources was relatively low ,  yet differences in the environmental complexity call for two approaches to the price coordination problem 
+
+
+-  ,  The smaller of the two competitors carried  very broad product range to meet the widely differing construction standards in the various markets 
+
+
+-  In our framework ,   formalization approach was appropriate ,  and ,  indeed ,  the company developed some simple pricing rules that tied its own prices to the local competition 
+
+
+-  The company instructed each country manager to calculate the relative value of its brands image compared to local products and then price accordingly ,  above or below the competition 
+
+
+-  In addition ,  the company told the country managers to consider the price level in Germany ,  the companys major market 
+
+
+-  Prices in the other countries had to be adjusted so that there was no incentive for German customers to buy outside the German market 
+
+
+-  ,  The larger competitor faced  different situation ,  because it had reduced environmental complexity by taking two steps 
+
+
+-  First ,  it anticipated Europe-wide construction standards and used its leadership position to simplify its product ranges in all its European markets 
+
+
+-  Second  and this step was possible only after the first step had been taken  it collected comparable data from all its markets 
+
+
+-  These two measures made the market considerably more transparent to headquarters and its competitor by reducing environmental complexity 
+
+
+-  In accordance with our framework ,  the company took  centralized approach ,  thereby controlling gray market activities 
+
+
+-  ,  European automobile manufacturers faced  tremendous gray market problem because the prices were relatively high in some countries  (  
+
+
+-  According to our framework ,  economic measures were the appropriate method for this problem 
+
+
+-  The local resources level was very high because of the huge number of car dealerships all over Europe 
+
+
+-  And there were well-defined competitors ,  customers ,  and products ,  so that the environmental complexity was relatively low 
+
+
+-  ,  One automaker used rationing to limit gray reimports into Germany 
+
+
+-  First ,  the company bought back  number of reimported cars and offered them to authorized dealers in Germany as  special series model at the price of the gray importers 
+
+
+-  As  result ,  the dealers were no longer able to build up enough inventory to satisfy both the local and gray market demand 
+
+
+-  ,  There are costs ,  risks ,  and benefits associated with each coordination method  ( see Table  )  
+
+
+-   major factor is the cost of information 
+
+
+-  Centralization and the application of economic measures rely heavily on vertical information flows 
+
+
+-  Informal coordination mechanisms ,  on the other hand ,  emphasize horizontal information flows between countries 
+
+
+-  Technological progress has tremendously reduced the cost of information transmission ,  and data can be transmitted around the world at very little cost 
+
+
+-  ,  Not all of the necessary information flows ,  however ,  consist of hard data that can be passed along easily and inexpensively 
+
+
+-  Often ,  valuable soft information that comes from experience is more likely to be passed on through personal contacts ,  which involve managers time for meetings ,  visits ,  and telephone calls 
+
+
+-  In informal coordination ,  the costs of management time can be exorbitant ,  limiting feasibility 
+
+
+-  Managers from many multinational companies that coordinate informally complain they spend too much time in meetings ,  exchanging information or socializing 
+
+
+-  ,  If the costs of implementing an informal coordination system are relatively high ,  company headquarters may want to increase its information collection on local markets ,  thus making them less complex 
+
+
+-  ,  Similarly ,  the company may find it advantageous to change the power balance between subsidiaries and headquarters ,  particularly if coordination between prices in different countries can be achieved at  lower overall cost with  higher degree of centralization or formalization 
+
+
+-  ,  Bartlett and Ghoshal have called  companys current state the companys administrative heritage ,  that is ,  the companys existing configuration of assets ,  its traditional distribution of responsibility ,  and its historical norms ,  values ,  and management style 
+
+
+- 26 Major dysfunctional ,  costly effects are often produced by moving from  highly autonomous country management structure toward more centralization 
+
+
+-  Such effects may discourage  company from choosing  specific coordination mechanism ,  and they are likely to limit the degree of coordination that could be achieved if organizational heritage were not an issue 
+
+
+-  However ,  the pervasiveness of gray markets and their threat to profitability highlight the significance of pricing decisions ,  which may drive organizational issues 
+
+
+-  Ghoshal and Nohria demonstrated that the good fit of an organizations structure and management process with its environment is likely to result in superior financial performance for  multinational company 
+
+
+- 27 In this paper ,  we have examined one specific issue  gray markets 
+
+
+-  Future research needs to look at other issues ,  such as global advertising ,  and relate them to organizational forms 
+
+

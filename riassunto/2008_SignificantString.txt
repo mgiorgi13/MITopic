@@ -1,0 +1,1065 @@
+- There are 12 million reasons why Marten Mickos isnt afraid that his rivals in the database software industry will ever overtake him 
+
+
+-  Our secret is in the way we operate our culture ,  and Im convinced others cannot imitate that 
+
+
+-  ,  Culture is too vague  word 
+
+
+-  Mickos is referring to the fact that MySQL AB ,  the business he has built since 2001 ,  has committed itself to open-source innovation since its founding in 1995  with results successful enough that Sun Microsystems Inc 
+
+
+-  acquired what is the worlds fastest-growing database vendor earlier this year for $1 billion 
+
+
+-  Like such well-known proponents as Linux ,  the operating system ,  and Wikipedia ,  the online encyclopedia ,  MySQL shares its source code for free ,  giving programmers everywhere permission to debug ,  add features or otherwise modify the product before redistributing it 
+
+
+-  ( MySQL  ,  whose high-profile customers include Facebook and Google ,  makes money by selling commercial licenses and by offering support and services 
+
+
+-  )  MySQLs collaborative community now consists of 12 million coders ,  who typically receive compensation that amounts to  in todays dollars  nothing at all 
+
+
+-  Mickos ,   native of Finland ,  works in the companys offices in Cupertino ,  California 
+
+
+-  He first met the companys cofounders when they were all students  ( and avid poker players )  at the Helsinki University of Technology 
+
+
+-  ,  Here Mickos ,  now  senior vice president at Sun ,  talks with Josh Hyatt for the MIT Sloan Management Review ,  freely sharing his ideas about why this Internet-age version of  barn-raising produces superior innovation ,  what murky motivations keep all those developers devoted and why Leonardo da Vinci is the father of the open-source movement 
+
+
+-  ,  Why would  company like MySQL choose to give away the guts of its product  was it just  desperation move by its founders to differentiate it from its rivals? ,  MICKOS: Interestingly ,  the whole company was started by the founders writing the product code themselves ,  so its not like there was  big smorgasbord of contributions from many people 
+
+
+-  They were thinking of  closed-source product 
+
+
+-  Then one of the founders saw  presentation about open source and convinced the others that this was the way the world was going to go 
+
+
+-  That was in the first year ,  1995 
+
+
+-  ,  Did sharing the source code generate outside contributions right away? ,  MICKOS: You need  good user base before you start getting contributions 
+
+
+-  Sometime in the late 1990s ,  people sent in new features or patches and other stuff 
+
+
+-  We began to get contributions from the world 
+
+
+-  But thats not the only way we innovate 
+
+
+-  We also innovate in-house ,  we pay others to contribute to our product and we have customers who pay us to create the feature they are looking for 
+
+
+-  Already Ive listed four different ways of innovating 
+
+
+-  ,  Is there  limit to what outside innovation is good for? Is it safe to assume that people contributing that way are usually adapting existing products  rather than submitting plans for entirely new offerings? ,  MICKOS: The depth of the contributions varies by product and situation 
+
+
+-  The deeper you go into the core of the database engine ,  the more difficult it is for somebody to contribute because it takes five years to learn 
+
+
+-  If you build something on the outskirts of the kernel  some tool or function that you add on top of it  then that is much easier because theres less risk that you will mess up the whole product 
+
+
+-  But something great can emerge out of many tiny-looking contributions 
+
+
+-  Its analogous to how ,  in economic development ,  microloans can have such  huge impact  each entry is minimal ,  but when you multiply it by the number of people who are involved ,  it grows massive 
+
+
+-  It starts getting  momentum of its own 
+
+
+-  ,  What role can MySQL play in focusing all those efforts? If you put  specific problem out there ,  would the community solve it for you? ,  MICKOS: If we go out and pose  problem ,  chances are somebody will react favorably to it 
+
+
+-  ,  What do you do about ineffective contributors who send in ideas that waste your time  or damage  product? How can you prevent your competitors from doing that? ,  MICKOS: No [competitor] has ever tried 
+
+
+-  But of course we need to be protected against the risk of that anyway 
+
+
+-  The fact that you send us some code doesnt mean that it goes into the product 
+
+
+-  We test it ,  we make sure the documentation is there and that the coding standards are right ,  we test it and make sure that it fits our road map 
+
+
+-  So if we found something that would be harmful to the product ,  or to the business ,  we would reject it 
+
+
+-  We have\nrejected code ,  but mostly on the grounds of low quality ,  not because someone was trying to put  Trojan horse into our product 
+
+
+-  ,  Given that you might reject the work that theyve done for free ,  how do you keep those outside innovators motivated to even try? ,  MICKOS: We sometimes use money 
+
+
+-  Theres  part of our product called the JBDC driver ,   sizable piece of code ,  and  guy in the open-source community had developed it 
+
+
+-  We went to him and said ,  Hey ,  would you like to join us as an employee and sell your code to us? He made money on it 
+
+
+-  But that warranted payment 
+
+
+-  For something small like  bug fix or  tweak here or there ,  we know what to do because we understand the motivation of the contributors 
+
+
+-   reason is that they are contributing so that they will get ,  in return ,   better functioning product 
+
+
+-  They are looking after their own business interests 
+
+
+-   ,  and almost equally important ,  is their desire to build  reputation for themselves 
+
+
+-  That gives them better job offers ,  and it gives them  feeling of usefulness in the world 
+
+
+-  And they have an incentive to make contributions of high quality because they know that others will be examining it; its  Darwinian system and only the best innovations survive 
+
+
+-  ,  How do you tell the world about an outsiders contribution  by naming  product after them? ,  MICKOS: In the product ,  they will be on  list of contributors 
+
+
+-  Every year we announce the Community Person of the Year award 
+
+
+-  This year we did it at our big conference ,  during my keynote ,  with  , 000 people in the audience 
+
+
+-  In the audience ,  there were many people who wished that they had been selected 
+
+
+-  Open-source people are not  bunch of Mahatma Gandhis trying to do good for everybody 
+
+
+-  These are people with practical needs who are coming up with practical solutions 
+
+
+-  They are trying to improve their own product or their own career or they are trying to prove to themselves how skilled they are 
+
+
+-  ,  But only one person receives the award ,  and not everybody cares about having his or her name as part of  list that comes with  product; they may figure that their peers will already know 
+
+
+-  Are there any other tricks to keeping programmers engaged? ,  MICKOS: We give them  functioning product back ,  and our cycle time is very fast 
+
+
+-  They see the changed product quickly 
+
+
+-  ,  What about the in-house innovation you do? Have you found the secret for building that function into the structure of  business? ,  MICKOS: We dont have an innovation team or  group or  chief innovation officer 
+
+
+-  We do have five people whose only role is to engage with the community and activate them ,  listen to them and get them going 
+
+
+-  This team has put up Web sites where they congregate and share their code with each other 
+
+
+-  If you go there [http://forge 
+
+
+-  We are dealing with such  huge number of people 
+
+
+-  We have over 12 million people in our community 
+
+
+-  We send our people places physically ,  too 
+
+
+-  Theyll go to big open-source events to get the human touch 
+
+
+-  ,  What do your MySQL representatives do when they go to these places  do they just walk in and announce that they are willing to pay nothing for any good ideas folks might like to give? ,  MICKOS: The popular thing now is to arrange an un-conference ,  and the idea is that it doesnt have  predefined agenda 
+
+
+-  It looks unproductive ,  but its amazingly stimulating to these guys 
+
+
+-  We have no budget ,  so you have to pay for your own travel and accommodations 
+
+
+-  ,  Does that mean that you are actually getting people to pay to give MySQL their ideas? ,  MICKOS: They find the meetings very energizing 
+
+
+-  ,  Does innovation always have to be that casual? Is that the only way it can happen? ,  MICKOS:  think so 
+
+
+-   think that innovation happens in encounters with other people and also when you step over some boundary and you combine ideas that havent been combined before 
+
+
+-  The original innovation moment always has the aspect of being chaotic 
+
+
+-  ,  MySQL is  virtual company on  grand scale  with hundreds of employees working from their homes in more than two dozen countries 
+
+
+-  Doesnt that hinder the innovation process? ,  MICKOS:  think it adds the spice to our discussions 
+
+
+-  When we get together ,  there are so many dialects and accents that there isnt  norm ,  so you dont become normalized 
+
+
+-  Lots of good ideas come out of the fact that we are each so different 
+
+
+-  We have had to learn how to be innovative across distances ,  to get things going across multiple time zones 
+
+
+-  We figured out that we needed to make sure that any one of us could draw something up instantly ,  and send it to everybody else 
+
+
+-  Its as if we are sitting in one room together ,  with somebody taking notes on the wall while we are discussing them 
+
+
+-  ,  Does collegiality improve innovation? ,  MICKOS: Its good for all of us if we can connect on  personal level 
+
+
+-  When we get together  we used to do it once  year ,  but it has become harder now that we are over 400 employees  we need to do  full day of being social 
+
+
+-  Its as if weve piled up those 15-minute breaks that people in offices use to be social 
+
+
+-  We leave knowing each others body language and feeling more connected 
+
+
+-  ,  But you also rely on contributors who are disconnected in that sense ,  and who may feel free to behave any way they want 
+
+
+-  How do you control their online conduct? ,  MICKOS: It is true that people are ruder when they are anonymous on e-mail 
+
+
+-  External people can be overly critical and very negative 
+
+
+-  When you turn it around like that ,  they either go silent or they start talking 
+
+
+-  In fact ,  they can become your most passionate supporters 
+
+
+-  Never underestimate the hidden positive value in somebody who is upset 
+
+
+-  ,  But not everybody out there is  secret admirer  or just waiting for the right moment to express their affections 
+
+
+-  Sometimes we dont get anything positive out of it 
+
+
+-  In that case ,  we must trust that the world will see what is happening and that its the same guy complaining again 
+
+
+-  ,  Arent you worried that one of those anonymous people will piggyback on your code and start  business that is aimed at crushing you? ,  MICKOS: Let them try 
+
+
+-  ,  Why is that? ,  MICKOS: If 60-year-olds go to  teenage disco to learn how to dance ,  they wont be able to dress like the youth do ,  or move like they do or enjoy it like they do 
+
+
+-   think you should always be open to learning from everybody ,  but you must build your own DNA 
+
+
+-  ,  Why is it that  growing number of companies are enamored with building their own DNA out in the open? ,  MICKOS: Some people believe that open sourcing is  panacea 
+
+
+-  They say ,  Well open-source this and something will magically happen on its own 
+
+
+-  Thats just completely wrong 
+
+
+-  The only way to get engagement from  community is to engage in that community yourself 
+
+
+-  Its not like there is some saint out there waiting for you to open-source so he or she can contribute 
+
+
+-   lot of software created by open source has no commercial value 
+
+
+-  ,  Is that why open sourcing seems so often linked with nonprofits like Apache ,  Linux and Mozilla? ,  MICKOS:  wouldnt be surprised if the proprietary companies are trying to portray it that way to reduce the competitive pressure on them 
+
+
+-  They tell their customers ,  Those guys are nonprofit communists ,  so dont touch them 
+
+
+-  The activity level of the community can help  small player become  threat to established companies without having to invest millions and millions of dollars to get brand recognition 
+
+
+-  People start writing blogs or they write books about it and they help others get used to your product 
+
+
+-  ,  Are we all getting too used to open sourcing? Are you concerned about it becoming  fad that everybody gets sick of? ,  MICKOS: This idea is not new 
+
+
+-   dont think innovation has changed in thousands of years 
+
+
+-  The difference between what he did and what we do isnt in the openness ,  its in the reach 
+
+
+- Trying  with difficulty  to shake up  staid industry? It could be that you arent thinking small enough 
+
+
+-  Joe Fox ,  who has founded two industry-changing companies with his older brother ,  Avi ,  is  big believer in mini-innovations ,  small insights that add up to  big disruption 
+
+
+-  Their first company ,   pioneering online brokerage called Web Street ,  was acquired by E-Trade Group for about $50 million in 2001 
+
+
+-  Last year they started Iggys House Realty ,   subsidiary of Iggys House Inc 
+
+
+-  that allows sellers to list their homes for free in multiple listings services and on Realtor 
+
+
+-  Here Fox talks with Josh Hyatt for the MIT Sloan Management Review about how he became  toppler of traditions  and where he is likely to strike next 
+
+
+-  ,  FOX:  really believe you cant force innovation; its not something that happens in  vacuum 
+
+
+-  You have to observe the world with  fresh eye 
+
+
+-  In the 1990s my brother and  were trading stocks on our own ,  and there was  company that had announced it was going public at $16  share; the night before we said ,  Lets buy  number of shares at no more than $20  share after it opens 
+
+
+- 50 ,  sits there for 10 minutes ,  then immediately runs to $26 before it closes 
+
+
+-  We waited for five hours for our broker to tell us whether we got in below the $20 per share limit that we set 
+
+
+-  And we did  which was great because the stock moved to $32  share the next day 
+
+
+-  We kept thinking about that five hours and we thought ,  There has got to be  better way and within the next year or two we saw what was going on with the Internet 
+
+
+-  That convinced us there has to be  way to reduce the cost of the transaction ,  create efficiencies and have  greater level of information 
+
+
+-  If  am going to innovate ,   like to start with the desired result ,  that base idea 
+
+
+-   keep asking ,  what else could we do to be different  and better? ,  Thats when  look for mini-innovations  smaller steps that will get us there ,  like giving away free NASDAQ trades at Web Street ,  which is what we did 
+
+
+-  These ideas are not just from me ,  but from my whole team 
+
+
+-  Im not the end-all of ideas 
+
+
+-  ,  FOX: You have to be willing to spend the time to do the research and to investigate 
+
+
+-  Before we started Web Street ,  we saw that all of the information the stockbrokers had in the morning was from the night before  all the trades ,  the buys and the sells 
+
+
+-  In the morning ,  theyd tell their customers ,  This is how much you have and how much buying power youve got ,  and you used that same number throughout the day 
+
+
+-  It worked ,  because you would talk to your broker and say ,  Buy  , 000 shares of IBM 
+
+
+-  If you were short ,  you would mail in  check the old-fashioned way 
+
+
+- 95  trade  as we wanted to do  you dont want there to be any potential extra cash needed 
+
+
+-  ,  FOX: You know what  lot of people do? They say to themselves ,  if it could have been changed ,  it would have been changed 
+
+
+-   dont come from real estate and  dont come from  brokerage house  and sometimes its better to come from outside of the industry 
+
+
+-  You know theres an opportunity there if people tell you they would use your service 
+
+
+-  This isnt about nuclear science; its about obvious needs 
+
+
+-  You know you are on to something successful when somebody says ,  Why didnt  think of that? If you split the atom ,  the next guy isnt going to wonder why he didnt think of that 
+
+
+-  ,  FOX:  get more fueled and more excited by people saying that they love the concept and that it makes sense to them 
+
+
+-  With BuySide and ,  later ,  Iggys House ,  people said ,  But how are you going to beat the National Association of Realtors? Let me solve that problem ,   told them 
+
+
+-  As long as you ,  an intelligent person ,  believe that  consumer would use  service like this  which is where  am going to make my money  then Ill find the answers 
+
+
+-   want to make real-time information available 
+
+
+-  Can you give us the formulas for real-time balances ,  buying power and margin buying power?  wanted us to calculate intraday ,  after every transaction ,  how much buying power you have left ,  what your balances are ,  how much money youve made and how much youve lost 
+
+
+-  Wouldnt you want to know your balance in real time and how many more times you can trade? Of course you would 
+
+
+-  It was built into the system 25 years ago ,  and you just cant get that data in real time 
+
+
+-  When we launched in July 1997 ,  we immediately started getting customers 
+
+
+-  We told customers not to worry ,  that wed eat the trade 
+
+
+-  We changed the formula ,  and there were even more margin calls 
+
+
+-  Its an expensive way to learn 
+
+
+-  That meant that through trial and error ,  we figured out how to supply real-time account information when no one else had it 
+
+
+-  Of course ,   year later the exchanges figured it out 
+
+
+-  There were five online firms at the time; there were  couple of thousand online accounts 
+
+
+-   started going out to raise money and nobody wanted to give me any 
+
+
+-  So by the time we raised  couple of million  all from individuals ,  40 of them  and got out there in July 1997 ,  there were 12 online brokers ,  but still only  million accounts 
+
+
+-  The difference in just  year was like seven years in the traditional world 
+
+
+-  We spent $30 million in marketing over three years; other companies were spending that in  year 
+
+
+-  But  knew it was  real business; it just seemed like common sense to me 
+
+
+-  Who was going to believe us? What have we done? Have we ever run an industry-changing company before? It was tough 
+
+
+-  ,  FOX: We knew we had to keep thinking about what could make us  little different ,  especially since we didnt have the money to spend on marketing 
+
+
+-  One day ,   was driving and thinking: What would absolutely get people to want to use our services? Well ,  we could offer free trades 
+
+
+-  It occurred to me that if we could lower our transaction costs ,  we could make money from free trades 
+
+
+-  Sometimes little insights can look like real innovations 
+
+
+-  We were paying $25 to make  trade ,  and the market-makers were giving us  rebate of  penny per share 
+
+
+-  cents  share ,  they said 
+
+
+-  So on  , 000 shares ,   would receive $25 
+
+
+-  This meant that our customers could make  trade of  , 000 shares or more on NASDAQ  which is where most of the activity was  and pay nothing ,  while we made money 
+
+
+-  Our business took off in months 
+
+
+-  We were brainstorming all the time 
+
+
+-  Two years into it ,  my brother  who is more of  traditional guy  made  comment about how he sometimes wants to touch and feel his money ,  to have somebody explain  new platform or which mutual fund is  better investment 
+
+
+-  That got us to thinking about what services we could offer in  brick-and-mortar setting 
+
+
+-  So we became  virtual online company with  branch office in Beverly Hills 
+
+
+-  It shocked people ,  but it turned out to be one of the best things we did 
+
+
+-  We opened four of them ,  and they became our second-best customer-acquisition tool 
+
+
+-  At that time ,  everything was going online; you were going to be able to get your teeth fixed online ,  the way people were talking 
+
+
+-  People laughed at us ,  and some of our shareholders didnt understand 
+
+
+-  But my brother was able to think it through logically ,  and from his clear-headed perspective ,  it was the right move 
+
+
+-  It made sense that people would feel better even if they just drove by our sign ,  or just knew it was there 
+
+
+-  When people feel more comfortable ,  they put more money in  and we make more money on that money 
+
+
+-  Of course ,  they are all E-Trade offices today 
+
+
+-  Actually ,  there are some ideas  still believe in that we never got to try at Web Street because the market changed on us 
+
+
+-  You can have the greatest idea in the world ,  but if the market turns against you then the best thing is not to fight the trend 
+
+
+-  They needed the investment community to think of them as the roll-up player 
+
+
+-  ,  FOX: My brother and  owned  little less than half of the company when we sold it 
+
+
+-  If we had been able to build the company more quickly ,  it would have been  greater opportunity  in the billions 
+
+
+-  ,  FOX: We werent looking to start another company or to change another industry 
+
+
+-  There was time in between when  sat down and tried to think of what  could do ,  and out came nothing 
+
+
+-   had some time on my hands ,  and  few bucks ,  and you know what happened? Nothing 
+
+
+-  Absolutely nothing 
+
+
+-  You could create efficiencies and find all kinds of processes that you might be able to improve upon ,  but you are not going to innovate 
+
+
+-  What  saw in the real estate industry was  basic injustice ,  and  began questioning the establishment 
+
+
+-  That led us to start BuySide in 2006 and then IggysHouse 
+
+
+-  ,  FOX: We took  risk 
+
+
+-  You cant let  little thing like the perfect storm of market gyrations stop you ,  it just slows you down 
+
+
+-   can gain  ton of share even if the market is stagnant ,  as long as we keep adding things 
+
+
+-  ,  FOX: Im not the end-all in terms of coming up with ideas 
+
+
+-  When  was looking for an outside lawyer ,   used to hear all the time ,  Joe ,  you cant do that 
+
+
+-  And then  found one who said ,  Joe ,  that has never been done before ,  but lets see how we can make it happen 
+
+
+-   have the support  need to figure out how we can make ideas work 
+
+
+-  ,  FOX: My brother and  were in Santa Monica three years ago looking for  vacation house 
+
+
+-  We couldnt help but think something was wrong with this picture; we were going to do all of the work ,  and the agent was going to make all of this money 
+
+
+-  Instead of saying to ourselves ,  Hey ,  thats the way it is ,  we said there has to be  better way and we moved forward from there 
+
+
+-  People were finding homes and agents were making the money 
+
+
+-  ,  FOX:  love the creative part ,  but youve got to make money for your investors 
+
+
+-  ,  FOX: In April 2005 ,   called Joe Barr ,  who had been my president and CFO at Web Street ,  and  said ,  I think weve got something even bigger this time ,  and were doing it 
+
+
+-   week later ,  we started Buy-Side 
+
+
+-  OK ,   said ,  so if you found  home and there was  company that could service the transaction once you found it ,  and rebated three-quarters of the buyers agents commission to you ,  would you use  service like that? The response ,  100% of the time ,  was yes 
+
+
+-  ,  FOX: The people  bring in 
+
+
+-  They cant just say ,  Oh ,   like the idea 
+
+
+-  When people say ,  Joe ,   love the idea and Im willing to work unpaid until weve got what it takes to raise money  thats when  know  have believers on my hands 
+
+
+-  When somebody says ,  My wife had an idea about this ,   have confirmation that these people really believe in it 
+
+
+-   want everybody to share their ideas ,  and  make sure they know that 
+
+
+-  ,  FOX: There are ways of doing it 
+
+
+-  Everyone submitted mission statements based on what they thought we should be all about ,  and they were all somewhat similar: people believed we were changing the industry ,  or helping consumers by putting cash back in their pockets 
+
+
+-  That opened up everyones thinking ,  and gave us something to talk about 
+
+
+-  Everybody gets on the speakerphone at the same time  from San Diego ,  Miami ,  Chicago ,  and Texas 
+
+
+-  ,  FOX:  ask people to read about the industry ,  stories about innovative companies in the online real-estate space like Zillow and Trulia 
+
+
+-  What are the next things we should be focusing on? What stumbling blocks are ahead? Not everybody will be fired up ,  some people will be naysayers 
+
+
+-  Sometimes you are so deep in an industry ,  and have been doing it for so long ,  that you cant imagine it being changed even more than we have already changed it 
+
+
+-  ,  FOX:  always use  pad of paper to lay out my five-year vision 
+
+
+-  With Web Street ,   sketched the concept by drawing  computer screen  what youll see on it ,  what advantages it will offer consumers ,  and the different levels of service well provide 
+
+
+-  Id show them what it would look like three years from now ,  then five years from now 
+
+
+-  You have to know your product ,  what the industry is all about and what you are going to do 
+
+
+-  ,  FOX: Were all about improving efficiency by using whats out there 
+
+
+-  In fact ,   went to five different colleges ,  and never graduated 
+
+
+-  My real estate agents are salaried and will each do at least 15 transactions  month; from their desks ,  theyll help with the negotiation ,  the pricing ,  the contracts ,  and everything all the way to the closing 
+
+
+-  We can give you three-quarters of our commission back ,  and well still make money 
+
+
+-  ,  FOX: We were  couple of months into BuySide and into the rebating ,  and  saw that we were going to need to spend  lot of money on marketing ,  just to educate the consumer 
+
+
+-   thought there had to be  lower-cost way 
+
+
+-  If youre selling  home ,  theres an 80% chance youll be buying one ,  too 
+
+
+-  Wouldnt it be wonderful ,   thought ,  if we could acquire customers by offering them free access to the listings services?  figured that would be too expensive ,  but one day  asked one of my managing brokers and she told me that it is all included in our $100  quarter we pay in dues and we could list as many homes as we wanted 
+
+
+-  Weve done about  , 000 free MLS listings ,  and we havent spent any money on advertising 
+
+
+-  And we keep adding services  weve got an innovative referral program where traditional agents pay us for leads that turn into transactions 
+
+
+-  We just launched  mortgage brokerage in  couple of states; my loan officers are salaried ,  and their bonus depends on how well customers feel they were treated 
+
+
+-  ,  FOX: You cant change an industry if you dont have  large footprint 
+
+
+-  My mother was working three jobs to support us ,  so my brother and  spent  lot of time talking with the guy 
+
+
+-  Thirty years later ,  were trying to come up with  company name and my brother says: Theres something about Iggy 
+
+
+-   loved it right away 
+
+
+- We live in  quick-fix world where people look for easy solutions to solve complex problems 
+
+
+-  This goes for both business and personal problems 
+
+
+-  We want one trick to get employees to adopt behavior that improves quality and causes customers to gush with appreciation ,  or one trick to help us shed 30 unwanted pounds 
+
+
+-  Usually ,  there is  conspiracy of causes 
+
+
+-  In management and in their personal lives ,  influencers succeed where others fail because they overdetermine success 
+
+
+-  Instead of looking for the minimum it will take to accomplish  change ,  they combine  critical mass of different kinds of influence strategies 
+
+
+-  And while the results are impressive ,  they do not rely on an obscure calculus  if anything ,  they are built on simple arithmetic 
+
+
+-  Effective influencers drive change by relying on several different sources of influence strategies at the same time 
+
+
+-  Those who succeed predictably and repeatedly dont differ from others by degrees 
+
+
+-  By combining multiple sources of influence ,  they are up to 10 times more successful at producing substantial and sustainable change 
+
+
+-  ,  This claim is based on three studies 
+
+
+-  We got similar results when we surveyed executives and senior managers 
+
+
+-   handful  fewer than 5%  had used four or more sources of influence in combination 
+
+
+-  ,  Study participants who used four or more sources of influence in combination were 10 times more likely to succeed than those who relied on  single source of influence 
+
+
+-  ,  We continued our exploration into how executives exert influence in  subsequent survey about corporate change initiatives such as restructurings ,  quality or productivity programs and new-product launches  all of which demand new behaviors from employees to be successful 
+
+
+-  ,  In our third study ,  we shifted the focus from organizational to personal challenges: how people change personal habits such as overeating ,  smoking ,  overspending or drinking too much alcohol 
+
+
+-  ,  Our model organizes influence strategies into six sources 
+
+
+-  ,  The first two domains ,  personal motivation and ability ,  relate to sources of influence within individuals  ( motives and abilities )  that determine their behavioral choices 
+
+
+-  The next two ,  social motivation and ability ,  relate to how other people affect an individuals choices 
+
+
+-  And the final two ,  structural motivation and ability ,  encompass the role of nonhuman factors ,  such as compensation systems ,  the role of physical proximity on behavior and technology 
+
+
+-  Effective leaders need to learn how the different sources operate and how to identify implementation obstacles 
+
+
+-  ,  Source 1: Link to Mission and Values Leaders frequently have  hard time getting people to adopt  new behavior 
+
+
+-  When  leader asks employees to undertake dramatic quality improvement efforts ,  there is an enormous amount of discomfort ,  conflict and uncertainty 
+
+
+-  Reasonable people resist things that are uncomfortable or stressful ,  which is why most of these efforts fail 
+
+
+-  ,  Ineffective influencers assume there is no way to change someones attitude toward  behavior so they compensate for peoples lack of personal motivation by putting pressure on them  ( social motivation )  or bribe/threaten them  ( structural motivation )  
+
+
+-  Skilled influencers help people transform their attitudes toward  behavior 
+
+
+-  They are effective at helping people become personally motivated to enact new behaviors 
+
+
+-  The key is to help people see the broad implications of their actions and choices 
+
+
+-  How does VanVranken persuade people to make the right decision every time? He makes it personal and connects what they do to individual patients 
+
+
+-  At the start of  recent meeting ,   man in his early 60s began to talk about his accident several months earlier when his motorcycle was hit by  car that ran  red light 
+
+
+-  He introduced the physicians and nurses who attended him and also singled out countless others  the employees who provided warm blankets before his surgeries and the people who ordered Popsicles he could eat when he wasnt allowed solid foods 
+
+
+-  ,  When leaders want to influence people to make significant changes ,  they need to help them connect the changes to their deeply held values 
+
+
+-  This establishes  moral framework that shifts peoples experience of the new behaviors 
+
+
+-  If leaders fail to engage peoples values ,  they must compensate for  lack of personal motivation with less profound and sustainable sources of motivation ,  such as carrots and sticks 
+
+
+-  ,  Although personal motivation can be powerful ,  its rarely enough 
+
+
+-  Successful influencers find ways to engage personal motivation ,  but then combine it with several additional sources of influence 
+
+
+-  ,  Source 2: Overinvest in Skill Building Far too many leaders equate influence with motivation 
+
+
+-  We have an iconic image of the leader at the podium revving up his or her troops ,  and then sending them off to conquer 
+
+
+-  To these types of leaders ,  the name of the game is motivation 
+
+
+-  ,  In fact ,  our study showed that  robust training initiative is at the heart of almost all successful influence strategies 
+
+
+-  Mike Miller ,  vice president of business customer billing at AT&T Inc 
+
+
+-  ,  succeeded in turning around   , 000-person IT function by creating  culture where everyone spoke up early and honestly about the risks they saw affecting project goals 
+
+
+-  Early in the change initiative ,  Miller saw that people needed more than the motivation to speak up 
+
+
+-  He realized people also needed the ability to step up to crucial conversations 
+
+
+-  In the heat of the moment ,  speaking up about emotionally risky issues requires as much skill as motivation 
+
+
+-  So Miller made sure people got the right kind of training 
+
+
+-  ,  Research shows that training is far less effective when its given in one large dose  people retain less than 10% of what they learn in concentrated classes 
+
+
+-  Learning that is scheduled over time is markedly more successful 
+
+
+-  His goal was not to finish the training ,  but to keep people focused on it long enough to absorb it  and to adopt new behaviors 
+
+
+-  He also trained realistically ,  focusing on real business problems 
+
+
+-  For example ,  participants role-played on such issues as how to challenge unrealistic deadlines ,  how to report project risks and how to hold peers accountable when tasks fall behind schedule 
+
+
+-  Within six months ,  internal surveys showed that behavior was changing markedly ,  and within nine months virtually every software release in Millers group was coming in on time ,  on budget and with no serious errors 
+
+
+-  ,  Source 3: Harness Peer Pressure It is tempting to conclude that  strong dose of personal motivation and  substantial investment in personal ability is enough to tip us into new behavior 
+
+
+-  ,  Whether people acknowledge it or not ,  they often do things to earn praise from friends and coworkers 
+
+
+-  When  senior engineer tells  junior engineer that production work is for dropouts ,  something very important happens 
+
+
+-  The junior engineer begins to form impressions about the choices that bring honor and prestige ,  and conversely about choices that lead to  less respected career path 
+
+
+-  When  new hire challenges an idea in  meeting only to be ostracized by her colleagues ,  another message is delivered 
+
+
+-  They realize that unless and until they get the social actions positively aligned ,  their chance of influencing change is slim 
+
+
+-  ,  When Ralph Heath was assigned the job of getting the F-22 Raptor off the drawing boards and into production in 18 months ,  he knew it was  formidable challenge 
+
+
+-  It was compounded by the fact that he needed the active support of  , 000 Lockheed Martin Corp 
+
+
+-  employees ,  many of whom saw the move to production as  threat to the stability of the jobs they knew and loved 
+
+
+-  Leaders in the organization placed  high value on engineering ,  ideas ,  tinkering and design 
+
+
+-  So he decided to invest in the most influential people  both the formal leaders and the opinion leaders 
+
+
+-  He brought in customers from the various military agencies and encouraged them to explain their frustrations and concerns with the program 
+
+
+-  He spoke candidly about the problems he saw and demonstrated  willingness to be challenged when his own actions conflicted with the behavior he asked of people 
+
+
+-  As Heath won the trust of supervisors ,  they began to influence others 
+
+
+-  Heath also worked closely with opinion leaders ,  making time available to visit informally with them every week 
+
+
+-  The group met production deadlines ,  and the resulting product was  success 
+
+
+-  The F-22s reliability is better than that of the F-15 ,  which has been in use for decades; its operating costs are lower; its repair times are shorter; and its mission capabilities are far superior 
+
+
+-  ,  Source 4: Create Social Support Its tempting to think that social influence is mostly about motivation 
+
+
+-  However ,  if you focus only on the motivating power of the people around you ,  you limit your own influence 
+
+
+-  The reality is that people around you dont just motivate; they can undermine behavior as well 
+
+
+-  ,  At AT&T ,  for example ,  Mike Miller was the information technology executive charged with improving his groups track record in meeting quality ,  schedule and cost targets 
+
+
+-  Even when leaders spoke about this behavior ,  they didnt always enable it 
+
+
+-  They had to get out of their offices and be available when people needed their help 
+
+
+-  He gave his direct reports lesson materials and tasked them with teaching the skill to people who reported to them 
+
+
+-  Over the next six weeks ,  the process cascaded down through the ranks until the lesson was implanted throughout the organization 
+
+
+-  Leaders identified more closely with the concepts and began to feel more responsible for embracing them and encouraging others to do likewise 
+
+
+-  In addition to getting real-time coaching ,  employees got real-time encouragement 
+
+
+-   respected person  ( often their boss )  was urging them to try something new exactly when they needed the encouragement 
+
+
+-  The combination of social motivation and social ability became  powerful force for change in Millers organization 
+
+
+-  ,  Source 5: Align Rewards and Ensure Accountability If you want to understand peoples priorities and why they put their effort into some areas as opposed to others ,  it usually helps to follow the money 
+
+
+-  If  leader talks about quality but rewards productivity ,  employees will notice 
+
+
+-  Chronic problems such as lack of accountability ,  poor productivity and slipshod quality can often be traced to poorly designed incentives that reward the wrong behaviors 
+
+
+-  In fact ,  creating incentives is often the only real way senior leaders can separate serious priorities from pipe dreams 
+
+
+-  The CEO might stick his neck out and say ,  Starting now ,  at least 25% of our incentive pay should be contingent on achieving these new measures 
+
+
+-  At Spectrum Health Systems ,  AT&T and Lockheed Martin ,  management made  point of tracking both results and behaviors 
+
+
+-  Progress was reviewed three to four times  year ,  sometimes more frequently 
+
+
+-  Moreover ,  leaders elected to put their own skin in the game: The top two levels of management had at least 25% of their pay at risk 
+
+
+-  ,  But its not just the top people who need to have  stake in changing entrenched behaviors 
+
+
+-  People wont support change if the behavior management wants to encourage doesnt make their lives better  ( in the form of opportunities ,  money ,  promotions and so on )  
+
+
+-  Otherwise ,  you might actually undermine peoples intrinsic motivation 
+
+
+-  Begin with personal and social sources of motivation ,  and then reinforce them with well-designed incentive systems 
+
+
+-  ,  Source 6: Change the Environment Three times more people die from lung cancer than from road accidents 
+
+
+-  Twice as many people die from tuberculosis as from fires 
+
+
+-  The reason: The daily information people see  the data stream  is at odds with reality 
+
+
+-  ,  If you want to change an organizations mental agenda ,  you need to change the data that routinely crosses peoples desks 
+
+
+-  Unlike training or coaching ,  this involves giving people  different diet of information to help them track problems and solutions 
+
+
+-  ,  which owns an Oklahoma City-based electric utility ,  was concerned about the utilitys reputation for being insufficiently customer driven 
+
+
+-  When streetlights were out ,  people always blamed the company and said it was unresponsive to the problem 
+
+
+-  In an effort to turn things around ,  Ryan established  companywide target of having streetlights repaired within five days and created  new weekly reporting mechanism to help managers monitor the problem 
+
+
+-  Within  short time ,  all but two areas had fixed the problem 
+
+
+-  Whats more ,  these improvements led to further quality improvements 
+
+
+-  Citizens and police officers began to see that when they reported dark streetlights ,  the problems got fixed 
+
+
+-  So they improved their reporting ,  and the entire system became more responsive 
+
+
+-  Consider the case of an international logistics company that serves the electronics industry 
+
+
+-  Although the company was meeting all of its internal customer metrics ,  an alarming number of customers  ( more than 12% per year )  were defecting to competitors 
+
+
+-  The vice president of quality was puzzled ,  so he decided to explore how the customer metrics were calculated 
+
+
+-  Heres what he found:  salesperson would ask  customer ,  How quickly do you need your deliveries? The customer would reply ,  Within two days 
+
+
+-  The salesperson would analyze the request ,  and often he or she would say ,  Sorry ,  we cant do it in two days  how about four? Frequently ,  the customer would say that was OK 
+
+
+-  ,  When it came to tracking the data ,  this company measured how well it kept its word to the customer  in this case ,  whether it delivered packages within four days  and the record was nearly perfect 
+
+
+-  So why was it losing customers? Well ,  despite what customers agreed to ,  some of them really wanted two-day delivery 
+
+
+-  Rather than measuring the actual delivery time against the promised delivery time ,  the VP began keeping track of  new number: the delivery time against the customers preferred delivery times 
+
+
+-  Using this metric ,  performance fell to below 50% ,  which helped to explain the increasing number of customer defections 
+
+
+-  While this performance metric was discouraging to many of the companys employees ,  it had  positive effect 
+
+
+-  ,  Sometimes changing the data stream to influence behavior isnt enough 
+
+
+-  Spectrum Health recently went so far as to create  separate new physical space where people can work on new ideas without the normal distractions and receive the back-end support they need 
+
+
+-  In the first year ,  says Kris White ,  vice president of patient affairs ,  company employees identified 35 ideas to pursue commercially and received provisional patents on three of them 
+
+
+-  Leaders of organizations frequently make similar miscalculations in trying to influence change 
+
+
+-  Too often they bet on  single source of influence rather than tapping  diverse arsenal of strategies 
+
+
+-  We have learned that the main variable in success or failure is not which sources of influence leaders choose 
+
+
+-  By far the more important factor is how many 
+
+
