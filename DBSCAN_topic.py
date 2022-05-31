@@ -11,7 +11,7 @@ def DBSCAN_Topic(word_vect_dict,year):
     bestCluster = {}
     best_eps = {}
     for i in range(2, 10):
-        clustering = DBSCAN(eps=i, min_samples=2).fit(X)
+        clustering = DBSCAN(eps=i, min_samples=5).fit(X)
 
         key = []
         value = []
@@ -44,11 +44,17 @@ def DBSCAN_Topic(word_vect_dict,year):
         for index in range(0, len(word_vect_dict)):
             key.append(clustering.labels_[index])  # prendo gli id dei cluster
             value.append(list(word_vect_dict.values())[index])
+        # find how many elements are in each cluster
+        d = {}
+        for index in range(0, len(key)):
+            d[key[index]] = 0
+        for index in range(0, len(key)):
+            d[key[index]] = d[key[index]] + 1
 
         pca.pca_clustering_3D(value, key,f"/html/year_{year}__radius_{i}")
 
     theBest = sorted(best_eps.items(), key=operator.itemgetter(1), reverse=True)
-    clustering = DBSCAN(eps=theBest[0][0], min_samples=2).fit(
+    clustering = DBSCAN(eps=theBest[0][0], min_samples=5).fit(
         X)  # clustering sul raggio che ha il maggior numero di cluster
     # for index in range(0, len(word_vect_dict)):
     #     if (c == clustering.labels_[index]):
