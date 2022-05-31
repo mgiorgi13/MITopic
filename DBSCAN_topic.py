@@ -4,15 +4,15 @@ import PCA_plot3D as pca
 import operator
 
 
-def DBSCAN_Topic(word_vect_dict, year):
+def DBSCAN_Topic(word_vect_dict, year, title):
     print("partito dbscan")
     X = []
     for index in range(0, len(word_vect_dict)):
         X.append(list(word_vect_dict.values())[index])
     bestCluster = {}
     best_eps = {}
-    for i in range(2, 10):
-        clustering = DBSCAN(eps=i, min_samples=5).fit(X)
+    for i in range(5, 11):
+        clustering = DBSCAN(eps=i, min_samples=3).fit(X)
 
         key = []
         value = []
@@ -52,10 +52,10 @@ def DBSCAN_Topic(word_vect_dict, year):
         for index in range(0, len(key)):
             d[key[index]] = d[key[index]] + 1
 
-        pca.pca_clustering_3D(value, key, f"/html/year_{year}__radius_{i}")
+        pca.pca_clustering_3D(value, key, f"//html/{year}/{title}/year_{year}__radius_{i}")
 
     theBest = sorted(best_eps.items(), key=operator.itemgetter(1), reverse=True)
-    clustering = DBSCAN(eps=theBest[0][0], min_samples=5).fit(
+    clustering = DBSCAN(eps=theBest[0][0], min_samples=3).fit(
         X)  # clustering sul raggio che ha il maggior numero di cluster
 
     # for index in range(0, len(word_vect_dict)):
