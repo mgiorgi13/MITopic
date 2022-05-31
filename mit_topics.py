@@ -274,9 +274,9 @@ if __name__ == "__main__":
 
         # extract interval of 10 year from the list of years
         year_list_10 = []
-        for i in range(0, len(year_list) - 9, 10):
-            year_list_10.append(year_list[i:i + 10])
-        year_list_10.append(year_list[len(year_list) - len(year_list) % 10:])  # take the remaining years
+        for i in range(0, len(year_list) - 4, 5):
+            year_list_10.append(year_list[i:i + 5])
+        year_list_10.append(year_list[len(year_list) - len(year_list) % 5:])  # take the remaining years
 
         resultsForFile = []
 
