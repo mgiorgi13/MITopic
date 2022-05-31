@@ -55,6 +55,7 @@ def compareTop50Words(year):
     return gain, lost, equal, currentTop50
 
 
+# decommentare se si vuole rifare il merge
 # def mergeWordFrq():
 #     for year in range(1990, 2023):
 #         top50 = []
@@ -115,6 +116,7 @@ def findFreq(year, word):
 
 
 if __name__ == "__main__":
+    # decommentare se si vuole rifare il merge
     # mergeWordFrq() # merge top 50 words and frequency
 
     data = {}  # json data structure with all years
