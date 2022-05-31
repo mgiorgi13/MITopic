@@ -1,627 +1,417 @@
--  But this long-established pattern is rapidly giving way to cooperation ,  with both sides working together to streamline the distribution channel system 
+-  Simultaneously designing  product and its manufacturing system  ( often referred to as concurrent or simultaneous engineering of overlapping tasks )  is generally seen as the salient characteristic of this competitive edge; Toyota ,  the most successful Japanese automotive company ,  is credited as one of the originators of concurrent engineering  ( CE )  
 
 
--  Examples of channel partnerships cover the full spectrum of contemporary retailing 
+-  Few guessed that these methods would prove compatible with ,  and perhaps essential to ,  factory efficiency well above Japanese companies already high average 
 
 
--  Perhaps most often cited is Wal-Mart and Procter  Gambles partnership ,  initiated in 1985 
+-  While the formal concept of set-based concurrent engineering is not Toyotas  Ward and Seering developed it in automating design processes  we have found something approaching  coherent ,  company-wide ,  set-based philosophy only at Toyota 
 
 
--  Lou Pritchard ,  then sales vice president of P&G ,  has recounted how he and the late Sam Walton developed the concept of  partnership built on trust and committed to  shared vision  meeting the customers needs while driving out excess costs in the system by changing it 
+-  In this approach ,  designers explicitly communicate and think about sets of design alternatives at both conceptual and parametric levels 
 
 
--  Aided by new information technologies such as electronic data interchange  ( EDI )  ,  the two companies dramatically improved the efficiency of their product flows: P&Gs on-time deliveries to Wal-Mart improved significantly ,  while inventory turnover increased dramatically 
+-  This approach contrasts with the common practice of iterating  making modifications or improvements in series  on one alternative until  satisfactory solution emerges 
 
 
--  Kmart and other discounters were quick to establish their own partnerships ,  followed by conventional department stores  ( such as Mercantile Stores )  and specialty chains 
+-  ,  To understand why set-based CE can be efficient ,  consider one simple problem  selecting  meeting time 
 
 
--  ,  More recently ,  channel partnerships have become popular in the apparel industry 
+-  For large ,  busy groups ,  convergence to  satisfactory time for all parties can require lengthy communications  the disadvantage of  point-to-point search in which no individual has all the required knowledge 
 
 
--  VF Corporation ,  Levi Strauss ,  and other leading manufacturers have formed quick response partnerships with both discounters and department stores 
+-  ,  There are two common strategies for shortening the search yet retaining the point-to-point model 
 
 
--  By early 1993 ,  VF had some 300 partners in its flow replenishment system and promoted the partnership idea with advertisements in trade publications 
+-  First ,  the group can have  meeting to decide when to have  meeting: this accelerates the communication ,  at the cost of some members time 
 
 
--  ,  Channel partnerships have been hailed as the embodiment of  new philosophy for buyer-seller relations  one that can be applied well beyond the consumer products marketing arena 
+-  Toyota uses engineering checklists or lessons learned books  ( our term )  to represent sets of manufacturable designs in order to constrain the styling process  for example ,  requiring the stylists to avoid some extreme body curves 
 
 
--  The concept uses modern information and communications technologies to lower costs and improve service to the customer 
+-  Case examples provide data for three kinds of communication: between stylists and body engineers ,  between body engineers and manufacturing engineers ,  and between original equipment manufacturers  ( OEMs )  and suppliers 
 
 
--  The customer can be  nurse obtaining supplies in  hospital ,   factory worker being supplied with  component ,  or  consumer buying apparel in  department store 
+-  Finally ,  we explain the paradox between inefficient steps and an efficient overall process and discuss implications for managers and future research 
 
 
--   CSC Index Group report on channel partnership ,  for instance ,  cites examples of successful partnerships in hospital supply distribution ,  in marketing of pharmaceuticals to veterinarians ,  and in retailing 
+-  In the beginning ,  we recognized the difficulties in measuring the degree to which  particular company uses set-based design  particularly since this is  relatively new concept 
 
 
--  ,  In this article ,  we focus on partnerships between retailers and their suppliers ,  which are spreading quickly and have potentially enormous impact on marketing efficiency 
+-  ,  the interface between product design and manufacturing system design )  
 
 
--  We address the following questions: ,  Our analysis is based on interviews with retailers and manufacturers that are utilizing partnerships and with consultants in the field ,  as well as on published accounts and presentations at industry and academic conferences 
+-  We also asked about the body styling and engineering process and the interface between body engineering and manufacture 
 
 
--  ,  While the term channel partnership has been used to designate  variety of relationships between buyers and sellers ,  we define it as an ongoing relationship between  retailer and an independent supplier in which the parties agree on objectives ,  policies ,  and procedures for ordering and physical distribution of the suppliers products 
+-  We asked respondents to describe their development process from the early concept stages through production and then probed with standard questions to understand the degree to which their process is set-based 
 
 
--  Some partnerships also include agreements for packing ,  price marking ,  new product development and testing ,  and/or joint sales promotion activities ,  but the primary focus is almost always on ordering and physical distribution 
+-  Toyotas process continues to be far more concurrent than other companies: for example ,  Toyota begins designing and building body-stamping dies before all drawings are finished ,  something neither Nissan nor Mazda does 
 
 
--  Thus channel partnerships might also be called supply partnerships 
+-  ,  We cannot trace in detail the causal links between Toyotas concurrent engineering practices and Toyota quality ,  efficiency ,  and market success ,  but Toyota is doing something right 
 
 
--  ,  Our definition of  channel partnership is similar to Johnston and Lawrences definition of  value-adding partnership ,  which they characterized as a set of independent companies that work closely together to manage the flow of goods and services along the entire value-added chain 
+-  Much of its success is certainly due to Toyotas production system ,  but it is widely believed that manufacturing efficiency and product reliability are strongly influenced by design and ,  therefore ,  by development processes 
 
 
--  Channel partnerships that involve only retailers and producers of finished goods do not encompass the entire value-added chain ,  but some partnerships also include upstream suppliers of semifinished materials or components 
+-  companies consider essential ,  such as collocated ,  dedicated multifunctional teams ,   highly structured development process ,  and frequent meetings with suppliers 
 
 
--  Hammond points out that quick response capabilities at the point of contact with the end user depend on the capabilities of the business units at all stages of  channel or global value chain 
+-  ,  body engineering )  ,  in consultation with the chief engineer  ( shusa )  for  car platform ,  assigns engineers to  vehicle program as they are needed 
 
 
--  For this reason ,  fabric producers have actively promoted partnerships in which they join with their immediate customers  ( apparel manufacturers )  and retailers to improve the overall flow of goods and information 
+-  Chrysler considers dedicated platform teams to be essential and matrix management approaches that combine program managers with functional organizations to be ineffective 
 
 
--  ,  When  retailer and  supplier agree to work as partners ,  there is  dramatic change in the way they deal with each other ,  as Richard Bravmen of Symbol Technologies described at  Quick Response Conference: ,  One way to coordinate merchandise flows through  channel is with vertical integration   
+-  As in the kanban system on the factory floor ,  subteams are responsible for deciding when to start work 
 
 
--  Some retail chains such as The Limited ,  whose wholly owned subsidiary Mast Industries serves as its primary supply source ,  use this approach 
+-  Suppliers and manufacturing teams ,  for example ,  have major deadline goals ,  such as the start of full production or the first vehicle prototype 
 
 
--  Channel partnerships seek to achieve some of the efficiencies of vertically integrated systems without common ownership 
+-  The suppliers  ( or manufacturers )  initiate when to obtain the information they need to meet the deadline 
 
 
--  ,  In some ways ,  channel partnerships are similar to franchise systems ,  as in the auto industry ,  and exclusive distribution networks ,  such as Benettons 
+-  conventional practices ,  including multifunctional teams and powerful development leaders ,  and the differences we found do not imply that recent  
 
 
--  But ,  while the latter systems are based on exclusive supply agreements ,  channel partnerships are usually nonexclusive 
+-  Toyota may not need dedicated ,  collocated teams because its corporate culture allows effective communication between chimneys 
 
 
--  One exception is Levi Strausss relationship with Designs Exclusively Levi Strauss  Company ,   specialty chain that carries only Levis products 
+-  companies may need more structured processes because they are trying to change rapidly 
 
 
--  For most retailers ,  it is essential to work with multiple suppliers because no one producer can supply all the lines the retailer carries 
+-  Toyotas suppliers may need to communicate less because of their long association  ( the explanation they gave us most often )  
 
 
--  ,  The basis of  cooperative relationship between  retailer and  supplier is not new; there have been partnerships in various forms for many years: ,  These partnerships differ from the channel partnerships that began to emerge in the late 1980s in that  single supplier is responsible for managing  product category 
+-  Toyota may even simply lag  
 
 
--  Contemporary channel partnerships ,  as noted earlier ,  are almost always nonexclusive 
+-  automotive managers seem to think so 
 
 
--  ,  The recent emergence and rapid adoption of the partnership concept has been made possible by the increasing availability ,  reliability ,  and declining cost of digital information/communication technologies 
+-  It also explains the more surprising ,  even seemingly irrational differences we describe in the next section 
 
 
--  The critical technologies for implementing channel partnerships include bar coding ,  scanning at the point of sale and elsewhere ,  EDI ,  and database management 
+-  But Toyota is not following this paradigm ,  and its practices make perfect sense within its paradigm 
 
 
--  ,  The establishment of industry standards for product identification and data interchange have also facilitated partnerships 
+-  ,  An engineering design text widely used in the United States for the past several decades ,  Shigleys Mechanical Engineering Design prescribes  process that iterates through  sequence of steps in which  designer first understands  problem and then synthesizes  solution  ( see Figure  )  
 
 
--  Standards in the apparel industry developed after fabric and apparel manufacturers and retailers demonstrated potential partnering benefits in tests during 1986 to 1988 
+- 16 The designer then analyzes and evaluates the solution; based on the analysis ,  he or she tries  new solution  ( and maybe modifies the problem definition )  
 
 
--  Without industry standards ,  companies seeking to cooperate with their suppliers and/or customers would be confronted by  babel of incompatible ,  proprietary systems and procedures that would make the whole idea extremely costly ,  if not impossible 
+-  Figure  illustrates this point-to-point search 
 
 
--  ,  While adequate technology coupled with industry standards are necessary conditions for effective channel partnerships ,  they are insufficient for their acceptance 
+-  ,  Partly because  majority of automotive engineers were trained to use the Shigley method ,  this view of engineering design is pervasive in engineering thinking 
 
 
--  Supermarket chains ,  food wholesalers ,  and their suppliers adopted bar coding ,  scanning ,  and EDI based on industry standards several years earlier than in the apparel industry 
+-  line engineers respond immediately ,  Thats the way we do it ,  often mentioning improvements that leave the basic model intact ,  sometimes vaguely implying that there must be  better way 
 
 
--  But there were few channel partnerships in the food distribution system as of late 1994 
+-  ,  Why does Toyota go through so many iterations ,  generating different designs? Why does Toyota take so long to synthesize the first solution ,  providing the starting point for modifications? ,  Toyotas development process looks expensive ,  clumsy ,  and inefficient to outsiders  ( including other Japanese companies )  if they view it as  badly run version of their own point-to-point search 
 
 
--  Apparently managers need other incentives to convince them of the necessity for partnerships 
+-  Toyota does not conduct  point-to-point search but follows  version of set-based concurrent engineering  ( see Figure  )  ,  There are several aspects of set-based concurrent engineering evident in the approaches of Toyota and its suppliers: First ,  design authors have long advocated examining  number of concepts ,  and Pugh developed sophisticated methods for gradually narrowing the development funnel 
 
 
--  ,  In the apparel industry ,  one factor motivating retailers and suppliers to change their operations has been the rapid growth of vertically integrated specialty store chains 
+-  ,  Second ,  design for robustness ,  including Taguchis techniques ,  considers  set of possible environmental conditions 
 
 
--  The entire system is centrally managed ,  based on point-of-sale  ( POS )  data captured in each store for each stockkeeping unit  ( SKU )  
+- 19 ,  Fourth ,  Toyota extensively uses what we call lessons learned books ,  not simply to record lessons but to define the space of manufacturable designs to product engineers 
 
 
--  This system has enabled The Limited to replenish store inventories of fast-selling items rapidly while reducing prices on slow movers early in the season 
+-  We argue that the philosophy explains Toyotas unusual practices 
 
 
--  As  result of this and other competitive advantages ,  the company has gained market share at the expense of department stores and traditional specialty stores; they ,  in turn ,  have been stimulated to try partnering to achieve at least some of the efficiencies of integrated systems 
+-  By communicating  whole set of possibilities simultaneously and avoiding changes that move outside the set ,  Toyota can reduce the frequency of communication ,  eliminate the need for dedication and collocation ,  and reduce supplier communications for  simpler process structure 
 
 
--  ( Perhaps partly as  result ,  department stores appeared to regain some lost market share in the early 1990s 
+-  The philosophy may represent  new model that explains Toyotas success 
 
 
--  In 1984 ,  in an effort to stem the import tide ,  domestic textile and apparel producers formed an association called Crafted With Pride in the  
+-  The timing of an actual Toyota program will vary somewhat depending on how much of the vehicle is new and changing and even on the particular chief engineer running the program 
 
 
--  Initially ,  CWP attempted to influence consumers to buy domestic products through an advertising campaign and product labels 
+-  Team members begin preparation for milestones whenever they need to 
 
 
--  Later ,  CWP shifted its focus to providing superior service to retailers ,  based on the advantages of local domestic production 
+-  At this point ,   substantial portion of the design has been decided  ( though many important issues remain open )  ,  and engineers begin detailed drawings based on the K4  ( the K4 itself is not updated )  
 
 
--  This was the starting point for the quick response  ( QR )  movement ,  which became ,  to some degree ,  self-reinforcing as industry executives ,  consultants ,  and publications vied with each other to preach the gospel of quick response 
+-  But we do not mean to imply that Toyota is widely exploring all possible design options for all parts of the vehicle simultaneously 
 
 
--  ,  For some retailers ,  an important impetus to partnering has been the growing competition among different retail formats 
+-  Toyota has  reputation as  conservative company for good reason 
 
 
--  Warehouse clubs and deep-discount drugstores enjoyed rapid growth during the 1980s ,  creating strong competitive pressures for established retailers ,  especially conventional supermarkets 
+-  Getting  high-quality vehicle on the market very quickly is  top priority ,  and Toyota realizes that excessive experimentation will make this impossible 
 
 
--  In response to these pressures ,  the major food industry trade associations commissioned  study showing the potential efficiency gains that could be achieved by efficient consumer response ,  in which distributors and suppliers would work together to bring better value to the grocery consumer 
+- 21 Engineers who want to make major changes must provide hard evidence through data that the new design is  major improvement over the existing design 
 
 
--  ,   final factor that stimulated interest in channel partnerships has been the growth of just-in-time delivery systems in automotive and other industries 
+-  Many of the design decisions we have described as set-based are ,  in fact ,  incremental fine-tuning for the sake of fit and finish ,  marginal performance improvements ,  or weight/cost reductions 
 
 
--  These systems are functionally very similar to the ones used for finished goods in retail stores 
+-  Interviewees had different opinions on the role of the two models: some stated that the final design was usually close to one of the models ,  implying that they represent two discrete options 
 
 
--  ,  By mid-1993 ,  many different types of retailers and suppliers had formed numerous channel partnerships  ( see Table  for examples of the partnerships diversity )  
+-  The book ,  ten to twelve pages long ,  contained approximately sixty to seventy different ranges of specifications that would ensure the fender designs manufacturability  (  
 
 
--  While most partnerships have dealt with ordering and distributing basic products with relatively long life cycles ,  The Limiteds experience indicates that the approach can also be used ,  with some modifications ,  for fashion apparel 
+-  Often the suggestions resolve the problem to all parties satisfaction 
 
 
--  While only large companies are listed in Table  ,  some small firms ,  such as Warren Featherbone ,   producer of childrens clothing with annual sales of about $20 million ,  have successfully implemented partnerships 
+-  ,  This strategy defines the set of manufacturable designs 
 
 
--  ,  Bar coding ,  scanning ,  EDI ,  and other digital technologies can improve efficiency and effectiveness in one of two ways: by automating existing processes or by reengineering them 
+-  From  theoretical standpoint ,  for any given design problem ,  there is  true ,  yet unknown ,  design space that includes all possible values for all the parameters 
 
 
--  The distinctive advantage of channel partnerships is that they allow more fundamental modifications in merchandising and distribution processes than suppliers or retailers could achieve if they continued to act independently 
+-  First ,  stylists ,  body engineers ,  and production engineers each maintain their own version of the lessons-learned books as guidelines for manufacturability in design and audit 
 
 
--  For this reason ,  we believe that successful channel partnerships will be based on  joint approach to reengineering rather than simply automating traditional procedures 
+-  Second ,  if the two clay models establish bounds on what is acceptable to the stylists ,  other functional groups can quickly identify the intersection between this set and the set acceptable to them; there is no need for  prolonged series of suggested changes ,  which must in turn be examined by the other functional groups 
 
 
--  As  food industry study of efficient consumer response  ( ECR )  pointed out ,  Automating inefficient business processes is both complex and ineffective 
+-  ,  The general manager of body engineering remarked that delaying the decision on critical dimensions until the last possible moment is necessary to ensure that customers expectations are fully understood ,  that they will be satisfied by the body design ,  and that the design is also manufacturable 
 
 
--  ECR focuses first on reengineering business processes to make them efficient ,  then automating them ,  at much lower cost ,  to further reduce wasted time and cost 
+-  companies told us that the key to achieving manufacturable designs quickly was to freeze the hardpoints early  ( in at least one case ,  before development of the full-size model )  ,  thereby giving manufacturing more time to respond ,  but risking  suboptimal solution 
 
 
-- 10 ,   logical starting point for process improvement is to document the existing steps 
+-  Toyota engineers have just over two years to go from concept approval to full volume production ,  which hinges on early development of the manufacturing process ,  that is ,  die design and production 
 
 
--  In this section ,  we describe the typical stages in the traditional  ( prepartnership )  merchandising and distribution processes that retailers and suppliers ,  independent of each other ,  employ 
+-  In some cases ,  castings are ordered and die production begins while design tolerances  ( implied or actual ranges for the final design parameters as distinct from manufacturing tolerances that are set much later )  are still maintained on the critical dimensions 
 
 
--  In the following section ,  we explore how partnerships are reengineering the processes to be more effective and efficient 
+-  Thus process engineers can do all the work they want ,  as long as they maintain enough flexibility to accommodate all possibilities within the tolerances 
 
 
--  ,  The main steps involved in conventional merchandising and distribution processes are outlined in Figure  
+-  ,  Finally ,  Toyota body engineers routinely omit most manufacturing tolerances on body-part dimensions 
 
 
--  The specific process components and ways to implement them vary among different retailers and products: new product development for fashion apparel ,  for example ,  differs dramatically from that for food or household products 
+-  The body designers thus define the acceptable set of cars ,  allowing the manufacturing engineers to make the parts fit ,  within the wide tolerance bands 
 
 
--  But the process overview in Figure  is  useful general framework for analyzing the improvement opportunities channel partnerships offer 
+-  The manufacturing engineers typically build dies on the nominal dimensions and make  series of parts ,  which they assemble into  screw body or functional build to check for fit 
 
 
--  ,  The process begins when the retailer plans an assortment for  particular product category 
+-  ,  The lessons-learned books are another way of representing feasible design alternatives from  manufacturing perspective 
 
 
--  It makes decisions on how broad the assortment of styles ,  colors ,  brands ,  and other product variations will be; how much shelf or floor space to devote to the category and how to allocate space among suppliers lines and product types; how much inventory to carry; and what type of fixtures to use 
+-  There are few conflicts between design and manufacturing engineers ,  because they need find only some intersection of the preferred regions for both 
 
 
--  The retailer may reconsider these and related strategic questions infrequently or every season 
+-  Process engineers can start early on die planning because such ranges on the hardpoints place bounds on anticipated changes downstream in the design process; they design for the set of possible solutions 
 
 
--  ,  Traditionally ,   suppliers only involvement in assortment planning has been to try to gain more space or  greater share of the retailers inventory investment through personal selling efforts and trade promotion and ,  sometimes ,  by providing display fixtures 
+-  Rather than treat each sheet-metal part as the final design that the die should precisely reflect ,  this approach assumes that the blueprints are guidelines 
 
 
--  ,  Manufacturers develop and test new products and offer them to retailers ,  which place initial orders for some of the products  ( Figure  ,  box  )  
+-  automotive manufacturer provides  starkly contrasting example of more traditional ,  point-based body development 
 
 
--  Developing new products may occur on  regular ,  seasonal cycle ,  as in the apparel industry ,  or may be sporadic 
+-  The manufacturers design and development process consists of concept development ,  prototype ,  production tooling ,  and production phases 
 
 
--  ,  Traditionally ,  the manufacturer has done most new product development ,  including concept development ,  design ,  and testing before any presentation to retailers 
+- 25 ,  In the early concept development phase ,   small group of project designers work on  number of different sketches representing body design alternatives ,  evaluate the alternatives ,  and choose the best one 
 
 
--  ,  Once retailers place their initial orders ,  suppliers process the orders ,  prepare them for shipment ,  ship the merchandise to distribution centers or stores ,  and bill the retailers 
+-  Manufacturing is brought into the development loop only after the base design is defined ,  although manufacturing was recently collocated with the product design team to bring its considerations into the design 
 
 
--  The retailers ,  in turn ,  receive and check the shipments ,  redistribute them to stores if necessary ,  and make payments 
+-  ,  Next ,  manufacturing and other functional areas evaluate the design and propose changes to  plastic model 
 
 
--  ( Figure  omits these steps for initial orders to simplify the diagram 
+-  The manufacturing engineers critique is based on their experience and intuition 
 
 
--  The same order placement and fulfillment steps are ,  however ,  shown for replenishment orders 
+-  Hard-points are fixed as early as possible and changed only if manufacturing discovers that the design is impossible to make ,  or crash testing determines that it does not meet government standards 
 
 
--  )  ,  Once  retailer stocks  product ,  and assuming that its life expectancy is long enough to permit reordering ,  the next stage is to replenish retail stocks 
+-   single design solution is selected early in the development cycle and then modified from different functional perspectives  ( such as body manufacturing )  to achieve an acceptable result 
 
 
--  In traditional systems ,  the retailer has been responsible for most or all resupply tasks ,  including recording sales ,  returns ,  and merchandise transfers ,  calculating and/or checking inventory ,  forecasting future needs ,  checking proposed purchases against financial limits  ( open to buy control )  ,  and placing orders 
+-  There is little opportunity to address the unique combination of customer demands and manufacturing problems posed by the design 
 
 
--  The retailer usually transmits orders by telephone ,  mail ,  or ,  more recently ,  fax 
+-  If the stylists or body engineers define  difficult design ,  it must be changed according to manufacturings critique ,  which may drive further changes 
 
 
--  The suppliers role in replenishment is to influence buying decisions through selling efforts and promotion; in some cases ,  suppliers have helped retailers in manual inventory checking 
+-  ,  Several Toyota managers explained that they vary suppliers design responsibility ,  depending on capability 
 
 
--  ,  Traditionally ,  whether  product could be reordered at all has depended not only on the expected duration of consumer demand but also on the time required to fill retailers orders 
+-  We developed  three-level hierarchy from our observations ,  based on the influence of the suppliers in decision making ,  particularly on the component specifications 
 
 
--  Often ,  even products with relatively long life expectancies  up to six months cannot be reordered within  season ,  with the result that popular styles and colors are frequently out of stock 
+-  Such suppliers do extensive development well before Toyota decides on its own vehicle concepts ,  often presenting Toyota with  wide range of alternatives early in the process 
 
 
--  ,  When an order is placed ,  the supplier responds with  series of order processing and shipment steps 
+-  ,  The second-level ,  mature suppliers wait for Toyota to define its needs for  specific vehicle concept before beginning development 
 
 
--  This process includes receiving the purchase order and entering it in an order processing system ,  checking credit ,  assembling the order ,  packing ,  invoicing ,  and arranging to ship ,  typically via common carrier 
+-  The supplier may design to specification or simply manufacture  Toyota design 
 
 
--  In most cases ,  replenishment orders are filled from the suppliers finished-goods stock 
+-  These full or partial prototypes are used to evaluate the engineers design ideas 
 
 
--  In the apparel industry ,  many orders are shipped incomplete or even with substitutions of one item for another 
+-  Nippondenso experiments extensively but also relies heavily on charts ,  graphs ,  test data ,  past experience ,  and professional judgment to decide which designs to continue 
 
 
--  ,  Shipments to  retailers distribution center or stores are usually handled by the lowest-cost common carrier ,  with no concern for reducing transit time 
+-  ,  Nippondensos radiator group members described  similar process of creating prototypes early to evaluate designs ,  then gradually narrowing the possibilities over time ,  creating and testing prototypes at each step 
 
 
--  ,  As orders are shipped ,  the supplier enters them into an inventory control system  ( box  )  
+-  It gathers information on all prospective Toyota car models  ( and to  lesser degree at other customers )  and the anticipated requirements 
 
 
--  The supplier then uses the information about shipments and inventory ,  along with current assessments of market conditions ,  to forecast sales and schedule production and purchases accordingly 
+-  ,  Nippondensos advanced R&D efforts result in  catalog of components that covers most of its customers needs 
 
 
--  In traditional systems ,  the supplier relies primarily on analysis of its own shipment data ,  perhaps supplemented with field sales personnels information about retail sales trends 
+-  The customer picks from the catalog ,  and Nippondenso designs interface components if necessary and manufactures the full range of needed parts on  single production line 
 
 
--  ,  The retailers distribution center  ( in some cases ,  the stores )  receives incoming orders from suppliers and redistributes them to individual stores 
+-  For several reasons ,  Toyota usually chooses from the set of possible solutions rather than asking for  custom design: First ,  Nippondenso anticipates its customers future needs 
 
 
--  The retailer checks the shipment against the suppliers invoice and the original purchase order ,  records any discrepancies ,  and inspects the merchandise for defects 
+-  Standardization cuts costs ,  while variety meets the customers needs 
 
 
--  ,  If the shipment is received at  distribution center ,  it may be allocated to individual stores or added to reserve stock after arrival  ( postdistribution )  
+-  The advanced R&D process ,  about two to three years ,  is driven by Toyotas long-range goals and improvements ,  the suppliers own long-range goals ,  and feedback from Toyota on existing parts ,  The companies begin by generating many ideas for improvement ,  then choose four to five full prototypes ,  and test and evaluate along all critical dimensions 
 
 
--  Alternatively ,  the shipment may arrive in batches that have already been assigned to stores 
+-  ,  This strategy  using sets of prototypes that are narrowed over time for  new design  clearly has set-based underpinnings: these companies not only consider but build and test  wide variety of designs 
 
 
--  Such predistributed shipments are transferred as quickly as possible to the stores to minimize delays 
+-  The engineers interviewed did not describe  set-narrowing process but  process of starting with one design ,  moving to the next ,  then the next ,  in  point-to-point serial fashion 
 
 
--  In the apparel industry ,  typical lead times between order placement and receipt have been thirty to sixty days; this means that ,  for predistributed shipments ,  item quantities for each store have been determined long before the date on which the merchandise actually arrives at the store 
+-  Suppliers commented that the Toyota engineers ,  all knowledgeable about their particular product ,  often discuss how the designs can be improved 
 
 
--  ,  When the merchandise is finally on sale in the store ,  the retailer provides information and advice to customers and maintains displays 
+-  ,  In every case ,  the presentations precede any specific information or statements from Toyota about the new model ,  but the suppliers are able to proceed because of their long relationship with Toyota and knowledge of current trends 
 
 
--  Sales personnel also observe trends and report them to department managers and/or buyers 
+-  manufacturer develops  list of specifications in-house  ( perhaps in consultation with suppliers )  ,  then sends the specifications to prospective suppliers and asks for proposals 
 
 
--  ,   primary goal of channel partnerships is to reengineer processes to decrease the total system cost ,  shorten the time to replenish inventories ,  and reduce the amount of inventory carried in  channel 
+-  At Toyota ,  final specifications are decided approximately two years after supplier presentations 
 
 
--  Ideally ,   task force including both retailer and supplier representatives redesigns  merchandising and distribution process 
+-  It also understands the possibilities sets whose endpoints are the current product at one end and the latest developments at the other 
 
 
--  Improvements in the process may include: ,  Few ,  if any ,  partnerships have evolved to the point where they include all the process changes we describe 
+-  manufacturer ,  on the other hand ,  does not expend the same energy to understand its constraints 
 
 
--  In fact ,  most currently focus on replenishment ,  order processing ,  and receiving and distribution 
+-  Thus it appears the Toyota process compensates for the costs of its system by facilitating  well-informed decision-making process 
 
 
-- 11 The basic steps in automatic replenishment are outlined in Figure  
+- 29 ,  Supplier presentations play  critical role in Toyotas ability to set reasonable targets for its suppliers 
 
 
--  ,  Ordering basic merchandise begins with the electronic capture of sales information at the point of sale  ( shown in Figure  ,  box  )  by using UPC-coded price tickets and scanning technology to update inventory records instantaneously 
+-  An example is an exhaust system in which noise reduction characteristics vary for different models;  luxury sedan may need  very quiet ride ,  while  sports coupe may require more noise and throaty timbre 
 
 
--  Periodically ,  the amount of inventory of each SKU is compared with the amount specified in the model stock that the supplier and the retailer jointly develop for each store 
+-  Approximate maximum/minimum targets are generally expressed in terms of improvements over an existing product or the prototype in the presentation: Toyota is likely to want gurai  percent reduction in cost ,  or gurai  percent improvement in power output 
 
 
--  The model stock for an item is usually based on its recent sales history ,  modified to account for anticipated promotional activities and market trends 
+-  If the meeting is tense ,  gurai means Toyota really needs the target to be met ,   
 
 
--  More advanced systems combine dynamic modeling of sales trends with managers judgment to allow for continuous revision of stock levels ,  thereby tying orders even more closely to unfolding market demand 
+-  )  During the months that follow ,  the suppliers diligently strive to meet the targets through design improvements 
 
 
--  ,  The model stock quantity for an SKU is set at  level sufficient to cover expected demand ,  with  prespecified probability ,  between the placement of an order and its arrival at the store 
+-  Toyota gives basic requirements that are expressly vague  an anticipated change of 20 percent to 30 percent and asks suppliers to explore the areas around the requirements by building and testing prototypes or by computer simulation 
 
 
-- 12 Often the model stock quantity is determined to provide  95 percent service level  ( probability of being in stock )  for each SKU 
+-  The general manager commented that this process allows the shusa to understand trade-offs and set targets to produce the best possible design 
 
 
--   major benefit of the partnership approach to the retailer is that well-designed model stocks yield significantly higher rates of inventory turnover than traditional merchandising methods 
+-  ,  Another Toyota general manager of engineering explained that they typically set targets on each component higher than really necessary by as much as 20 percent 
 
 
--  For example ,  in the flow replenishment system at Vanity Fair Mills ,  department store model stocks of intimate apparel are designed to produce an annual turnover rate of four ,  about twice as rapid as the recent average for this type of store 
+-  They realize that ,  with production variations ,  this ensures  comfort zone so parts out of tolerance will actually be quality parts 
 
 
--  ,  In principle ,  POS data can be used to generate replenishment orders whenever the inventory of any SKU falls below  prespecified level 
+-  They also want the supplier to stretch; if the target is too easy ,  the supplier will relax and not try to continuously push possible boundaries 
 
 
--  In practice ,  most partnerships call for orders to be placed at fixed intervals such as every week or every two weeks 
+- 30 In short ,  the automaker decides what price the market will bear for the total vehicle and works back ,  roughly allocating costs to major subsystems and components 
 
 
--  In some cases ,  POS data are sent directly from each store to the supplier; alternatively ,  the POS data may be aggregated for all the stores served by  retailer distribution center 
+- 31 In the Japanese system ,  there is much greater opportunity to explicitly consider trade-offs between cost ,  performance ,  and weight in the early design stage ,  before commitments are made 
 
 
--  ,  As shown in boxes 3a and 3b in Figure  ,  replenishment orders can be created in any of three ways: ,  Orders from retailers or the supplier are used to create warehouse order-picking documents 
+-  ,  We have argued that the set-based paradigm explains the contrast of Toyotas apparently inefficient steps with  highly efficient overall process 
 
 
--  Increasingly ,  apparel and other manufacturers are applying price tickets to their products and making them floor ready 
+-  Here are some potential advantages we see in the set-based approach to design: ,  In the conventional ,  point-to-point search ,  every change that part of an organization makes may invalidate all previous decisions 
 
 
--  These tasks are shifted from store personnel to the supplier ,  which can usually do them more efficiently 
+-  Since designs are highly interconnected in obscure ways ,  it is generally impossible to tell whether  particular change alters decisions already made 
 
 
--  ,   key feature of channel partnerships in apparel and some other product categories is the suppliers commitment to quick response 
+-  Toyotas body designers waste little time on detailed designs that cannot be manufactured because the manufacturing personnel can precisely define the set of bodies that are manufacturable ,  using the lessons-learned books ,  and structural decisions have been made concurrently through the K4 process before detailed design begins 
 
 
--  This may mean ,  for example ,   promise to ship core items five days after receiving an order 
+-  Toyotas suppliers know the amount of design tolerance in their specifications at any point in the process and therefore know to what extent they can commit themselves 
 
 
--  Some manufacturers ,  such as Vanity Fair Mills ,  have adopted modular manufacturing systems to achieve quick response ,  which requires  complete reorganization of production processes ,  including retraining ,  investment in additional equipment ,  and changes in compensation 
+-  This may be  major reason why Toyota can allow parts of  team to get started when they want ,  rather than forcing them to follow  rigid schedule 
 
 
-- 13 ,  Outgoing orders are usually packed and marked for individual stores 
+-  ,  Finally ,  set-based communication can increase trust in working relationships 
 
 
--  They may also be shipped directly to the stores ,  assuming that this does not lead to uneconomical ,  small shipments 
+-  But if the supplier has  lot of information and is informed in advance about the set of possible changes ,  trust will build in the partnership 
 
 
--  An alternative is to ship the orders ,  designated and marked for each store ,  in  single batch to the distribution center 
+-  ,  In the conventional model ,  planning the manufacturing process before the product is defined makes little sense 
 
 
--  At the distribution center ,  the orders are cross-docked and shipped to the stores  ( together with orders from other suppliers )  with minimal delays 
+-  But in the set-based paradigm ,  the manufacturing processes that might apply to the set of possible products can be planned ,  early on 
 
 
--  Some retailers prefer to receive combined shipments at their distribution centers ,  delaying the allocation of merchandise by stores until that time 
+-  Thus innovation in the manufacturing process may drive innovation in the product design ,  as described in Whitneys discussion of the Nippondenso jikigata designs 
 
 
--  The rationale for this postdistribution approach is that it permits changes in allocating merchandise based on sales during the time between preparation of an order and its receipt ,  but the delay and additional merchandise handling is  matter of some dispute 
+- 33 The manufacturing team can focus on  new part of the product design space and assume that the product will be designed as much to fit the new manufacturing system as the manufacturing system to fit the new product 
 
 
--  ,  Whether shipments are made to distribution centers or directly to stores ,  the supplier can notify the retailer of the shipments electronically ,  which allows the retailer ,  in cooperation with the carrier ,  to schedule arrival and handling 
+-  This is equivalent to telling them to try harder and be more careful ,  not particularly useful advice 
 
 
--  Many carriers ,  like Federal Express ,  can track shipments in transit and provide revised schedule information when needed 
+-  ,  Designers are notoriously resistant to documenting their work ,  partly because they sense documentation is generally useless 
 
 
--  ,  Scannable shipping container labels serve as the link between each carton in the shipment ,  the automatic shipping notice ,  and the original purchase order 
+-  For example ,  the lessons-learned books at Toyota are updated to reflect Toyota engineers experiences with the manufacturability of various body designs 
 
 
--  Shipping container marking  ( SCM )  technology has greatly improved the efficiency of receiving and store distribution tasks at the retailers distribution center or at the store level 
+-  From the start ,  body designers know which angles can be manufactured and which are difficult to make ,  without even talking to manufacturing engineers 
 
 
--  On receipt of  shipment ,  carton labels are scanned to determine the order ,  the cartons contents ,  and the store to which the carton should be cross-docked 
+-  An important task for further research is therefore to demonstrate this causal link more carefully 
 
 
--  With increasing trust ,  retailers replace complete verification of the order with statistical sampling of the vendors shipping accuracy 
+-  Toyota has  long-standing relationship with highly competent suppliers that put in extra effort for the set-based approach ,  function on long-term relationships rather than contracts ,  and understand Toyotas informal communications about design sets 
 
 
--  Thus ,  for many of the most efficient partnerships ,  floor-ready shipments arrive at the retailers distribution center ,  are scanned ,  and are then cross-docked to trucks bound for the individual stores without the containers ever being opened 
+-  Toyota engineers serve  minimum of fifteen years before reaching management positions ,  have extensive hands-on experience ,  undergo frequent training ,  and are vigorously encouraged to think about their jobs and technologies by managers who are themselves technical experts 
 
 
--  ,  In some partnerships ,  retailers can pay for received shipments electronically and ,  in many cases ,  automatically ,  when sign-off on the shipment triggers the payment 
+-  Set-based concurrent engineering seems likely to require more skill and judgment than the simpler ,  point-to-point approach; its adoption by companies with lower average skill levels might be difficult 
 
 
--  With increasingly sophisticated automatic replenishment systems ,  retailer payment for inventory can occur as the stock is being sold to the consumer 
+-  ,  We cannot therefore recommend crash programs to develop set-based concurrent engineering 
 
 
--  ,  Several field tests have shown the potential benefits of reengineered merchandising and distribution processes 
-
-
--  The tests demonstrated that the time between the sale of an item and its replenishment in  retail store could be reduced by as much as 75 percent 
-
-
--  Subsequent quick response projects at Dillard Department Stores ,   
-
-
--  Penney ,  and Wal-Mart supported the Kurt Salmon tests by showing increases in sales of 20 percent to 25 percent ,  improvements of 30 percent in inventory turnover ,  and gains in in-stock performance from 70 percent or 75 percent to 95 percent or more 
-
-
-- 14 ,  More recently ,  Kurt Salmon Associates has prepared  study for the Efficient Consumer Response Working Group ,   consortium of grocery retailers and manufacturers interested in promoting channel partnerships in the dry grocery business 
-
-
-- 15 This study indicated that the time between production of an item and its purchase could be reduced from 104 days to 61 days with  partnership approach based on process reengineering 
-
-
--  In the traditional system ,  inventory was pushed through the channel ,  with consumer acceptance taking  backseat in the ordering process 
-
-
--  Buyers ,  focusing on gross margin percentages ,  were tempted by the promotional deals to buy aggressively and ,  in the dry grocery business ,  even adopted forward buying policies in which products were bought only when deals were available 
-
-
--  As  result ,  total inventories in the food distribution channel are significantly greater than they would be if purchases were timed to meet consumer demand patterns 
-
-
-- 16 With point-of-sale purchase data as the driver ,  the new approach uses consumer demand to pull inventory through the channel 
-
-
--  It thus results in less inventory held by both parties ,  higher in-stock rates ,  fewer markdowns ,  and ultimately greater sales to the consumer 
-
-
--  ,  While virtually all the channel partnerships that have formed so far are designed to improve the efficiency of order handling and shipping processes ,  there are other ways to cooperate that are logical extensions of retailer-supplier partnerships 
-
-
--  These include joint new product development and testing ,  deeper involvement of suppliers in assortment planning ,  and joint promotional programs 
-
-
--  ,  Some partnerships ,  after experiencing success in automatic replenishment ,  have turned their attention to improving new product development 
-
-
--  Their primary goals are to speed the time to market and ,  thereby ,  improve the market acceptance of product introductions 
-
-
--  ,  Integrated computer systems and computer-aided design have facilitated not only the development process but also the presentation of new products to retailers ,  particularly in the apparel business 
-
-
--  Video conferencing has also been used to facilitate this joint process 
-
-
--  ,  Retailers are also getting more involved in new product testing before introduction ,  in either market tests or surveys in which the retailers customers give their opinions on potential market acceptance 
-
-
--  This has proved particularly beneficial in the apparel business where ,  until recently ,  there has been relatively little market testing of new designs 
-
-
--  ,  When  retailer and  supplier agree on  model stock for the suppliers line ,  they are jointly planning  product assortment 
-
-
--  In most partnerships ,  the scope of the assortment planning is limited to  single suppliers product line and is typically based on the retailers recent sales history 
-
-
--  ,  Innovations in assortment planning revolve around the concept of category management ,  in which  retailer works with one or  few suppliers to analyze and manage  given product category as  strategic business unit 
-
-
--  They evaluate the performance of each SKU in  category on the basis of its rate of sale ,  gross margin ,  direct product costs ,  and space utilization 
-
-
--  Retailers that have adopted category management develop sophisticated space-allocation models that combine store-level POS data with direct product cost information to make store-by-store assortment and display decisions on the basis of direct product profitability 
-
-
--  ,  In the dry grocery business ,  some suppliers have lent their marketing and technical expertise to help their customers design and utilize category management systems 
-
-
--  After  six-month study of  partners dairy case ,  Krafts recommendations for space allocation led to increased volume and reduced out-of-stocks for the retailer and better positioning and higher sales for Kraft 
-
-
-- 17 ,   third area in which the scope of retailer-supplier partnerships might be extended is that of joint sales promotion programs 
-
-
--  Some suppliers are exploring the potential of direct marketing programs geared to consumers characteristics in individual store trading areas 
-
-
--  Direct marketing messages can ,  for example ,  be tailored to appeal to teenagers ,  senior citizens ,  or other groups heavily represented in  particular trading area 
-
-
--  Tailored marketing communications ,  together with adaptation of  stores product assortment to its customers needs ,  can enable suppliers and retailers to achieve even greater shared efficiencies 
-
-
--  ,  There is much still to be learned about how channel partnership arrangements evolve over time 
-
-
--  The experiences of suppliers and retailers to date provide some suggested requirements for establishing and maintaining  successful partnership 
-
-
--  Kurt Salmon Associates explained the adoption of quick response in the general merchandise industry: ,   second prerequisite is top managements full commitment 
-
-
--  Successful partnering inevitably means major changes in the way each party operates 
-
-
--  Top management must support the changes in systems ,  organizational structure ,  and culture 
-
-
--  Partnering can be very difficult if functional specialists are not accustomed to working with their counterparts in other departments and still less with specialists on the other side of the partnership 
-
-
--  In  retail organization ,  for example ,  implementing automatic replenishment requires the joint efforts of the buying organization ,  information systems ,  distribution ,  and store management 
-
-
--   few retailers have accomplished this by adopting  category management organization structure ,  with the category manager as the leader of the cross-functional team 
-
-
--  Other companies have established ad hoc task forces to design and install the procedures and facilities for  partnership and/or have established the position of director of partnership programs 
-
-
--  Typically ,  the director acts as  staff coordinator in setting up and managing partnerships 
-
-
--  ,  Top management must also work to change the adversarial attitudes that have traditionally characterized relations between retailer buyers and vendor salespeople 
-
-
--  Since trust is  critical issue in building and maintaining partnerships ,  it is imperative to change organizational cultures on both sides and regard partners as collaborators rather than adversaries 
-
-
--  ,  Related to cultural change is the issue of incentives for retail buyers and supplier salespeople 
-
-
--  To provide incentives for the effective functioning of  partnership ,  companies must develop compensation systems that reward both buyers and salespeople ,  at least in part ,  on the basis of common performance measures 
-
-
--  These might include some of the same measures used to assess overall partnership performance ,  as we discuss later 
-
-
--  ,  In some of the most notable partnerships ,  including Wal-Mart and P&G ,  the vendors commitment to relocate some of its staff near the retailer has been critical to establishing and maintaining the new systems 
-
-
--  Most vendors are unwilling or unable to make this level of commitment 
-
-
--  In many cases ,  it is difficult even to provide dedicated staff for the partnership 
-
-
--  When dedicated staffing is impossible ,  confidentiality can become  sensitive issue on both sides 
-
-
--  ,  Another issue concerns who bears the cost of cleaning out old inventory before introducing automatic replenishment 
-
-
--  Retailers face the task of reducing their inventories through markdowns to the model stock level 
-
-
--  In most cases ,  partners must negotiate who absorbs the cost of the markdowns 
-
-
--  As noted above ,  the manufacturer can take full responsibility for replenishing retailer shelves ,  the manufacturer can suggest an order with retailer approval ,  or the retailer has full responsibility for ordering 
-
-
--  The adopted approach often depends on the sales predictability in the merchandise category ,  the forecasting skill of each party ,  and the trust the retailer has in the manufacturer 
-
-
--  ,  Maximizing the benefits of efficient merchandise and information flow may require both retailers and manufacturers to change prices 
-
-
--  The success of automatic replenishment depends on the accurate sales forecasts used to develop model stocks 
-
-
--  Promotional price reductions induce spikes and troughs in retail sales ,  which increase the complexity of the forecasting task 
-
-
--  And retailers that rely on periodic promotions may hesitate to reduce their safety stocks for fear of being out of stock on  key promotional item 
-
-
--  Manufacturers trade promotions are also problematic because they encourage retail buyers to load up on discounted items in excess of the ideal replenishment quantity 
-
-
--  Given this incompatibility between promotional pricing and the efficiency goals of partnering ,  it is not surprising that many leaders in the partnership movement ,  including Wal-Mart ,  Dillards ,  and Procter  Gamble have everyday low pricing policies 
-
-
--  ,  Measuring  partnerships progress should be linked to the goals of lowering costs and improving service to the customer 
-
-
-- 19 The nonfinancial measures include time-based measures that break down the time between order generation and restock; reliability measures such as POS data accuracy and order lead times; yield measures such as the proportion of merchandise sold at full price; and measures of customer satisfaction 
-
-
--  In addition ,  we suggest measures of inventory levels  ( days of inventory )  or ,  equivalently ,  inventory turnover rates ,  vendor shipment accuracy ,  and in-stock levels  ( percent of time an SKU is in stock )  
-
-
--  Careful benchmarking of these process measures over time energizes the partners ,  highlights potential problem areas ,  and provides  leading indicator of financial performance ,  which may not improve in the early phases of  partnership 
-
-
--  ,  Financial measures include return on investment for  product category and direct product profit for  category and individual SKUs 
-
-
--  These measures differ from the gross margin and net sales measures traditionally used to evaluate category and item performance 
-
-
--  Because most retailers have yet to develop disaggregate cost data for individual products ,  many use gross margin return on investment to measure the progress of their partnership efforts 
-
-
--  ,  We have described  new approach to manufacturer-retailer relationships  one that relies on trust and collaboration  to improve the flow of goods and information 
-
-
--  This approach has been widely adopted by suppliers and retailers in the grocery ,  household appliances ,  and hardware and housewares industries ,  in addition to the general merchandise industry 
-
-
--  However ,  there are still several issues to resolve: ,  How widespread will channel partnerships eventually become? Many argue that retailers and manufacturers that choose not to partner will find it nearly impossible to compete with the more efficient ,  effective business systems of those that do 
-
-
--  By this logic ,  partnering will not necessarily provide  lasting differential competitive advantage ,  but it will be  prerequisite for competing in the future retail arena 
+-  Rather ,  companies that want to gain this new competitive edge should experiment in developing concrete techniques ,  while carefully pondering the philosophical implications and management of suppliers and personnel 
 
 

@@ -1,807 +1,393 @@
-- Several years ago at IBM Credit Corporation ,  arriving at  quote for computer financing involved five business functions and ,  on average ,  took seven days  even though customers and sales representatives were anxiously awaiting the outcome 
+-  Typically ,  we face these decision problems by identifying alternatives and only then considering objectives or criteria to evaluate them 
 
 
--  Now ,  coming up with  quote takes six hours ,  largely because one person handles the entire deal from start to finish 
+-   call this standard problem-solving approach alternative-focused thinking 
 
 
--  The company issues more than ten times as many quotes as it did in 1985 ,  using  computer for more than half of the quotes 
+-  This manner of thinking ,  which  refer to as value-focused thinking ,  is  way to channel  critical resource  hard thinking  in order to make better decisions 
 
 
--  And IBM is beginning to issue quotes in real time on the customer site ,  by combining yet another role with that of doing the deal  selling the computer 
+-  ,  Value-focused thinking is designed to focus the decision maker on the essential activities that must occur prior to solving  decision problem 
 
 
--  IBM account executives have become representatives of IBM Credit 
+-  The central role of thinking about values is illustrated in Figure  
 
 
--  ,  At Pacific Bell ,  providing  business customer with Centrex telephone service once took eleven jobs and more than five business days 
+-  Value-focused thinking helps uncover hidden objectives and leads to more productive information collection 
 
 
--  Service representatives had to update at least nine computer systems with the correct information ,  making frequent errors and rework ,  and consulting customers several times 
+-  ,  The greatest benefits of value-focused thinking are being able to generate better alternatives for any decision problem and being able to identify decision situations that are more appealing than the decision problems that confront you 
 
 
--  Using  computer workstation that interfaces with all nine systems ,  they provide the customers service in no more than  
+-  ,  Strategic thinkers have long recognized the need to clarify values 
 
 
--  days; if the order is for  type of service predefined in network software  ( as in 80 percent of orders )  ,  it is usually done the day of the order 
+-  They provide guidelines for organizational behavior and decision making ,  but they cannot be used to evaluate important decisions 
 
 
--  Order rework is down substantially 
+-  Values ,  sometimes embedded in mission statements and goals ,  need to be made more explicit for evaluation 
 
 
--  ,  The Internal Revenue Services collections division once had  very complex process for collecting taxes from delinquent taxpayers ,  which involved six different functions and much time spent on locating taxpayer files 
+-  They should be clarified with  specific statement of objectives 
 
 
--  When the agency built  new computer system for tracking cases ,  the collections and backlog improved dramatically ,  with major reductions in number of employees and offices ,  but worker morale declined and turnover increased 
+-  However ,  identifying and structuring objectives is  difficult task: although most experts on decision making say that it is crucial to list your objectives ,  they do not clearly address how to go about it or how to use the objectives to guide your thinking 
 
 
--  Only when collections teams handled entire cases to completion did collections improve in both productivity and job satisfaction  ( see Figure  )  
+-  ,  Value-focused thinking includes  process for identifying objectives 
 
 
--  ,  These organizations are taking actions that counter  century of conventional wisdom about how jobs and organizations should be structured 
+-  In these discussions ,   number of techniques can be used to stimulate creativity in identifying possible objectives  ( see Table  )  
 
 
--  Throughout the industrial age ,  the emphasis has been on seeking efficiencies through the detailed functional specialization of jobs or the so-called functional division of labor 
+-  It is much easier to recognize redundant objectives when they are explicitly listed than it is to identify missing objectives 
 
 
--  Now ,  however ,  many firms are beginning to move toward combination ,  not division ,  of labor 
+-  ,  The initial list of objectives will contain many items that are not really objectives 
 
 
--  They are using individuals or small teams to perform  series of tasks ,  such as the fulfillment of  customer order from beginning to end ,  often with the help of information systems that reach through the organization 
+-  It will include alternatives ,  constraints ,  and criteria to evaluate alternatives 
 
 
--  ,  Some of the firms that have implemented this radical new work design call it  case management approach ,  referring perhaps to social work case managers who help their clients interface with multiple social agencies and bureaucracies 
+-  With some thought ,  each item on the list can be converted into an objective 
 
 
--  One of the first organizations to affix the case management label to  redesigned process was Mutual Benefit Life ,  an innovative  ( albeit financially troubled )  insurance company in Newark ,  New Jersey 
+-  What is an objective?  define it as  statement of something that one wants to strive toward 
 
 
--  It transformed its process for underwriting and issuing an insurance policy from an operational nightmare  it required forty steps ,  twelve functions ,  eighty jobs ,  and an average of twenty-two days  into  case management process involving one person ,  assisted by two others 
+-  An objective is characterized by three features:  decision context ,  an object ,  and  direction of preference 
 
 
--  Case managers handle each policy from application to issue in two to six days ,  while cutting costs by more than 40 percent 
+-  For example ,  one objective of  forest products company is to minimize environmental impacts 
 
 
--  Though the firms real estate portfolio has led it into great difficulty ,  the case management process was functioning well before new business began to decline ,  and many other insurance firms have since adopted the same process 
+-  ,  But simply listing objectives is shallow 
 
 
--  Figure  depicts  simple model of case management in  manufacturing order management process 
+-  We need greater depth ,   clear structure ,  and  sound conceptual basis for relating objectives to each other in decision contexts 
 
 
--  ,  We have observed new case management structures in more than fifteen firms in  variety of manufacturing and service industries ,  including these: ,  Some of these firms have now had several years of experience with case management; others have created case management roles but are still implementing supporting systems and structures 
+-  For this ,   distinguish between fundamental objectives and means objectives 
 
 
--  ,  While case management presents exciting possibilities for process design and execution ,  it is not usually adopted without problems and issues 
+-  Fundamental objectives concern the ends that decision makers value in  specific decision context; means objectives are methods to achieve ends 
 
 
--  Furthermore ,  neither of the two approaches to providing information to case managers  implementing  broad ,  integrated new system or providing networked links to old ones  is entirely satisfactory 
+-  Fundamental objectives for strategic decisions ,  the broadest class of decisions facing an organization ,  are strategic objectives 
 
 
--  Finally ,  there are limits to how much job functionality can be incorporated into  case management environment 
+-  The strategic objectives provide common guidance for all decisions in an organization and form the basis for more detailed fundamental objectives appropriate for specific decisions 
 
 
--  Before exploring these difficulties ,  however ,  it is important to explain the concept and the promise of this work design 
+-  ,  To separate means objectives from fundamental objectives and to establish their relationships ,  we use the Why Is That Important?  ( WITI )  test 
 
 
--  We have observed four components of  successful case managers role: ,  Case management is an appropriate design for work that is performed along process lines rather than in business functions 
+-  For each identified objective ,  ask ,  Why is that important? Two types of answers seem possible 
 
 
--  Case management is particularly useful in processes that deal with customers ,  which involve managing the entire cycle of activities from customer order to product or service delivery ,  billing ,  and payment 
+-  One answer is that the objective is one of the essential reasons for interest in the situation 
 
 
--  The process approach to work ,  which specifies  structured set of activities resulting in  specified output for  specified customer ,  originated in the quality movement 
+-  Such an objective is  fundamental objective 
 
 
--  Case management is ,  for most organizations ,   radical departure from current work organization and is usually adopted with objectives of order-of-magnitude gains in time ,  cost ,  or quality 
+-  The other response is that the objective is important only because of its implications for some other objective 
 
 
--  ,  Like other radical process designs ,  case management implies broad processes that cut across the existing functions of the firm 
+-  In this case ,  it is  means objective ,  and the response to the question identifies another objective 
 
 
--  Any process approach is  shift from the functional structures familiar to most firms; case management is particularly distinctive because it achieves cross-functional integration by combining several functions into one job 
+-  Apply the WITI test to this objective in turn to ascertain whether it is  means objective or  fundamental objective 
 
 
--  Not only are they liaisons between these different functions and customers ,  but they actually perform the work previously done by the functions 
+-  Repeatedly identifying ends objectives from means objectives should progressively identify more fundamental values and lead to at least one fundamental objective in  given decision situation 
 
 
--  Moving to case management ,  therefore ,  inevitably involves considerable change in both organizational structure and business processes 
+-  One objective may be to minimize the distance the material is transported by trucks 
 
 
--  The difficulty of such change ,  however ,  reflects the difficulty  customer has with todays highly functionalized ,  segmented organization 
+-  Why is that objective important? Because shorter distances would reduce the chances of accidents and transportation costs 
 
 
--  As one Dow Chemical executive put it ,  The fact that we are  multifunctional ,  multidivisional ,  multi-SBU organization is not our customers fault 
+-  Again ,  for each objective concerning traffic accidents ,  costs ,  and exposure ,  the question should be asked ,  Why is that important? For accidents ,  the response may be that ,  with fewer accidents ,  there would be fewer highway fatalities and less accidental exposure of the public to the hazardous material 
 
 
--  It is seen as  way to provide the customer with faster and more complete service than before ,  with minimal handoffs and the ability to give customers the status of work in process 
+-  Why is it important to minimize health impacts? It is simply important 
 
 
--  At Mutual Benefit Life ,  for example ,  the case managers were not only  way to process more efficiently and hence speed up the time to complete  policy ,  but also  way to provide the customer with  broader array of more responsive services 
+-  When you reach this answer ,  you have found  fundamental objective; minimizing health impacts is  fundamental objective in this decision situation 
 
 
--  This requires job expansion and making case managers responsible for dealing directly with customer issues ,  instead of having to get approval from senior managers or managers with relevant expertise 
+-  CMI stresses the method of principled negotiation developed at the Harvard Negotiation Project to decide negotiation issues on their merits rather than through  haggling process focused on what each side says it will and wont do 
 
 
--  When well designed ,  case management makes the back room and the front room indistinguishable 
+-  ,  The principals at CMI are well aware of the value of making objectives explicit 
 
 
--  It is  vehicle for literally presenting one face to the customer  long  slogan at many firms ,  but rarely achieved when the product or service is spread among many different departments and workers 
+-  They recognize that both the process of explicating objectives and the results matter 
 
 
--  ,  Several of these components of case management could have been  and in some cases were  implemented in the past 
+-  CMI is also aware of the advantages of having outsiders assist organizations in identifying and structuring objectives 
 
 
--  Though it would have been counter to most prevailing organizational structures ,   firm could have created  closed-loop process and could have given greater decision rights to front-line personnel 
+-  ,  As we began our task ,  Raiffa and  held private discussions with nine principals at CMI to carefully articulate all of their objectives for the firm 
 
 
--  Without recently developed ,  powerful ,  and flexible workstations and supporting software tools ,  there would have been no way to pull together all the information necessary to make case management work  unless ,  of course ,  the firm had been oriented to broad processes in building its mainframe system architectures ,  which is very unlikely 
+-  To illustrate the type of discussion that occurs in identifying objectives ,  let me describe  small part of my meeting with Elizabeth Gray ,  one of the founding principals 
 
 
--  Information technology is not necessarily the most important component of case management ,  but it was the most limiting in the past 
+-  Asked why this matters ,  Gray responded that interesting work improves the contribution to clients and affords greater personal enjoyment 
 
 
--  We know of several banks ,  for example ,  that have constructed integrated customer files ,  allowing tellers or other front-line employees to access customer information across bank products and departments 
+-   asked her to be more specific ,  and she said that one specific objective was to develop intercorporate alliances in both conceptual and practical terms 
 
 
--  But because they do not allow users of the customer data to represent all of the banks products ,  little cross-selling or relationship management can occur 
+-  Elaborating ,  Gray stated that it was important for CMI to promote principled negotiation as  way to think about important conflicts in our society 
 
 
--  ,  Many other firms have implemented roles at the intersection of sales and operations to coordinate order management ,  but without role expansion ,  supporting information technology ,  and decision-making authority ,  these liaison roles are just Band-Aids on an inefficient business process 
+-  ,  In such discussions ,  we uncovered  wide range of objectives not previously made explicit 
 
 
--  One high-tech manufacturer we studied created  case managerlike role to handle the order fulfillment process for key accounts 
+-  The process aims to get  list of objectives that are deeper than motherhood and apple pie objectives ,  which everyone can agree to ,  but which provide little strategic guidance 
 
 
--  Yet because managers insisted that the role be nonexempt  ( and thus low in status )  ,  the case managers never had access to key information from the functional groups that the role was intended to coordinate 
+-  ,  The next two steps were to structure the objectives for each individual and then to integrate them into  common set of objectives for CMI 
 
 
--  In case management ,  less than all might as well be nothing 
+-  For each of the principals ,  we used  meansends logic to relate different objectives to each other and then we grouped specific objectives under more general objectives 
 
 
--  ,  Though case management is beginning to seem routine in many firms ,  it is  major departure from the way we have organized work since the Industrial Revolution 
+-  As  result ,  we had two lists of objectives for each individual:  list of fundamental strategic objectives for CMI and  list of means objectives contributing to the strategic objectives 
 
 
--  For the organizational thinkers of the nineteenth century ,   key aspect of modern organizational life was the division of labor 
+-  ,  All of the fundamental concerns identified in the individual interviews were combined into  strategic objectives hierarchy for CMI  ( see Table  )  
 
 
--  Adam Smith described the division of labor in the manufacture of pins: ,  In manufacturing ,  experimentation with more complete jobs began many years ago ,  though few firms have had more positive results than with the assembly line 
+-  Since no individual mentioned all of these objectives ,  CMIs strategic objectives were broader than those articulated by individual principals ,  but there was  consensus that these strategic objectives were appropriate for the organization 
 
 
--  For routine ,  structured tasks ,  whether they involve manufacturing or service processes ,  it is difficult to beat highly specialized jobs and sequential organization for efficiency 
+-  ,  Each individual mentioned around twenty means objectives in the discussions 
 
 
--  There is also evidence that the workers  ( at least in the United States )  who hold these jobs are often reasonably satisfied with them 
+-  Collectively ,  there were more than sixty means objectives that pertained to potential CMI products or activities such as management and marketing 
 
 
--  As one worker in the automobile industry put it ,  If Ive got to bust my ass to be meaningful ,  forget it; Id rather be monotonous 
+-  Table  provides  partial list of means objectives in several different areas that contribute to CMI strategic objectives 
 
 
--  ,  Based on conventional wisdom ,  many service industries as well as service functions also adopted the assembly line model ,  though it rarely worked as well as it did in manufacturing 
+-  ,  It is insightful to relate the means objectives to the strategic objectives using the meansends logic referred to above 
 
 
--  Jobs were narrowly defined ,  and the problems they addressed required only low levels of expertise ,  leading to monotony and difficulty in assessing  workers contribution 
+-  The interrelationships are illustrated in the network in Figure  ,  where an arrow from one objective to another indicates that achieving the former objective has  major influence on  (  
 
 
--  Furthermore ,  assembly line structures did not deal well with tasks that required coordinating many different functions or roles 
+-  To reduce clutter ,  only the objects of the main objectives are indicated in Figure  
 
 
--  Each highly segmented role created the need for  buffer  ( in-box and out-box )  and  communications interface ,  which greatly increased the time to complete the service 
+-  The detailed meanings of the strategic and means objectives are found ,  respectively ,  in Tables  and  
 
 
--  In an age of speed and time-based competition ,  these delays have become even more problematic 
+-  The strategic objectives and the means objectives are used to generate potential decision opportunities 
 
 
--  In many insurance firms ,  for example ,  we have found ten-to-one ratios between elapsed time and value-added time in  cross-functional work process 
+-  At CMI ,  we could have organized  meeting of principals to devise the decision opportunities ,  guided by the objectives 
 
 
--  Customers had  way of interfering with the best-laid plans for how work should flow 
+-  Unambiguous and complete statements of strategic objectives and means objectives can be  guide to identifying decision opportunities and creating alternatives that enhance both the likelihood of achieving those objectives and the degree to which the objectives are achieved 
 
 
--  They called when their applications or policies or orders were in midstream ,  forcing  halt in the flow to find their file 
+-  We have  tendency in all problem solving to move quickly away from the ill-defined to the well-defined ,  from constraint-free thinking to constrained thinking 
 
 
--  They wanted their orders expedited ,  which slowed down all the others 
+-  We need to feel ,  and perhaps even measure ,  progress toward reaching  solution to  decision problem 
 
 
--  For all these reasons ,  firms tried to isolate the front-line people from the back-office producers 
+-  Once  few alternatives  or perhaps only one ,  such as the status quo  are on the table ,  they serve to anchor thinking about others 
 
 
--  If organizations want to be responsive to customers ,  they can hardly consider interacting with customers an interruption in their work 
+-  For example ,  if  head-hunter calls to offer you  job in  different city ,  you automatically compare that job to your current job ,  and your thinking is anchored to that comparison 
 
 
--  In short ,  the assembly line model is not well suited to work problems involving interfunctional coordination and high customer service levels  ( see Table  )  
+-  But if you are willing to move to another city ,  there are lots of other jobs and lots of other cities to consider 
 
 
--  ,  The assembly line model ,  of course ,  is not the only alternative to case management as  form of work organization 
+-  Both the qualitative objectives and any quantitative statements of values  (  
 
 
--  For decades ,  firms have also employed cross-functional teams for certain types of tasks 
+-  ,  Thinking about how to better achieve fundamental objectives can suggest alternatives 
 
 
--  Therefore ,  such permanent teams are not well suited to highly structured tasks 
+-  To begin ,  it is useful to focus on one objective and think of alternatives that might be very desirable if that were the only objective 
 
 
--  ,   third alternative to case management is the structure based on relatively independent functional experts ,  such as scientists in  research-oriented organization ,  or physicians in  hospital 
+-  You should then repeat this for every objective 
 
 
--  For the tasks described in Table  ,  the functional expert structure excels only at high-expertise tasks and  ( sometimes )  those involving customer service and interruption 
+-  This exercise is likely to generate many alternatives ,  most of which would evaluate rather poorly on some objectives other than the one for which it was invented 
 
 
--  Functional experts are not efficient at permanent task execution ,  particularly of highly structured tasks 
+-  ,  The next step is to consider objectives two at  time and try to generate alternatives that would be good for both 
 
 
--  Cross-functional coordination is the most difficult problem in such work environments 
+-  The alternatives you create now are likely to be either refinements or combinations of those created using single objectives 
 
 
--  ,  Viewed in the context of Table  ,  the benefit of case management is its flexibility to handle multiple tasks 
+-  Then take three objectives at  time and so on ,  until all objectives are considered together 
 
 
--  The combination of high efficiency at relatively structured tasks ,  coordination across multiple roles ,  use of IS to coordinate the expertise of an entire organization ,  responsiveness to customers ,  and the ability to execute all these tasks permanently is difficult to resist in many different types of businesses 
+-  ,  The means objectives can also stimulate thinking about alternatives 
 
 
--  ,  Not only customers but also employees benefit from case management  at least those employees who can fit into these demanding jobs 
+-  Essentially ,  any alternative that influences one of the means objectives should influence at least some of the associated fundamental objectives 
 
 
--  Case managers can see  task through to completion and gain self-esteem from their employers trust in their ability to make the right decisions and actions 
+-  More complicated decision situations will tend to have more means objectives ,  which should suggest more alternatives 
 
 
--  They learn  broad range of processes through the lens of  case management workstation and face  wide variety of issues and challenges 
+-  Consider  rather simple fundamental objective: to maximize profits from the sale of  product 
 
 
--  Their jobs are not easy but are always interesting 
+-  Means objectives ,  in this case ,  might address sales volume ,  product price ,  manufacturing cost ,  distribution cost ,  and overhead cost 
 
 
--  ,  In general ,  organizations with complex processes for bringing their products and services to market are the best candidates for case management 
+-  ,   decision makers broadest objectives are the strategic objectives 
 
 
--  In manufacturing industries ,  case management is best suited to order management processes requiring frequent and close interaction with customers   
+-  Sometimes the wide open question of what can be done to contribute to the achievement of each strategic objective is worth pondering 
 
 
--  ,  when there are many products to choose from ,  when products are configured to  customers specification ,  when scheduling of  customers order is difficult ,  or when services are combined with products 
+-  Applying the ideas above to each strategic objective should suggest some worthwhile alternatives 
 
 
--  Of course ,  this sort of environment in manufacturing  sometimes called the service factory  is becoming increasingly common 
+-  Using the strategic objectives in this way ,  without  decision context ,  is much like identifying decision opportunities 
 
 
--  Firms must be careful ,  however ,  not to include too many tasks in the role 
+-  Thus ,  at the end of  decision process ,  when you are about to choose an alternative ,  think about new alternatives once more 
 
 
--  ,  At Dell Computer ,  for example ,   recently designed case manager position both takes and executes customer orders and also provides technical support for Dell products 
+-  Thus ,  carefully search for some new alternative that can better achieve the fundamental objectives by using the same or fewer resources in  different way 
 
 
--  However ,  the reengineering team determined that updating the technical support knowledge base and doing market segmentation were activities that ,  although related to customer support ,  took place in  different time frame and might distract front-line workers from their customer duties 
+-  Controlling the decision situations that you face may have  greater influence on the achievement of your objectives than does controlling the alternatives selected for the decisions 
 
 
--  ,  In service industries ,  the most feasible environments for case management are those in which the service cannot be performed simply and straightforwardly in assembly line fashion 
+-  ,  Decision makers usually think of decision situations as problems to solve ,  not as opportunities to take advantage of 
 
 
--  ,  as in  health care institution )  
+-  Who needs yet another problem? One of the main ideas of value-focused thinking is that you may need another problem  because  decision problem may not be  problem at all but an opportunity 
 
 
--  These service industry environments might be called service job shops 
+-  In this sense ,  recognizing and following up on decision opportunities is analogous to prevention ,  whereas dealing with decision problems is analogous to cure 
 
 
--  In an ideal world ,  organizational handoffs in business processes where there is interaction with customers would be transparent to the customer; in the real world ,  however ,  that does not often happen 
+-  You use your creative genius ,  which can be stimulated by value-focused thinking ,  to examine whether and how you can better achieve your objectives 
 
 
--  One consumer goods firm we studied ,  for example ,  had five divisions ,  each with its own order-processing systems ,  selling to the same retail customers 
+-  ,  An organizations strategic objectives are the foundation from which decision opportunities can be identified 
 
 
--  ,  There is  tradeoff ,  however ,  in designing relatively complex case management roles 
+-  But how many organizations have carefully written down and organized their strategic objectives? In how many organizations do the employees know and understand the organizations strategic objectives? The answer to both questions is very few 
 
 
--  The broader the set of functional tasks involved and the organizations linked ,  the more difficult it is to find good case managers 
+-  The chance to state and clarify these strategic objectives is itself  decision opportunity 
 
 
--  One issue is that to service customers directly and to complete or oversee the work for those customers is  difficult combination of activities ,  in terms of both skills and logistics 
+-  ,  The decision maker should develop specific procedures to routinely search through each of the strategic objectives for decision opportunities 
 
 
--  Few case managers in insurance ,  for example ,  are both expert at underwriting and good at convincing customers to buy policies 
+-  To put this procedure into operation ,  the decision maker will have to unambiguously state and structure the strategic objectives 
 
 
--  The issue of location may also limit the breadth of case management 
+-  Then ,  each month the decision maker should verify that the strategic objectives are appropriate and make any necessary changes 
 
 
--  For example ,  at Pacific Bell ,  the Centrex provisioning process also involves some tasks that require  person to be at  switching center to connect cable pairs 
+-  There should usually be no changes since we are talking about broad ,  high-level objectives 
 
 
--  Case managers sitting at  workstation could not handle this job ,  so the company retained the role of facility provisioner 
+-  Then ,  the decision maker should use each strategic objective to help think of decision opportunities to do things better 
 
 
--  ,  In general ,  while case management is an innovative and attractive design for customer-interacting work processes ,  it raises many issues of implementation and fit with the existing organization 
+-  In an important class of such decisions ,  one stakeholder wishes to have  certain alternative selected ,  but  different stakeholder has the power to make the decision 
 
 
--  ,  In creating case management environments ,  the firms we studied faced several issues 
+-  ,  Suppose you are the stakeholder who wants  particular alternative selected by another stakeholder ,  whom  will now refer to as the decision maker 
 
 
--  Managers must deal with such implementation issues as the proximity of the case manager to the customer ,  the decision rights granted to case managers ,  the supporting information architecture ,  the level of monitoring ,  and the choice between individuals and teams as case managers 
+-  Rather than simply allowing the decision maker to choose an alternative that may not be the one you desire ,  you should create alternatives that modify your desired alternative so that it maintains its essential features for you and is better than the existing alternatives for the decision maker 
 
 
--  Case management also has several implications that continue after the role and its activities have been initially established ,  such as for human resource requirements and policies 
+-  Indeed ,  she should have little objection to your efforts in this regard ,  as she may end up better off as  result 
 
 
--  It is too early in the life of case management to have definitive answers for all these issues 
+-  In this process ,  begin by identifying the negative impacts of your desired alternative relative to the status quo in terms of her values 
 
 
--  But it is not too early to focus on some of the major problems that must be resolved and point out what can be learned from the experiences of some pioneers in case management 
+-  These impacts probably affect the means objectives 
 
 
--  ,  Even though case management is  way to increase customer responsiveness ,  only some case managers deal face to face with customers 
+-  Follow their implications through  means-ends objectives hierarchy to the fundamental objectives of the decision maker 
 
 
--  Many case management roles thus far established deal with  field salesperson ,   selling agent ,   broker ,  or some other intermediary who deals directly with the customer 
+-  Now you should be able to create modified alternatives that can improve matters in terms of her fundamental objectives while maintaining the key consequences desired by you 
 
 
--  Thus case managers are frequently one step removed from the customer ,  though they sometimes have direct contact when they provide customer service 
+-  It is worth noting that the strategic objectives of  decision maker are likely much broader than the set of fundamental objectives influenced by your desired alternative 
 
 
--  Firms may be reluctant to give sales agents access to the full information that comes with case management particularly when they are not employees but independent agents 
+-  Thus ,  an alternative distinct from the original alternative may be used to satisfy her fundamental objectives when used in conjunction with the original alternative 
 
 
--  Firms also fear that the salespersons incentives may not be closely aligned with their own 
+-  You negotiate for the other side and make sure the decision maker gets enough to be willing to support your desired alternative ,  and you negotiate for your side as well 
 
 
--  For example ,  when we told  mortgage companys chief financial officer that the trends in his industry would eventually lead to  case manager who would issue mortgages in real time at the customer site ,  he responded that his company couldnt tolerate the risk of combining the sales ,  appraisal ,  and loan approval roles 
+-  Also ,  you are trying to balance overall impacts on the decision maker and overall impacts on you in  manner that is prescriptively reasonable to you ,  and that the decision maker will view as descriptively fair and responsible 
 
 
--  For example ,  Lithonia Lighting ,  the largest manufacturer of lighting fixtures in the United States ,  has designed  system called Light*Link that places all its relevant information in the hands of independent sales agents 
+-  ,  In addition to CMI ,  value-focused thinking has been applied at several other organizations in different contexts: coordinating decisions in all the functional departments at the British Columbia Hydro and Power Authority;8 deciding whether to develop the coal reserves in  pristine rainforest in Sabah ,   Malaysian state in Borneo;9 designing and evaluating wastewater treatment strategies for the Municipality of Metropolitan Seattle; and defining strategic objectives for the California Seismic Safety Commission 
 
 
--  Lithonia agents can access  great deal of information about the internal operations of Lithonia such as production scheduling ,  pricing policies ,  and so on 
+-  ,  Clearly ,  value-focused thinking may be useful to organizations as well as individuals 
 
 
--  Lithonia has also provided them with  number of expert systems so that they can respond to customer requests for quick lighting designs  for an office building or for  baseball park 
+-  Clarifying and explicitly stating your organizations strategic objectives should have  high benefit-to-effort ratio 
 
 
--  ,  Similarly ,  although it created  case management role at headquarters that greatly improved the quote generation process ,  IBM Credit felt that ,  to generate quotes sufficiently rapidly ,  it must move quote generation to the IBM field salesforce 
+-  Even if your organization has  mission statement and list of organizational goals ,  making these more explicit by writing specific objectives down and organizing them should lead to further clarification 
 
 
--  Until IBM develops new compensation schemes based on the long-term profit of  deal ,  these account executives would seem to have every incentive to give away the store to get  customers business 
+-  These strategic objectives will not only help you make wiser decisions but ,  more important ,  they should help you recognize and create new decision opportunities 
 
 
--  However ,  preliminary results from combining these roles indicate that the salespeople often make deals that are more favorable to IBM Credit than those headquarters was able to arrange 
+-  ,  Initially ,  it may be difficult to articulate ,  review ,  and revise your objectives 
 
 
--   few salespeople have even experimented with giving the workstations to customers and letting them create their own deals 
+-  It may appear that members of management have different concepts of the organizations objectives 
 
 
--  IBM Credit was bold simply because it had to be  it couldnt make the process work quickly enough when it was centralized at headquarters 
+-  If the apparent conflicts are not real ,  the improved understanding is still crucial 
 
 
--  Furthermore ,  it had  long history of working with the field salesforce to glean information about customers 
+-  You may get the feeling that you are using valuable time and not solving your decision problems when you are just thinking about and structuring your objectives 
 
 
--  ,  IBM Credits experience illustrates the full spectrum of proximity to the customer  from isolation to case management by the customer 
+-  But thinking about values ,  whether or not you call it an exercise ,  can help with the real decisions you face 
 
 
--   few other firms we encountered planned eventually to move case management to the customer 
+-  ,  As you gain experience ,  thinking about your objectives should get easier and the results should get better 
 
 
--  At Bell Atlantic ,  for example ,  the case management process involved working with customers to help them select or change long distance carriers 
+-  There are three reasons for this 
 
 
--  It would probably not work well ,  for example ,  in underwriting insurance or issuing home mortgages ,  where the customers interests may not coincide with those of the insurance or loan provider 
+-  As you sort these out ,  you will have  better understanding of your values ,  which will make it easier to clarify difficult value issues 
 
 
--  ,  Certainly ,  moving case management very close to the customer involves risk 
+-  Third ,  as you continue to structure and understand your values ,  they will begin to form  coherent pattern 
 
 
--  Case managers who both execute and sell may decide ,  for example ,  to take their business elsewhere or to satisfy customers at the firms expense 
+-  The frames of reference you develop over time will facilitate thinking about your values in new contexts 
 
 
--  Though few firms have been as bold as Lithonia and IBM Credit ,  several insurance companies  ( particularly those with captive agents )  and manufacturing firms are hoping that once they can demonstrate case managements success as an intermediary between the firm and its salesforce ,  they will be able to move the role and its capabilities gradually into the field 
-
-
--  In some organizations ,  such as direct suppliers like Dell Computer ,  the salesforce is not in the field ,  and customer orders are taken primarily at headquarters 
-
-
--  In such cases ,  moving case management close to the customer is the only alternative 
-
-
--  ,  Another consideration in designing case management roles is the level of decision-making rights in serving customers 
-
-
--  Case management generally implies  high level of autonomy ,  but just how much freedom in making decisions is appropriate? We believe the answer is ,  As much as possible without causing problems elsewhere 
-
-
--  An example of case management at Xerox illustrates the tradeoffs in establishing decision rights 
-
-
--  ,  Xerox has begun to implement case manager roles in its order management process 
-
-
--  The result of the redesign is  consolidation of multiple functions into two roles ,  customer contact employees  ( CCEs )  and customer support employees  ( CSEs )  ,  which together form  case management team  ( or micro-enterprise unit ,  as Xerox calls it )  
-
-
--  Using substantial information technology ,  these two roles will oversee the entire process of managing an order ,  from giving the customer  proposal to collecting revenues 
-
-
--  ,  The new roles ,  particularly the CCEs ,  have substantial decision-making authority 
-
-
--  Xerox created  broad set of decision rights for the roles and then pared away detailed policies and procedures to match the stated rights 
-
-
--   number of management levels are eliminated ,  which increases decision-making power 
-
-
--  In fact ,  there is only one level of managers above the CCEs ,  and they mentor and advise the CCEs ,  rather than provide close supervision 
-
-
--  Customer satisfaction is  primary factor in the CCEs performance evaluations ,  which also support customer-oriented decision making 
-
-
--  Case managers have  great deal of pricing flexibility ,  but they cannot offer prices below the government price ,  which must be the lowest possible price by definition 
-
-
--  ,  Case managers cannot do their work if they are not empowered to meet customer needs in creative and sometimes unorthodox ways 
-
-
-- 10 ,  Developing an information architecture to deliver all relevant information to the case managers desk is ,  for many firms ,   herculean task 
-
-
--  Since most systems in the past have been built along functional lines   sales system ,   logistics system ,   manufacturing system  creating  customer-focused architecture typically involves building or buying new systems from the ground up 
-
-
--  Companies can expect to spend tens and even hundreds of millions of dollars to create such an architecture ,  and it often fails 
-
-
--  Several attempts at creating customer-focused architectures for the banking industry ,  such as those by Hogan Systems and Westpac Bank ,  have been abandoned after many years of effort 
-
-
--  They are creating frontware or composite systems that pull data from various functional databases  ( or ,  more commonly ,  smaller extracts from those databases )  ,  transmit it across existing corporate networks ,  and integrate it at the case managers workstation 
-
-
--  Case managers can then see into the entire firm without  total change of systems 
-
-
--  ,  Pacific Bell ,  for example ,  has established an organizational unit to create just this type of system 
-
-
--  In the Centrex example described above ,  the Strategic Integrated Systems group developed  front-end system that guided provisioning caseworkers through the steps necessary to handle an order correctly ,  using such databases as equipment inventory ,  customer requirements ,  and installation schedules 
-
-
--  Because the underlying databases and network applications are quite complex ,  the front-end system determines what questions to ask the customer and in what order 
-
-
--  The system and the case management approach are now operating in several regions of Pacific Bells service area and have substantially reduced both provisioning time and errors 
-
-
--  ,  Yet these frontware workstations are no panacea for information systems architectures that are functionally based 
-
-
--  First of all ,  aging functional systems may not provide the right kinds of information and may be expensive to modify and maintain 
-
-
--  Building frontware systems may relieve pressure to replace them  but the pressure may be  useful source of motivation 
-
-
--  Because of concerns about the robustness of the front-ware approach ,  many of the IT managers we have interviewed question this interim approach ,  even in firms where it is supporting case management today 
-
-
--  They fear that multiple investments in temporary case management systems will eventually lead to an unmanageable jumble   gridlock of ad hoc systems ,  database extracts ,  and locally managed computers 
-
-
--  We believe that most firms should work on both short-term frontware systems and long-term architectures until there is more evidence that the composite approach is viable over the long term 
-
-
--  ,  Because the handling of customers and information about the customer interface are typically concentrated in the case managers role ,  issues of monitoring job tasks in case management environments are common 
-
-
--  We have seen examples of extremely high and low levels of monitoring that disturbed the corporate culture 
-
-
--  ,  At the Internal Revenue Service ,  the activities and performance of the collections agents ,  or case managers ,  were closely monitored and controlled through the computer system supporting the collections process 
-
-
--  The computer system made it possible for supervisors to monitor directly the case managers behavior instead of relying on after-the-fact measures of their performance 
-
-
--  The system measured the duration of calls ,  time at and away from work ,  dollars recovered per unit of time ,  and many other factors 
-
-
--  Also ,  the agency had expended considerable resources on the new computer system and wanted to justify the expenditure with productivity increases 
-
-
--  ,  The new process ,  computer system ,  and associated controls were very successful in economic terms 
-
-
--  While the efficiency of the process and the dollars collected from it increased markedly ,  so did the agent turnover rate and the dissatisfaction of supervisors 
-
-
--  Many employees felt that they were overcontrolled ,  and even supervisors complained about spending too much time on monitoring and control 
-
-
--  The agency eventually backed off on the level of monitoring and moved to greater levels of team self-management 
-
-
--  Case management teams now do the monitoring 
-
-
--  Supervisors can spend more time teaching agents about tax matters and advising teams on how to achieve better performance ,  rather than on individual monitoring 
-
-
--  ,  At the other extreme of control  ( albeit for  different reason )  ,   network engineering group in  telecommunications services firm wanted to relax the information controls on its case managers 
-
-
--  The group built  workstation for providing new-customer circuits that greatly reduced the cycle time for this process but also bypassed the previous mainframe databases that documented and managed the network 
-
-
--  At least to some ,  these systems were necessary for ensuring network integrity 
-
-
--  Needless to say ,  the new workstation-based system led to  major political battle that raged for more than  year until the advocate of the workstation-based approach was promoted ,  which assured its adoption 
-
-
--  In the meantime ,  the company incorporated some of the original controls into the workstation 
-
-
--  ,  For most firms ,  the correct approach to case management monitoring is in the middle of the spectrum ,  but with  bias toward less monitoring and more accountability and responsibility 
-
-
--  Since case management always involves information technology ,  and IT is extremely useful for monitoring work ,  most employers need to resist using all the employee performance information available 
-
-
--  ,  One somewhat paradoxical aspect of case management is its potential for low job satisfaction 
-
-
--  At first blush ,  this seems to be  job that would fulfill even the most challenge-oriented employee 
-
-
--  It involves high levels of autonomy and decision-making authority ,  completion of  broad set of tasks ,  and interfaces with many parts of the organization 
-
-
--  These are ,  according to theorists of work motivation ,  key aspects of rewarding and enriching jobs 
-
-
--  ,  One facet of case management ,  however ,  can radically reduce its work-life quality 
-
-
--  The job is mediated through  computer workstation or  telephone ,  so some case managers feel chained to the computer or phone 
-
-
--  They feel that they are not doing their jobs if they are not peering at the screen ,  typing at the keyboard ,  or talking on the telephone 
-
-
--  Even when the job involves analyzing real customer problems or talking to real customers on the telephone ,  tangible social interaction is lost 
-
-
--  Even the tangibility of paper and files is missed; as one case manager put it ,  Instead of putting  completed file into the out-box ,   feel like  am sending it into  black hole 
-
-
--  ,  The most common way to address this problem is to create case management teams ,  rather than relying on isolated individuals 
-
-
--  When case management requires the combination of highly specialized functional skills ,  teams of specialists can maintain their functional identities and be members of  case management team 
-
-
--  At Lee Memorial Hospital in Fort Myers ,  Florida ,  for example ,  case management teams specialize by the types of patient problems they are equipped to treat 
-
-
--   particular care center may focus on cardiology or cancer ,  but the patient will receive care from only ten members of  team ,  rather than from the normal range of sixty to one hundred care givers 
-
-
-- 11 The case management teams we have observed ,  however ,  are working well 
-
-
--  Those firms that view teams as only an interim step in case management ,  such as in Bell Atlantics carrier access organization ,  may find that they lose more in job satisfaction than they gain in efficiency when they abandon teams for individual case managers 
-
-
--  ,  However ,  one insurance firm we have studied is attempting to create team-based case management without significantly changing structure ,  location ,  or skills 
-
-
--  The team will have to access multiple systems in order to complete  case 
-
-
--  ,  This environment strains the definition of case management; it is really just  permanent cross-functional team 
-
-
--  Though the process for issuing insurance policies may be streamlined ,  we doubt that the order-of-magnitude benefits the firm desires can be achieved 
-
-
--  We also question whether  group of individuals without common jobs or location really constitutes  team 
-
-
--  ,  There are many human resource issues in case management 
-
-
--  The skills ,  compensation ,  performance evaluation criteria ,  and career paths of case managers are normally quite different from those of other employees 
-
-
--  Yet because case managers manage cases rather than people ,  they wreak havoc with traditional human resource policies in these areas 
-
-
--  ,  At Mutual Benefit Life ,  human resource issues were the most difficult aspects of the shift to case management 
-
-
--  Those employees who were capable of becoming case managers faced great uncertainty about how the firm would measure their performance ,  how much they would be compensated ,  and where their careers would lead 
-
-
--  The personnel department didnt understand how difficult the case manager role was and how much compensation it should receive 
-
-
--  Because the case managers had no subordinates and worked at  computer ,  the department wanted to classify the job as clerical 
-
-
--  The team that designed the case manager role had to work long and hard to convince personnel that case managers should be paid not only more than secretaries ,  but also more than underwriters 
-
-
--  High-achieving case managers also had initial difficulties with the idea that ,  as they progressed ,  they would not change job titles but would simply deal with more challenging cases 
-
-
--  Employees who could not master case management jobs felt betrayed 
-
-
--  Few of these employees ,  however well-trained ,  could perform the difficult and broad set of case management tasks 
-
-
--  Since the breadth of the job demanded not only trained skills but also high intelligence and  customer-oriented personality ,  only so much of the gap could be addressed through training 
-
-
--  Some of the employees picketed the firms headquarters to show their frustration 
-
-
--  ,  Many of these problems seemed insurmountable until one executive became the manager of the personnel function and of the information systems function ,  which had been very active in establishing the case manager role 
-
-
--  Thereafter ,  the firm implemented new programs to address both short- and long-term issues arising from case management 
-
-
--  Xerox and PHH Fleet America have adopted this same organizational combination of systems ,  process ,  and human resource responsibilities; it seems that when technology and processes change ,  so do jobs ,  and it is very helpful to have all of these resources managed under one roof 
-
-
--  ,  Though some organizational theorists have suggested that the functional structure will disappear in the process-oriented organization ,  we do not expect that even extensive case management will eliminate functions entirely 
-
-
-- 12 In the firms we studied ,  case management replaced some functions ,  resulted in shrinkage to  small group of functional experts in others ,  and left some fully intact 
-
-
--  Functions were replaced completely when the expertise levels needed to perform the functional tasks were very low 
-
-
--  When expertise can be taught to case managers or put into information systems ,  the result is usually an organizational structure that reduces functions in size and power but does not eliminate them 
-
-
--  Small groups of functional experts can still perform several valuable functions ,  including training and certifying case managers in their skills ,  helping to design ever-better expert systems to support case managers ,  and occasionally rotating into the case management role themselves 
-
-
--  ,  PHH Fleet America currently uses this case management structure of smaller but still critical functions ,  and case managers now perform most services for its customers fleet management requirements 
-
-
--  Functional areas have shrunk in size as they have given up operational duties to case management-oriented processes ,  and case managers report directly to process owners ,   
-
-
--  The few employees who remain in the functional areas continue to perform important roles ,  however ,  in creating and maintaining functional expertise among case managers and dealing with the customers most difficult questions 
-
-
--  For example ,  if  customer calls in with  maintenance problem on  fleet car ,  two times in three the Driver Services case managers can solve it using an expert system and the skills they have learned 
-
-
--  They refer the more difficult cases to expert maintenance mechanics ,  who can not only solve the problem but also add it to the case managers knowledge base if it is  recurring issue 
-
-
--  ,  In environments involving very high levels of expertise ,  there is an equal mixture of case management and functional experts 
-
-
--  This appears to be the situation in hospitals that have implemented case management approaches  ( or care teams as they are sometimes called )  
-
-
--  Although hospital case management teams can assume most patient care duties  ( including administering tests and medication ,  monitoring response to treatments ,  and overseeing preparation for and recovery from operations )  and also coordinate  patients movement from primary to acute to ancillary care ,  specialists are still needed for operations 
-
-
--  When case managers cant do everything ,  there is  clear need to specify where their responsibilities begin and end ,  and under what circumstances experts should be called in 
-
-
--  ,  In general ,  case management leads to strains in the organization 
-
-
--  Because it is  role based on  process view of the organization ,  some aspects of case management will frequently conflict with functional or divisional structures and with existing policies and procedures 
-
-
--  Functional managers will complain that the time-honored procedures and expertise of their functions are ignored 
-
-
--  Risk-averse executives will worry about including so much in one job 
-
-
--  IT managers will be concerned that case management technology is not rationally or reliably designed 
-
-
--  All affected employees will question how they fit into  case management structure 
-
-
--  Companies embarking on the case management role should be aware that many such conflicts will arise and be prepared to manage them 
-
-
--  ,  The keys to managing resistance to case management are well-known change management principles 
-
-
--  Communication with all concerned parties about the business objectives for adopting case management ,  the vision for how the process will work ,  and the likely impacts on these stakeholders is critical to securing cooperation 
-
-
--  Letting functional managers and employees in particular know about their long-term fates is the way to retain valued employees during ambiguous periods 
-
-
--  Furthermore ,  the sooner that employees know what skills are necessary to succeed as case managers ,  the earlier they can begin to prepare themselves with education and training 
-
-
--  ,   final approach to securing employee commitment to case management-oriented processes is one that we call partial work design 
-
-
--  In this approach ,   reengineering team designs from the top down the high-level description of  work process ,  including its inputs and outputs ,  performance objectives ,  organizational structures ,  and key technological enablers 
-
-
--  The case managers or teams who will perform them daily design the detailed work flows and activities of the process 
-
-
--  Their design participation builds adherence to the process and the job and reduces the alienation resulting from  Taylorist separation of work design from execution 
-
-
--  ,  The instances of case management we have observed thus far have been for single ,  specific processes at the customer-organization interface 
-
-
--  Because these initial efforts have yielded substantial benefits ,  companies have begun to explore whether they can extend case management concepts to  broad range of processes ,  including those such as financial transactions that are entirely within the organization 
-
-
--  ,  Even if case management is restricted to customer-interfacing processes ,  its value can be further extended into the organization 
-
-
--  For example ,  because the case manager oversees an entire customer transaction ,  he or she can provide useful feedback to product or service development 
-
-
--  An insurance case manager ,  for example ,  could suggest new insurance products based on customer requirements and report on customers comments 
-
-
--  ,  If we extrapolate case management trends to the extreme ,  organizations of the future could become collections of different types of case managers ,  each handling  closed-loop process for an internal or external customer 
-
-
--  The ad hoc networks bringing information to case managers desktops  ( or laptops )  would be the firms primary information architecture 
-
-
--  The organizational structure would be the case management nodes themselves  as individuals or ,  more likely ,  teams  and the communications and other relationships between them 
-
-
--  Before its financial problems ,   Mutual Benefit Life manager responsible for designing case management spoke of the one-person insurance company ,  which he saw as  logical extension of case management 
-
-
--  ,  Another alternative direction for case management is to move it out to the customer 
-
-
--  As already noted ,  IBM Credit is already exploring turning its customers into case managers ,  and this is  stated direction for Bell Atlantics carrier access case managers 
-
-
--  Of course ,  such  direction relies heavily on information technology to do most of the case work 
-
-
--  Furthermore ,  the issues of decision rights ,  breadth of the case management role ,  and monitoring all become greatly amplified  and potentially dangerous to customer relationships  when the customer is the case manager 
-
-
--  ,  Whether case management remains internal or external ,  it clearly presages more autonomous and networked work units 
-
-
--  And unlike most examples of the networked organization ,  it currently exists in many firms 
-
-
--  However ,  it is not possible at this point to understand if this networked autonomy is  positive long-term direction ,  or what issues will emerge if it catches on and burgeons 
-
-
--  The firms that pioneered case management have yet to adapt fully their organizational structures to suit the new role 
-
-
--  The functional structure is still in place ,  and most managers we interviewed believe it will always remain because of the need to maintain functional skills 
-
-
--  In insurance ,  for example ,  even when  case manager who has many other roles performs underwriting ,  the need for underwriting standards ,  training ,  and assessment does not go away 
-
-
--  ,   firm implementing case management today should start modestly ,  combining several functions and jobs and observing the outcome 
-
-
--  If combining labor rather than dividing it works well on this small ,  though radical ,  scale ,  the firm should add other functions to existing case manager roles and apply the concept to other areas within the organization 
-
-
--  Case management may not be relevant to all businesses and all processes ,  but it is being widely adopted across multiple industries ,  and firms are achieving substantial business benefits from it 
-
-
--  It has the potential to become the future of all business organizations ,  and it has already become the present for some 
+-  ,  To recapitulate ,  value-focused thinking will help you in three major ways: to recognize and identify decision opportunities ,  to create better alternatives for your decision problems ,  and to develop an enduring set of guiding principles for your organization 
 
 

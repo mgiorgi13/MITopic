@@ -10,37 +10,22 @@
 -  ,  Today ,  in fact ,  the information-based organization is largely  fantasy 
 
 
--  Despite forty years of the Information Revolution in business ,  most managers still tell us that they cannot get the information they need to run their own units or functions 
+-   didnt understand them 
 
 
--  Many of their efforts to create information-based organizations  or even to implement significant information management initiatives  have failed or are on the path to failure 
+-  The primary reason is that the companies did not manage the politics of information 
 
 
 -  Only when information politics are viewed as  natural aspect of organizational life and consciously managed will true information-based organizations emerge 
 
 
--  ,  Furthermore ,   good argument can be made  and there is increasing evidence for it  that as information becomes the basis for organizational structure and function ,  politics will increasingly come into play 
-
-
--  In the most information-oriented companies we studied ,  people were least likely to share information freely ,  as perceived by these companies managers 
-
-
 -  As peoples jobs and roles become defined by the unique information they hold ,  they may be less likely to share that information  viewing it as  source of power and indispensability  rather than more so 
 
 
--  ,  This assertion directly contradicts several academic and popular concepts about how widespread information and information technology will affect organizations 
-
-
--  These thinkers have hypothesized that as organizations make widespread use of information technology ,  information will flow freely and quickly eliminate hierarchy 
+-  Yet they may have quite legitimate reasons for withholding the information 
 
 
 -  Political behavior regarding information should be viewed not as irrational or inappropriate but as  normal response to certain organizational situations 
-
-
--  Valid differences in interpretation of information ,  for example ,  may lead to apparently intransigent behavior 
-
-
--  At an electronics company we once worked with ,  the marketing organizations for direct and indirect channels could never agree on what constituted  sale 
 
 
 -  Getting the product to the end-customer was direct marketings sale; getting it to the distributor ,  even though it might return eventually ,  was how the indirect group wanted to measure its success 
@@ -49,13 +34,7 @@
 -  Later ,  as more product moved directly to buyers ,  end-customer sales became the official definition 
 
 
--  Political disputes of this type will often arise when there is no consensus around the businesss information needs 
-
-
 -  ,  One reason the stakes are so high in information politics is that more than information is at stake 
-
-
--  In order to arrive at  common definition of information requirements ,  organizations must often address not just the information they use ,  but the business practices and processes that generate the information 
 
 
 -  At  fast-growing specialty manufacturer ,  CEO-appointed information czars are responsible for ensuring consistency in the information-generating activities of their areas 
@@ -64,55 +43,52 @@
 -  For example ,  the order-processing czar mandated common companywide practices for assigning customer and product numbers ,  recognizing revenue ,  and determining contract prices 
 
 
+-  ,  customer fulfillment )  are being redesigned to build  new information infrastructure 
+
+
 -  Out of each new process will come information on its performance  how long it takes ,  how much it costs ,  how satisfied the customer is with it  as well as the more traditional results-oriented information such as sales and profitability 
+
+
+-  At Dow Chemical ,  managers believe there must be common financial processes around the world in order to create common measures of financial performance 
 
 
 -  Unfortunately ,  the very factors that make free information flow most desirable and necessary also make it less likely 
 
 
--  An organization that is highly unstable and operating in an uncertain business ,  in which employees are uncertain about their job security and place in the hierarchy; needs as much information as possible about the environment and its own performance 
+-  ,  Our purpose is to help companies understand information politics and manage them 
 
 
 -  After we define each model ,  we will evaluate their relative effectiveness along the dimensions of information quality ,  efficiency ,  commonality ,  and access 
 
 
--  Sometimes the models conflict ,  and sometimes one model predominates 
+-  The first step in managing information more effectively and realistically is explicitly recognizing these existing models and then choosing  single desired state 
 
 
--  Table  shows the distribution of models among the companies we studied 
+-  ,  Many companies have  strong bias toward approaching information management from  technological perspective 
 
 
 -  Their technological efforts to alleviate information problems often involve  considerable amount of detailed planning and revolve around modeling and efficient use of corporate data 
 
 
--  Their goal is to plan  technology infrastructure that can deliver information to each individuals desktop and then to build databases with the correct structure to store this information without redundancy 
-
-
 -  Some technical efforts around information management are reasonable; however ,  when the technological approach to information predominates ,  the companys model of information management can be described as technocratic utopianism 
-
-
--  ,  Although neither the IS professionals nor the users may be consciously creating  technocratic utopia ,  there is an underlying assumption that technology will resolve all problems and that organizational and political issues are nonexistent or unmanageable 
 
 
 -  In fact ,  information itself  its content ,  use ,  and implications for managing receives little attention in this model 
 
 
+-  ,  We found technocratic utopianism ,  either by itself or alongside another model ,  in almost  third of the firms we analyzed 
+
+
 -  The model usually coexists ,  however uneasily ,  with other models; in fact ,  the technocratic utopian model is often held by  small group of technologists supported by many technical journals ,  consultants ,  and technology vendors 
 
 
--  While the technologists plan  utopia around the free flow of information ,  the senior executives for whom they work usually ignore ,  or are ignorant of ,  their efforts 
+-  Because these technical models are difficult for nontechnologists to understand ,  managers outside the IS function are rarely active participants 
 
 
 -  ,  Technocratic utopians often have three factors in common: they focus heavily on information modeling and categorization; they highly value emerging hardware and software technologies; and they attempt to address an organizations entire information inventory 
 
 
 -  They consider such modeling and categorization  key aspect of the engineering of information  ( indeed ,  information engineering is an established discipline within the IS profession )  
-
-
--  In this ideal world ,  information flows like water ,  and the only task is to construct appropriate canals ,  aqueducts ,  and dams in order for information to flow freely to those who need it 
-
-
--  Information sometimes feels as common in organizations as water; since it is so plentiful ,  there is  natural instinct to try to channel it rather than drown in it 
 
 
 -  ,  Information engineering is important ,  of course ,  but the political aspects cannot be neglected 
@@ -124,22 +100,10 @@
 -  ,  Technologists also frequently assert that new forms of hardware and software are the keys to information success 
 
 
--  Executives often hear that they will get the information they need when our new relational database system is installed or when our new network is complete 
-
-
--  No technology has yet been invented to convince unwilling managers to share information or even to use it 
+-  Too often ,  however ,  when the silver bullet arrives it does not have the intended effect 
 
 
 -  In fact ,  we would argue that technology vendors suffer from the same political forces as do data modelers 
-
-
--  The failure of the diskless workstation to thrive in the marketplace may well be due to individuals reluctance to lose control of their information 
-
-
--   common example is the creation of an enterprise model   structured inventory and categorization of all data elements used throughout the firm 
-
-
--  Such modeling exercises often take years and yield vast amounts of detail 
 
 
 -  Although their purpose is often to eliminate redundant data storage ,  they often yield little real business value 
@@ -151,49 +115,37 @@
 -  They assume that information itself is valueless ,  or at least that its value is the same to all organizational members 
 
 
--  Rarely do organizations consciously choose this state ,  in which individuals fend for their own information needs 
+-  If they are conscious of the relationship between information access and hierarchy ,  they assume that those high in the hierarchy would not restrict the free flow of information for any reason other than corporate security 
 
 
--  Suddenly individuals and small departments could manage their own databases ,  tailoring their own reports to their own needs at any time and at minimal cost 
+-  Information anarchy usually emerges when more centralized approaches to information management break down or when no key executive realizes the importance of common information 
 
 
--  This software firm had previously tried to develop an overall information management structure by asking key managers what information they needed to run the business 
+-  When everyone has his or her own database ,  the numbers for revenues ,  costs ,  customer order levels ,  and so on will diverge in databases throughout the company 
 
 
--  When the firm could not achieve consensus ,  it determined that  bottom-up structured exchange of documents across its network ,  using  new software technology developed for this purpose ,  would yield all of the required information 
+-  The desire for information that leads to anarchy should quickly be harnessed into  more organized political model 
 
 
--  Even here ,  however ,  an alternative information model flourished in some quarters; as one senior executive put it ,  I get all the information  need in breakfast meetings with the CEO 
+-  They can also decide what measures are used to understand performance as well as what language ,  by which we mean  common vocabulary ,  is used within the realm 
 
 
--  Different realms often end up with different languages ,  and the subsequent fragmenting of information authority diminishes the power of the entire enterprise  just as the growth of powerful noblemen and their entourages inhibited the kings power in medieval times 
+-  Key measures of the enterprises health often are not collected ,  reported ,  or even considered beyond roll-up of financial outcomes ,  further diminishing the central authoritys power 
 
 
 -  When divisions have their own strategies ,  products ,  and customers ,  it is almost inevitable that their information needs will differ 
 
 
--  The firm was organized along product lines; product division heads were informally referred to as barons 
-
-
 -  The latter executive eventually brought in consultants to give  seminar on the value of common data and systems  all ,  the last we heard ,  to no avail 
-
-
--   new CEO arrived at  time when profits were down ,  and he felt he had no way to manage across the entire firm 
-
-
--  ,  We have also seen  few examples of functional feudalism ,  in which financial and operational functions have their own information architectures and cannot achieve consensus on what should be monitored and how 
 
 
 -  In one high-technology manufacturing firm ,  for example ,  the quality function head created an executive information system that reported on operational performance and quality data 
 
 
--  The quality-oriented system was building adherents  ( and product quality )  until the quality director left for  summer vacation 
-
-
--  Powerful executives can create strategic alliances to share information or establish  common network or architecture ,  just as feudal lords banded together to build  road or common defense wall ,  go to war ,  or plan  marriage for mutual enrichment  although such communal efforts rarely include all of the lords 
-
-
 -  It is also possible that ,  as in Renaissance times ,  the proliferation of patrons will encourage innovation and creativity within each realm for example ,  the development of  particularly useful quality information system by one division 
+
+
+-  Power is centralized ,  and departments and divisions have substantially less autonomy regarding information policies 
 
 
 -  ,  Much depends on the approach the monarch takes to managing the realms information 
@@ -202,16 +154,10 @@
 -  ,  The rapidly growing specialty manufacturer mentioned above is an example 
 
 
--  The CEO ,  who felt that information flow was critical to developing  flexible organization ,  decreed  policy of common information to bring about access to consistent information by all who needed it 
-
-
--  Currently efforts are underway to embed this decree into  set of business practices and  technical architecture 
+-  His appointment of czars to define and implement common information policies reflected his belief in the importance of information management issues 
 
 
 -  This top-down approach is an example of enlightened monarchy at its best ,  since the action was taken not in response to  specific crisis but as  well-considered response to  broad organizational objective 
-
-
--  The chart of accounts becomes the realms Magna Carta  ( great charter )  ,   document establishing rules that will be enforced by processes and enabled by an information technology platform 
 
 
 -  The CEO is usually considered the primary user of such  system ,  although some attempt is usually made to solicit the information requirements of other executives 
@@ -220,22 +166,22 @@
 -  However ,  the effort is not always successful 
 
 
+-  At one insurance company we studied ,  an EIS intended for the entire senior management team was never used seriously by anyone other than the CEO 
+
+
+-  Other executives were concerned about how their units would fare under close analysis ,  and they kept their own feudal information sources 
+
+
 -  ,  One drawback to any information monarchy is the simple fact of mortality 
-
-
--  Cultures and traditions take years to solidify in an enterprise 
 
 
 -  In one high-tech manufacturing firm ,  the founder CEOs retirement led to information anarchy for many years; only now is the firm beginning to establish  more structured environment 
 
 
--  In contrast ,  technocratic utopianism ignores politics ,  anarchy is politics run amok ,  feudalism involves destructive politics ,  and monarchy attempts to eliminate politics through  strong central authority 
+-  ,  The final information state ,  federalism ,  also has  number of desirable features ,  and in todays business environment ,  it is the preferred model in most circumstances 
 
 
--  Federalism treats politics as  necessary and legitimate activity by which people with different interests work out among themselves  collective purpose and means for achieving it 
-
-
--  However ,  it takes tough negotiating and  politically astute information manager to make the federalist model work 
+-  Federalism most explicitly recognizes the importance of politics ,  without casting it in pejorative terms 
 
 
 -  Such an information manager needs to have the CEOs support  ( although not too much support ,  or  monarchy emerges )  as well as the trust and support of the lords and barons who run the divisions 
@@ -244,7 +190,7 @@
 -  He or she needs to understand the value of information itself as well as of the technology that stores ,  manipulates ,  and distributes it 
 
 
--  Each realm contracts with the executive and with other realms to cede some of its information assets in return for helping to create  greater whole 
+-  ,  An executive who has this perspective can then use cooperative information resources to create  shared information vision 
 
 
 -  This is  genuine leveraging of  firms knowledge base 
@@ -256,49 +202,19 @@
 -  Ford and his organization produced an information strategy that focused on the value that information can bring to all of IBM 
 
 
--  Would you share your product quality data with the service organization? How about sales? Eventually all the important information will be in easy-to-access data warehouses 
+-  ,  We believe that there are only two viable choices among the five models: monarchy and federalism 
 
 
--  ,  Of course ,  the politician has only so much time to ring doorbells 
-
-
--   division may have hundreds of important data elements that need to be shared 
-
-
--  IBM is finding that the time to educate and persuade information owners of their responsibilities is the biggest constraint to implementing  federalist model 
-
-
--  Fords departure from IBM to head  software firm may also place the federalist initiative at risk 
-
-
--  ,  The first step in managing information politics is figuring out which models people in the firm hold ,  which model currently predominates ,  which is most desirable ,  and how to achieve it 
-
-
--  As we have noted ,  adopting multiple models will needlessly consume scarce resources and will confuse both information managers and users 
-
-
--  Therefore ,   firm should choose one model and move continually toward it ,  however long it takes 
-
-
--  In  business culture that celebrates empowerment and widespread participation ,  federalism is preferable ,  but it is harder to achieve and takes more time 
-
-
--  Federalism requires managers to negotiate with each other in good faith while avoiding the temptation to use and withhold information destructively 
+-  Most firms we know of profess  desire to move toward  federalist model 
 
 
 -  ,  Table  summarizes our assessments of the five political models along four dimensions:  (  )  commonality of vocabulary and meaning;  (  )  degree of access to important information;  (  )  quality of information  that is ,  its currency ,  relevance ,  and accuracy; and  (  )  efficiency of information management 
 
 
--  Even the definition of what  sale is can be variously interpreted by different divisions ,  to say nothing of more ambiguous terms such as quality ,  performance ,  and improvement 
-
-
--  Many firms proclaim that all employees should have the information they need to do their work well 
+-  The desirability of common discourse may appear obvious ,  but in our experience it does not exist in many large firms 
 
 
 -  However ,  in making the choices about who actually needs what information ,  firms are making political decisions ,  whether or not they acknowledge it 
-
-
--  ,  In many ways the quality of information is the most important of these indicators 
 
 
 -  Information quality is achieved through detailed attention to its integrity ,  accuracy ,  currency ,  interpretability ,  and overall value 
@@ -307,7 +223,7 @@
 -  As with other types of products ,  the quality of information is best judged by its customers 
 
 
--  Even companies that declare themselves as firmly in the Information Age ,  however ,  rarely have measures or assessments of their informations quality 
+-  ,  Efficiency is often the objective of technologists who wish to minimize redundant data storage 
 
 
 -  The incredible improvements in price-performance ratios for data storage technologies have reduced this issues importance somewhat 
@@ -319,43 +235,25 @@
 -  Multiple measures of the same item take time to analyze and synthesize 
 
 
--  Effective management requires focusing on  few key performance indicators 
-
-
--  Computers and disk drives may be able to handle information overload ,  but people still suffer from it 
-
-
--  This makes possible the widespread access and distribution of meaningful information ,  which is then used for the benefit of the whole enterprise 
-
-
 -  Although satisfying all constituencies may require gathering more information than is absolutely necessary  ( hence decreasing efficiency )  ,  and the necessary compromises may reduce quality ,  federalism scores higher in the minds of the managers we interviewed than any other model 
 
 
 -  ,  Because federalism explicitly acknowledges the important positive role that information politics can play ,  it is apt to be the most effective model for companies that rely on individual initiative for generating collective action 
 
 
+-  This is most likely to be the case for companies operating in complex and rapidly changing competitive environments ,  which create  high level of uncertainty 
+
+
 -  Accomplishing it ,  of course ,  requires negotiating skills and the willingness of managers to take the time to negotiate 
 
 
--  The temptation always exists to look to  strong monarch to resolve the endless negotiations by fiat ,  to fall prey once more to the alluring utopian vision painted by the technologists ,  to fall back into  nasty and brutish condition of feudal conflict ,  or to dissolve into the chaos of anarchy 
+-  Not all companies have executives with the ability or the commitment to do this 
 
 
 -  In fact ,  as Table  shows ,  many of the firms pursuing federalism were also pursuing other models ,  either consciously or implicitly as  backup strategy 
 
 
--  The monarch and his or her ministers mandate and oversee the right processes to generate the right information to be used in the right way  all enhancing information quality ,  at least as they perceive it 
-
-
--  ,  Technocratic utopianism focuses on using information technology to dramatically improve data distribution 
-
-
 -  Because technocratic utopians do not concern themselves with the processes that produce information ,  the quality of information remains low 
-
-
--  Further ,  the quality of information usage is inhibited by technocratic efforts such as complex data modeling that are often not understood or appreciated by line managers 
-
-
--  Commonality and efficiency are the lowest possible ,  of course ,  but at least Individuals have easy access to the data they need 
 
 
 -  The customer controls information ,  thus its quality is likely to be high  unless the customer is an executive trying to take an organizationwide perspective 
@@ -364,7 +262,19 @@
 -  Feudalism gets only middling marks for quality; it may be high for individual divisions ,  but it is low from the corporate perspective 
 
 
--  Phillips Petroleum ,  for example ,  radically reduced its management ranks after  raider-forced restructuring 
+-  Most firms we know of profess  desire to move toward  federalist model ,  while currently operating in  feudal or technocratic utopian environment 
+
+
+-  ,  It is no accident that democracy emerged in eighteenth-century America ,   sprawling continent with vast resources and an ethic of independence and self-sufficiency 
+
+
+-  When faxes were flying to and from pre-Tiananmen China ,  some observers argued that the free flow of information was leading to  more open society; now that the faxes and those who faxed are silent ,  we know that the causal relationship was in the other direction 
+
+
+-  We have never seen increased information flow leading to elimination of  management layer or  greater willingness to share information 
+
+
+-  When these latter changes happen ,  they happen for reasons unrelated to information: restructurings ,  tighter cost control ,  external events  (  
 
 
 -  One firm was  fast-growing personal computer  ( PC )  manufacturer when we studied it; since then ,  its growth has slackened 
@@ -373,22 +283,19 @@
 -  The other firm was  large manufacturer of several types of computers that was experiencing financial problems when we visited it 
 
 
+-  Their cultures seemed similar at first glance; they both had tried to develop cultures in which information was shared freely throughout their organizations with little regard to level or function 
+
+
 -  However ,  two key aspects of their cultures  their organizational structures and their relative financial success  had led to radically different information politics 
-
-
--  The firm had an explicit ethic of open communications ,  stressing early notification of problems and  dont shoot the messenger response 
 
 
 -  Allowing others access to information requires  lot of trust ,  but that trust seems to exist here 
 
 
--  In more difficult times ,  with new management ,  the open information environment may not persist 
+-  The managers we interviewed speculated that this was because  team that shares its information fully may lose its reason to exist 
 
 
 -  This is particularly true during the economically difficult times now facing the company 
-
-
--  If an organizational structure is defined by information nodes ,  then those who freely surrender information may lose their place in the structure 
 
 
 -  Put more broadly ,  in the information-based organization ,  information becomes the primary medium of value and exchange ,  and who would give it away for free? ,  How do you know when your culture is right for more democratic information politics? There are  number of indicators 
@@ -409,52 +316,34 @@
 -  Information engineering should be highly focused ,  information should be in units that managers can understand and negotiate with ,  and technology platforms should be as common as possible 
 
 
--  ,  Previously we pointed out the folly of trying to engineer an organizations entire information inventory 
+-  We  ( and other researchers )  ,  believe that focused ,  less ambitious information management objectives are more likely to succeed ,  given that the volume of information in corporations is too great to be rigorously categorized and engineered 
 
 
 - 14 This is particularly true in  federalist environment ,  in which each key information element will require substantial negotiations 
 
 
--  Information management efforts must be directed at only those information elements that are essential to implementing strategy and to running the business day to day 
-
-
 -  At IBM ,  for example ,  the firms internal information strategy focuses primarily on customer and market information and secondarily on process quality information 
+
+
+- 15 Although this approach includes  great deal of data ,  it also excludes  considerable amount 
 
 
 -  ,  It is also important to acknowledge that not all information will be managed through technological means ,  just as most of the water around us does not run through our water meters 
 
 
+-  Technologists must concern themselves with the data elements that appear on documents ,  but managers will normally be happy not to delve below the document level in developing  common information language 
+
+
 - 17 ,   key aspect of making information more widely available ,  ineffective technocratic utopias to the contrary ,  is the nature of the information technology platform 
-
-
--  Specifically ,  technology for widespread information use must be common ,  easily used ,  and interconnectible 
-
-
-- 18 Technological realists recognize that their computers may not be best for all applications ,  but they meet basic needs 
-
-
--  Common ,  standardized technology is essential if the same information is to be presented in the same way all around the company 
-
-
--  Aetna Life  Casualty ,  American Airlines ,  Du Pont ,  IBM ,  and  large consumer products firm are all initiating efforts to build and operate  common platform for information distribution 
 
 
 -  This may seem obvious ,  but few companies can send  piece of data to all their workstations without considerable machinations to address different products ,  protocols ,  and other technical particulars 
 
 
--  These companies are discovering that the same federalist approach required for achieving consensus on information meaning is also required to achieve consensus on  standard technology platform 
-
-
-- 19 ,  Along with having  suitable political culture and technology environment ,  companies desiring to change their information politics must elect  ( or otherwise get into office )  the right information politicians 
-
-
--  In one fast-growing software company ,  for example ,  problems with information flow were widespread ,  but no one below the CEO took any ownership of the problem 
-
-
--  Few would have embarked on initiatives to improve the way information  not just information technology  is used and managed 
-
-
 -  At companies such as IBM ,  Xerox ,  Kodak ,  and Merrill Lynch ,  recent CIOs have been fast-track executives with records of managing important non-technology aspects of the business 
+
+
+-  If these nontechnical managers can master the considerable technical challenges in creating an information infrastructure ,  they will likely have the skills and influence to bring about  political environment in which the information can be shared and used 
 
 
 -  In order to take on broader responsibility for information management ,  they must at  minimum convince operational executives of their ability to understand and manage operational performance information 
@@ -463,16 +352,31 @@
 -  We have found  few CFOs with the sincere desire to do this but have seen no examples of  CFO becoming  successful information politician 
 
 
--  The time demands of day-to-day information negotiation may require that the CEO delegate political authority to other managers 
+-  ,  The CEO is perhaps best positioned to lobby for  particular information environment; indeed ,  in an information monarchy ,  the CEO is the only politician who counts 
+
+
+-  In more democratic environments ,  such as federalism ,  the CEO must appreciate the importance of information and communicate it throughout the firm 
+
+
+-  They must be able to persuade both individuals and the masses of the importance of information management and the correctness of the chosen political model 
+
+
+-  They must also organize collections of advance agents and ward heelers to work every day at building coalitions ,  influencing opinion leaders ,  and swaying recalcitrant members of the electorate 
+
+
+-  ,  Because information is such  powerful tool ,  federalist organizations will inherently resist or distrust managers who try to build an empire by controlling information 
+
+
+-  Concentration of all responsibility for collecting ,  maintaining ,  and interpreting information in one person ,  regardless of position ,  is too much power in any organization with democratic leanings 
 
 
 -  In fact ,  the concept of information ownership is antithetical to federalist information management 
 
 
--  Rather ,  companies should institute the concept of information stewardship  responsibility for ensuring data quality  with ownership by the corporation at large 
+-  ,  The IS organization should be particularly careful to avoid building an information empire 
 
 
--  ,  For example ,  at  major direct marketing firm ,  nontechnical executives were intimidated by technology ,  and control over the firms sixty-million-name database was ceded to IS 
+-  It may already wield considerable power by virtue of its technical custody of information 
 
 
 -  When the CEO himself was denied  report ,  the IS head was deposed and replaced by  trusted nontechnical associate of the CEO 
@@ -481,15 +385,6 @@
 -  Yet because he could not understand the technology ,  he could not dismantle the walls around the data 
 
 
--  ,  Explicitly recognizing the politics of information and managing them constructively is  difficult ,  complex ,  and time-consuming task 
-
-
--  Effectively managing information politics requires  shift in organizational culture; new technology and even new executives alone are not enough to make this happen 
-
-
 -  They must view information as important to their success and be willing to spend time and energy negotiating to meet their information needs 
-
-
--  As in real democracies ,  democratic information models like federalism require informed participation of all organizational citizens 
 
 

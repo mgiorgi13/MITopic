@@ -2,7 +2,7 @@
 
 source venv/Scripts/activate
 
-for i in {1990..2001}
+for i in {1990..2023}
 do
     python mit_topics.py bc $i 8
     echo -e "year : '$i'\n"

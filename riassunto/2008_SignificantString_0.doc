@@ -1,315 +1,171 @@
-- There are 12 million reasons why Marten Mickos isnt afraid that his rivals in the database software industry will ever overtake him 
+-  Big company managers know how hard it is for market leaders to create innovative growth businesses 
 
 
--  Our secret is in the way we operate our culture ,  and Im convinced others cannot imitate that 
+-  They argue that companies should begin planning for innovation well before they need to by appointing  senior manager to oversee the resource-allocation process ,  creating  team of movers and shapers ,  and training employees to identify disruptive ideas 
 
 
--  ,  Culture is too vague  word 
+-  )  Companies that create blueprints for growth ,  construct innovation engines and support the engines with the right systems and mind-sets can establish favorable conditions for substantial innovation 
 
 
--  Mickos is referring to the fact that MySQL AB ,  the business he has built since 2001 ,  has committed itself to open-source innovation since its founding in 1995  with results successful enough that Sun Microsystems Inc 
+-  ,  The first pillar of creating the capability to build new business involves articulating what the organization wants to be and allocating resources to achieve that vision 
 
 
--  acquired what is the worlds fastest-growing database vendor earlier this year for $1 billion 
+-  ,  Business leaders are often skeptical about the notion of defining strategic goals and boundaries ,  believing that their strategy is already well defined and broadly known 
 
 
--  Like such well-known proponents as Linux ,  the operating system ,  and Wikipedia ,  the online encyclopedia ,  MySQL shares its source code for free ,  giving programmers everywhere permission to debug ,  add features or otherwise modify the product before redistributing it 
+-  Or they will argue that removing boundaries is the best way to allow managers to identify opportunities or create new growth 
 
 
--  ( MySQL  ,  whose high-profile customers include Facebook and Google ,  makes money by selling commercial licenses and by offering support and services 
+-  However ,  it is helpful for senior management to come to consensus around two topics: the strategic objectives and the specific options they will and will not consider to reach those objectives 
 
 
--  )  MySQLs collaborative community now consists of 12 million coders ,  who typically receive compensation that amounts to  in todays dollars  nothing at all 
+-  ,  The first part of the discussion involves articulating the desired outcome of the companys innovation efforts and where it expects to find growth 
 
 
--  Mickos ,   native of Finland ,  works in the companys offices in Cupertino ,  California 
+-  Company executives estimated how much growth they expected from its core and from products in its development pipeline ,  and they were shocked at what they learned: Even under the most optimistic scenarios ,  it still needed to generate almost  billion dollars in new growth to meet its 10-year strategic objectives 
 
 
--  He first met the companys cofounders when they were all students  ( and avid poker players )  at the Helsinki University of Technology 
+-  Before the exercise ,  leaders had  vague sense that innovation was important 
 
 
--  ,  Here Mickos ,  now  senior vice president at Sun ,  talks with Josh Hyatt for the MIT Sloan Management Review ,  freely sharing his ideas about why this Internet-age version of  barn-raising produces superior innovation ,  what murky motivations keep all those developers devoted and why Leonardo da Vinci is the father of the open-source movement 
+-  The insight helped magnify the innovation challenge and rally key managers around the need to approach innovation differently 
 
 
--  ,  Why would  company like MySQL choose to give away the guts of its product  was it just  desperation move by its founders to differentiate it from its rivals? ,  MICKOS: Interestingly ,  the whole company was started by the founders writing the product code themselves ,  so its not like there was  big smorgasbord of contributions from many people 
+-  ,  The second part of the discussion determines which strategies the company will  and will not  consider following in order to reach its growth objectives 
 
 
--  They were thinking of  closed-source product 
+-  Companies need to have consensus around what is desirable ,  discussable and unthinkable along  number of strategic dimensions 
 
 
--  Then one of the founders saw  presentation about open source and convinced the others that this was the way the world was going to go 
+-  The classic question of What business are you in? can prompt very different and sometimes contradictory answers from members of the same management team 
 
 
--  That was in the first year ,  1995 
+-  Some leaders of  large chemical company ,  for example ,  saw the company as  specialty business ,  while others thought of themselves as raw materials suppliers for downstream value-adding industries 
 
 
--  ,  Did sharing the source code generate outside contributions right away? ,  MICKOS: You need  good user base before you start getting contributions 
+-  Managers frequently believe that letting chaos reign can unleash their companys innovative energy 
 
 
--  Sometime in the late 1990s ,  people sent in new features or patches and other stuff 
+-  Yet companies often come to realize that having  blank slate can make it surprisingly hard for managers 
 
 
--  We began to get contributions from the world 
+-  Innovators who know what  company wants to do  ( the goals )  and what it wont do  ( the boundaries )  can focus their creative efforts 
 
 
--  But thats not the only way we innovate 
+-  ,  Good investors know the value of aligning their portfolio with their investment objectives 
 
 
--  We also innovate in-house ,  we pay others to contribute to our product and we have customers who pay us to create the feature they are looking for 
+-  Ironically ,  organizations often find that their allocation of resources doesnt match their intended strategies 
 
 
--  Already Ive listed four different ways of innovating 
+-  While theres no magic formula for what the ideal portfolio should look like ,   50/30/20 split  ( targeting core improvements ,  logical extensions of the core business and new growth initiatives )  can be  reasonable approach 
 
 
--  ,  Is there  limit to what outside innovation is good for? Is it safe to assume that people contributing that way are usually adapting existing products  rather than submitting plans for entirely new offerings? ,  MICKOS: The depth of the contributions varies by product and situation 
+-  Companies need to allocate resources appropriately toward the different types of innovation 
 
 
--  The deeper you go into the core of the database engine ,  the more difficult it is for somebody to contribute because it takes five years to learn 
+-  Therefore ,  companies need to make sure that they set aside resources  both people and dollars  for different types of innovation initiatives in  manner that is consistent with their strategic objectives 
 
 
--  If you build something on the outskirts of the kernel  some tool or function that you add on top of it  then that is much easier because theres less risk that you will mess up the whole product 
+-  In fact ,  its dangerous to invest too much capital too early 
 
 
--  But something great can emerge out of many tiny-looking contributions 
+- s famous 15% rule encouraging scientists to spend up to 15% of their time on projects they find personally interesting ,  we believe that companies seeking to create innovative businesses will do better allocating  few people fully than many people partially 
 
 
--  Its analogous to how ,  in economic development ,  microloans can have such  huge impact  each entry is minimal ,  but when you multiply it by the number of people who are involved ,  it grows massive 
+-  In the short run ,  this may make perfect sense; in the long run ,  it can be disastrous 
 
 
--  It starts getting  momentum of its own 
+-  ,  This temptation is one reason why it is important to keep the core business as healthy as possible 
 
 
--  ,  What role can MySQL play in focusing all those efforts? If you put  specific problem out there ,  would the community solve it for you? ,  MICKOS: If we go out and pose  problem ,  chances are somebody will react favorably to it 
+-  In fact ,  the best time to start investing in new growth businesses is when the company seemingly doesnt need it 
 
 
--  ,  What do you do about ineffective contributors who send in ideas that waste your time  or damage  product? How can you prevent your competitors from doing that? ,  MICKOS: No [competitor] has ever tried 
+-  This doesnt make much sense 
 
 
--  But of course we need to be protected against the risk of that anyway 
+-  ,  Generally speaking ,  new growth initiatives need to go through  more iterative development process ,  where the focus is on identifying and addressing the key assumptions and risks 
 
 
--  The fact that you send us some code doesnt mean that it goes into the product 
+-  The appropriate metrics that guide  new growth idea shouldnt be measures such as net present value or return on investment ,  which provide insights into the performance of the established core business; rather ,  companies need to use qualitative measures that relate to success in the target market 
 
 
--  We test it ,  we make sure the documentation is there and that the coding standards are right ,  we test it and make sure that it fits our road map 
+-  The weight of historical evidence suggests that businesses that are disruptive to their core business need  great deal of organizational autonomy 
 
 
--  So if we found something that would be harmful to the product ,  or to the business ,  we would reject it 
+-   salesperson trained in the ways of the core business might rely too heavily on customers he knows instead of the new customers hell need to cultivate to make the business work 
 
 
--  We have\nrejected code ,  but mostly on the grounds of low quality ,  not because someone was trying to put  Trojan horse into our product 
+-  Managers who want to submit ideas complete idea resumes that provide  basic overview of the idea ,  the reason why the idea is worth funding and the critical assumptions that need to be addressed 
 
 
--  ,  Given that you might reject the work that theyve done for free ,  how do you keep those outside innovators motivated to even try? ,  MICKOS: We sometimes use money 
+-   If we fail ,  we want to make sure everyone learns from our missteps 
 
 
--  Theres  part of our product called the JBDC driver ,   sizable piece of code ,  and  guy in the open-source community had developed it 
+-  And when we succeed ,  we want to ensure that all of our papers can leverage that success 
 
 
--  We went to him and said ,  Hey ,  would you like to join us as an employee and sell your code to us? He made money on it 
+-   We dont think we have all the answers ,  not by  long shot 
 
 
--  But that warranted payment 
+-  But we believe were heading in the right direction 
 
 
--  For something small like  bug fix or  tweak here or there ,  we know what to do because we understand the motivation of the contributors 
+-   systematic ability to innovate and grow needs support from the companys very top managers 
 
 
--   reason is that they are contributing so that they will get ,  in return ,   better functioning product 
+-  In addition ,  senior management needs to change the way it interacts with project teams 
 
 
--  They are looking after their own business interests 
+-  But when  company commits to  new direction ,  senior managers need to become problem solvers ,  not just problem finders 
 
 
--   ,  and almost equally important ,  is their desire to build  reputation for themselves 
+-  ,   useful way to think of senior managements role in supporting growth initiatives is to think about the distinction between television watching and working on  computer: Watching television typically involves leaning back to watch ,  while using  computer involves leaning forward to interact 
 
 
--  That gives them better job offers ,  and it gives them  feeling of usefulness in the world 
+-  These traps include pursuing perfection when good enough is often sufficient ,  overestimating knowledge of new markets and making big bets when its better to begin with small ones 
 
 
--  And they have an incentive to make contributions of high quality because they know that others will be examining it; its  Darwinian system and only the best innovations survive 
+-  ,  Both senior managers and middle managers need to overcome these mindsets 
 
 
--  ,  How do you tell the world about an outsiders contribution  by naming  product after them? ,  MICKOS: In the product ,  they will be on  list of contributors 
+-  Well-intentioned middle managers who do what they have always done can default to core behavior when fresh thinking is required 
 
 
--  Every year we announce the Community Person of the Year award 
+-   senior manager who doesnt get it can destroy  highly innovative approach by asking the wrong questions at the wrong time 
 
 
--  This year we did it at our big conference ,  during my keynote ,  with  , 000 people in the audience 
+-  ,  Language played  major role in one of the best-known examples of market disruption: Intel Corp 
 
 
--  In the audience ,  there were many people who wished that they had been selected 
+-  Intel subsequently launched what became known as the Celeron processor ,   stripped-down ,  low-cost chip to compete in the least-demanding tiers in its industry 
 
 
--  Open-source people are not  bunch of Mahatma Gandhis trying to do good for everybody 
+- 10 ,  Christensen believes that education played  critical role in helping Intel formulate and execute its response to the competitive threat 
 
 
--  These are people with practical needs who are coming up with practical solutions 
+-  He said ,  You know ,  the model didnt give us any answers to any of the problems ,  but it gave us  common language and  common way to frame the problem so that we could reach consensus around counterintuitive courses of action 
 
 
--  They are trying to improve their own product or their own career or they are trying to prove to themselves how skilled they are 
+-  In the last five years ,  companies have begun to realize the power of what Henry  
 
 
--  ,  But only one person receives the award ,  and not everybody cares about having his or her name as part of  list that comes with  product; they may figure that their peers will already know 
+- 12 ,  Generally speaking ,  companies need to find ways to bring external perspectives into the innovation process 
 
 
--  Are there any other tricks to keeping programmers engaged? ,  MICKOS: We give them  functioning product back ,  and our cycle time is very fast 
+-  Companies need to redesign their policies ,  incentives and development paths to be consistent with their appetite for innovation 
 
 
--  They see the changed product quickly 
+-  Instead of looking for right-stuff managers who have succeeded in core assignments ,  they need to look for managers who have attended the right schools of experience so they can spot and nurture new growth businesses 
 
 
--  ,  What about the in-house innovation you do? Have you found the secret for building that function into the structure of  business? ,  MICKOS: We dont have an innovation team or  group or  chief innovation officer 
+-  Companies need to find  way to link managed risk taking with pay structures ,  bonuses and/or career progression 
 
 
--  We do have five people whose only role is to engage with the community and activate them ,  listen to them and get them going 
+-  ,  Companies need to design development paths that encourage high-potential employees to spend time working for growth initiatives 
 
 
--  This team has put up Web sites where they congregate and share their code with each other 
-
-
--  If you go there [http://forge 
-
-
--  We are dealing with such  huge number of people 
-
-
--  We have over 12 million people in our community 
-
-
--  We send our people places physically ,  too 
-
-
--  Theyll go to big open-source events to get the human touch 
-
-
--  ,  What do your MySQL representatives do when they go to these places  do they just walk in and announce that they are willing to pay nothing for any good ideas folks might like to give? ,  MICKOS: The popular thing now is to arrange an un-conference ,  and the idea is that it doesnt have  predefined agenda 
-
-
--  It looks unproductive ,  but its amazingly stimulating to these guys 
-
-
--  We have no budget ,  so you have to pay for your own travel and accommodations 
-
-
--  ,  Does that mean that you are actually getting people to pay to give MySQL their ideas? ,  MICKOS: They find the meetings very energizing 
-
-
--  ,  Does innovation always have to be that casual? Is that the only way it can happen? ,  MICKOS:  think so 
-
-
--   think that innovation happens in encounters with other people and also when you step over some boundary and you combine ideas that havent been combined before 
-
-
--  The original innovation moment always has the aspect of being chaotic 
-
-
--  ,  MySQL is  virtual company on  grand scale  with hundreds of employees working from their homes in more than two dozen countries 
-
-
--  Doesnt that hinder the innovation process? ,  MICKOS:  think it adds the spice to our discussions 
-
-
--  When we get together ,  there are so many dialects and accents that there isnt  norm ,  so you dont become normalized 
-
-
--  Lots of good ideas come out of the fact that we are each so different 
-
-
--  We have had to learn how to be innovative across distances ,  to get things going across multiple time zones 
-
-
--  We figured out that we needed to make sure that any one of us could draw something up instantly ,  and send it to everybody else 
-
-
--  Its as if we are sitting in one room together ,  with somebody taking notes on the wall while we are discussing them 
-
-
--  ,  Does collegiality improve innovation? ,  MICKOS: Its good for all of us if we can connect on  personal level 
-
-
--  When we get together  we used to do it once  year ,  but it has become harder now that we are over 400 employees  we need to do  full day of being social 
-
-
--  Its as if weve piled up those 15-minute breaks that people in offices use to be social 
-
-
--  We leave knowing each others body language and feeling more connected 
-
-
--  ,  But you also rely on contributors who are disconnected in that sense ,  and who may feel free to behave any way they want 
-
-
--  How do you control their online conduct? ,  MICKOS: It is true that people are ruder when they are anonymous on e-mail 
-
-
--  External people can be overly critical and very negative 
-
-
--  When you turn it around like that ,  they either go silent or they start talking 
-
-
--  In fact ,  they can become your most passionate supporters 
-
-
--  Never underestimate the hidden positive value in somebody who is upset 
-
-
--  ,  But not everybody out there is  secret admirer  or just waiting for the right moment to express their affections 
-
-
--  Sometimes we dont get anything positive out of it 
-
-
--  In that case ,  we must trust that the world will see what is happening and that its the same guy complaining again 
-
-
--  ,  Arent you worried that one of those anonymous people will piggyback on your code and start  business that is aimed at crushing you? ,  MICKOS: Let them try 
-
-
--  ,  Why is that? ,  MICKOS: If 60-year-olds go to  teenage disco to learn how to dance ,  they wont be able to dress like the youth do ,  or move like they do or enjoy it like they do 
-
-
--   think you should always be open to learning from everybody ,  but you must build your own DNA 
-
-
--  ,  Why is it that  growing number of companies are enamored with building their own DNA out in the open? ,  MICKOS: Some people believe that open sourcing is  panacea 
-
-
--  They say ,  Well open-source this and something will magically happen on its own 
-
-
--  Thats just completely wrong 
-
-
--  The only way to get engagement from  community is to engage in that community yourself 
-
-
--  Its not like there is some saint out there waiting for you to open-source so he or she can contribute 
-
-
--   lot of software created by open source has no commercial value 
-
-
--  ,  Is that why open sourcing seems so often linked with nonprofits like Apache ,  Linux and Mozilla? ,  MICKOS:  wouldnt be surprised if the proprietary companies are trying to portray it that way to reduce the competitive pressure on them 
-
-
--  They tell their customers ,  Those guys are nonprofit communists ,  so dont touch them 
-
-
--  The activity level of the community can help  small player become  threat to established companies without having to invest millions and millions of dollars to get brand recognition 
-
-
--  People start writing blogs or they write books about it and they help others get used to your product 
-
-
--  ,  Are we all getting too used to open sourcing? Are you concerned about it becoming  fad that everybody gets sick of? ,  MICKOS: This idea is not new 
-
-
--   dont think innovation has changed in thousands of years 
-
-
--  The difference between what he did and what we do isnt in the openness ,  its in the reach 
+-  ,  As companies develop HR structures to help them reach their innovation goals ,  they need to consider how they can offer promising employees the broadest possible exposure to new ways of problem solving and decision making 
 
 

@@ -1,567 +1,198 @@
-- Organizations increasingly rely on information technology  ( IT )  both to perform their day-today operations and as  source of new products and services 
+-  In fact ,  some legislators and  growing number of consumer advocates are proposing sweeping restrictions without sound knowledge of the legitimate motivations for DBM efforts ,  their promise for useful exchange ,  and the important societal choices inherent in the expansion or restriction of these efforts 
 
 
--  The popular focus has been on hardware components ,  and that story has been overwhelmingly positive: the new technologies that come to market are cheaper ,  more reliable ,  and more portable than previous ones 
+-  ,  What questions should all of us be asking about the opportunities and pitfalls of DBM developments? How can managers handle the apparent tension among marketing efficiencies ,  intrusion ,  and exclusion posed by DBM technology and techniques? These questions cannot be addressed usefully by simply appealing to the individuals right to be left alone  ( as privacy advocates typically do )  or to  companys inalienable information property rights  ( as managers often do )  
 
 
--  We commonly read that software is late ,  over budget ,  and of poor quality 
+-  Few people really want to be left alone ,  as indicated by increases of sales through telemarketing ,  direct mail ,  direct response ,  and related channels 
 
 
--  Specific examples of software in the news are almost always negative  microcomputer software vendors that deliver releases late ,  federal government systems projects that never reach the implementation stage ,  and the recent telephone system outage that was blamed on  Texas supplier who changed only three or four lines of the program 
+-  Rather than being left alone ,  most people want protection against unwarranted uses of personal information with minimal damage to their increased choice and flexibility as consumers 
 
 
--  Software production represents the single biggest obstacle to the successful use of IT in organizations; all precepts such as using IT for strategic advantage ,  reengineering the business ,  and informating the workplace become mere slogans if the necessary software is not properly delivered on time 
+-  Most companies want access to pertinent consumer data so their products and marketing programs can respond to dynamic changes in demand 
 
 
--   quick review of trade press magazines will reveal articles on such topics as computer-aided software engineering  ( CASE )  ,  rapid applications development ,  cleanroom software engineering ,  software factories ,  and object-oriented  ( OO )  approaches 
+-  ,  We believe there is  middle ground between the extremes of the debate that can provide better guidance to company policies and public policy 
 
 
--  All of these represent software engineering process technologies ,  that is ,  means by which an application software product is created  ( hereafter software process technologies )  
+-  In this article ,  we examine the motivations behind DBM efforts and the key social issues that are redefining the meaning of good marketing practice 
 
 
--  The idea that process technologies in general are critical sources of economic success is gaining acceptance 
+-  ,  While technology provides the means ,  changes in communication and distribution channels provide the motivation for firms to use DBM programs 
 
 
--  However ,  the problem with this rich set of software process technologies is that they may be technically incompatible ,  or ,  if not ,  then at least sufficiently expensive and requiring significantly large changes in an organizations operation that they are unlikely to be successfully adopted at the same time 
+-  Hence ,  many companies have good reasons for targeting potential buyers more precisely 
 
 
--  ,  How ,  then ,  can the chief information officer  ( CIO )  of  large business application development organization choose which ,  if any ,  of these new software process technologies to adopt? Unfortunately ,  the choice of  new approach is rendered very difficult by the lack of unbiased information sources 
+-  To date ,  most concern has centered around privacy issues ,  but there is reason to believe that other issues will  ( and should )  become just as prominent 
 
 
--  ,  Moreover ,  many previous technologies have been so oversold that it is now sometimes difficult to tell legitimate enthusiasm from marketing hype 
+- 11 ,  But rarely considered is that ,  in the DBM context ,  privacy has two discrete components: physical privacy and information privacy 
 
 
--  These were supposed to solve many problems ,  not just software development ,  and they merited at least two cover stories in Business week over the past decade ,  perhaps the only software process technology to merit such general press attention 
+-  ,  Many state laws and regulations protect physical privacy from unwanted telephone calls ,  mail ,  and faxes  ( see Table  )  
 
 
--  However ,  according to Brooks and others ,  the gains delivered by this technology have been much less than promised 
+-  The situation regarding information privacy is more complex ,  but we believe that it is ultimately the more important area ,  from the perspective of both marketers and public policy makers ,  and we concentrate on information privacy in this paper 
 
 
--  For example ,  third-generation software languages such as COBOL ,  FORTRAN ,  and  are dominant over their predecessor second-generation assembly languages in that second-generation languages are now relegated to highly specialized portions of applications and are not chosen as the primary software process technology for programming if any other alternative is available 
+-   banking executive argued that consumers provide information about themselves so that we can better serve the customers needs ,  and she interpreted this to mean the use of the information for subsequent DBM efforts 
 
 
--  ,  The reason that  CIO should care about sorting out which new software process technologies are likely to be dominant is that the costs of choosing  nondominant technology can be substantial 
+-  Similarly ,  consumers expressed much concern about use of credit card purchase data; many believed that the sole legitimate use of such data was to process the charges 
 
 
--  In particular ,  even technologies that offer some technical advantages over their predecessors may not end up dominating because they fail to achieve  critical mass 
+-  Miller  ( 1976 )  case regarding banking records  that  bank customer has no legally recognizable expectation of privacy in records maintained by  bank15  also applies to all other consumer transactions with respect to their use in DBM 
 
 
--  And once an organization commits to  technology that then fails to become dominant ,  it faces  number of additional problems ,  such as: ,  Given the significant learning and adoption startup costs ,  and the increased risk of failure ,  these additional burdens may make the adoption of  nondominant technology extremely expensive in the long run 
+-  In addition ,  recent developments call this assumption into question 
 
 
--  ,  The question remains: How can you choose tomorrows dominant software process technology from todays list of candidates? Arguably ,  the leading candidate at the moment is the object-oriented approach 
+-  But many of AT&Ts commercial customers who offer toll-free numbers and  major association of database marketers  have objected; they consider information about who calls them to be their data 
 
 
--  Although some of the key ideas of OO date back to late 1960s computer science research ,  it is in the past six years that OO has become  popular research topic and that commercial products have become widely available for its use 
+-  Some people use cash for most transactions in part because they do not want purchase or credit information about them to be disseminated; other people have been willing to pay $199 each to National Consumer Research ,   Kentucky-based firm ,  to have their names and purchasing habits stored in  database that is made available to database marketers 
 
 
--  The central ideas of OO fit well with previous advances in software engineering ,  and proponents argue that the approach lends itself to the assembly of previously developed ,  well-tested components into software systems ,  thereby avoiding the labor-intensive and less reliable approach of building everything from scratch 
+- 19 ,  The fact is that information privacy is an ambiguous term ,  and consumers have different privacy thresholds depending on the information collected ,  how it is collected ,  and who collects it 
 
 
--  ,  Will OO become the dominant software process technology of the future for in-house business application development? Our thesis is that for any software process technology to become dominant ,  it must first overcome  series of obstacles to adoptability 
+-  Ironically ,  the impact of much pending legislation particularly at the state level  could be more junk mail ,  as companies working under restrictions that bar access to pertinent consumer information are forced to blanket all groups ,  not just purchase-prone groups ,  with solicitations 
 
 
--  ,  In the sections that follow ,  we describe these two points of view and apply them to three past software process technologies  ( structured analysis and design methodologies ,  production fourth-generation languages ,  and relational database management systems )  
+-  ,  Privacy issues currently fuel attention to database marketing ,  but we believe that exclusion issues will soon become prominent 
 
 
--  We construct  framework that evaluates the likelihood of dominance based on the technologys adoptability for both individual organizations and for whole communities or industries 
+-  Two kinds of exclusion need to be considered 
 
 
--  ,  Why are some innovations adopted more rapidly than others? This simple question has been the subject of intense study by innovation diffusion researchers 
+-  More generally ,  questions about so-called characteristic-based discrimination ,  especially where ethnic differences are part of market segmentation schemes ,  are being raised by  variety of sources that influence the regulatory and legislative agenda 
 
 
--  DOI researchers have typically studied the technology adoption decisions of individuals or organizations without taking into account community issues that strongly affect the innovations inherent economic value 
+- 21 ,  Exclusionary dangers are particularly salient in marketing channels intimately tied to information technology 
 
 
--  ( For example ,  widespread adoption of  software engineering process innovation increases the likelihood of the availability of complementary software tools 
+-  Because the law allows live telephone pitches  which can be better afforded and managed by large corporations  but outlaws recorded ones ,  the plaintiff has successfully argued that the law discriminates against owners of smaller businesses 
 
 
--  )  Fortunately ,   second line of research ,  in the area of the economics of technology standards ,  is focused on the role of community effects on technology adoption 
+- 23 ,  Hence ,  just as marketers must realize that their DBM programs are not socially neutral ,  legislators and advocates should recognize that information safeguards and barriers are not competitively neutral 
 
 
--  ,  DOI research has been broadly defined as the study of how innovations spread through  population of potential adopters over time 
+-  Initially ,  working with  traditional understanding of good marketing practice ,  they focus on the operational mechanics of database marketing and ignore the social issues 
 
 
--  Other factors include the characteristics of the adopters and the means employed by vendors and change agents to persuade them to adopt 
+-  When  particular situation has come to their attention ,  usually through hyperbolic media coverage that makes no distinctions between physical privacy and information privacy ,  lawmakers introduce new laws and regulations 
 
 
--  ,  To address the broader question of the likely rate of adoption of  specific innovation across an entire population ,  one must look to attributes of the innovation itself Everett Rogers reviewed hundreds of diffusion studies and identified five generic innovation attributes that influence rates of adoption:  (  )  relative advantage ,  (  )  compatibility ,  (  )  complexity ,  (  )  trialability ,  and  (  )  observability 
+-  Companies considering DBM programs thus face increasing uncertainty 
 
 
--  ,  of consumer goods )  ,  Van de Ven and others have argued that innovation attributes also play an important role in adoptions by organizations 
+- 24 ,  To avoid these scenarios ,  managers must realize that privacy and exclusion issues inevitably direct attention to the firms marketing process itself and ,  in particular ,  to the firms criteria regarding usage of customer information 
 
 
--  In fact ,  these researchers maintain that innovation attributes take on  broader role in the context of organizational adoption of complex technologies ,  affecting not only the initial decision to adopt ,  but also the ease of traversing later stages of adoption such as implementation ,  adaptation ,  and routinization 
+-  They must consider ,  in developing and implementing these programs ,   new set of rules for DBM policy and practice 
 
 
--  Hence ,  the analysis of innovation attributes provides  basis for assessing not only the likely rate of adoption across  population ,  but also the technologys comparative adoptability within individual firms  (  
+-  ,  Trust has always been an important element of good marketing  trust in the products quality and consistency ,  in the salesperson ,  in the suppliers ability to remain innovative in product development and delivery 
 
 
--  ,  Table  briefly defines Rogerss five innovation attributes ,  tailored somewhat to better fit the context of organizational adoption of complex technologies 
+-  With the increasing diffusion of consumer databases and technology that can access them across organizations ,  additional dimensions of trust become prominent: trust in  companys ability to keep personal information in the hands of those who have the consumers consent and to use that information in  fair manner 
 
 
--  10 With the exception of complexity ,  high values of the attribute are favorable to easier implementation within  given organization 
+-  Moreover ,  the breadth of trust required by DBM developments implicates others besides the specific buyers and sellers ,  for not only do current customers need to trust the information assemblers but so do prospective customers or any other individuals whose personal information resides on the relevant database 
 
 
--  ,  The explanations for the relative advantage ,  compatibility ,  and complexity attributes are straightforward enough: organizations are more likely to be willing and able to adopt innovations that offer clear advantages ,  that do not drastically interfere with existing practices ,  and that are easier to understand 
+-  ,  To help companies build trust with consumers and improve information exchange without counterproductive intrusion ,  we have developed  series of rules for DBM fairness ,  which are summarized in Table  
 
 
--  Trialability and observability are both related to risk 
+-  But when companies clearly explain both primary and secondary uses for data to individuals before they give their consent for collection ,  later charges of improper use become spurious 
 
 
--  ,  Economists have identified several sources of increasing returns to adoption ,  but the three most applicable to software process technologies are learning by using ,  positive network externalities ,  and technological interrelatedness 
+-  One study found that sales pitches disguised as market research involved about 22 percent of such surveys in 1988 and were the second most-cited reason  ( after inconvenience )  given by consumers for refusing to take part in data-gathering efforts 
 
 
--  Learning by using means that  technologys price-performance ratio improves rapidly as  community of adopters  ( vendors and users )  accumulates experience in developing and applying the technology 
+-  By providing this information ,  companies not only avert charges of deception and secrecy but also force marketing managers to consider their research goals and methods more rigorously 
 
 
--  Positive network externalities  ( sometimes called network benefits )  means that the immediate benefits of use are  direct function of the number of current adopters 
+-  Green also asks customers to indicate on  simple checklist whether they wish to be removed from the mailing list ,  have their name made available to other companies ,  or have their name used for other marketing purposes 
 
 
--  ( The classic example here is the telephone network ,  where the number of people available to call depends on the number of previous subscribers 
+-  Credit card issuers could note emphatically on each application that in addition to using this information for billing purposes ,  we may also use information regarding your purchases in our marketing programs 
 
 
--  )  Technological interrelatedness means that  large base of compatible products  and hence  large base of likely adopters  is needed to make the technology worthwhile as  whole 
+-  Through these programs ,  we provide you with convenient information about products and services that may be of particular interest 
 
 
-- 12 Among them ,  Farrell and Saloner have noted that  group of adopters ,  facing  decision to adopt  new and technically superior standard ,  may still fail to adopt in numbers necessary to achieve critical mass because of each adopters reluctance to be the first to pay either of two early adoption penalties: transient incompatibility costs  ( because of delays in achieving  satisfactory network for the new technology )  and risk of stranding  ( because of failure to ever achieve  critical mass of adoption )  
+-  ,  Some companies are considering implementing this policy with economic incentives 
 
 
-- 14  well-known example of this situation is the persistence of the inefficient QWERTY layout for typewriter keyboards  ( designed in the late 1800s to slow typists down sufficiently to avoid key jamming )  despite the later invention of many superior keyboard layouts 
+-  In  sense ,  such practices mean that some consumers would pay more than others for enjoying privacy  ( as they define it )  
 
 
--  Hence the mere existence of  prior technologys installed base represents  drag on the communitys progress toward switching to the new technology because few adopters are willing to absorb the transition costs associated with joining  small ,  immature network 
+-  But we see nothing wrong with such  system ,  which recognizes the fact of consumer heterogeneity regarding these privacy issues while providing an opportunity for both companies and consumers to vote with their feet regarding the relative value of the information being solicited 
 
 
--  When adoption requires large ,  irreversible investments ,  this reluctance grows even stronger because  substantial risk premium must be added to adoption costs to take into account the chance of being stranded should  satisfactory network never develop for the new technology 
+-  Most marketers now simply assume that consumers do or dont approve of various data-gathering practices and are surprised by the reaction when practices become public 
 
 
--  Sponsors can tip the cost-benefit equation in favor of the new technology by actively subsidizing early adopters ,  by making credible commitments to develop the technology regardless of the initial adoption rate ,  and by setting standards that ensure that  single network will emerge around the new technology instead of  pastiche of smaller ,  potentially incompatible networks  ( with correspondingly diffused network benefits )  
+-  Many legislators have similarly broad assumptions about consumers desires to be left alone 
 
 
--  Early in the development cycle ,  promising new technologies typically enjoy  kind of honeymoon period during which some firms join an immature network assuming that widespread adoption will occur later 
+-  Only when information uses are explained and opt-out provisions offered can marketers and public policy makers know what diverse groups of consumers really want in different situations 
 
 
--  For example ,  in the software industry ,  data-oriented design methodologies emerged at the same time many organizations were beginning to view data as  shared corporation resource 
+-  Credit grantors such as retailers ,  credit card issuers ,  and banks report payment histories to credit bureaus that ,  in turn ,  keep files on anyone who ever buys on credit  about 90 percent of adult Americans 
 
 
--  Such characteristics can lend an air of inevitability to  technology 
+-  This situation underscores the importance of explaining to consumers the intended uses of the collected data and providing them with the option to opt out of secondary uses they find unacceptable  especially when those secondary uses include sharing with other organizations 
 
 
--  On the negative side ,  widely publicized adoption horror stories ,  substantial improvements to the existing dominant technology ,  or the rise of  new ,  even more promising substitute technology can cut the honeymoon period short 
+-  Postal officials believe that use of their electronic address list can help to reduce the  percent of third-class mail  ( about four billion pieces )  that is thrown out annually because incorrect addresses make it undeliverable 
 
 
--  The technology standards perspective ,  by contrast ,  sees adoption much more dichotomously: if  technology achieves critical mass within some reasonable period of time  ( during its honeymoon period )  ,  it will become dominant 
+-  Better targeting by medical suppliers might well help to increase consumer knowledge ,  widen choice ,  stimulate comparison shopping ,  and ultimately lower costs and improve service in our health care system 
 
 
--  ,  The two perspectives described above have been useful in explaining adoption in many industries ,  but how accurately do they describe the speed and pattern of adoption for historical innovations in software engineering? ,  To answer this question ,  we examined three recent candidates for dominance in the realm of software engineering:  (  )  structured analysis and design methodologies  ( hereafter structured methodologies )  ,  (  )  production fourth-generation languages  ( 4GLs )  ,  and  (  )  relational database management systems  ( RDBs )  
+- 29 But ,  despite the Direct Marketing Associations provision for such  right in its own privacy guidelines ,  our corporate interviewees said they would be hard-pressed to provide such an option for consumers in their own databases ,  primarily because their databases were not designed with such  capability in mind 
 
 
--  Each of these innovations was intended to revolutionize  different segment of the software engineering discipline  analysis and design ,  coding and testing ,  and data management ,  respectively 
+-  Hence ,  this rule looms as  major challenge to the DBM industry; it suggests  rethinking of ,  and reinvestment in ,  the data processing infrastructure 
 
 
--  ,  In the mid-1970s ,  structured methodologies  ( such as DeMarco structured analysis and Yourdon/Constantine structure design )  emerged to replace the informal analysis and design practices of the day with an engineering style dedicated to rigorous procedures ,  formal diagrams ,  and measures of design quality 
+-  No matter how they feel about specific DBM programs ,  most observers agree that the basic premise is valid: people who differ in terms of demographics ,  attitudes ,  or life circumstances are likely to purchase in different ways 
 
 
--  These methodologies went beyond the mere adoption of  systems development life cycle and prescribed very specific schedules of tasks and activities 
+-  But many of these categorizations are essentially the private sectors version of the infamous Willie Horton political campaign ads: abstracted stereotypes rather than legitimate attempts to make sense of the multidimensional nature of how people buy 
 
 
--  ,  Although  wide variety of special- purpose 4GLs had previously existed ,  it was not until the early 1980s that  new breed of production 4GLs became commercially available 
+-  The following comment was typical: It intrudes on my privacy when marketing people look at some facts about me and then say  fit  certain psychological profile 
 
 
--  Production 4GLs ,  unlike end-user query-oriented 4GLs like FOCUS and RAMIS II ,  are those languages such as Natural ,  ADS/Online ,  and IDEAL that were designed to support development of large-scale business systems ,   domain that was then dominated by COBOL 
+-  The key assumption is that such techniques simply make respondents retrieve their previously formed opinions and preferences 
 
 
--  ,  Commercial RDBs emerged in the early 1980s as an alternative to the hierarchical and network model databases such as IMS and IDMS 
+-  ,  Effective DBM campaigns require both types of information: data about actual purchase behavior and attitudinal data that can help to explain that behavior 
 
 
--  Although RDBs and production 4GLs emerged concurrently ,  and some vendors bundled the two technologies together ,  most vendors took  mix-and-match approach wherein  production 4GL could be used with nonrelational databases ,  and  relational database could be accessed via 3GLs ,  especially COBOL 
+-  Managers must avoid their tendency to think they are exempt from this scrutiny because customers havent complained  ( customers may not be aware of the firms DBM activities )  or were only doing what everybody else in the industry does  ( the industrys practices may not be able to withstand future scrutiny )  
 
 
--  For production 4GLs and RDBs ,  this window was the early 1980s ,  when they were slated to replace 3GLs and earlier database models ,  respectively 
+-  Whether or not they realize it ,  many companies now face real risks in continuing their current approaches to database marketing 
 
 
--  Of the three technologies ,  only RDBs have proven to be dominant in the sense that they replaced the prior technology for new development activities 
+-  Although we hope that legislators will pull the lever thoughtfully and sparingly ,  we also agree that additional regulation is inevitable if DBM practitioners refuse to voluntarily police themselves 
 
 
--  It is unlikely that an organization would routinely proceed with developing  new application using an older generation  ( nonrelational )  database model ,  whereas organizations continually choose the older ,  third-generation languages for new development 
+-  ,  These guidelines can also remind managers that ,  in the end ,  the database is not the marketplace 
 
 
--  Many organizations still cling to ad hoc methods within the life cycle approach or have abandoned the life cycle altogether for prototyping approaches that make no use of structured methods 
+-  Companies are fooling themselves if they believe they can get close to customers through cross-tabulated compilations of names ,  addresses ,  and past purchases in  handful of product categories 
 
 
--  ,  According to the DOI view ,  an innovations adoption rate and ease of implementation are largely determined by its degree of relative advantage ,  compatibility ,  complexity ,  trialability ,  and observability 
+-  It requires the willingness of managers to refine and adapt their assumptions about changing consumer needs and preferences and the ability to translate this information into innovations in product ,  packaging ,  or service enhancements 
 
 
--  Although structured methodologies  ( like any legitimate candidate to dominance )  offered relative advantages over informal methodologies ,  relatively high complexity and relatively low compatibility ,  trialability ,  and observability raised substantial barriers to rapid widespread adoption 
-
-
--  ,  Structured methodologies were largely incompatible with the practices of most development groups because they overturned the craft-oriented values of experienced project managers of the 1970s ,  who had individually acquired an idiosyncratic array of guidelines during their apprenticeships 
-
-
--  They required adopters to learn an extensive new skill set ,  and they changed many standard work practices associated with project organization and developer-client interactions  ( such as requiring that greater resources be devoted to  projects analysis and design phases )  
-
-
--  ,  Structured methodologies were also difficult to put through  trial period because of significant upfront training costs 
-
-
--  But as the benefits of structured methodologies were mainly improved system maintainability and avoidance of development fiascoes ,  an extended trial period was needed to allow time for these benefits to unfold 
-
-
--  Finally ,  structured methodologies suffered from low observability because it was difficult to describe concretely how benefits such as higher maintainability were to be achieved 
-
-
--  ,  In summary ,  the DOI view would have suggested  slow and problematic adoption of structured methodologies ,  owing to relatively low compatibility ,  high complexity ,  low trialability ,  and low observability 
-
-
--  Vendors and the business press were reporting productivity gains of ten-to-one; indeed ,  one industry guru defined 4GLs in this way 
-
-
--  RDBs enjoyed the advantage of  respected theoretical foundation and near universal acclaim in the academic community as  simpler ,  more elegant data model that was also more robust to change 
-
-
--  Therefore ,  the relative advantages of production 4GLs and RDBs were perceived as being particularly high 
-
-
--  Adoption of production 4GLs and RDBs required  more straightforward substitution of new skills for old ,  with no major changes in work organization or reductions in autonomy for system developers 
-
-
--  Although some idiosyncratic 3GL skills were lost with production 4GLs ,  the effect was less severe than with structured methodologies 
-
-
--  Production 4GLs were intended to simplify programming by letting the machine do more of the work ,  which is not to say that production 4GLs were simple to use in some absolute sense ,  but rather that they were simpler to use than alternative languages like COBOL 
-
-
--  Likewise ,  RDBs were much simpler to use than first-generation database systems ,  with relatively intuitive select and join commands replacing arcane pointer references 
-
-
--  ,  Although production 4GLs and RDBs required upfront investments in software and training comparable to structured methodologies ,  it was possible to demonstrate value on  single pilot project 
-
-
--  As  result ,  the costs of experimenting with either technology could be kept at reasonable levels 
-
-
--  Finally ,  production 4GLs were highly observable because adopters could draw concrete comparisons between applications written in  production 4GL and  third-generation language  (  
-
-
--  RDBs ,  by contrast ,  suffered from lower observability because it was difficult to describe in concrete terms how they would achieve greater flexibility and data independence 
-
-
--  ,  The three technologies under discussion are all subject to increasing returns to adoption; they become much more valuable to individual adopters to the extent that others adopt 
-
-
--  Widespread adoption leads to faster maturation  ( learning by using )  ,  wider availability of qualified personnel  ( positive network externalities )  ,  and  larger array of complementary products and services  ( technological interrelatedness )  
-
-
--  Hence ,  the technology standards view is appropriate for analyzing the communitywide adoptability of these three technologies 
-
-
--  ,  When introduced in the early 1980s ,  production 4GLs were  textbook case of an innovation facing  monolithic installed base ,  namely ,  the COBOL programming language 
-
-
--  Forgoing the COBOL standard meant missing out on  large network of experienced personnel and compatible tools  (  
-
-
--  ,  database systems )  
-
-
--  ,  Adoption of production 4GLs required largely irreversible investments in staff training and software  specialized assets that lose most or all of their value should the investment project be abandoned later 
-
-
--  In the case of production 4GLs ,  many languages emerged  none supported by  dominant sponsor 
-
-
--  Production 4GLs even lacked  single authority figure to define exactly what capabilities  production 4GL should provide 
-
-
--  Production 4GLs were developed primarily by innovators in the commercial sector and suffered from  lack of scientific support or more objective boosterism from the academic community 
-
-
--  Perhaps more damaging ,  4GLs experienced some widely publicized adoption fiascoes ,  such as the infamous New Jersey Department of Motor Vehicles case 
-
-
--  RDBs faced an installed base of first-generation database systems ,  although not one so mature and ubiquitous as COBOL 
-
-
--  In addition ,  the first-generation database market was fragmented ,  meaning that the benefits associated with joining the network of any given database product  (  
-
-
--  ,  As with production 4GLs ,  RDBs and structured methodologies required largely irreversible investments in staff training 
-
-
--  Codd who clearly established the criteria for database management systems  ( DBMS )  to qualify as fully relational 
-
-
--  ,  Ed Yourdon and Tom DeMarco ,  among others )  
-
-
--  Although none of the three technologies was strongly sponsored in the traditional sense of  single organization encouraging adoption ,  RDBs and structured methodologies had widely recognized leaders defining the technology and proselytizing for widespread adoption ,  and they therefore rank relatively higher than production 4GLs on this dimension 
-
-
--  In addition ,  the strengths of RDBs  data independence and greatly simplified information retrieval  complemented industry trends toward more data-intensive applications 
-
-
--  Structured methodologies were certainly in line with the trend in the 1970s toward large-scale development projects ,  and they also escaped widely publicized disasters 
-
-
--  Therefore ,  production 4GLs rated the poorest on this dimension 
-
-
--  ,  To summarize ,  compared with production 4GLs ,  RDBs faced  much less well-established installed base and had the advantage of positive expectations and  strong sponsor to push forward  cohesive definition of the technology 
-
-
--  Therefore ,  the economics of technology standards view ,  although accurately reflecting the fate of production 4GLs ,  does not effectively discriminate between structured methodologies and RDBs and therefore would have been an inadequate single explanation of the ultimate dispositions of these technologies 
-
-
--  ,  To summarize ,  the DOI perspective rates production 4GLs highly but fails to take into account the effects of increasing returns to adoption present in software process technologies 
-
-
--  The economics of technology standards perspective rates structured methodologies highly but fails to consider the delays caused by low organizational adoptability 
-
-
--  The vertical axis reflects the DOI view of organizational adoptability 
-
-
--  The horizontal axis reflects the economics of technology standards perspective of community adoptability 
-
-
--  Production 4GLs diffused rapidly to  number of organizations but never displaced 3GLs as the dominant choice for new development ,  except possibly in some niche applications 
-
-
--  3GLs are still the language of choice for code generators ,  which may imply that  plateau has been reached for production 4GL adoption 
-
-
--  Structured methodologies ,  almost twenty years after their introduction ,  are still being adopted very slowly ,  as evidenced by the difficulty in introducing CASE tools that are tied to these methodologies 
-
-
--  ,   daunting lexicon has developed around object-oriented technology ,  partly because the object-oriented approach touches all aspects of software engineering and partly because many of the concepts associated with OO have no direct analogs in the world of conventional systems development  ( see Table  for  list of key terms )  
-
-
--  Yet the essence of the object-oriented approach can be captured by two principles for structuring systems: storing data and related operations together within objects  ( encapsulation )  and sharing commonalities between classes of objects  ( inheritance )  
-
-
--  ,  Designers achieve encapsulation by placing  set of data and all the valid operations on that data together inside  metaphorical capsule called an object 
-
-
--  The logic behind encapsulation is simple: as there is usually  limited number of sensible operations for any given data structure ,  why not restrict processing to only these operations and put them together with the data in one place? Although this seems reasonable ,  it is not how traditional systems are organized 
-
-
--  In  traditional system ,  the various operations associated with any given set of data  ( edits ,  calculations ,  transformations ,  update logic ,  and so forth )  are typically repeated ,  more or less consistently ,  in many otherwise independent application programs 
-
-
--  To take  simple example ,  variants on an update customer balance operation might appear in  billing program ,   cash processing program ,  and  credit processing program 
-
-
--  To take  particularly literal example ,   sporting dog inherits attributes  ( physical characteristics )  and behaviors  ( pointing and retrieving )  from its parents 
-
-
--  For example ,  suppose that employees are classified as hourly or salaried 
-
-
--  With inheritance ,   designer places common data and operations in  parent employee class and unique characteristics  (  
-
-
--  This avoids the need to either  (  )  create  single set of data and operations with extra logic to handle differences between kinds of employees or  (  )  create two separate and largely redundant sets of data and operations  ( one for each employee type )  
-
-
--  As with encapsulation ,  inheritance is rarely used in traditional systems development because conventional programming languages make it difficult to be implemented as  primary structuring principle 
-
-
--  These qualities in turn can drastically reduce system development and maintenance cost while improving system flexibility and quality 
-
-
--  For example ,  consider the different level of detail required to explain  combustion engine to  driver ,  mechanic ,  or physicist 
-
-
--  In fact ,  the structured programming movement in the late 1960s and early 1970s was largely an attempt to develop methods to improve the extent and quality of modularity in delivered systems 
-
-
--  The net result of high-quality modularity is to localize system functionality so that changes can be made to one part of  system without  cascade of related changes 
-
-
--  This cascade of changes  ( the so-called ripple effect )  can be devastating; in many systems ,  hundreds or thousands of programs may be interdependent because of program code redundancies or ,  more subtly ,  the sharing of common data 
-
-
--  (  seemingly minor change to the meaning or structure of data can ripple across all programs that share the data 
-
-
--  )  Encapsulation promotes  looser coupling of modules by disallowing sharing of data and limiting the range of module interdependencies to their external interfaces 
-
-
--  Although software reuse is perhaps the most persistently claimed advantage of object orientation ,  it has existed in one form or another since the early days of programming 
-
-
--  Encapsulation promotes information hiding ,  which reduces the burden of describing and finding reusable components   significant obstacle to reuse in  large-scale environment 
-
-
--  Each time  new class is defined in an inheritance structure ,  this implicitly enforces reuse of operations from the parents of the new class 
-
-
--  ,  Where does object orientation fit on the new framework? Is it more likely to become  dominant technology or to end up in the slow mover ,  niche ,  or experimental categories? To answer this question ,  we must analyze object orientation along the dimensions of organizational adoptability and community adoptability 
-
-
--  ,  Like production 4GLs and RDBs ,  object orientation rates highly on perceived relative advantage 
-
-
--  Proponents have argued that object orientation promotes abstraction ,  modularity ,  and reuse ,  all of which are long-standing objectives of the software engineering field 
-
-
--  It is fair to assume ,  then ,  that many potential adopters will develop favorable opinions of the advantages of object orientation based on positive reviews in the literature and their own assessments of the technologys potential merits 
-
-
--  Object orientation is  new development model and requires new skills in analysis ,  design ,  and programming that replace ,  rather than build on ,  those associated with conventional development 
-
-
-- 17 In addition ,  several authors have noted that successful reuse requires marked changes in culture and values 
-
-
-- 18 It has been observed that to maximize reuse ,  developers must learn to assemble applications using objects developed by others 
-
-
--  Furthermore ,  OO adoption as an organizations standard approach will likely require  restructuring of development teams 
-
-
--  Some proponents have suggested the need to institutionalize reuse through creation of  new function similar to data administration that administers and controls the common repository of reusable components 
-
-
--  To be successful with OO as  software engineering process technology ,  an adopter must absorb  new lexicon ,  new development methodologies ,  and new development tools 
-
-
--  The need to master such concepts as encapsulation ,  inheritance ,  information hiding ,  polymorphism ,  and many others beyond those presented in Table  represents  significant barrier to achieving an overall understanding of object orientation and its proper application 
-
-
--  As with the structured methodologies ,  production ROBs ,  and 4GLs ,  OO will require substantial upfront expenditures on software and training in order to conduct meaningful pilot projects 
-
-
-- 21 In the meantime ,  adopters are likely to experience an initial productivity decline because of the extra initial effort to design modules for reuse 
-
-
--  The benefits of object orientation resist direct observation ,  and few organizations collect and track the software metrics required to demonstrate increased reuse ,  improved maintainability ,  or incremental improvements in productivity 
-
-
--  As  result ,  object orientation suffers from low observability 
-
-
--  ,  In summary ,  object orientation rates comparably with structured methodologies ,  the least favorable of the three previously reviewed technologies ,  on ease of adoption ,  with high relative advantage ,  but equal or lower ratings on compatibility ,  complexity ,  trialability ,  and observability 
-
-
--  ,  For object orientation ,  the rival entrenched technology is not just  language generation or  database model ,  but the entire procedural paradigm for software development 
-
-
--  New approaches have been proposed in every segment of software engineering: analysis  ( OOA )  ,  design  ( OOD )  ,  programming  ( OOP )  ,  and databases  ( OODBMS )  
-
-
--  Full object orientation also requires more extensive irreversible investments than production 4GLs or ROBs because of  substantially larger training burden and  wider array of potential software purchases  (  
-
-
--  For both these reasons ,   consortium can be  weaker sponsor than  single vendor or other source 
-
-
--  It appears well suited to event-driven graphical user interfaces ,  multimedia systems  ( voice ,  imaging ,  animation )  ,  and highly parallel processing  (  
-
-
--  These kinds of applications tend to require complex multilevel data structures and data encapsulation ,  both of which are difficult to implement within the procedural paradigm ,  but they play to the particular strengths of object orientation 
-
-
--  However ,  production 4GLs also had high positive expectations ,  reflected in their very name ,  which implied an inevitability to their replacing 3GLs 
-
-
--  ,  In summary ,  object orientation rates about the same as production 4GLs ,  the lowest of the previously reviewed software engineering innovations ,  from the economics of technology standards view 
-
-
--  Object orientation faces an even more thoroughly entrenched standard  ( the procedural paradigm )  and requires  more extensive investment in irreversible assets than production 4GLs 
-
-
--  While object orientation does appear to be better sponsored than production 4GLs ,  this sponsorship is in the form of  potentially fragile consortium 
-
-
--  This suggests that further development of the technology will be needed before widespread adoption will occur 
-
-
--  ,  The poor state of software development practice has engendered  large number of proposed process technology improvements 
-
-
--  Managers seeking advice on new software process technologies should learn from the lessons of technological change in other domains while recognizing the relatively unique features of software process technologies 
-
-
--  As we have shown ,  the framework offers an explanation for the adoption trajectory of previous technologies in analysis and design ,  coding and testing ,  and data management 
-
-
--  Object orientation ,  the latest widely touted software process technology ,  rates unfavorably on both scales relative to these prior technologies and thus is unlikely to become the dominant software process technology for large in-house business application developers without significant changes 
-
-
--  ,  What are the risks for the CIO of ignoring the framework when evaluating software process technologies? The primary risk associated with early adoption of niche technologies is being stranded on  technological spur away from the main track of technology development; the primary risk associated with early adoption of slow movers is implementation failure or the need to weather an extended period of transient incompatibility costs while waiting for  robust network to emerge 
-
-
--  Companies facing  wave of crucial new development projects that cannot feasibly be done with current technologies might consider  particularly well-suited niche technology  with the understanding that an expensive redevelopment or conversion may become necessary sooner  (  
-
-
--  Companies that are facing  major system replacement decision ,  that have  successful track record in adopting bleeding edge technologies ,  and that have the resources to support  robust internal training program might consider adopting  slow mover 
-
-
--  It will prove difficult to make the technology  routine part of software development 
-
-
--  The organization may end up locked into  stranded technology ,  finding it difficult to hire experienced staff: to purchase complementary tools ,  and in general to achieve the benefits that adopters of dominant process technologies enjoy 
-
-
--  ,  Having said this ,  in the immediate future ,  there will no doubt be  series of OO success stories  some genuine and others overstated for dramatic effect ,  as vendors and early adopters try to encourage  bandwagon 
-
-
--  Second ,  who did the development? Results achieved by handpicked internal stars or  team of industry consultants cannot be generalized to an entire IS development organization 
-
-
--  And finally ,  has the adopting company truly made the transition to routinized use ,  where OO has become the default technology for new applications? All too many software innovations end up as shelfware after promising pilot projects ,  because of the difficulty in replicating the success of one team across the entire organization 
-
-
--  ,  But isnt it desirable to be different from your competitors? Wouldnt being  first mover in adopting OO provide  competitive advantage as many proponents suggest? This is unlikely 
-
-
--  Publicly available technologies rarely provide  sustainable competitive advantage in and of themselves: they require mating with some other relatively unique organizational competence ,  otherwise all competitors would also adopt the technology and quickly close the gap 
-
-
--  ,  riding the internal learning curve sooner ,  building general innovative capabilities ,  and attracting leading-edge personnel )  could easily be outweighed by disadvantages  (  
-
-
--  ,  joining an immature network with high transient incompatibility costs ,  adopting an early and less favorable technology vintage ,  and experiencing  loss of trained staff to other companies )  
-
-
--  As  result ,  instances of first-mover advantages for corporate IS departments are likely to be rare 
-
-
--  ( For software vendors ,  however ,  an alternative scenario exists where heavy initial investment in OO could trigger  virtuous cycle of increased market share and resulting increased economics of scale 
-
-
--  )  ,  The framework we have described outlines the likely diffusion pattern at the time the ratings are performed 
-
-
--  The most appropriate time to perform the assessment is during the technologys first widespread commercial availability 
-
-
--  Having said that ,  such  move is probably unusual given the rapid arrival of new technologies and the inevitable loss of uncritical media attention typically bestowed on an emerging technology 
-
-
--  ,  On the positive side ,  better than expected growth in the demand for applications that fit well with the OO approach is likely to increase OOs relative advantage 
-
-
--  Thus  growth in multimedia applications and the demand for applications running in client-server environments would clearly help 
-
-
--  Favorable trade press coverage about OO success stories and the absence of widely publicized OO disasters would further improve the technologys observability and would improve the general level of expectations 
-
-
--  The ability of the Object Management Group to maintain the coalition and generate some initial successes on standards would solidify its position as external sponsor of the technology 
-
-
--  Additionally ,  wide-scale adoption of OO is threatened by growth from competing technologies ,  such as CASE  ( specifically CASE templates )  ,  which offers many of the same advantages of productivity ,  quality ,  and reuse 
-
-
--  Finally ,  the development of  newer ,  yet-to-be-announced technology could supplant the current interest in OO ,  riding the same wave of enthusiasm that currently benefits OO 
-
-
--  Some of these can be worked around with an appropriate adoption strategy ,  while others depend on communitywide actions beyond any individual adopting organizations control 
-
-
--  For vendors and other OO proponents ,  this framework offers  clear agenda for the future by outlining several avenues where an aggressive ,  coordinated effort is needed to lower obstacles to individual and communitywide adoptability 
+-  ,  Because so little empirical research has been done concerning companies information privacy practices in DBM activities ,  our major objectives in this study were exploratory: to understand companies practices and policies in this area as well as the views and responses of consumers and other external groups 
 
 

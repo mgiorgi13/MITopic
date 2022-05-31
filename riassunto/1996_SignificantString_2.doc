@@ -1,1026 +1,135 @@
-- The information products industry ,  broadly defined to include products based on data ,  information ,  and knowledge ,  is intensely dynamic in terms of growth and the pace of new product introduction 
+-  On the other hand ,  managers who were tired of IS budget growth year after year and sometimes elusive business benefits saw an opportunity to cut IT costs ,  downsize the IS function ,  and do to IT what they were doing in other parts of the business  subcontract 
 
 
--  The complexity in the variety of product offerings and the number of firms offering those products in this industry is shown by the fact that there are more than 36 , 000 information product suppliers in the United States; 90 percent of these have less than $1 million in annual sales 
+-  ,  The objectives of outsourcing are cost cutting;  desire to focus on the business ,  not on IT  ( or on core systems ,  not on the total application portfolio )  or subcontracting responsibilities for operating and maintaining legacy systems 
 
 
--  Revenues for the information industry are large; for example ,  radio and TV accounted for $54 billion in domestic revenues in 1993; film and recorded music for $35 billion; newspapers ,  books ,  and magazines ,  $85 billion; and business information suppliers ,  another $26 billion 
+-  Whatever the objective ,  the possibility of outsourcing tends to generate strong emotions among both IS professionals and general managers 
 
 
--  ,  Despite the economic importance and the rapid pace of innovation of this industry ,  no previous research has examined the design and development of information products 
+-  These prescriptions help both the companies that are bold protagonists of IT outsourcing and those that think they have to do some outsourcing and would appreciate guidelines on being selective 
 
 
--  Research in the management of innovation and new product development has focused primarily on physical ,  assembled products such as automobiles ,  video-cassette recorders ,  portable cassette players ,  power tools ,  computers ,  and various types of production equipment 
+-  ,  There is currently  trend toward selective or smart sourcing and  recognition of alternative sourcing strategies ,  whatever the objective 
 
 
--  This focus has been broadened by studies of innovation in nonassembled products such as ice and glass and of innovation in software products 
+-  If business value is high but operational performance is weak ,  then market testing  ( or benchmarking )  might make sense ,  at least so  company can see what performance improvement might be possible by either internal or external sourcing 
 
 
--  In this article ,  we focus on information products 
+-  While  am not retracting my conclusions ,  on the basis of experience  ( namely ,  discussions with both vendors and customers in Europe and North America )  ,   now suggest that managers ask why does outsourcing make sense and why does it work 
 
 
--  We define information products broadly to include information provided in either electronic or printed form and sold to external markets as well as that provided by information systems departments within firms to internal customers 
+-  Those who have outsourced have more regrets than they acknowledge and more anxieties about vendors than they care to confront 
 
 
--  Our research was guided by several basic questions: What can firms in information products industries learn from research on physical products? How are information products designed and manufactured ,  and how can information technology be used to support these processes? More fundamentally ,  what is the architecture of an information product and what are the strategic ,  organizational ,  and technical implications of the architecture for firms competing in this arena? ,  To answer these questions ,  we build on research and knowledge about the design of physical products 
+-  Furthermore ,  frameworks for analysis like that in Figure  ,  while highlighting different sourcing options ,  also give momentum to outsourcing because they imply that the marketplace has significant potential in the supply of IT services ,  albeit in different ways ,  whatever the difficulties involved 
 
 
--  We first summarize that research and then extend it into the non-physical realm ,  proposing  framework for the architecture of information products 
+-  ,  So  offer ,  unapologetically ,   plea that CIOs and CEOs proceed with caution when they consider IT outsourcing 
 
 
--  We then illustrate the architecture framework with data from two information product businesses 
+-  Yet let us consider the likely causes or context of poor performance 
 
 
--  The first case ,  Corporate Technology Information Systems ,  Inc 
+-  ,  If cost or quality problems are due to inadequate economies of scale ,  outsourcing can make sense ,  although there may be internal solutions available through centralized rationalization 
 
 
--  ,  demonstrates how  company can create competitive advantage through the information product platform 
+-  These are sensible precautions and probably should precede any out-sourcing based on dissatisfaction with operations 
 
 
--  The second case ,  Individual Inc 
+-  If there are changes in the vendors personnel or organization ,  the company has to invest in building new partnerships and understanding how things are done in the new regime 
 
 
--  ,  focuses on the process platform and shows strategies for achieving advantage by refining information 
+-  Vendors may pull out at the first stage when they learn how weak the customers IT management is; they recognize that weak management is not an opportunity for profit taking but  recipe for conflict and dissatisfaction 
 
 
--  We then conclude by considering how companies can manage the architecture of information products to achieve competitive advantage 
+-  Even the boldest company would try to transfer some of its IT staff to the vendor to ensure some continuity of service and knowledge in the short run 
 
 
--  ,  Other authors have stressed the importance of managing the evolution and renewal of product architecture for sustained competitive success 
+-  However ,  the above examples suggest that there may be long-term opportunity costs ,  which can increase with business uncertainty 
 
 
--  The architecture of  product refers to its overall design concept 
+-  ,  If cost reduction is the objective in an outsourcing deal ,  the hope is that the current cost base is reduced and that ,  over time ,  there are further cost reductions due to learning and technological change 
 
 
--  Different architectures result in different product functionality ,  cost ,  quality ,  and performance 
+-  ,  If better focus is the objective ,  the customer may be willing to pay for future inefficiency 
 
 
--  Architectures are both  basis for product innovation and  constraint on the variety of product versions that  company can offer 
+-  However ,  as several vendors have pointed out ,  customers often require cost reductions along with any other objective they first had in mind 
 
 
--  ,  For example ,  Lehnerd described  classic example of product family and platform renewal that Black  Decker achieved in consumer power tools in the 1970s 
+-  The same can be true of companies whose original objective was to get rid of the legacy systems 
 
 
--  The old architecture in the companys major tool groups had little in common with other product groups or even within them 
+-   lawyer in this field remarked that he was happy to take legal fees from clients who believed that IT was  game of certainty and discovered that it was not ,  but he would prefer to earn money by educating them 
 
 
--  Traditionally ,  the company had redesigned its products one at  time 
+-  However ,  the more likely it is that uncertainties will materialize ,  the more  company might wish to control its own destiny 
 
 
--  There were more than  hundred different motors ,  which were manufactured on different production lines involving substantial labor content and materials waste 
+-  ,  When cost reduction is the objective of outsourcing ,  there is typically  promise of early cash flow benefits and long-term cost savings 
 
 
--  Lehnerd and his colleagues decided to redesign the entire product portfolio ,  utilizing elements of common product architecture for all tools ,  whether  drill ,  sander ,  circular saw ,  or hedge trimmer 
+-  company that considers its outsourcing  success reports ,  We never anticipated the management resources and time  and thus cost  that we have had to put in 
 
 
--  On  single ,  high-volume ,  highly automated production line ,  motors for hundreds of different power tool products could be produced at substantially lower per-unit costs 
+-  Organizations tend to learn to manage IT by doing; they do not appreciate the challenges until they have experienced them 
 
 
--  ,  Black  Decker applied this approach to other key subsystems of the product architecture with  similar effect 
+-  Likewise ,  an airline reported that more of the information linkages it needed to build as it competes on knowledge were in segments of its infrastructure that it had previously classified as commodity ,  over which it had relaxed its control 
 
 
--  The result was striking:  drill formerly marketed at $20 was replaced with  more durable ,  lighter drill profitably sold for less than $10 
+-  ,  Of course ,  there is no reason that  third party cannot operate ,  enhance ,  or rebuild an application that has been reclassified as strategic 
 
 
--  Rather than product architecture constraining product variety ,  Black  Deckers common subsystems enabled variety ,  allowing engineers to focus on the other features of their power tools ,  such as new types of bits ,  sanding surfaces ,  or blades 
+-  We will have to think about how to rise to the challenge 
 
 
--  Product variety increased over time 
+-  ,  While this situation does not prove that innovation cannot be bought ,  it suggests that partners have their limitations and that expectations must be properly managed 
 
 
--  The companys cost advantage drove dozens of competitors out of the business ,  and its market share in the consumer power tools industry grew from 20 percent to  dominant share during  five-year period 
+-  )  The complex web of likely relationships within the marketplace also limits the opportunities for users who understand the business to interact with specialists who understand the technology on  continuing informal and formal basis 
 
 
--  ,  Every product has an architecture 
+-  ,  Some years ago when IT specialists and users could not understand each other ,   few companies created  new role for intermediaries or interpreters between the two parties 
 
 
--  That architecture has the potential to become  platform ,  as in Black  Deckers case ,  if it is explicitly managed and used to create  number of derivative products 
+-  Often called business analysts ,  client managers ,  or systems liaison officers ,  they sought in theory to understand user needs and convey them to the specialists ,  while representing the specialists concerns to the users 
 
 
--  For example ,  platforms have formed the basis for creating families of automobile products 
+-  ,  Curiously ,  company managers often claim they want to work with people who belong to and understand their culture 
 
 
--  Chrysler derived many successful versions of its basic automobile offering from its K-car platform 
+-  Meanwhile ,  the remaining IT personnel are likely to rethink how they can add value and probably will hone up their skills in project management ,  teamwork ,  negotiation ,  and conflict resolution 
 
 
--   well-designed platform enables  company to create new versions of its basic product rapidly and efficiently to respond to or anticipate changing market needs  ( see Figure  )  
+-  ,  The desktop in  typical knowledge-based organization has  PC hardware platform  ( which may have PCs and Macintoshes )  
 
 
--  ,  In the arena of physical ,  assembled products ,  the effectiveness of  firms new-product generation lies in its ability to create  continuous stream of successful new products during an extended time and in these products attractiveness to the chosen markets 
+-  In front are personal knowledge-working tools and applications ,  perhaps interfacing with enterprise-level groupware 
 
 
--  Streams of related products are product families 
+-  ,  Previously ,  in data centers ,  arguments with vendors about responsibility when something went wrong were commonplace 
 
 
--  For physical products ,   family is  set of products that share common technology and address related market applications 
+-  More important ,  think about solving  user-support query 
 
 
--  The commonality of technologies and markets leads to efficiency and effectiveness in manufacturing ,  distribution ,  and service ,  enabling  firm to tailor each resource or capability more efficiently to specific market niches 
+-  Where in the various components of desktop architecture does the problem lie? In the interface between the users highly knowledge-specific local application and the technology architecture ,  or in incompatible software releases? Is it  local area network fault or  server problem? More particularly ,  does the new support person from the outsourcing supplier understand the problem well enough to sort it out quickly? It can be difficult to delineate the desktop and create sufficiently generic support skills and specific user-oriented capabilities ,  because there are too many interdependencies 
 
 
--  ,  The technological foundation of the product family is the product platform architecture or design 
+-  Does his rating comment on the companys IS function ,  on the inherent complexity and indivisibility of the desktop ,  or on the very visible nature of distributed and end-user computing environments? If  third party who was brought in to take over desktop service could not cope ,  the levels of satisfaction would only decline further 
 
 
--  Platforms ,  their derivative products ,  and platform extensions or renewals have been described for vacuum cleaners ,  electronic imaging systems ,  portable cassette players ,  and power tools 
+-  Given the inevitable company-specific nature of the desktop domain ,  it is advisable to think twice about outsourcing in this and other such indivisible areas of IT 
 
 
--   product family evolves over time by incorporating new technologies into its designs and by targeting new customer requirements 
+-  One knowledge-based organization learned this lesson from the marketplace 
 
 
--   product platform is made up of common subsystems and interfaces for deriving related products 
+-  As corporate knowledge about IT outsourcing continues to advance ,  the strategy of selective or smart sourcing may become the norm 
 
 
--   new generation of an existing product platform occurs when the number and types of subsystems and interfaces remain constant but several undergo substantial enhancement 
-
-
--   new platform forms an entirely new architecture when subsystems and interfaces from prior generations are carried forward and combined with new subsystems and interfaces in  new design 
-
-
--  ,  For an effective platform design ,  the interfaces between subsystems must be seamless and standardized 
-
-
--  In an assembled product such as  camera ,  for example ,  subsystems include the shutter mechanism ,  lenses ,  various operator controls and focus mechanisms ,  flash ,  power source ,  and camera housing 
-
-
--  Experience suggests the critical importance of specifying clear internal and external interfaces in new product design ,  standardized to the point where the interfaces may be assigned part numbers ,  similar to the components 
-
-
--  ,  The process platform is composed of the technologies ,  facilities ,  and processes for manufacturing  firms products 
-
-
--  For an assembled product ,  such as  camera ,  the process platform encompasses the stages of producing or sourcing of components  ( with intermediate testing processes )  ,  assembly of the components ,  and final testing 
-
-
--  For non-assembled products ,  such as materials and petrochemicals ,  sustained success requires creating and renewing process platforms 
-
-
-- 10  ( For  general representation of the process platform ,  see Figure  
-
-
--  )  ,  For both assembled and nonassembled products ,  the process platform evolves primarily by increasing volume or capacity 
-
-
--  However ,  process platforms are also an opportunity for innovation to facilitate greater product variety during  product familys evolution 
-
-
--   lack of such innovation ,  in terms of the flexibility built into the production process ,  constrains the variety of product versions derived from the basic process 
-
-
--  Abernathy and Hayes noted this in the stagnation of the Model  automobile caused by Fords high-volume but inflexible mass production system 
-
-
-- 11  study of an industrial manufacturer also showed the problems encountered when management focuses on capacity expansion for its existing manufacturing processes at the expense of introducing new process capabilities 
-
-
-- 12 ,  Well-designed product and process platforms enable product innovation and the generation of derivative products rapidly and at low incremental cost ,  creating leverage in  firms R&D activities 
-
-
--  Each of the two types of leverage that  firm can achieve in  well-managed product family  technological and market  has substantive financial implications 
-
-
--  ,  Technological leverage is the extent to which investments in basic product and process platforms  ( either original developments or platforms extensions )  serve as  foundation for efficiently developing derivative products 
-
-
--  Thus engineering these derivative products should cost substantially less than the development costs incurred in making the underlying product platform 
-
-
--  proposed as  metric of technological leverage the average engineering cost of product derivatives divided by the engineering cost of underlying platforms 
-
-
-- 13 They found that this measure of platform efficiency for creating derivative products for successful families of industrial measurement systems was in the range of  
-
-
-- 10 for every dollar of investment in creating the underlying product platform 
-
-
--  They also proposed  corollary measure of platform efficiency focusing on time cycles 
-
-
--  While product platforms tended to take three to five years of elapsed time to develop ,  derivative products were created in three months to one year 
-
-
--  Robust product platforms therefore enable  firm to develop new derivative products and bring them to market in  fraction of the time and cost required to create the underlying product platform 
-
-
--  Recent research at  large consumer products company also showed that successful process platforms allow new products to be introduced into manufacturing without excessive ramp-up and retooling costs 
-
-
--  ,  The market leverage from  product platform is the return provided on product development investment 
-
-
--  proposed  measure of platform effectiveness ,  similar to measures of platform efficiency ,  as the accrued sales for  set of derivative products divided by the total engineering costs of those products 
-
-
-- 14 For the industrial measurement system families in that study ,  sales of successful product families were from thirty to fifty times engineering costs 
-
-
--  Ratios of market leverage vary from industry to industry 
-
-
--  For example ,  data gathered from  printer manufacturer showed rates of market leverage across its most successful product platforms to be more than 100 times engineering costs 
-
-
--  Market leverage can also be considered as the extent to which product and process platforms enable  firm to diversify from initial target market applications into others that are related by virtue of common customer requirements 
-
-
--   robust platform facilitates the type of expeditionary marketing that Hamel and Prahalad describe 
-
-
-- 15 ,  We have discussed the concepts of product and process platforms as the bases of the evolving product family 
-
-
--  We have also described measures of efficiency and effectiveness that apply to the development of physical products 
-
-
--  In the remaining sections ,  we extend these concepts to information products 
-
-
--  ,  The architecture of information products is not as readily apparent as that for physical products 
-
-
--  The internal interfaces are how these parts fit together; the external interfaces are the standardized telephone wire plug and the design and use of the handset and push buttons 
-
-
--  The architecture for an information product such as an electronic news service requires rethinking the concepts we have presented 
-
-
--  These concepts are critically important because managing the architecture of an information product is as essential to design quality and to  firms survival as managing the architecture of  telephone 
-
-
--  ,  Information products exhibit characteristics of assembled and nonassembled products: there are product families ,  product and process platforms ,  and derivative products 
-
-
--  Therefore ,  the architecture of an information product reflects an integration of the product and process platforms to generate individual products within the information product family  ( see Figure  for  framework )  
-
-
--  ,  We posit that the product platform of an information products business is best viewed as  repository comprising information content and structure 
-
-
--  Information content is the data held in the repository that ultimately forms the substance of the information products 
-
-
--  The type of business will ,  of course ,  be reflected in the unique content of the repository 
-
-
--  For example ,  life insurance companies ,  when underwriting new business ,  may access computerized third-party repositories containing data on physicians examinations ,  blood and urine laboratory results ,  and motor vehicle records 
-
-
--  The insurance company ,  in turn ,  may integrate these data into its own internal proprietary repository used to provide products and services to its in-house underwriting ,  claims ,  and research units 
-
-
--  ,  Beyond the information in the repository ,  the overall structure and arrangement by which the content is stored ,  manipulated ,  and retrieved is  key design element 
-
-
--  The basic structural dimension of the repository is the information unit ,   formally defined atom of information to be stored ,  retrieved ,  and manipulated 
-
-
--  For example ,   relational database defines data elements  ( attributes )  as the basic information unit ,  while  more document-oriented repository might define various elements  (  
-
-
--  ,  subtitled text segments ,  graphic elements ,  title ,  and byline )  as basic information units 
-
-
--  ,  Different businesses tend to employ uniquely meaningful information units 
-
-
--  For example ,  in Mead Data Systems Nexis ,   repository of financial statements ,  the footnotes are defined as an information unit 
-
-
--   user can then select particular financial statements for analysis based on key attributes of the footnotes 
-
-
--  ,  The structure of the repository further includes schemes for labeling ,  indexing ,  linking ,  and cross-referencing the information units comprising the repository content 
-
-
--  For example ,  consider  reference catalog listing firms and their products 
-
-
--  Printed fact sheets might be stored in binders with tables of contents and indexes for locating information by product or firm 
-
-
--  In this case ,  the user looks for the appropriate binder and finds the answer to  particular query 
-
-
--  The user queries by company name ,  industry affiliation ,  or product set to find specific information 
-
-
--  In another example ,  an electronic newspaper links the text of  story to its headline ,  byline ,  and graphic elements 
-
-
--  ,  The repository becomes the foundation from which  firm creates its families of information products 
-
-
--  The greater the scope ,  depth ,  and complexity of the platform structure ,  the greater the flexibility for deriving products and thus the greater the potential variety within the product family derived from that product platform 
-
-
--  The greater the complexity of the platform structure ,  however ,  the greater the cost and effort to maintain the repository 
-
-
--   well-designed repository will enable  firm to mine the most value from the content for  given maintenance cost 
-
-
--  ,  The levels of complexity and granularity and the associated scheme for structuring the repository can constrain basic product design 
-
-
--  The more ways  firm can slice and dice its repository ,  the greater the potential for rapidly and efficiently creating products for new market niches 
-
-
--  Then success becomes  matter of market development to create brand and niche dominance 
-
-
--  For example ,  while some book publishers have converted hard copy to electronic media by storing text blocks by subject and others have stored text by chapter ,  some have stored by entire book ,  which offers little flexibility in creating new versions of the basic product 
-
-
--  The flexibility in product design from being able to combine subject-oriented text blocks far exceeds that of combining chapters 
-
-
--  Yet the flexibility to respond rapidly to customers product requirements carries  high cost of infrastructure development with respect to creating and sustaining the repository structure 
-
-
--  ,  We also posit  generalized process platform for information products 
-
-
--  The manufacture of information products resembles  refining process ,  composed of five information processing stages: acquisition ,  refinement ,  storage/ retrieval ,  distribution ,  and presentation or use 
-
-
--  ,  The process platform may be supported by  process knowledge repository containing the rules by which the information product repository is itself created 
-
-
--  These rules are part of the process platform ,  not the product platform 
-
-
--  One type of process rule in an information refinery is front-end knowledge 
-
-
--  Such rules may include methods to identify source information ,  acquire it ,  refine it ,  and subsequently add it to the firms information repository 
-
-
--  For example ,  Lincoln National Reinsurance Company has developed  sophisticated expert system that builds the information repository needed to underwrite life insurance policies 
-
-
--  The system electronically determines the information needed by the underwriter and where to get it ,  accesses the appropriate information vendors computers ,  evaluates the information received ,  integrates it within the repository ,  and evaluates the need to acquire additional related information based on what was learned 
-
-
--  The back end of the process platform  that is ,  the distribution and presentation of information as products  may also be rule based 
-
-
--  For example ,  in subscription-driven markets ,  such as industry analysis ,  rule-based limits guide users as they access on-line publications 
-
-
--  Other rules may restrict their access to other products 
-
-
--  ,  The two platform elements  the repository and the refinery  combine to enable the generation of specific products  ( see Figure  )  
-
-
--  Supporting these respective platforms are the firms core capabilities in computer hardware ,  software ,  and telecommunications ,  its internal knowledge about its business and external knowledge about its current and emerging markets ,  and how it organizes and manages itself 
-
-
--  The design of the information technology infrastructure is especially important; it is the information product firms core manufacturing capability and how it administers business 
-
-
--  ,  Similar to physical products ,  information product platforms should be the source of considerable technological and market leverage 
-
-
--  For an information product ,  technical leverage refers to  firms ability to rapidly and efficiently engineer new products based on the existing common repository 
-
-
--  There are several ways in which products can vary: by actual content; by packaging ,  formatting ,  and presentation; by distribution; and by degree of interactivity 
-
-
--  The combination of different variations can lead to  range of distinct products within the product family ,  all derived from the same information repository 
-
-
--  ,  For example ,  consider the export information databases sold on  CD-ROM by  number of firms 
-
-
--  One product could be  printed volume of information for  particular country ,  including import regulations ,  sources of trade financing ,  and sales agents 
-
-
--  Another product could be similar information provided on-line through an Internet server 
-
-
--  Another product may be an aggregation of individual country information into continental regions ,  printed or placed on-line 
-
-
--  ,  Different on-line products provide varying levels of interactivity between the user and information products 
-
-
--  Interactivity is the users ability to dynamically select ,  manipulate ,  integrate ,  and format the information to suit particular and changing needs 
-
-
--  It is similar to baking  cake: some customers want to start from scratch  ( access to raw data )  ,  others prefer  cake mix  ( access to preprocessed cells or units of information )  ,  while others choose to purchase  ready-made cake from  bakery  ( access to finished reports and analyses )  
-
-
--  Providing users direct control over the packaging and content of the product itself can be  highly desirable product feature 
-
-
--  As information products become more dynamic  (  
-
-
--  ,  interactive TV ,  magazines ,  and information services )  ,  mechanisms to allow individualized ,  useful ,  and relevant feedback to the information supplier will produce even greater product variation 
-
-
--  ,  The flexibility to create numerous product derivatives from the repository becomes the basis of  firms ability to realize market leverage from its information assets 
-
-
--  Like any other producer ,  the information products firm must identify new market niches that need the firms assets ,  in part or in whole 
-
-
--  ,   combination of characteristics makes the information products industry distinct in technical and market leverage 
-
-
--  First ,  the pace of market identification and exploitation is often rapid ,  with consequences for the style and process of market R&D 
-
-
--   firm that plods along in its market research may never get its product to market ,  while  more agile competitor creates  franchise in  new market niche 
-
-
--  Second ,   flexible repository combined with  highly automated refinery can make the incremental cost of creating new products unusually low compared to physical products 
-
-
--   new product ,  for example ,  may simply be  matter of performing  different type of sorting function or statistical analysis on the computer 
-
-
--  Third ,  information products supported by  computer-based refinery are more easily and dynamically decomposed to create new products 
-
-
--  For example ,  textbook publishers can sell chapters of books rather than entire volumes once text is stored and distributed electronically 
-
-
--  Fourth ,  ease of product decomposition also enables ease of reintegration to create composite products 
-
-
--  In the textbook example ,  new books can be custom designed for particular customers or uses by recombining selected chapters from many books into  new book 
-
-
--  Fifth ,  one-time purchases seem to be the exception for information products 
-
-
--  Once customers perceive information as valuable ,  they are more likely to provide revenue to the supplier through an ongoing subscription 
-
-
--  ,  An information products company entrepreneur described his industry and the opportunities for leverage in it: ,  To sustain product leverage and avoid product obsolescence over the long term ,  we believe that information products companies must also plan for the renewal of their repository and refinery platforms ,  just as  physical products company must renew its product designs and manufacturing processes 
-
-
--  Renewing the information product platform requires rethinking the basic content and structure of the information repository to enable more efficient creation of newer versions of existing products or ,  more important ,  introduction of radically new products such as the composites we described earlier 
-
-
--  The opportunities include establishing greater depth and detail of information content ,  greater scope of content integration ,  more sophisticated and complex linking structures to facilitate integration ,  and greater standardization in the definition of information units 
-
-
--  For example ,   number of information products companies are presently adopting Lotus Notes as  way to electronically distribute and present their information products 
-
-
--  We believe that great opportunities lie in renewing the front-end acquisition and refinement stages of the refinery 
-
-
--  Here ,  the application of information technology has lagged in many of the firms we have studied 
-
-
--  Finally ,  firms seeking to improve their information refineries must also strive to improve and standardize the interfaces between each process stage to achieve  seamless pipeline of information processing within the firm ,  as well as between it and its suppliers and customers 
-
-
--  The first case ,  of Corporate Technology Information Systems  ( CorpTech )  ,  focuses on the product platform  that is ,  the information repository  and how products may be derived from that platform 
-
-
--  The second case ,  of Individual ,  Inc 
-
-
--  ,  focuses on the process platform ,  especially the role of information technology in providing the appropriate processing infrastructure for creating and delivering products to meet market needs 
-
-
--  ,  Founded in 1985 ,  CorpTech ,  located in Woburn ,  Massachusetts ,  provides business ,  management ,  product ,  and employment information on 40 , 000  
-
-
--  companies operating in technology-intensive industries 
-
-
--   team of trained telephone surveyors regularly contacts existing information providers to verify or update company names ,  executives names ,  product descriptions ,  sales levels ,  employment levels ,  and projected growth rates 
-
-
--  The data are stored in  computerized relational database that forms the information repository 
-
-
--  From this repository ,  the company creates  variety of products using internally developed software for searching ,  formatting ,  and distributing the information 
-
-
--  Each product has  subscription orientation ,  whereby customers license the right to use the data and receive timely updates with new information 
-
-
--  As our framework suggests ,  each product can be differentiated by its content ,  distribution ,  and presentation 
-
-
--  ,  The primary product contains the full database 
-
-
--   subscribers sales force might use it to generate leads ,  or university placement offices and employment agencies looking for leads might access information about companies in specific regions and industries 
-
-
--  For customers requiring  search and browse capability ,  CorpTech distributes the database via mail on  CD-ROM 
-
-
--  Search and presentation of the data is supported by CorpTechs proprietary data access software provided as part of the product 
-
-
--  CorpTech also sells  printed version of the product ,  with  national and several regional versions for those without PC support or the need to browse the database interactively 
-
-
--  In another derivative product ,  CorpTech generates information for subscribers based on various criteria through  data-on-demand service 
-
-
--  ,  Management continually considers ways to process the basic repository data to add new ,  higher value-added products to the family 
-
-
--  For example ,  CorpTech recently introduced  newsletter ,  the Technology Industry Growth Forecaster ,  that presents sales and employment growth trends by region and industry and information on companies that are growth leaders in their respective fields 
-
-
--  While all these products are packaged and priced differently ,  the company creates all from the same information repository 
-
-
--  The repository has grown from  , 000 technology-based firms to approximately 40 , 000 firms 
-
-
--  ( For CorpTechs product family map ,  see Figure  
-
-
--  ( Figure  shows CorpTechs information repository and refinery process underlying its product family 
-
-
--  )  ,  The technical leverage achieved in the form of derivative products is clear 
-
-
--  CorpTech has generated  variety of computer-based and printed products by segmenting and analyzing the underlying information repository 
-
-
--  The market leverage achieved from these products is shown by cumulative economic benefit: sustained increases in sales accompanied by  healthy level of corporate profitability 
-
-
--  ,  We might expect CorpTech to have many competitors because the information it gathers and the process for gathering it is quite simple 
-
-
--  Yet CorpTech has used its repository to create  defensible competitive advantage 
-
-
--  The sheer size of the repository and labor cost for continual maintenance represents  formidable barrier to entry 
-
-
--  Therefore ,  information about these companies has not been free and could not be electronically acquired from  government database 
-
-
--  Rather ,  CorpTech has had to generate leads and solicit firms through individualized telephone calls and mailed surveys 
-
-
--  Once it reaches firms ,  it focuses on specific characteristics of the companies products 
-
-
--  As  result ,  CorpTech has created  front-end franchise with its information suppliers 
-
-
--  For their efforts ,  suppliers know that their information will be distributed accurately and professionally 
-
-
--  ,  CorpTechs management has viewed the development and maintenance of its repository as  distinct investment area 
-
-
--  Since  major focus of data gathering consists of product details ,  CorpTech invested in the development of  proprietary technology classification system early on 
-
-
--  This system is an index of product types that are industry and technology specific 
-
-
--  The index is based on approximately 15 , 000 generic product descriptors that ,  combined ,  form about  , 000 unique product codes 
-
-
--  These product codes are then organized in  hierarchical system that contains 17 specific industries and 255 product areas within these industries 
-
-
--  The  , 000 product codes are then applied at the finest level to all the products of  firm participating in the CorpTech research 
-
-
--  The careful application of these codes to the products of all the 40 , 000 firms in the repository creates CorpTechs commercial strength and serves as an effective barrier to entry to potential competitors 
-
-
--  For example ,  Digital Equipment Corporations products alone are assigned more than 200 unique product codes to allow  granularity of information reporting that can be exceptionally useful 
-
-
--  That is ,  as CorpTechs repository of companies and customers grows ,  its position in the middle of this information exchange network becomes ever more valuable to all stakeholders 
-
-
--  There is  disincentive for provider companies to withdraw from CorpTechs listing because CorpTech holds the de facto franchise in the target market 
-
-
--  Both forces feed on themselves in  reinforcing spiral ,  providing CorpTech with  competitive advantage 
-
-
--  CorpTech has been quite successful in building reputation and franchise rapidly to attain  defensible critical mass 
-
-
--  ,  in Burlington ,  Massachusetts ,  is  repackager of news information 
-
-
--  The firm creates  customized set of news stories for each of thousands of customers ,  based on their unique preferences and needs 
-
-
--  Since its founding ,  the companys sales have doubled annually based on the proposition that less information  as long as it is the right information  is more 
-
-
--  ( For Individuals platforms and product family ,  see Figure  
-
-
--  )  ,  On any given day ,  Individuals information repository is fed with about 20 , 000 news stories indexed and stored in  computerized database 
-
-
--  The repository becomes distinctive and valuable because of the companys refining process platform 
-
-
--  The firm acquires news stories  ( the raw material )  electronically from about 600 suppliers through computer and telecommunications networks 
-
-
--  Next ,  it matches story content to customers reading interest profiles stored as keywords in  database separate from ,  but complementary to ,  the information repository 
-
-
--  Using  software search program called SMART ,  the refinery matches the customer profiles to streams of incoming stories ,  prioritizing the matches ,  and identifying those with the highest probability of reader interest 
-
-
--  ,  The company has further enhanced its refining process by creating predefined keyword filters or templates by industry and market 
-
-
--  Each template contains terminology and company names deemed useful for finding stories relevant to readers interested in  particular industry 
-
-
--  Templates currently exist for electronics ,  computers ,  health care ,  biotechnology ,  telecommunications ,  finance ,  energy ,  and government ,  among others 
-
-
--  The company employs editorial managers who create and improve industry templates as well as identify additional sources of news information 
-
-
--  Then ,  as they receive information ,  they provide feedback on the news stories usefulness 
-
-
--  ,  After extracting appropriate stories from the repository ,  Individual formats the selected news stories into one of four product designs and distributes them 
-
-
--  The primary product ,  called First! ,  provides the full text of the selected articles via an on-line browser 
-
-
--  However ,  through interactive ,  on demand ordering software ,  readers can order the full text for any particular news summary 
-
-
--  The third product is iNews ,  an even simpler news-flash service 
-
-
--  Last ,  the company supplies  direct feed of its entire repository to  number of large corporations 
-
-
--  They may then use their own database software or integrate Individuals repository into their own information 
-
-
--  As with CorpTech ,  these products are all priced differently ,  and licensing arrangements are structured on  subscription basis 
-
-
--  Individual also has  new product called NewsPage ,  which is  Web home page providing access to all of the companys stories at the broad level of headlines and abstracts 
-
-
--  ,  The design of Individuals supporting information technology infrastructure resembles  human organization with different functions allocated to groups operating under  hierarchical control structure  ( see Figure  )  
-
-
--  At the front end of the process ,  work is allocated to PCs based on volume and type of source input ,  such as file transfer ,  e-mail ,  telephone lines ,  or satellite 
-
-
--  Dozens of PCs gather these data; more can be added as the number of information suppliers increases 
-
-
--  Here too ,  the company can add workstations to handle increased volume 
-
-
--  Last ,  for the back-end process of product distribution ,  clusters of PCs are organized around the firms products and delivery mechanisms 
-
-
--  Attached are dedicated PCs for the respective fax ,  e-mail ,  Notes ,  and direct-feed product variations 
-
-
--  As the business grows ,  more clusters can be added 
-
-
--  This clustered ,  client/server architecture has allowed Individual to address the great challenge facing any information products company once it has created  winning product design: scaling up production to achieve large-scale volume 
-
-
--  has achieved considerable technical leverage in its products and services 
-
-
--  The firm has used technology to create leverage in the form of product variety 
-
-
--  Each of the four basic product designs is tailored for every customer ,  based on desired information content 
-
-
--  These customers may be individuals at various levels in different industries ,  professional work groups needing to share  common subset of the daily news ,  or companies that receive  large portion of the repository and integrate it into their own information 
-
-
--  Individual has achieved leverage through  sophisticated ,  automated ,  and proprietary process platform ,  an intelligent refinery that automatically acquires information and filters it for customers with an artificial intelligence tool 
-
-
--  The refinery then automatically performs the distribution of customized products with the flexibility to employ the continuous advances in telecommunications technologies 
-
-
--  In market leverage ,  the firm is also successful 
-
-
--  Sales have continued to double every year 
-
-
--  ,  Given that any company may contract for electronic news feeds ,  purchase an intelligent text-based search engine ,  or build  network of PCs and workstations ,  where does Individuals advantage lie? Like CorpTech ,  it deals with  number of information sources ,  many not easily located 
-
-
--  Second ,  like CorpTech ,  it has created  franchise in the marketplace 
-
-
--  In addition ,  Individual enjoys economies of scale because it can amortize the cost of its news feeds across many customers and products 
-
-
--  But its competitive advantage lies mostly in its information refinery 
-
-
--  The refinery provides  unique level of service and functionality ,  not only by working directly with customers to create  valuable profile ,  but in gaining knowledge over time of how best to create profiles in general so that they add the most value for given readers 
-
-
--  continues to learn via customer feedback and ,  more important ,  to capture that learning 
-
-
--  ,  The information architecture concepts we have presented are  major aspect of competitive advantage in information products companies 
-
-
--  Robust repositories and refineries have given each the capability to respond quickly and profitably to new market opportunities 
-
-
--  For example ,  Equifax ,  with more than  billion dollars in annual revenue ,  traditionally provided credit information to lending institutions 
-
-
--  It then expanded its offerings by leveraging its existing product and process platforms to provide risk management information to life and property insurers 
-
-
--  Such successes are driven by  combination of entrepreneurial management and strong market focus 
-
-
--  They also exemplify senior managements awareness of the importance of acquiring and tailoring information to specific customers needs in rapid ,  increasingly efficient ways 
-
-
--  ,  The information repository is something to be managed aggressively for flexibility through modularity and standardization 
-
-
--  The repository consists of both information content and the structure by which that information is accessed ,  maintained ,  and enhanced 
-
-
--  Thus an information products organization ,  whether it publishes periodicals or provides on-line services ,  must first define its own repository 
-
-
--  This requires thinking more deeply ,  both within and across particular products and markets 
-
-
--  ,  The basic idea is to redesign the architecture underlying the product family or portfolio en masse ,  rather than to create new versions of individual publications ,  hard copy or otherwise ,  on  single product-by-product basis 
-
-
--  We suggest that an information products company address these questions: ,  An information products company can apply the repository structure laterally across different products to create product variety for customers ,  as shown in Figure  
-
-
--  Common information units are at the left of the figure ,  with noncommon information units at the bottom 
-
-
--  Across the top are the various product lines in the companys portfolio 
-
-
--  The inventory of content within these products is done by information unit and indexed accordingly 
-
-
--  The typical publisher currently distributes the standardized versions of each product to customers as hard copy 
-
-
--  Increasingly ,  through electronic search and distribution mechanisms ,  new customers will create their own customized publications by accessing the information unit inventory and selecting what they wish to receive 
-
-
--  Many publishers are creating new subscription and advertising revenues by turning to this electronic on-line form of customized publication that leverages content from existing magazines 
-
-
--  ,  Ziff-Davis Interactive in Cambridge ,  Massachusetts ,  the on-line division of Ziff-Davis ,  is  classic example 
-
-
--  It has taken the content of its computer-related magazines and placed them on-line with many of the leading on-line service providers  ( such as America Online and the Microsoft Network )  
-
-
--  For example ,  it has recently introduced  three-dimensional interactive world called Terminal Reality ,   mock-up of LaGuardia Airports main terminal that was developed with software from InterVista Software in San Francisco 
-
-
--  Users visiting this site on the Internet can walk around ,  browse the virtual magazines at  newstand ,  and in the future ,  we suspect ,  board airplanes to visit such places as virtual trade shows 
-
-
--  ,  As we prepared our business courses ,  we accessed an Internet site developed by  division of McGraw-Hill called PRIMIS 
-
-
--  It has gathered  wealth of publications ,  such as articles ,  cases ,  and textbook chapters ,  for  host of subject areas that professors can peruse ,  select ,  and customize into  textbook 
-
-
--  In another example ,  International Data Corporation gathers information on market growth trends and vendor participation rates in  host of computer-related market segments and packages these data into fifty different reports that are distributed as hard copy and electronically through Lotus Notes 
-
-
--  IDCs ability to mix and match the information contained in its various industry-focused repositories enables it to rapidly create new composite reports for emerging markets 
-
-
--  ,  Once  company defines the structure of its repository and makes an inventory of information units within that structure ,  it must then carefully consider the standard mechanisms by which it or its customers may integrate or combine information units 
-
-
--  For PRIMIS ,  the integration problem is simple: individual items are simply assembled into  customized text and sent to the professor for final approval 
-
-
--  However ,  in other situations ,  integration may be complex and require additional resources 
-
-
--  For example ,  IDC develops market forecasts for various market segments in the computer industry 
-
-
--   customer requesting an aggregate report containing information on multiple market segments will demand that individual forecasts be reconciled into  reasonable whole 
-
-
--  ,  Companies tend to think about how information is refined ,  integrated ,  and published in technological ways 
-
-
--  However ,  the improvement of the information refinery is essentially  redefinition of how the business works 
-
-
--  ,  We have yet to visit an information products company that is not looking at the World Wide Web and tools such as Lotus Notes and HTML home-page development kits for electronic distribution of its products 
-
-
--  Many have placed their publications on-line in part or in whole by creating Web servers 
-
-
--  ,  The greatest potential for redefining the information refinery comes from more careful application and integration of both human and technological capital to the front end of the process ,   
-
-
--  ,  the acquisition ,  refining ,  and synthesis of raw information 
-
-
--  In redefining its information refinery ,   firm might ask three key questions: ,  From the answers ,  managers can begin to think about how better to structure their organizations information refinery ,  applying both management and technology to improve work with functional stages and integration between them 
-
-
--  ,   peer-reviewed academic journal provides an example 
-
-
--  Typically ,  authors write an article on  word processor and add bibliographic references from their computer database of authors and publications 
-
-
--  The editor reads the printed material ,  likes it ,  calls potential referees ,  and mails the anonymous article to several referees for blind review 
-
-
--  The referees then draw on related articles in their own file systems ,  type their criticisms into their word processors ,  and print and mail them to the editor 
-
-
--  The editor assesses them ,  packages them with an accompanying letter ,  and mails the lot back to the authors 
-
-
--  Once the article is accepted for publication ,  the editorial staff people transfer files from the floppy disk to their own computers ,  do line editing ,  and prepare graphics 
-
-
--  By the time the final product is scheduled for publication ,  typically within  year of acceptance ,  the thrill of publication has passed 
-
-
--  ,   new refinery for the journal might use technology to help authors ,  editors ,  reviewers ,  and readers get on with their respective activities faster and more effectively 
-
-
--  The journal could create  Web site on the Internet through which authors could submit new articles and where editors and reviewers could pick up time-stamped versions and attach their criticisms and editorial revisions 
-
-
--  The journal could maintain previously published articles ,  indexed by subject matter and author ,  on the Web site ,  so that authors and reviewers could quickly access specific managerial frameworks ,  data ,  or bibliographic references to help them write ,  critique ,  and respond 
-
-
--  The editorial staff could also identify Internet links to other repositories of articles and data and build these into the journals home page for the authors and reviewers convenience 
-
-
--  Once an article was accepted by the editorial board ,  the staff could edit and prepare graphics directly on text and graphic files on the server ,  with more direct communication to authors 
-
-
--  ,  For the back end ,  the new refinery could facilitate faster access to accepted articles through customized ordering of articles 
-
-
--  The journal would still produce its printed products for subscribers ,  including complete issues and reprints 
-
-
--  At the same time ,  readers could peruse abstracts of forthcoming articles and order  complete copy of articles through the server 
-
-
--  ,   multitude of academic ,  industry ,  and mass market publications are implementing the scenario we have painted 
-
-
--  Most academics have e-mail addresses and access to the Internet ,  which now handles multimedia objects as readily as text 
-
-
--  The greatest challenge ,  of course ,  lies beyond the technology: journal managers ,  their staff ,  academics ,  and readers have to learn to communicate and work in new ways 
-
-
--  ,  If we were discussing physical products such as power tools or automobiles ,  we would identify the subsystems and interfaces of  common product platform 
-
-
--  But since we are talking about intangible information products ,   different terminology is more appropriate: information units instead of subsystems ,   repository instead of  product platform ,  and an information refinery instead of an assembled or nonassembled production process 
-
-
--  However ,  the meaning and application of the basic product and process platform concepts are indeed very similar between both classes of products ,   
-
-
--  ,  Repositories and refineries exist merely to serve the needs of the products that the firm wishes to create 
-
-
--  In turn ,  these products exist solely to serve the needs of customers 
-
-
--  Thus ,  as with any physical product ,  customer needs must drive the design of information products 
-
-
--  ,  Two categories of customer needs shape product development 
-
-
--  Market research departments are adept at identifying these known needs by studying competitors products and administering surveys 
-
-
--  However ,  learning what customers explicitly know only takes  firm farther down the path of incremental innovation 
-
-
--  ,  What is far more difficult ,  but more rewarding and exciting ,  is to uncover those needs that users have but cannot clearly express ,   
-
-
--  ,  latent ,  unperceived needs 
-
-
--  We believe that such needs lie at the heart of new platform design 
-
-
--  If the architecture can satisfy these needs ,  an enterprise can bring new excitement to an industry and generate additional levels of demand ,  even in traditional ,  mature businesses 
-
-
--  ,  For example ,  how many of us could clearly express the need for an inexpensive color ink-jet printer? But once Hewlett-Packard introduced its color Desk-Jet line ,  vast numbers of people said ,  Thats exactly what  need 
-
-
--  HP found itself riding  tidal wave of newly created demand for nonlaser printers 
-
-
--  The new platform made something possible that was not possible before: users could print in color on  reliable unit costing about $500 
-
-
-- 18 ,  The same idea holds true for intangible products 
-
-
--  The managers of an information products company must charge its best new-product thinkers to identify latent customer needs 
-
-
--  Only then can they define the design of the companys information repository and refinery so that they can deliver what people need in  pleasurable ,  convenient manner 
-
-
--  This is especially important for information products ,  such as those appearing fresh on the Internet almost daily ,  in which customers often have relatively little purchasing experience relative to most physical products 
-
-
--  It changed America ,  bringing products formerly constrained by the physical proximity of manufacturers and retailers right to the doorstep of rural America 
-
-
--  Before mail-order distribution ,  most users could not conceive of not going into  store to buy something 
-
-
--  But once mail-order catalogs became fully featured ,  they were exactly what vast numbers of consumers realized they needed 
-
-
--  Similarly ,  before on-line shopping on the Internet became available ,  if you asked consumers how they preferred to buy goods ,  most would answer in  store or through  catalog 
-
-
--  Yet ,  now that there is on-line shopping ,  on either TV or the computer ,  there are significant growth opportunities for  broad variety of firms 
-
-
--  ,  What will be the next wave of demand based on  need that consumers have but have not yet clearly expressed? Take two friends ,  for example ,  one living in Massachusetts and the other in California ,  who want to go on  camping trip in the Caribbean 
-
-
--  Each logs onto the Internet ,  and together they go to  particular World Wide Web server that has descriptions ,  pictures ,  and reservation facilities for campgrounds on the islands 
-
-
--  They browse through the portfolio together ,  discuss ideas through the computer ,  make  decision ,  and reserve  site 
-
-
--  Then they call up another Web server that contains  virtual shopping mall and walk together into  virtual store of camping supplies 
-
-
--  One of them then orders the products through the computer with an electronic funds transfer 
-
-
--  ,  Our two friends ,  if asked today ,  might consider this scenario preposterous  ( unless ,  of course ,  they work for  software company or an on-line services provider )  
-
-
--  The repositories of most travel and retail concerns do not currently have the logical and physical structure to support this type of complex ,  distributed ,  and interactive activity 
-
-
--  However ,  many firms are working hard to change this ,  using new technologies such as three-dimensional Internet browsers to create and sustain electronic communities ,  teams ,  and individual liaisons 
-
-
--  It would clearly make it possible for them to go shopping together even though they live far apart 
-
-
--  ,  Because timing will always be critically important for information products companies ,  firms that first identify emerging markets get  step ahead 
-
-
--   modular ,  flexible repository backed by an efficient refinery will help firms to quickly establish market franchises by rapidly offering new products targeted to their customers specific interests and needs 
+-  The common reasons for outsourcing IT services  cost reduction ,  business focus ,  and subcontracting legacy systems  remain sensible goals 
 
 

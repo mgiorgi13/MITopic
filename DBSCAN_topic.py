@@ -73,9 +73,4 @@ def DBSCAN_Topic(word_vect_dict, year):
     return word, value, theBest[0][0]
 
 
-# years = [{
-#     year: "1990",
-#     top50: [{word: "cazzo", freq: "10"}],
-#     added: ["cazzo", "cazzo"],
-#     lost: ["cazzo", "cazzo"]
-# }]
+

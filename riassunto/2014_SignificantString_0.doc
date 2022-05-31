@@ -1,201 +1,177 @@
--  No longer languishing at the periphery of organizations ,  these quantitative analysts today are recognized as highly skilled specialists trained to take on the most significant  ( and often the most complex )  business challenges 
+- Its an old idea: If you want to build  company that truly motivates its employees ,  it has to have  sense of purpose 
 
 
--  They are the latest examples of numbers people ,  whose direct lineage goes back to the 1940s ,  when Ford Motor Co 
+-  When such  purpose exists ,  it provides employees with  clear sense of direction ,  helps them prioritize and inspires them to go the extra mile  which ,  the argument goes ,  should ultimately be good for profit 
 
 
--  recruited  team of statistical whiz kids  ( including Robert  
+-  ,  Purpose ,  by its nature ,  transcends making money: It is about people coming together to do something they believe in and allowing profit to follow as  consequence ,  rather than as an end in itself 
 
 
--  The recent emergence of the digital enterprise has created  seemingly insatiable management appetite to amass and analyze data 
+-  ,  Is it possible for  company to strive for  higher purpose while also delivering solid profits? Some have argued that pursuing goals other than making money means ,  by definition ,  spending on things that arent profit-maximizing 
 
 
--  This demand coincides with the rapidly decreasing cost of storing those data and preparing them for analysis ,  along with the growth in computing power to support the application of increasingly sophisticated techniques for extracting meaning from complex data 
+-  Others have countered that by investing in worthwhile causes ,  the company is doing something intrinsically valuable that will generate  long-term payoff to all parties 
 
 
--  ,  Todays data scientists are often singled out as  breed apart  and for good reason 
+-  Instead ,  the question to ask is: How can the tension between purpose and profits best be managed? What structures does  company need to put in place to ensure that its higher-order purpose isnt squeezed out by short-term profit seeking? How can executives ensure that employees keep these dual goals in mind on  day-to-day basis? And how can this balance be achieved on  long-term basis? ,  This article is based on research that we have conducted over the last five years looking at the organizational challenges involved in managing two different objectives at the same time 
 
 
--  Moreover ,  they must learn to acquire and manipulate both numeric and nonnumeric data to solve  changing menu of business problems 
+-  )  We have discovered that there are  few fundamental organizing principles that help  company sustain its sense of purpose over time while still achieving  solid level of profitability 
 
 
--  ,  To better understand what distinguishes data scientists from other quantitative analysts  ( and what it takes to get the best out of data scientists )  ,  we recently surveyed more than 300 analytics professionals working in different types of companies  ( ranging from startups to large multinationals )  in  variety of industries in the United States to learn how they viewed their work and their place in the organization 
+-  Goal-framing theory provides  deep understanding of why pursuing what we call pro-social goals  which we define as goals that involve working toward common causes that go beyond just making money and staying in business  creates  stronger motivational basis for working in organizations than pursuing self-interest goals that emphasize financial gain or personal enjoyment 
 
 
--  ( See Data Scientists and Analysts: Whats the Difference? )  We found substantial differences between the two 
+-  ,  Understanding how  companys goals influence its performance requires understanding what motivates employees behavior on  day-to-day basis 
 
 
--  For example ,  data scientists were far more likely to view their work as critical to better business outcomes 
+-  That individuals are motivated to do their own work well is important ,  but  company with  higher-order purpose is typically asking them to also take  broader view and influence their joint effort toward common goals 
 
 
--  Almost all data scientists surveyed  94%  said analytical abilities are  key element of their companies business models and strategies ,  compared with only 65% of those who identified themselves as analysts 
+-  Collaborative effort of this type involves  lot more than just doing  task well; it also takes understanding of and commitment to the common goal ,  and it takes the flexibility to use ones wits ,  especially when new situations arise 
 
 
--  Similarly ,  96% of data scientists said their analyses are used to make key decisions ,  versus 77% of quantitative analysts 
+-  For this kind of work ,  employees must be motivated in  special way 
 
 
--  ,  Data scientists were much more apt than analysts to say their projects often or always address new problems  ( 85% to 58% )  and to say that they find surprising and valuable business insights outside of formal projects  ( 89% to 54% )  
+-  ,  There are numerous ,  partly overlapping views on what drives motivation in companies 
 
 
--  These perceptions suggest that many managers understand how committed and creative data scientists can be in solving complex problems 
+-  However ,  most have little to say about the links between company goals and individual motivations ,  that is ,  what motivates employees to behave in ways that help  or dont help  the company or group to which they belong 
 
 
--  ,  Thats good news 
+-  When employees are concerned about feeling good ,  they will look out for the fun parts of their job ,  for the one activity in their job that really excites them ,  and they will neglect things that feel boring or  bit uncertain 
 
 
--  But ,  after supplementing our survey with interviews of business leaders ,  IT executives ,  chief analytics officers ,  industry observers and data scientists ,  we had  worrying sense of dj vu 
+-  And when the major concern is to realize  common goal ,  such as getting  product launched on  tight timeline or delivering on  fundraising campaign ,  employees will attend mainly to that goal and will downplay concerns for relaxation ,  making more money or getting  better position 
 
 
--  Todays data scientists ,  like previous generations of analysts ,  are proud of their abilities 
+-  The essence of  pro-social goal is that it motivates the employee to ask ,  What should  do to make us succeed? rather than What should  do to get ahead? or What will be the most enjoyable thing to do? ,  What factors influence the relative strength of these three types of goals? Obviously ,  innate differences between individuals plays  part ,  but  much stronger influence is typically the immediate stimuli employees receive from those around them in their working environment and from their superiors 
 
 
--  But according to many executives ,  the new crop of data scientists may be falling into the old traps 
+-  But many companies want their employees to help the organization realize common goals ,  rather than to prioritize personal gain or fun on the job 
 
 
--   common complaint is that data scientists are aloof and seem uninterested in the professional lives and business problems of less-technical coworkers; they dont see  need to explain or talk about the implications of their insights ,  which makes it difficult for them to partner effectively with professionals whose business expertise lies outside of the technical realm 
+-  ,  Unfortunately ,  and this is  key point ,  the motivation to pursue pro-social goals is inherently fragile 
 
 
--  ,  In focus groups with executives ,  we learned that many organizations suffer from  lack of trust in the technologies ,  the data and ultimately the data scientists themselves 
+-  Working toward company goals without being rewarded and without feeling good is not  stable long-term proposition 
 
 
--  Neither data scientists nor managers are very good at speaking the others language ,  and executives compound the problem by the way they manage data scientists 
+-  So there is  delicate balance needed here ,  and goal-framing theory provides some valuable insights into how it might be maintained 
 
 
--  They should pay attention to the lessons learned from managing other types of quantitative analysts 
+-  ,  Second ,  the fragility of pro-social goals means that they need reinforcing and supporting on  consistent and regular basis through incentive and reward systems ,  through informal conversations and discussions ,  through symbolic management and through formal structures that we call counterweights 
 
 
--  ,  In our own work with companies that employ data scientists ,  weve noticed that the organizations that create the most value from data science are those that seek game-changing insights into the open-ended questions that matter most to the business 
+-  And managers should seek to acknowledge and highlight behaviors that support the pro-social goals of the company by ,  for example ,  building them into annual reviews and publicly celebrating and rewarding employees who successfully strive to meet the companys pro-social goals 
 
 
--  For  retailer ,  it might be ,  how can we identify previously undiscovered products for cross-selling opportunities? For  mobile phone company ,  it might be ,  where can we find new revenue streams to offset the decline in revenues from calls and texts? For  hospital ,  it might be ,  how can we translate the written notes on patients charts to improve patient care and outcomes? ,  To avoid repeating some of the mistakes that have undermined the success of previous generations of analytical talent ,  executives should consider the following seven recommendations: ,  In the past ,  efforts to get business value from data were often isolated and lacked executive support 
+-  Our research found many companies with  clear sense of purpose ,  typically expressed as  set of pro-social goals such as putting employees first or investing in local communities 
 
 
--   mandate from the companys senior leadership is essential to elevate analytics into  transformational possibility 
+-  )  In talking to employees at multiple levels and in looking at the way they behaved and the things they valued ,  we could see evidence that these companies pro-social goals were influencing employee motivation and behavior 
 
 
--  Some companies have demonstrated their commitment by appointing  chief data and analytics officer  ( CDAO )  who is responsible for ensuring that the organization has the data ,  capabilities and mind-set needed to be successful 
+-  Unlike  number of its competitors ,  Handelsbanken steered  course through the Swedish financial crisis in the early 1990s without government help ,  and it has sailed through the last five years of turbulence with uninterrupted growth in equity per share and with top ratings for customer satisfaction 
 
 
--  The CDAO will also give data scientists direction and keep them focused on important business objectives while clearing bureaucratic obstacles and establishing partnerships with business customers 
+-  ,  How has Handelsbanken been so consistently successful? Its pro-social goal is not very original: It is simply to be customer-focused 
 
 
--  ,  However ,  since the CDAO does not own business processes ,  he or she must work closely with other members of the management team to embed data analytics into decision making and ensure that insights from data scientists are put into practice and produce measurable outcomes 
+-  As the company declares on its website: Since the early 1970s ,  Handelsbankens organization has been strongly decentralized and operations are always based on the customers requirements 
 
 
--  ,  Data scientists are most effective when they are supporting  strategy they believe in 
+-  This means that all business decisions regarding individual customers relationships with the Bank are taken close to the customer 
 
 
--  You need to frame the outcomes that would be valuable for the business 
+- 13 ,  But rather than just talk about customer focus ,  Handelsbanken has built  management model that supports its goals 
 
 
--  At Intuit ,   software company headquartered in Mountain View ,  California ,  data scientists are facing more open-ended questions from executives ,  with higher expectations about the creation of business value but often with less-specific assignments ,  according to George Roumeliotis ,  the companys senior data scientist 
+-  Managers of individual branches have much more discretion regarding loans and employee salaries than is customary in the industry 
 
 
--  Once they understand how they can make  difference to the business ,  dont micromanage 
+-  The company was also  pioneer of the beyond-budgeting movement: It has moved away from setting budgets on  top-down basis ,  and instead it expects branch managers to set their own targets 
 
 
--  ,  To build  trusted working relationship with decision makers ,  data scientists must learn to communicate with businesspeople about what matters to them 
+- 14 ,  There is no emphasis on maximizing returns or shareholder returns; the goals are simply to track  moving target by always having higher customer satisfaction and profitability than  weighted average of the competition 
 
 
--  ,  put it this way: Data scientists are brilliant ,  but they sometimes struggle to cast their findings in terms relevant to the business: revenue ,  profit ,  cost savings ,  delighted customers or customers retained 
+-  Family-founded trusts hold 66% of the equity capital of Tata Sons ,   holding company 
 
 
--  Given that data scientists seldom own the outcome but merely influence it ,  it is critical that these analysts learn how to speak the language of business-people  and vice versa 
+-  ,  The charitable trusts that own 66% of Tata Sons spend their profits on charitable causes such as clean water delivery ,  literacy and health care 
 
 
--  Investments in training to develop your data scientists business acumen and communications skills can pay huge dividends 
+-  The Tata operating companies are then expected to put significant investments into the local communities they serve 
 
 
--  Managers ,  too ,  must take steps to become more numerate and data literate 
+-  Nayar ,  who became CEO in 2007 ,  decided to differentiate HCL through the quality of its management  by putting his employees first and by enabling them to create value in their relationships with customers 
 
 
--  Companies have to train decision makers in these skills as well as hire new managers who already have them 
+-  He embarked on  major transformation program ,  first pushing everyone to accept that the company was underperforming and needed to change and then putting in place  series of specific initiatives that were designed to help employees service their clients better 
 
 
--  ,  Data scientists engage in highly complex and knowledge-intensive work 
+-  For example ,  he pushed all managers to place the results of their 360-degree appraisals online to make them more accountable to their employees; he also created  service ticket scheme ,  so that if an employee wasnt happy about something he could open  ticket to get the attention of the relevant manager 
 
 
--  For many reasons  including knowledge sharing ,  intellectual stimulation and resource sharing  it makes sense for data scientists to be grouped together organizationally but physically to be close to decision makers 
+-  ,  As these initiatives began to take hold ,  Nayar captured his philosophy with the slogan employees first ,  customers second ,  which he announced  with some trepidation  at the annual global customer meeting 
 
 
--  ,  Many large organizations create  core hub that is responsible for ensuring that data scientists have ample opportunities to learn ,  share and grow 
+-  )  ,  So what are the insights from these three brief case studies? The basic premise is that what motivates employees consistently to realize company goals also makes economic sense 
 
 
--  At Monster Worldwide ,  the parent company of the Monster 
+-  For Handelsbanken ,  it is all about the customer; for Tata ,  it is about the communities in which the company operates; and for HCL ,  the pro-social goal is employee well-being 
 
 
-- com global employment website ,  this approach also gives data scientists  consistent context and way of working 
+-  ,  Pro-social goals need supporting systems if they are to stick 
 
 
--  We make sure our people around the world have common goals ,  methods and processes and  common view of our market and customer base ,  said Jean-Paul Isson ,  global vice president for predictive analytics and business intelligence ,  who heads up the companys data science group 
+-  ,  Support systems are needed to reinforce goals 
 
 
--  ,  In addition to building trust between the two groups ,  locating data scientists with the teams they support makes it easier for them to get faster and more personal feedback on project plans and prototype solutions 
+-  For companies that see customer focus as their goal ,  the Net Promoter Score has become  popular measure; for those that seek to put their employees first ,  engagement scores are often used; and for those that focus on safety ,  lost-time injuries are typically  preferred metric 
 
 
--  It also allows organizations to include them in meetings without the disconnects that come with remote participation 
+-  ,  Pro-social goals need  counterweight to endure 
 
 
--  Given that 75% of the data scientists we surveyed were reporting to either IT or operations ,  it seems that close interaction with business groups is not happening often enough 
+-  For Tata Group ,  it is the family-endowed trusts 
 
 
--  ,  There is no substitute for direct exposure to business processes and customers 
+-  At the Guardian newspaper ,  the counterweight is the editor ,  who is appointed by the ultimate owner of the newspaper  ( the Scott Trust Limited )  and is free to exercise editorial control over content ,  regardless of the companys commercial priorities 
 
 
--  Dont keep your data scientists penned up in the office; get them out into the world where they can see problems firsthand 
+-  But goal-framing theory suggests that the most successful companies are balancing multiple objectives  ( pro-social goals ,  gain goals ,  hedonic goals )  that are not entirely compatible with one another ,  which makes  simple linear approach very hard to sustain 
 
 
--  For example ,  New York Citys analytics department had data that showed that rodent problems ,  the number of ambulance visits and delinquency in paying property taxes were all associated with higher incidences of fire in buildings 
+-  ,  So an important mental leap to make is the notion that long-term profits are often best achieved obliquely ,  or indirectly 
 
 
--  This ,  in turn ,  led to an interesting discovery: Owners who had applied for permits to do exterior brickwork on their properties were significantly less likely to have fires 
+- 20 As Ratan Tata ,  former CEO of the Tata Group ,  has observed ,  Profits are like happiness in that they are  byproduct of other things  [companies] need sustainability strategies that recognize that you can make money by doing good things rather than the other way around 
 
 
--  According to Mike Flowers ,  New York Citys former chief analytics officer ,  the permits were  tell of an owner who cared 
+- 21 In their best-selling business book Built to Last ,  Jim Collins and Jerry Porras argue that visionary companies with pro-social goals had better long-term profitability than their benchmark competitors ,  which typically opted for narrower financial goals 
 
 
--  ,  Data scientists have important capabilities and may have reasons to feel special 
+- 22 ,  What does this mean in practical terms? If you want your employees to align around  pro-social goal ,  you have to eschew narrow ,  linear thinking ,  and instead provide more scope for them to choose their own oblique pathway 
 
 
--  Instead ,  leaders should focus on building teams of people with different skills who can work together to solve difficult problems and exploit opportunities 
+-  The logic of pro-sociality first ,  profitability second needs to find its way deeply into the collective psyche of the company 
 
 
--  ,  Scott Page ,   professor at the University of Michigan who has studied diversity and problem solving extensively ,  has shown that when dealing with complex problems ,  diversity trumps individual ability 
+-  But what if you are lower in the corporate hierarchy? It is tempting to think this is someone elses problem ,  but actually there is no reason why you cannot follow your own version of the same process 
 
 
--  The idea also applies to analytics: Combining business analysts ,  data scientists ,  visualization experts and modelers from different disciplines and functional areas enables teams to tackle problems that would be too difficult for individuals to solve alone 
+-  Bushs exasperated reaction to friendly suggestions that he invest time in carefully thinking about his prospective presidency: Oh ,  the vision thing 
 
 
--  ,  Data scientists arent indifferent to money  they expect to receive competitive wages 
+- 23 Many CEOs react in much the same way: They know they are supposed to have  corporate vision or purpose ,  but they secretly think that wordy statements about the purpose of their business are just empty rhetoric 
 
 
--  But often they are most motivated by intellectual challenge and recognition 
+-  ,  The purpose of this article is to help you to understand why and how  corporate purpose matters and to show how it can be realized without sacrificing profitability  and indeed may result in higher profitability 
 
 
--  In particular ,  our research suggests that data scientists are highly motivated by peer group recognition 
-
-
--  The Institute for Operations Research and the Management Sciences  ( INFORMS )  sponsors the Franz Edelman Award to recognize and reward outstanding examples of operations research ,  management science and advanced analytics in practice ,  while the Association for Computing Machinery sponsors the annual KDD Cup competition in the field of knowledge discovery and data mining 
-
-
--  Data scientists share their enthusiasm and ideas with colleagues at conferences such as the OReilly Strata Conference and through Kaggle 
-
-
-- com data science competitions sponsored by organizations including Netflix ,  GE and Thomson Reuters 
-
-
--  ,  Managers at one company told us that they are creating two separate career tracks for data scientists  one for people who want to go into management and  second ,  with the title senior data scientist ,  for those who want to operate in  more purely analytical realm 
-
-
--  This approach will help ensure that data scientists dont get sidetracked solving problems that no one cares about 
-
-
--  To achieve significant value ,  executives will have to deliberately and thoughtfully create conditions for data scientists success 
-
-
--  Executives can begin by recognizing that data scientists arent miracle workers 
-
-
--  They are ,  however ,  highly skilled professionals who ,  working collaboratively with others in the organization ,  will play  vital part in realizing big value from big data 
+-  However ,  these goals compete with other goals for individual mind share and are easily driven out by gain and hedonic goals 
 
 

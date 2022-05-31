@@ -63,7 +63,10 @@ def choice_b(tot_vectors,year):
     pca.pca_clustering_3D(transformer.transform(value_vactor), list(tot_vectors.keys()), f"/html/FinalCluster__radiusOfDensisty_{radius}__year_{year}__nWords_{len(value_vactor)}")
 
     sortedDist = ct.centroid_Topic(transformer.transform(value_vactor), word_vector)
-    # print(sortedDist)
+
+    word_vector = []
+    for i in range(0, len(sortedDist)):
+        word_vector.append(sortedDist[i][0])
     return word_vector
 
 
@@ -251,7 +254,10 @@ if __name__ == "__main__":
                     if word in topWords:
                         sum += value
                         counter += 1
-                file_score.append([filtered_docs_list[i], counter*100/50, sum / counter])
+                if counter != 0:
+                    file_score.append([filtered_docs_list[i], counter*100/50, sum / counter])
+                else:
+                    file_score.append([filtered_docs_list[i], 0, 0])
             file_score.sort(key=lambda x: x[1], reverse=True)
             with open(f'output/{year}_scores.csv', 'w', encoding='UTF8', newline='') as f:
                 mywriter = csv.writer(f)
