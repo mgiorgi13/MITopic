@@ -64,7 +64,20 @@ def choice_b(tot_vectors,year):
 
     sortedDist = ct.centroid_Topic(transformer.transform(value_vactor), word_vector)
     # print(sortedDist)
-    return word_vector
+    word_vector = []
+    for i in range(0, len(sortedDist)):
+        word_vector.append(sortedDist[i][0])
+    sim = []
+    unsim = []
+    zer = []
+    for i in range(0, len(sortedDist)):
+        if sortedDist[i][1] > 0:
+            sim.append(sortedDist[i][0])
+        if sortedDist[i][1] < 0:
+            unsim.append(sortedDist[i][0])
+        if sortedDist[i][1] == 0:
+            zer.append(sortedDist[i][0])
+    return unsim
 
 
 def choice_d(tot_vectors, file_text):
@@ -222,7 +235,7 @@ if __name__ == "__main__":
             with open(f'output/{year}_WordFrequency.csv', 'w', encoding='UTF8') as f:
                 mywriter = csv.writer(f, delimiter='\n')
                 mywriter.writerows([frequency])
-            # tp.tag_cloud(concat_results)
+            tp.tag_cloud(concat_results)
         if choose == "d":
             clear_results = [list(dict.fromkeys(concat_results))]  # remove duplicates
             tot_vectors = {}

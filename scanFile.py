@@ -3,10 +3,9 @@ import csv
 if __name__ == "__main__":
     # year = input("Insert year to be analyze: \n")
 
-    for year in range(1990, 2022):
+    for year in range(1990, 2023):
         fileToScan = []
         TopWords = []
-
 
         # read first 3 line from csv file
         with open(f'output/{year}_scores.csv') as csv_file:
