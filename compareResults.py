@@ -107,12 +107,12 @@ def compareTop50Words(year):
 
 
 def findFreq(year, word):
-    with open(f'output/{year}_Top50WordsFrequency.csv') as csv_file:
+    with open(f'output/{year}_Top50WordsFrequency.csv', encoding="utf8") as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         for row in csv_reader:
             if len(row) != 0:
                 if row[0] == word:
-                    return row[1]
+                    return int(row[1])
 
 
 if __name__ == "__main__":
@@ -128,14 +128,35 @@ if __name__ == "__main__":
         jsonLost = []
         jsonEqual = []
         for elem in currentTop50:
-            jsonCurrent.append({"word": elem, "frequency": findFreq(year, elem)})
+
+            if findFreq(year, elem) is not None:
+                jsonCurrent.append({"word": elem, "frequency": findFreq(year, elem)})
+            else:
+                jsonCurrent.append({"word": elem, "frequency": 0})
+
         for elem in gain:
-            jsonGain.append({"word": elem, "frequency": findFreq(year, elem)})
+            if findFreq(year, elem) is not None:
+                jsonGain.append({"word": elem, "frequency": findFreq(year, elem)})
+            else:
+                jsonGain.append({"word": elem, "frequency": 0})
+            # jsonGain.append({"word": elem, "frequency": findFreq(year, elem)})
         for elem in lost:
-            jsonLost.append({"word": elem, "frequency": findFreq(year - 1, elem)})
+            if findFreq(year - 1, elem) is not None:
+                jsonLost.append({"word": elem, "frequency": findFreq(year - 1, elem)})
+            else:
+                jsonLost.append({"word": elem, "frequency": 0})
+            # jsonLost.append({"word": elem, "frequency": findFreq(year - 1, elem)})
         for elem in equal:
-            jsonEqual.append({"word": elem, "frequency": findFreq(year, elem)})
-        elem = {"year": year, "currentTop50": jsonCurrent, "gain": jsonGain, "lost": jsonLost, "equal": jsonEqual}
+            if findFreq(year, elem) is not None:
+                jsonEqual.append({"word": elem, "frequency": findFreq(year, elem)})
+            else:
+                jsonEqual.append({"word": elem, "frequency": 0})
+            # jsonEqual.append({"word": elem, "frequency": findFreq(year, elem)})
+
+        elem = {"year": year, "currentTop50": sorted(jsonCurrent, key=lambda k: k['frequency'], reverse=True),
+                "gain": sorted(jsonGain, key=lambda k: k['frequency'], reverse=True),
+                "lost": sorted(jsonLost, key=lambda k: k['frequency'], reverse=True),
+                "equal": sorted(jsonEqual, key=lambda k: k['frequency'], reverse=True)}
         list.append(elem)
 
     data["years"] = list  # append list to json data structure
