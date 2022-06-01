@@ -126,30 +126,7 @@ if __name__ == "__main__":
     else:
         arg_from_command_line = False
 
-    while 1:
 
-        if (arg_from_command_line == False):
-            choose = input('Insert:\n'
-                           'a) if you want the frequency of each nouns of each files\n'
-                           'b) If you want the centroid of the densest area of the cluster\n'
-                           'c) If you want to see the most frequent words of the cluster\n'
-                           'd) If you want to see the most frequent words of the densest part of the cluster\n'
-                           'e) If you want use top2vec to detect macro topics on all documents\n')
-        else:
-            choose = str(sys.argv[1])
-
-        if choose == "a":
-            break
-        elif choose == "b":
-            break
-        elif choose == "c":
-            break
-        elif choose == "d":
-            break
-        elif choose == "e":
-            break
-        elif choose == "bc":
-            break
     if (arg_from_command_line == False):
         year = input("Insert year to be analyze: \n(insert skip if you want to scan all the documents)\n")
     else:
