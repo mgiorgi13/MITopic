@@ -101,11 +101,11 @@ def densityArea(docs,title,year):
         zer = []
         for j in range(0, len(sortedDist)):
             if sortedDist[j][1] > 0:
-                sim.append(sortedDist[i][0])
+                sim.append(sortedDist[j][0])
             if sortedDist[j][1] < 0:
-                unsim.append(sortedDist[i][0])
+                unsim.append(sortedDist[j][0])
             if sortedDist[j][1] == 0:
-                zer.append(sortedDist[i][0])
+                zer.append(sortedDist[j][0])
         topWords = sim[:100]
         path = f"output/{year}/{title[i][:-4]}"
         if os.path.exists(path) == 0:
@@ -113,7 +113,7 @@ def densityArea(docs,title,year):
         with open(f'{path}/{year}_TopWords.csv', 'w', encoding='UTF8') as f:
             mywriter = csv.writer(f, delimiter='\n')
             mywriter.writerows([topWords])
-        return
+
 if __name__ == "__main__":
 
     # print(sys.argv[0])  # prints python_script.py
