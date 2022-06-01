@@ -21,6 +21,8 @@ from csv import writer
 import pandas as pd
 import operator
 import sys
+import lda as lda
+import lsa as lsa
 
 # GLOBAL VARIABLES
 choose = ""
@@ -106,6 +108,15 @@ def choice_e(list_files):
     topic_words, word_scores, topic_nums = t2v.top_2_vec(list_files)
     return topic_words, word_scores, topic_nums
 
+def choice_f(data,n_topic,n_words):
+    lda_model, dictionary, corpus = lda.lda(data,n_topic)
+    lda.print_coherence(lda_model, dictionary, corpus, data)
+    lda.print_topics(lda_model,n_words)
+    return
+
+def choice_g(data,n_topic,n_words):
+    model = lsa.create_gensim_lsa_model(data,n_topic,n_words)
+    return
 
 def printToFile(topicResults):
     with open('output/results.csv', 'w', encoding='UTF8') as csvfile:
@@ -138,7 +149,9 @@ if __name__ == "__main__":
                            'b) If you want the centroid of the densest area of the cluster\n'
                            'c) If you want to see the most frequent words of the cluster\n'
                            'd) If you want to see the most frequent words of the densest part of the cluster\n'
-                           'e) If you want use top2vec to detect macro topics on all documents\n')
+                           'e) If you want use top2vec to detect macro topics on all documents\n'
+                           'f) lda\n'
+                           'g) lsa\n')
         else:
             choose = str(sys.argv[1])
 
@@ -153,6 +166,10 @@ if __name__ == "__main__":
         elif choose == "e":
             break
         elif choose == "bc":
+            break
+        elif choose == "f":
+            break
+        elif choose == "g":
             break
 
     # Working Folder
@@ -273,6 +290,10 @@ if __name__ == "__main__":
             with open(f'output/{year}_scores.csv', 'w', encoding='UTF8', newline='') as f:
                 mywriter = csv.writer(f)
                 mywriter.writerows(file_score)
+        if choose == "f":
+            choice_f(results[0],round(len(filtered_docs_list)/2),10)
+        if choose == "g":
+            choice_g(results[0],round(len(filtered_docs_list)),10)
     else:
         # execute top_2_vec on documents grouped by five years
         year_list = []
