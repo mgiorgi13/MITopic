@@ -50,8 +50,12 @@ def parallelized_function(file):
 
 
 def choice_b(tot_vectors,year):
-    pca.pca_clustering_3D(list(tot_vectors.values()),list(tot_vectors.keys()), f"/html/InitialCluster__year_{year}__nWords_{len(tot_vectors)}")
-    word_vector, value_vactor, radius = db.DBSCAN_Topic(tot_vectors,year)
+    print("sono dentro a choice_b")
+    path = f"html/{year}/cluster"
+    if os.path.exists(path) == False:
+        os.makedirs(path)
+    pca.pca_clustering_3D(list(tot_vectors.values()),list(tot_vectors.keys()), f"/{path}/InitialCluster__year_{year}__nWords_{len(tot_vectors)}")
+    word_vector, value_vactor, radius = db.DBSCAN_Topic2(tot_vectors,year,5,0,"cluster")
     # value_vactor =  list(tot_vectors.values())
     # word_vector = list(tot_vectors.keys())
     tot_vectors = {}
@@ -60,7 +64,7 @@ def choice_b(tot_vectors,year):
 
     # rimuovo gli outlier e creo il file
     transformer = RobustScaler(quantile_range=(25.0, 75.0)).fit(value_vactor)
-    pca.pca_clustering_3D(transformer.transform(value_vactor), list(tot_vectors.keys()), f"/html/FinalCluster__radiusOfDensisty_{radius}__year_{year}__nWords_{len(value_vactor)}")
+    pca.pca_clustering_3D(transformer.transform(value_vactor), list(tot_vectors.keys()), f"/{path}/FinalCluster__radiusOfDensisty_{radius}__year_{year}__nWords_{len(value_vactor)}")
 
     sortedDist = ct.centroid_Topic(transformer.transform(value_vactor), word_vector)
     # print(sortedDist)

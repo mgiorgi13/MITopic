@@ -108,7 +108,7 @@ def densityArea(docs,title,year):
                 zer.append(sortedDist[j][0])
         topWords = sim[:100]
         path = f"output/{year}/{title[i][:-4]}"
-        if os.path.exists(path) == 0:
+        if os.path.exists(path) == False:
             os.makedirs(path)
         with open(f'{path}/{year}_TopWords.csv', 'w', encoding='UTF8') as f:
             mywriter = csv.writer(f, delimiter='\n')
