@@ -1,0 +1,57 @@
+selected year: 1992 
+len: 1102 
+cluster words:
+night,production,beam,state,manager,satisfaction,home,hour,time,month,development,run,construction,expertise,company,continent,competency,realization,technology,product,organization,manufacturing,statement,place,look,lesson,invention,fact,factory,innovation,research,laboratory,conflict,market,success,need,decade,service,benefit,input,process,quality,participation,knowledge,creation,contribution,amount,skill,equipment,people, 
+ 
+len: 13 
+cluster words:
+bar,diner,food,breakfast,reservation,fat,hotel,weight,resort,restaurant,diet,accommodation,lunch, 
+ 
+len: 10 
+cluster words:
+automobile,drive,road,driver,passenger,car,driving,vehicle,route,highway, 
+ 
+len: 9 
+cluster words:
+onion,mcdonalds,burger,hamburger,taco,rice,beef,potato,stew, 
+ 
+len: 8 
+cluster words:
+pilot,airline,aircraft,plane,flight,airfare,aviation,fly, 
+ 
+len: 8 
+cluster words:
+gas,oil,electricity,fuel,petroleum,gasoline,refinery,crude, 
+ 
+len: 7 
+cluster words:
+vice,president,director,executive,chairman,chief,officer, 
+ 
+len: 5 
+cluster words:
+steel,metal,copper,alloy,aluminum, 
+ 
+len: 5 
+cluster words:
+tour,trip,travel,vacation,ride, 
+ 
+len: 5 
+cluster words:
+history,medieval,renaissance,century,eighteenth-century, 
+ 
+len: 5 
+cluster words:
+winner,champion,award,contender,prize, 
+ 
+len: 4 
+cluster words:
+language,vocabulary,translation,translate, 
+ 
+len: 4 
+cluster words:
+battle,weapon,enemy,battlefield, 
+ 
+len: 3 
+cluster words:
+hospital,patient,emergency, 
+ 

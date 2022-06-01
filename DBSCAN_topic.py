@@ -11,8 +11,8 @@ def DBSCAN_Topic(word_vect_dict, year):
         X.append(list(word_vect_dict.values())[index])
     bestCluster = {}
     best_eps = {}
-    for i in range(2, 10):
-        clustering = DBSCAN(eps=i, min_samples=2).fit(X)
+    for i in range(1, 11):
+        clustering = DBSCAN(metric='cosine', eps=i / 10, min_samples=5).fit(X)
 
         key = []
         value = []
@@ -49,8 +49,38 @@ def DBSCAN_Topic(word_vect_dict, year):
         pca.pca_clustering_3D(value, key, f"/html/year_{year}__radius_{i}")
 
     theBest = sorted(best_eps.items(), key=operator.itemgetter(1), reverse=True)
-    clustering = DBSCAN(eps=theBest[0][0], min_samples=2).fit(
+    clustering = DBSCAN(metric='cosine', eps=theBest[0][0] / 10, min_samples=5).fit(
         X)  # clustering sul raggio che ha il maggior numero di cluster
+
+    dctWord = {}
+    dctValue = {}
+
+    for index in range(0, len(word_vect_dict)):
+        if (clustering.labels_[index] != -1):
+            dctWord[clustering.labels_[index]] = []
+            dctValue[clustering.labels_[index]] = []
+
+    for index in range(0, len(word_vect_dict)):
+        if (clustering.labels_[index] != -1):
+            dctWord[clustering.labels_[index]].append(list(word_vect_dict.keys())[index])
+            dctValue[clustering.labels_[index]].append(list(word_vect_dict.values())[index])
+
+    # for k in sorted(dctWord, key=lambda k: len(dctWord[k]), reverse=True):
+    #     print(k, len(dctWord[k]))
+    #     print(dctWord[k][:50])
+
+    with open(f"output/{year}.txt", "w") as f:
+        f.write("selected year: " + year)
+        f.write(" \n")
+        for k in sorted(dctWord, key=lambda k: len(dctWord[k]), reverse=True):
+            f.write("len: " + str(len(dctWord[k])))
+            f.write(" \n")
+            f.write("cluster words:\n")
+            for word in dctWord[k][:50]:
+                f.write(word + ", ")
+
+            f.write(" \n")
+            f.write(" \n")
 
     # for index in range(0, len(word_vect_dict)):
     #     if (c == clustering.labels_[index]):
@@ -71,6 +101,3 @@ def DBSCAN_Topic(word_vect_dict, year):
             word.append(list(word_vect_dict.keys())[index])
 
     return word, value, theBest[0][0]
-
-
-
