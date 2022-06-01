@@ -50,8 +50,12 @@ def parallelized_function(file):
 
 
 def choice_b(tot_vectors,year):
-    pca.pca_clustering_3D(list(tot_vectors.values()),list(tot_vectors.keys()), f"/html/InitialCluster__year_{year}__nWords_{len(tot_vectors)}")
-    word_vector, value_vactor, radius = db.DBSCAN_Topic(tot_vectors,year)
+    print("sono dentro a choice_b")
+    path = f"html/{year}/cluster"
+    if os.path.exists(path) == False:
+        os.makedirs(path)
+    pca.pca_clustering_3D(list(tot_vectors.values()),list(tot_vectors.keys()), f"/{path}/InitialCluster__year_{year}__nWords_{len(tot_vectors)}")
+    word_vector, value_vactor, radius = db.DBSCAN_Topic2(tot_vectors,year,5,0,"cluster")
     # value_vactor =  list(tot_vectors.values())
     # word_vector = list(tot_vectors.keys())
     tot_vectors = {}
@@ -60,11 +64,24 @@ def choice_b(tot_vectors,year):
 
     # rimuovo gli outlier e creo il file
     transformer = RobustScaler(quantile_range=(25.0, 75.0)).fit(value_vactor)
-    pca.pca_clustering_3D(transformer.transform(value_vactor), list(tot_vectors.keys()), f"/html/FinalCluster__radiusOfDensisty_{radius}__year_{year}__nWords_{len(value_vactor)}")
+    pca.pca_clustering_3D(transformer.transform(value_vactor), list(tot_vectors.keys()), f"/{path}/FinalCluster__radiusOfDensisty_{radius}__year_{year}__nWords_{len(value_vactor)}")
 
     sortedDist = ct.centroid_Topic(transformer.transform(value_vactor), word_vector)
     # print(sortedDist)
-    return word_vector
+    word_vector = []
+    for i in range(0, len(sortedDist)):
+        word_vector.append(sortedDist[i][0])
+    sim = []
+    unsim = []
+    zer = []
+    for i in range(0, len(sortedDist)):
+        if sortedDist[i][1] > 0:
+            sim.append(sortedDist[i][0])
+        if sortedDist[i][1] < 0:
+            unsim.append(sortedDist[i][0])
+        if sortedDist[i][1] == 0:
+            zer.append(sortedDist[i][0])
+    return unsim
 
 
 def choice_d(tot_vectors, file_text):
@@ -222,7 +239,7 @@ if __name__ == "__main__":
             with open(f'output/{year}_WordFrequency.csv', 'w', encoding='UTF8') as f:
                 mywriter = csv.writer(f, delimiter='\n')
                 mywriter.writerows([frequency])
-            # tp.tag_cloud(concat_results)
+            tp.tag_cloud(concat_results)
         if choose == "d":
             clear_results = [list(dict.fromkeys(concat_results))]  # remove duplicates
             tot_vectors = {}
