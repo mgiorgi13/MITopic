@@ -303,7 +303,7 @@ if __name__ == "__main__":
         if choose == "f":
             choice_f(results[0], round(len(filtered_docs_list) / 2), 10)
         if choose == "g":
-            choice_g(results[0], round(len(filtered_docs_list) / 2), 10, year)
+            choice_g(results[0],len(filtered_docs_list),10,year)
     else:
         # execute top_2_vec on documents grouped by five years
         year_list = []
