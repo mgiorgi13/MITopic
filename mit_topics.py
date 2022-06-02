@@ -51,25 +51,43 @@ def parallelized_function(file):
         return file_text
 
 
-def choice_b(tot_vectors,year):
-    pca.pca_clustering_3D(list(tot_vectors.values()),list(tot_vectors.keys()), f"/html/InitialCluster__year_{year}__nWords_{len(tot_vectors)}")
-    word_vector, value_vactor, radius = db.DBSCAN_Topic(tot_vectors,year)
+def choice_b(tot_vectors, year):
+    pca.pca_clustering_3D(list(tot_vectors.values()), list(tot_vectors.keys()),
+                          f"/html/InitialCluster__year_{year}__nWords_{len(tot_vectors)}")
+    word_vector, value_vactor, radius = db.DBSCAN_Topic(tot_vectors, year)
     # value_vactor =  list(tot_vectors.values())
     # word_vector = list(tot_vectors.keys())
     tot_vectors = {}
     for i in range(0, len(word_vector)):
         tot_vectors[word_vector[i]] = value_vactor[i]
 
+
+
     # rimuovo gli outlier e creo il file
-    transformer = RobustScaler(quantile_range=(25.0, 75.0)).fit(value_vactor)
-    pca.pca_clustering_3D(transformer.transform(value_vactor), list(tot_vectors.keys()), f"/html/FinalCluster__radiusOfDensisty_{radius}__year_{year}__nWords_{len(value_vactor)}")
+    # transformer = RobustScaler(quantile_range=(25.0, 75.0)).fit(value_vactor)
+    transformer = RobustScaler(quantile_range=(0, 75.0))
+    transformer.fit(list(tot_vectors.values()))
+    centroid_ = transformer.center_
+    centroid_ = np.array([centroid_])
+    distance_vector = {}
+    for j in range(0, len(tot_vectors) - 1):
+        dist = cosine_similarity(centroid_, np.array([list(tot_vectors.values())[j]]))
+        distance_vector[list(tot_vectors.keys())[j]] = dist[0][0]
+    distance_vector = sorted(distance_vector.items(), key=operator.itemgetter(1), reverse=True)
 
-    sortedDist = ct.centroid_Topic(transformer.transform(value_vactor), word_vector)
+    # pca.pca_clustering_3D(transformer.transform(value_vactor), list(tot_vectors.keys()),
+    #                       f"/html/FinalCluster__radiusOfDensisty_{radius}__year_{year}__nWords_{len(value_vactor)}")
+    pca.pca_clustering_3D(value_vactor, list(tot_vectors.keys()),
+                          f"/html/FinalCluster__radiusOfDensisty_{radius}__year_{year}__nWords_{len(value_vactor)}")
 
-    word_vector = []
-    for i in range(0, len(sortedDist)):
-        word_vector.append(sortedDist[i][0])
-    return word_vector
+    # sortedDist = ct.centroid_Topic(transformer.transform(value_vactor), word_vector)
+    #
+    # word_vector = []
+    # for i in range(0, len(sortedDist)):
+    #     word_vector.append(sortedDist[i][0])
+    # return word_vector
+
+    return distance_vector
 
 
 def choice_d(tot_vectors, file_text):
@@ -94,17 +112,20 @@ def choice_e(list_files):
     topic_words, word_scores, topic_nums = t2v.top_2_vec(list_files)
     return topic_words, word_scores, topic_nums
 
-def choice_f(data,n_topic,n_words):
-    lda_model, dictionary, corpus = lda.lda(data,n_topic)
+
+def choice_f(data, n_topic, n_words):
+    lda_model, dictionary, corpus = lda.lda(data, n_topic)
     lda.print_coherence(lda_model, dictionary, corpus, data)
-    lda.print_topics(lda_model,n_words)
+    lda.print_topics(lda_model, n_words)
     return
 
-def choice_g(data,n_topic,n_words):
+
+def choice_g(data, n_topic, n_words):
     start, stop, step = 2, 12, 1
     lsa.plot_graph(data, start, stop, step)
     # model = lsa.create_gensim_lsa_model(data,n_topic,n_words)
     return
+
 
 def printToFile(topicResults):
     with open('output/results.csv', 'w', encoding='UTF8') as csvfile:
@@ -257,7 +278,7 @@ if __name__ == "__main__":
             tot_vectors = {}
             for word in clear_results[0]:
                 tot_vectors[str(word)] = ew.get_embedding(str(word))
-            topWords = choice_b(tot_vectors,year)[:50]  # get the centroid of the densest area of the cluster
+            topWords = choice_b(tot_vectors, year)[:50]  # get the centroid of the densest area of the cluster
             # print(topWords)
 
             # print results of the centroid of the densest area of the cluster in file
@@ -269,12 +290,12 @@ if __name__ == "__main__":
             for i in range(len(filtered_docs_list)):
                 counter = 0
                 sum = 0
-                for word,value in frequency_list[i]:
+                for word, value in frequency_list[i]:
                     if word in topWords:
                         sum += value
                         counter += 1
                 if counter != 0:
-                    file_score.append([filtered_docs_list[i], counter*100/50, sum / counter])
+                    file_score.append([filtered_docs_list[i], counter * 100 / 50, sum / counter])
                 else:
                     file_score.append([filtered_docs_list[i], 0, 0])
             file_score.sort(key=lambda x: x[1], reverse=True)
@@ -282,9 +303,9 @@ if __name__ == "__main__":
                 mywriter = csv.writer(f)
                 mywriter.writerows(file_score)
         if choose == "f":
-            choice_f(results[0],round(len(filtered_docs_list)/2),10)
+            choice_f(results[0], round(len(filtered_docs_list) / 2), 10)
         if choose == "g":
-            choice_g(results[0],round(len(filtered_docs_list)/2),10)
+            choice_g(results[0], round(len(filtered_docs_list) / 2), 10)
     else:
         # execute top_2_vec on documents grouped by five years
         year_list = []
