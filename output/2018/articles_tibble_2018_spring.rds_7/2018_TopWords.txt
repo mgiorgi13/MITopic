@@ -1,0 +1,8 @@
+1: 
+way, idea, work, thing, focus, business, example, point, help, people, industry, technology, strategy, world, part, company, life, management, job, result, innovation, product, organization, answer, customer, solution, day, tool, term, doesnt, conversation, trend, internet, broader, decade, value, capability, operation, year, transformation, dont, food, direction,  
+ 
+0: 
+language, message, love, manager, maintenance, tech, article, leader, machine, capture, doctor, model, adoption, engineer, launch, print, wave, analytics, cancer, hospitality, steer, tag, mining, researcher, spring, sends, incorporates, warn, robot, version, sexy, pitfall, chainsaw, rfid,  
+ 
+-1: 
+ 

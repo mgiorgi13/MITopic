@@ -55,32 +55,40 @@ def choice_b(tot_vectors,year):
     if os.path.exists(path) == False:
         os.makedirs(path)
     pca.pca_clustering_3D(list(tot_vectors.values()),list(tot_vectors.keys()), f"/{path}/InitialCluster__year_{year}__nWords_{len(tot_vectors)}")
-    word_vector, value_vactor, radius = db.DBSCAN_Topic2(tot_vectors,year,5,0,"cluster")
+    #word_vector, value_vactor, radius = db.DBSCAN_Topic2(tot_vectors,year,5,0,"cluster")
     # value_vactor =  list(tot_vectors.values())
     # word_vector = list(tot_vectors.keys())
-    tot_vectors = {}
-    for i in range(0, len(word_vector)):
-        tot_vectors[word_vector[i]] = value_vactor[i]
+    # tot_vectors = {}
+    # for i in range(0, len(word_vector)):
+    #     tot_vectors[word_vector[i]] = value_vactor[i]
 
     # rimuovo gli outlier e creo il file
-    transformer = RobustScaler(quantile_range=(25.0, 75.0)).fit(value_vactor)
-    pca.pca_clustering_3D(transformer.transform(value_vactor), list(tot_vectors.keys()), f"/{path}/FinalCluster__radiusOfDensisty_{radius}__year_{year}__nWords_{len(value_vactor)}")
+    transformer = RobustScaler(quantile_range=(25.0, 75.0))
+    transformer.fit(list(tot_vectors.values()))
+    centroid_ = transformer.center_
+    centroid_ = np.array([centroid_])
+    distance_vector = {}
+    for i in range(0, len(tot_vectors) - 1):
+        dist = cosine_similarity(centroid_, np.array([list(tot_vectors.values())[i]]))
+        distance_vector[list(tot_vectors.keys())[i]] = dist[0][0]
 
-    sortedDist = ct.centroid_Topic(transformer.transform(value_vactor), word_vector)
-    # print(sortedDist)
-    word_vector = []
-    for i in range(0, len(sortedDist)):
-        word_vector.append(sortedDist[i][0])
-    sim = []
+    # pca.pca_clustering_3D(transformer.transform(value_vactor), list(tot_vectors.keys()), f"/{path}/FinalCluster__radiusOfDensisty_{radius}__year_{year}__nWords_{len(value_vactor)}")
+    #
+    # sortedDist = ct.centroid_Topic(transformer.transform(value_vactor), word_vector)
+    # # print(sortedDist)
+    # word_vector = []
+    # for i in range(0, len(sortedDist)):
+    #     word_vector.append(sortedDist[i][0])
+    # sim = []
     unsim = []
-    zer = []
-    for i in range(0, len(sortedDist)):
-        if sortedDist[i][1] > 0:
-            sim.append(sortedDist[i][0])
-        if sortedDist[i][1] < 0:
-            unsim.append(sortedDist[i][0])
-        if sortedDist[i][1] == 0:
-            zer.append(sortedDist[i][0])
+    # zer = []
+    # for i in range(0, len(sortedDist)):
+    #     if sortedDist[i][1] > 0:
+    #         sim.append(sortedDist[i][0])
+    #     if sortedDist[i][1] < 0:
+    #         unsim.append(sortedDist[i][0])
+    #     if sortedDist[i][1] == 0:
+    #         zer.append(sortedDist[i][0])
     return unsim
 
 

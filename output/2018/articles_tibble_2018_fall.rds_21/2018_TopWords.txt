@@ -1,0 +1,8 @@
+1: 
+way, reason, understand, lack, attention, extent, situation, doubt, determine, idea, individual, approach, suggest, others, time, something, result, problem, work, perspective, everyone, difference, help, people, maintain, intention, decision, task, benefit, involve, use, respond, experience, opinion, trust, resolve, risk, relationship, seek, mistake, part, conclusion, tell, instance, step, trouble, failure, strategy, communicate, demand, motivation, addition, plan, overcome, priority, assumption, increase, issue, support, conflict, information, challenge, effectiveness, response, communication, effect, key, organization, assessment, behavior, weve, business, research, practice, interaction, tendency, lead, action, contribution, feedback, number, share, complexity, diversity, direction, rule, solution, option, isnt, check, data, dont, day, hasnt, variety, interpretation, goal, type, viewpoint, quality, mechanism, integrate, message, functioning, technology, request, face, culture, team,  
+ 
+0: 
+creativity, performance, tool, reaction, group, wont, emotion, familiarity, web, side, body, distribution, participant, negotiation, capacity, line, clarification, mitigate, norm, bias, transfer, rate, highlighting, contact, misunderstanding, board, article, location, emergency, dimension, collaboration, convenient, silence, teamwork, leader, delivery, email, glance, bond, medium, tone, format, territory, translation, receipt, print, deadline, member, hour, score, item, paradox, chat, loop, charter, sync, richness, cue, version, rating, trustworthiness, bulletin, positivity, pitfall, teammate, subgroup, deliverable, salience, discus,  
+ 
+-1: 
+ 

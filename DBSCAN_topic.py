@@ -14,7 +14,7 @@ def DBSCAN_Topic(word_vect_dict, year, title):
     bestCluster = {}
     best_eps = {}
     for i in range(1, 11):
-        clustering = DBSCAN(metric = 'cosine', eps=i/10, min_samples=2).fit(X)
+        clustering = DBSCAN(metric = 'cosine', eps=i/10, min_samples=1).fit(X)
 
         key = []
         value = []
@@ -92,15 +92,15 @@ import operator
 
 
 def DBSCAN_Topic2(word_vect_dict, year, min_simple, loop, dir):
-
+    min_simple= 2
     print("partito dbscan")
     X = []
     for index in range(0, len(word_vect_dict)):
         X.append(list(word_vect_dict.values())[index])
     bestCluster = {}
     best_eps = {}
-    for i in range(1, 10):
-        clustering = DBSCAN(eps=i, min_samples=min_simple).fit(X)
+    for i in range(1, 11):
+        clustering = DBSCAN(metric = 'cosine' ,eps=i/10, min_samples=min_simple).fit(X)
 
         key = []
         value = []
@@ -115,10 +115,6 @@ def DBSCAN_Topic2(word_vect_dict, year, min_simple, loop, dir):
                                       reverse=True)  # clusters ordinati in base al numero di elementi
         number_of_clusters = len(cluster_array_sorted)  # abbiamo trovato il numero di cluster diversi
 
-        # if len(cluster_array_sorted) > 0:
-        #     if cluster_array_sorted[0][0] != -1:
-        #         best_eps[i] = number_of_clusters # numero di cluster diversi
-        #     else:
 
         if cluster_array_sorted[0][0] != -1:
             cluster_array_sorted = cluster_array_sorted[0][0]
@@ -139,7 +135,7 @@ def DBSCAN_Topic2(word_vect_dict, year, min_simple, loop, dir):
         pca.pca_clustering_3D(value, key, f"/{path}/year_{year}_radius{i}")
 
     theBest = sorted(best_eps.items(), key=operator.itemgetter(1), reverse=True)
-    clustering = DBSCAN(eps=theBest[0][0], min_samples=min_simple).fit(
+    clustering = DBSCAN(metric = 'cosine',eps=theBest[0][0]/10, min_samples=min_simple).fit(
         X)  # clustering sul raggio che ha il maggior numero di cluster
 
     # for index in range(0, len(word_vect_dict)):

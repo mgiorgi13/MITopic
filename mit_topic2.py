@@ -71,6 +71,7 @@ def printCloud(files):
 
 def densityArea(docs,title,year):
     for i in range(0, len(docs)):
+
         clear_results = [list(dict.fromkeys(docs[i]))]
         tot_vectors = {}
         for word in clear_results[0]:
@@ -79,40 +80,51 @@ def densityArea(docs,title,year):
             os.makedirs(f"html/{year}/{title[i][:-4]}")
         pca.pca_clustering_3D(list(tot_vectors.values()), list(tot_vectors.keys()),
                               f"/html/{year}/{title[i][:-4]}/InitialCluster__nWords_{len(tot_vectors)}")
-        word_vector, value_vactor, radius = db.DBSCAN_Topic(tot_vectors, year, title[i][:-4])
-        # value_vactor =  list(tot_vectors.values())
-        # word_vector = list(tot_vectors.keys())
-        tot_vectors = {}
-        for j in range(0, len(word_vector)):
-            tot_vectors[word_vector[j]] = value_vactor[j]
-
-        # rimuovo gli outlier e creo il file
-        transformer = RobustScaler(quantile_range=(25.0, 75.0)).fit(value_vactor)
-        pca.pca_clustering_3D(transformer.transform(value_vactor), list(tot_vectors.keys()),
-                              f"/html/{year}/{title[i][:-4]}/FinalCluster__radiusOfDensisty_{radius}__year_{year}__nWords_{len(value_vactor)}")
-
-        sortedDist = ct.centroid_Topic(transformer.transform(value_vactor), word_vector)
-        # print(sortedDist)
-        word_vector = []
-        for j in range(0, len(sortedDist)):
-            word_vector.append(sortedDist[j][0])
-        sim = []
-        unsim = []
-        zer = []
-        for j in range(0, len(sortedDist)):
-            if sortedDist[j][1] > 0:
-                sim.append(sortedDist[j][0])
-            if sortedDist[j][1] < 0:
-                unsim.append(sortedDist[j][0])
-            if sortedDist[j][1] == 0:
-                zer.append(sortedDist[j][0])
-        topWords = sim[:100]
+        transformer = RobustScaler(quantile_range=( 0, 75.0))
+        transformer.fit(list(tot_vectors.values()))
+        centroid_ = transformer.center_
+        centroid_ = np.array([centroid_])
+        distance_vector = {}
+        for j in range(0, len(tot_vectors) - 1):
+            dist = cosine_similarity(centroid_, np.array([list(tot_vectors.values())[j]]))
+            distance_vector[list(tot_vectors.keys())[j]] = dist[0][0]
+        distance_vector = sorted(distance_vector.items(), key=operator.itemgetter(1),
+                                      reverse=True)
+        dct = {}
+        dct[-1] = []
+        dct[0] = []
+        dct[1] = []
+        for s in range(0, len(distance_vector)):
+            if distance_vector[s][1]<= 1 and distance_vector[s][1]  > 0.5:
+                dct[1].append(distance_vector[s][0])
+                continue
+            if distance_vector[s][1] <= 0.5 and distance_vector[s][1] > -0.5:
+                dct[0].append(distance_vector[s][0])
+                continue
+            if distance_vector[s][1] <= -0.5 and distance_vector[s][1] >= -1:
+                dct[-1].append(distance_vector[s][0])
+                continue
         path = f"output/{year}/{title[i][:-4]}"
         if os.path.exists(path) == False:
             os.makedirs(path)
-        with open(f'{path}/{year}_TopWords.csv', 'w', encoding='UTF8') as f:
-            mywriter = csv.writer(f, delimiter='\n')
-            mywriter.writerows([topWords])
+        with open(f"{path}/{year}_TopWords.txt", "w") as f:
+            f.write("1:")
+            f.write(" \n")
+            for word in dct[1]:
+                f.write(word + ", ")
+            f.write(" \n")
+            f.write(" \n")
+            f.write("0:")
+            f.write(" \n")
+            for word in dct[0]:
+                f.write(word + ", ")
+            f.write(" \n")
+            f.write(" \n")
+            f.write("-1:")
+            f.write(" \n")
+            for word in dct[-1]:
+                f.write(word + ", ")
+            f.write(" \n")
 
 if __name__ == "__main__":
 

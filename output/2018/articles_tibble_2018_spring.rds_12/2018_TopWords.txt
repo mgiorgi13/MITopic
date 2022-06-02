@@ -1,0 +1,8 @@
+1: 
+concern, future, fact, interest, opportunity, reason, consideration, investment, benefit, purpose, result, strategy, situation, perspective, business, asset, expectation, success, risk, value-creation, objective, ability, plan, management, corporate-investor, time, market, advantage, majority, context, bringing, organization, contribution, growth, sector, society, company, force, part, profit, corporate-shareholder, likelihood, help, value, term, confidence, economy, mean, balance, capital, governance, level, state, spending, role, leverage, manage, begin, think, explanation, creation, us, accounting, account, issue, practice, factor, investor, information, activity, communication, question, debt, vision, security, statement, trend, retain, corporation, disclosure, acquisition, goal, serve, core, sustainability, offering, suggestion, audience, partner, framework, mission, offer, conversation, meeting, allocation, rate, performance, yield, return,  
+ 
+0: 
+personnel, variety, team, year, pressure, presentation, motivate, quality, doesnt, element, earnings, loyalty, standard, tool, material, construction, leader, call, institute, source, shareholder, executive, war, stakeholder, peer, frustration, stance, schedule, disruption, board, story, secret, aggregate, coalition, horizon, margin, filing, date, milestone, competitor, article, resilience, dependency, frequency, capitalization, sequence, spring, ally, template, pause, print, delivers, metric, inadequacy, street, vanguard, emission, forum, scandal, cohort, version, diesel, materiality, ceo, r, e, deepwater, volkswagen, humana, goldman, divestments, pg, megatrends, cecp, bd, mckinsey, esg,  
+ 
+-1: 
+ 
