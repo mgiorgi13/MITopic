@@ -61,8 +61,6 @@ def choice_b(tot_vectors, year):
     for i in range(0, len(word_vector)):
         tot_vectors[word_vector[i]] = value_vactor[i]
 
-
-
     # rimuovo gli outlier e creo il file
     # transformer = RobustScaler(quantile_range=(25.0, 75.0)).fit(value_vactor)
     transformer = RobustScaler(quantile_range=(0, 75.0))
@@ -120,9 +118,9 @@ def choice_f(data, n_topic, n_words):
     return
 
 
-def choice_g(data, n_topic, n_words):
-    start, stop, step = 2, 12, 1
-    lsa.plot_graph(data, start, stop, step)
+def choice_g(data, n_topic, n_words, year):
+    start, stop, step = round((n_topic / 4) - 2), n_topic, 1
+    lsa.plot_graph(data, start, stop, step, year)
     # model = lsa.create_gensim_lsa_model(data,n_topic,n_words)
     return
 
@@ -305,7 +303,7 @@ if __name__ == "__main__":
         if choose == "f":
             choice_f(results[0], round(len(filtered_docs_list) / 2), 10)
         if choose == "g":
-            choice_g(results[0], round(len(filtered_docs_list) / 2), 10)
+            choice_g(results[0], round(len(filtered_docs_list) / 2), 10, year)
     else:
         # execute top_2_vec on documents grouped by five years
         year_list = []
