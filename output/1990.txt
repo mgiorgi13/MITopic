@@ -1,0 +1,38 @@
+selected year: 1990 
+len: 987 
+cluster words:
+decade, marketing, professor, sale, definition, selling, product, idea, need, customer, thing, revenue, company, function, everything, cost, importance, attention, buying, account, confusion, issue, compensation, wisdom, study, focus, pay,
+ kind, approach, recognition, data, analysis, value, motivation, being, result, manager, question, people, range, management, business, emphasis, quantity, order, finance, training, decision, discussion, evaluation,
+ 
+len: 11 
+cluster words:
+miata, cadillac, jeep, pontiac, chevrolet, audi, volkswagen, honda, ford, ferrari, chrysler,  
+ 
+len: 9 
+cluster words:
+hair, shampoo, conditioner, shampoo/conditioner, mouthwash, detergent, deodorant, soap, toothpaste,  
+ 
+len: 7 
+cluster words:
+detroit, chicago, maryland, carolina, minneapolis, fargo, portland,  
+ 
+len: 6 
+cluster words:
+director, executive, president, chief, officer, vice,  
+ 
+len: 5 
+cluster words:
+skirt, hat, shirt, clothing, pant,  
+ 
+len: 4 
+cluster words:
+building, brick, house, construction,  
+ 
+len: 4 
+cluster words:
+inefficiency, mismanagement, unreliability, inefficient,  
+ 
+len: 4 
+cluster words:
+room, bathroom, desk, floor,  
+ 
