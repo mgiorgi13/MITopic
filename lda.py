@@ -22,7 +22,7 @@ def lda(data, num_topics):
         id2word=dictionary,
         num_topics=num_topics,
         passes=10,
-        workers=8)
+        workers=4)
     return lda_model, dictionary, corpus
 
 

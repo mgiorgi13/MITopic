@@ -3,6 +3,7 @@ from gensim import corpora
 from gensim.models import LsiModel
 from gensim.models.coherencemodel import CoherenceModel
 import matplotlib.pyplot as plt
+import os
 
 def prepare_corpus(doc_clean):
     """
@@ -52,7 +53,7 @@ def compute_coherence_values(dictionary, doc_term_matrix, doc_clean, stop, start
         coherence_values.append(coherencemodel.get_coherence())
     return model_list, coherence_values
 
-def plot_graph(doc_clean,start, stop, step):
+def plot_graph(doc_clean,start, stop, step,year):
     dictionary,doc_term_matrix=prepare_corpus(doc_clean)
     model_list, coherence_values = compute_coherence_values(dictionary, doc_term_matrix,doc_clean,
                                                             stop, start, step)
@@ -62,4 +63,8 @@ def plot_graph(doc_clean,start, stop, step):
     plt.xlabel("Number of Topics")
     plt.ylabel("Coherence score")
     plt.legend(("coherence_values"), loc='best')
-    plt.show()
+
+    path = f'coherence_score_lsa'
+    if not os.path.exists(path):
+        os.makedirs(path)
+    plt.savefig(f'{path}/{year}.png')

@@ -115,7 +115,9 @@ def choice_f(data,n_topic,n_words):
     return
 
 def choice_g(data,n_topic,n_words):
-    model = lsa.create_gensim_lsa_model(data,n_topic,n_words)
+    start, stop, step = 2, 12, 1
+    lsa.plot_graph(data, start, stop, step)
+    # model = lsa.create_gensim_lsa_model(data,n_topic,n_words)
     return
 
 def printToFile(topicResults):
@@ -293,7 +295,7 @@ if __name__ == "__main__":
         if choose == "f":
             choice_f(results[0],round(len(filtered_docs_list)/2),10)
         if choose == "g":
-            choice_g(results[0],round(len(filtered_docs_list)),10)
+            choice_g(results[0],round(len(filtered_docs_list)/2),10)
     else:
         # execute top_2_vec on documents grouped by five years
         year_list = []
