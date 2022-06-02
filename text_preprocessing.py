@@ -169,6 +169,8 @@ def tag_cloud(words):
     # Create and generate a word cloud image:
     wordcloud = WordCloud().generate(text)
 
+    # TODO create a folder for each year and save image of tag cloiud
+
     # Display the generated image:
     plt.imshow(wordcloud, interpolation='bilinear')
     plt.axis("off")

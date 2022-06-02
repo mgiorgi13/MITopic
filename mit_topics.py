@@ -186,7 +186,6 @@ if __name__ == "__main__":
 
     if choose != "e":
         # preprocess data
-
         if (arg_from_command_line == False):
             year = input("Insert year to be analyze: \n(insert skip if you want to scan all the documents)\n")
         else:
