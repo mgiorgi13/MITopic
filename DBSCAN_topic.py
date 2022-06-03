@@ -46,7 +46,7 @@ def DBSCAN_Topic(word_vect_dict, year):
             key.append(clustering.labels_[index])  # prendo gli id dei cluster
             value.append(list(word_vect_dict.values())[index])
 
-       # pca.pca_clustering_3D(value, key, f"/html/year_{year}__radius_{i}")
+ #       pca.pca_clustering_3D(value, key, f"/html/{year}_gtd/year_{year}__radius_{i / 10}_FinalClustering")
 
     theBest = sorted(best_eps.items(), key=operator.itemgetter(1), reverse=True)
     clustering = DBSCAN(metric='cosine', eps=theBest[0][0] / 10, min_samples=5).fit(
@@ -68,11 +68,12 @@ def DBSCAN_Topic(word_vect_dict, year):
     # for k in sorted(dctWord, key=lambda k: len(dctWord[k]), reverse=True):
     #     print(k, len(dctWord[k]))
     #     print(dctWord[k][:50])
-
+    
     with open(f"output/{year}.txt", "w") as f:
         f.write("selected year: " + year)
         f.write(" \n")
         for k in sorted(dctWord, key=lambda k: len(dctWord[k]), reverse=True):
+
             f.write("len: " + str(len(dctWord[k])))
             f.write(" \n")
             f.write("cluster words:\n")
@@ -90,5 +91,5 @@ def DBSCAN_Topic(word_vect_dict, year):
             key.append(clustering.labels_[index])
             value.append(list(word_vect_dict.values())[index])
             word.append(list(word_vect_dict.keys())[index])
-
+    pca.pca_clustering_3D(value, key, f"/html/{year}_gtd/year_{year}__radius_{theBest[0][0]/10}_FinalClustering")
     return word, value, theBest[0][0]

@@ -118,7 +118,7 @@ def choice_wordcloud_method(tot_vectors, file_text, year, filtered_docs_list, re
 
 
 def choice_clustering_method(tot_vectors, year):
-    word_vector, value_vactor, radius = db.DBSCAN_Topic(tot_vectors, year)
+    word_vector, value_vactor, key_vector, radius = db.DBSCAN_Topic(tot_vectors, year)
     tot_vectors = {}
     for i in range(0, len(word_vector)):
         tot_vectors[word_vector[i]] = value_vactor[i]
@@ -182,7 +182,6 @@ if __name__ == "__main__":
                            '- WORD_CLOUD -> Digit "wordcloud" to execute this text mining method.\n\n'
                            '- GTD -> Digit "gtd-cluster" to execute this text mining method in a year.\n\n'
                            '- STD -> Digit "std" to execute this text mining method for each file in a year. \n\n'
-                           '- PCA -> Digit "pca" to show the clustering method results.\n\n'
                            '- EXIT -> Digit "exit" to exit the program.\n\n'
                            )
         else:
@@ -276,6 +275,10 @@ if __name__ == "__main__":
             for word in clear_results[0]:
                 tot_vectors[str(word)] = ew.get_embedding(str(word))  # get the embedding of each word
             # get the top 50 words of the most dense cluster
+            if os.path.exists(f"html/{year}_gtd") == 0:
+                os.makedirs(f"html/{year}_gtd")
+            pca.pca_clustering_3D(list(tot_vectors.values()), list(tot_vectors.keys()),
+                                  f"/html/{year}_gtd/InitialCluster__nWords_{len(tot_vectors)}")
             topWords = choice_clustering_method(tot_vectors, year)[:50]
 
             if not os.path.exists(
@@ -286,9 +289,7 @@ if __name__ == "__main__":
                 # TODO creare cartella per ogni anno
                 mywriter = csv.writer(f, delimiter='\n')
                 mywriter.writerows([topWords])
-        if choose == "pca":
-            # TODO creare metodo per pca
-            exit()
+
     else:
         # choose is top2vec
         singleORgrouped = input("Do you want to analyze a single year or a group of years?\n"
