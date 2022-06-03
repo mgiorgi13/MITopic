@@ -1,0 +1,45 @@
+selected year: 1991 
+len: 137 
+cluster words:
+necessity, way, assumption, people, lack, absence, consequence, finding, concern, truth, belief, kind, appreciate, think, mean, theyve, thing, doubt, well, ask, everything, nothing, create, need, inability, let, everybody, heard, help, sort, try, someone, fact, saw, he, perspective, person, importance, significance, assume, anything, concept, assertion, idea, understood, latter, reason, sense, consider, keep,  
+ 
+len: 57 
+cluster words:
+day, range, customer, level, performance, higher-level, time, product, senior-level, self-management, demand, market, monday-morning, week, hour, trade, market-and, manufacturer, add-on, decision, month, supplier, performance-importance, volume, high-volume, monday, supplier-customer, today, yesterday, end-customers, customer-specific, well-lit, evening, making, long-range, product-independent, customer-servicer, low-tenure, pay-for-performance, tomorrow, night, in-house, ramp-up, technology-organization, weekend, user-experts, decision-making, trade-up, in-demand, distributor,  
+ 
+len: 9 
+cluster words:
+frustration, dissatisfaction, hostility, resentment, mistrust, discontent, confusion, disappointment, disdain,  
+ 
+len: 8 
+cluster words:
+school, college, academic, education, graduate, university, student, teacher,  
+ 
+len: 8 
+cluster words:
+evaluation, examine, determines, identify, quantify, determine, evaluate, analyze,  
+ 
+len: 6 
+cluster words:
+asset, investment, investor, equity, fund, financing,  
+ 
+len: 6 
+cluster words:
+purchase, buying, buy, selling, purchasing, sell,  
+ 
+len: 5 
+cluster words:
+didnt, cant, dont, isnt, doesnt,  
+ 
+len: 5 
+cluster words:
+pay, money, payment, fee, afford,  
+ 
+len: 5 
+cluster words:
+profit, revenue, earnings, income, tax,  
+ 
+len: 5 
+cluster words:
+prevent, eliminate, protect, minimize, avoid,  
+ 

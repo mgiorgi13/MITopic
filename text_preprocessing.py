@@ -1,4 +1,6 @@
 # Import Module
+import os
+
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem.wordnet import WordNetLemmatizer
@@ -162,16 +164,19 @@ def word_count(str):
     return sort_orders
 
 
-def tag_cloud(words):
+def tag_cloud(words, year):
     # Start with one review:
     text = " ".join([str(item) for item in words])
 
     # Create and generate a word cloud image:
-    wordcloud = WordCloud().generate(text)
+    wordcloud = WordCloud(width=1920, height=1080).generate(text)
 
-    # TODO create a folder for each year and save image of tag cloiud
+    if not os.path.exists(f"output/wordcloud/{year}"):
+        os.makedirs(f"output/wordcloud/{year}")
+    wordcloud.to_file(f"output/wordcloud/{year}/wordcloud.png")
+
 
     # Display the generated image:
-    plt.imshow(wordcloud, interpolation='bilinear')
-    plt.axis("off")
-    plt.show()
+    # plt.imshow(wordcloud, interpolation='bilinear')
+    # plt.axis("off")
+    # plt.show()

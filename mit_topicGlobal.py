@@ -67,9 +67,9 @@ def choice_lsa_method(data, n_topic, n_words, year):
     return
 
 
-def word_cloud_method(tot_vectors, file_text):
+def word_cloud_method(tot_vectors, file_text, year):
     # create a word cloud for the most frequent words of the densest part of the selected year
-    word_vector, value_vactor = db.DBSCAN_Topic(tot_vectors)
+    word_vector, value_vactor = db.DBSCAN_Topic(tot_vectors, year)
     tot_vectors_bis = {}
     for i in range(0, len(word_vector)):
         tot_vectors_bis[word_vector[i]] = value_vactor[i]
@@ -82,22 +82,22 @@ def word_cloud_method(tot_vectors, file_text):
             if sortedDist[j][0] == file_text[i]:
                 words.append(sortedDist[j][0])
 
-    tp.tag_cloud(words)
+    tp.tag_cloud(words, year)
     return
 
 
 def frequency_analysis_file(year, filtered_docs_list, results):
     header = ['file_name', 'word_frequency']
     title_header = year + "_"
-    with open(f'results/wordcloud/{title_header}files_word_frequency.csv', 'w', encoding='UTF8', newline='') as f:
+    if not os.path.exists(f"output/wordcloud/{year}"):
+        os.makedirs(f"output/wordcloud/{year}")
+    with open(f'output/wordcloud/{year}/{title_header}files_word_frequency.csv', 'w', encoding='UTF8', newline='') as f:
         writer = csv.writer(f)
         writer.writerow(header)  # write the header
     frequency_list = []
-    if not os.path.exists(
-            f"output/wordcloud/{year}"):
-        os.makedirs(f"output/wordcloud/{year}")
     for i in range(len(filtered_docs_list)):
-        with open(f'results/wordcloud/{year}/{title_header}files_word_frequency.csv', 'a', encoding='UTF8', newline='') as f:
+        with open(f'output/wordcloud/{year}/{title_header}files_word_frequency.csv', 'a', encoding='UTF8',
+                  newline='') as f:
             writer = csv.writer(f)
             # write file words
             frequency_list.append(tp.word_count(results[0][i]))
@@ -108,10 +108,10 @@ def frequency_analysis_file(year, filtered_docs_list, results):
 
 
 def choice_wordcloud_method(tot_vectors, file_text, year, filtered_docs_list, results):
-    word_cloud_method(tot_vectors,
-                      file_text)  # tag cloud of most frequent words of the densest part of the selected year
-    frequency_analysis_file(year, filtered_docs_list,
-                            results)  # frequency analysis of the most frequent words of each file in the selected year
+    # tag cloud of most frequent words of the densest part of the selected year
+    word_cloud_method(tot_vectors, file_text, year)
+    # frequency analysis of the most frequent words of each file in the selected year
+    frequency_analysis_file(year, filtered_docs_list, results)
     return
 
 
@@ -148,14 +148,14 @@ if __name__ == "__main__":
                            '- LSA -> Digit "lsa" to execute this text mining method.\n\n'
                            '- TOP_2_VEC -> Digit "top2vec" to execute this text mining method.\n\n'
                            '- WORD_CLOUD -> Digit "wordcloud" to execute this text mining method.\n\n'
-                           '- CLUSTERING -> Digit "cluster" to execute this text mining method.\n\n'
+                           '- GTD -> Digit "gtd-cluster" to execute this text mining method.\n\n'
                            '- PCA -> Digit "pca" to show the clustering method results.\n\n'
                            '- EXIT -> Digit "exit" to exit the program.\n\n'
                            )
         else:
             choose = str(sys.argv[1])
 
-        if choose == 'lda' or choose == 'lsa' or choose == 'top2vec' or choose == 'wordcloud' or choose == 'cluster' or choose == 'pca':
+        if choose == 'lda' or choose == 'lsa' or choose == 'top2vec' or choose == 'wordcloud' or choose == 'gtd-cluster' or choose == 'pca':
             break
         else:
             exit()  # choose selected is exit
@@ -235,19 +235,19 @@ if __name__ == "__main__":
             for word in clear_results[0]:
                 tot_vectors[str(word)] = ew.get_embedding(str(word))  # get the embedding of each word
             choice_wordcloud_method(tot_vectors, clear_results[0], year, filtered_docs_list, results)
-        if choose == "cluster":
+        if choose == "gtd-cluster":
             clear_results = [list(dict.fromkeys(concat_results))]  # remove duplicates for clustering method
             tot_vectors = {}
             for word in clear_results[0]:
                 tot_vectors[str(word)] = ew.get_embedding(str(word))  # get the embedding of each word
-            topWords = choice_clustering_method(tot_vectors, year)[
-                       :50]  # get the top 50 words of the most dense cluster
+            # get the top 50 words of the most dense cluster
+            topWords = choice_clustering_method(tot_vectors, year)[:50]
 
             if not os.path.exists(
                     f"output/clustering/{year}"):
                 os.makedirs(f"output/clustering/{year}")
             # print words into file
-            with open(f'output/clustering/{year}_50TopWords.csv', 'w', encoding='UTF8') as f:
+            with open(f'output/clustering/{year}/{year}_50TopWords.csv', 'w', encoding='UTF8') as f:
                 # TODO creare cartella per ogni anno
                 mywriter = csv.writer(f, delimiter='\n')
                 mywriter.writerows([topWords])
