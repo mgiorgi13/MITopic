@@ -25,6 +25,8 @@ import lda as lda
 import lsa as lsa
 
 # GLOBAL VARIABLES
+from STD import STD
+
 choose = ""
 
 '''
@@ -178,13 +180,16 @@ if __name__ == "__main__":
                            '- LSA -> Digit "lsa" to execute this text mining method.\n\n'
                            '- TOP_2_VEC -> Digit "top2vec" to execute this text mining method.\n\n'
                            '- WORD_CLOUD -> Digit "wordcloud" to execute this text mining method.\n\n'
-                           '- GTD -> Digit "gtd-cluster" to execute this text mining method.\n\n'
+                           '- GTD -> Digit "gtd-cluster" to execute this text mining method in a year.\n\n'
+                           '- STD -> Digit "std" to execute this text mining method for each file in a year. \n\n'
                            '- PCA -> Digit "pca" to show the clustering method results.\n\n'
                            '- EXIT -> Digit "exit" to exit the program.\n\n'
                            )
         else:
             choose = str(sys.argv[1])
-
+        if choose == 'std':
+            STD()
+            exit()
         if choose == 'lda' or choose == 'lsa' or choose == 'top2vec' or choose == 'wordcloud' or choose == 'gtd-cluster' or choose == 'pca':
             break
         else:

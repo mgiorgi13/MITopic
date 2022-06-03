@@ -1,0 +1,81 @@
+selected year: 2008 
+len: 365 
+cluster words:
+reason, isnt, industry, way, fact, open-source, world, vendor, source, product, customer, service, nothing, office, idea, people, assume, somebody, something, there, risk, someone, need, mean, quality, theyve, everybody, employee, anybody, get, person, dont, everyone, look, value, face, thing, doesnt, guy, havent, lot, learn, distance, zone, didnt, come, make, well, weve, feeling,  
+ 
+len: 14 
+cluster words:
+student, university, learning, school, academic, college, teacher, teaching, campus, education, graduate, scholarship, faculty, curriculum,  
+ 
+len: 13 
+cluster words:
+illinois, massachusetts, carolina, sc, pennsylvania, pa, california, worcester, arizona, ohio, minneapolis, columbia, vermont,  
+ 
+len: 11 
+cluster words:
+finland, europe, spain, zurich, switzerland, denmark, belgium, russia, america, germany, helsinki,  
+ 
+len: 11 
+cluster words:
+time, day, today, hour, week, month, night, weekend, morning, yesterday, afternoon,  
+ 
+len: 11 
+cluster words:
+com, edu/directory/faculty/lurie/pubs/lurie_and_swaminathan_feedback, com/abstract=1139170, com/abstract=1084069, com/abstract=1085295, com/abstract=1094589, www, com/abstract=1082392, com/abstract=942310, com/abstract=987499, com/abstract=958158,  
+ 
+len: 10 
+cluster words:
+evaluate, identify, evaluation, examine, evaluating, determine, investigate, determines, analyze, quantify,  
+ 
+len: 8 
+cluster words:
+motivation, encourage, motivate, promote, discourage, educate, encourages, motivating,  
+ 
+len: 8 
+cluster words:
+prevent, reduces, avoid, minimize, eliminate, protect, maximize, mitigate,  
+ 
+len: 7 
+cluster words:
+bankruptcy, consolidation, credit, debt, lender, mortgage, loan,  
+ 
+len: 7 
+cluster words:
+equity, asset, investment, investor, fund, invest, financing,  
+ 
+len: 6 
+cluster words:
+profit, revenue, income, earnings, dividend, tax,  
+ 
+len: 6 
+cluster words:
+queensland, australia, melbourne, canada, zealand, toronto,  
+ 
+len: 5 
+cluster words:
+money, pay, payment, afford, fee,  
+ 
+len: 5 
+cluster words:
+poker, odds, betting, gamble, bet,  
+ 
+len: 5 
+cluster words:
+officer, chief, chairman, executive, deputy,  
+ 
+len: 5 
+cluster words:
+resource, knowledge-sharing, sharing, resource-sharing, resource-allocation,  
+ 
+len: 5 
+cluster words:
+frustration, dissatisfaction, confusion, disappointment, anger,  
+ 
+len: 5 
+cluster words:
+motorola, samsung, treo, nextel, nokia,  
+ 
+len: 4 
+cluster words:
+e, e-mail, e-tailers, o,  
+ 

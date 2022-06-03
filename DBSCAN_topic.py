@@ -82,15 +82,6 @@ def DBSCAN_Topic(word_vect_dict, year):
             f.write(" \n")
             f.write(" \n")
 
-    # for index in range(0, len(word_vect_dict)):
-    #     if (c == clustering.labels_[index]):
-    #         key.append(clustering.labels_[index])
-    #         value.append(list(word_vect_dict.values())[index])
-
-    for index in range(0, len(word_vect_dict)):
-        key.append(clustering.labels_[index])
-        value.append(list(word_vect_dict.values())[index])
-
     key = []
     value = []
     word = []

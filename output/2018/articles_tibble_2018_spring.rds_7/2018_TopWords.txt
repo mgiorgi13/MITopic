@@ -1,8 +1,8 @@
 1: 
-way, idea, work, thing, focus, business, example, point, help, people, industry, technology, strategy, world, part, company, life, management, job, result, innovation, product, organization, answer, customer, solution, day, tool, term, doesnt, conversation, trend, internet, broader, decade, value, capability, operation, year, transformation, dont, food, direction,  
+way, idea, work, thing, focus, business, example, point, industry, help, people, strategy, technology, company, management, part, world, result, job, life, product, innovation, customer, organization, answer, solution, day, tool, term, doesnt, broader, conversation, internet, trend, decade, value, capability, operation, year, transformation, dont, food,  
  
 0: 
-language, message, love, manager, maintenance, tech, article, leader, machine, capture, doctor, model, adoption, engineer, launch, print, wave, analytics, cancer, hospitality, steer, tag, mining, researcher, spring, sends, incorporates, warn, robot, version, sexy, pitfall, chainsaw, rfid,  
+direction, message, manager, language, maintenance, tech, article, leader, doctor, capture, machine, adoption, model, engineer, launch, analytics, print, cancer, wave, hospitality, mining, steer, tag, researcher, warn, incorporates, sends, version, sexy, pitfall, chainsaw, rfid,  
  
 -1: 
  

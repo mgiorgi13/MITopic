@@ -1,8 +1,8 @@
 1: 
-way, thing, idea, matter, thats, point, time, anyone, take, people, work, importance, approach, part, meaning, world, choice, decision, today, argument, attitude, conversation, story, history, didnt, love, issue, lie, read, half, becomes, culture, reach, phrase, cant, environment, lesson, development, organization, goal, picture, number, value,  
+way, thing, idea, matter, point, thats, anyone, time, take, people, importance, work, approach, meaning, part, world, choice, argument, decision, today, attitude, conversation, history, story, didnt, issue, lie, read, phrase, becomes, half, culture, reach, cant, lesson, environment, development, organization, picture, goal, value, number,  
  
 0: 
-management, tactic, view, reader, phenomenon, invest, summer, thesis, round, robust, affirm, medium, repetition, slogan, version, headline, column, tweet, editor, extinction, traction, discus, mit, smr,  
+tactic, reader, view, management, phenomenon, invest, thesis, round, affirm, repetition, slogan, medium, headline, column, version, tweet, editor, extinction, traction, discus, mit, smr,  
  
 -1: 
  

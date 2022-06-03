@@ -1,8 +1,8 @@
 1: 
-way, fact, thats, everything, process, right, problem, business, let, government, trust, demand, world, system, look, company, step, management, society, development, organization, prevent, technology, effect, service, face, product, power, burden, program, crisis, disaster, operation, grow, likelihood, data, loss,  
+way, fact, thats, process, everything, right, business, problem, government, system, demand, let, company, trust, world, management, development, look, step, organization, society, technology, prevent, effect, service, product, burden, program, power, face, crisis, operation, disaster, data, grow, likelihood, loss, obligation,  
  
 0: 
-obligation, privacy, user, love, mindset, article, feature, model, release, million, tech, affair, testimony, mark, cleaning, print, member, stream, version,  
+user, mindset, privacy, article, feature, release, model, million, tech, cleaning, testimony, print, stream, member, version,  
  
 -1: 
  

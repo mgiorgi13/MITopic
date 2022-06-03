@@ -1,8 +1,8 @@
 1: 
-future, change, kind, opportunity, others, extent, thing, time, example, anyone, anything, process, result, business, management, world, industry, demand, company, part, information, environment, force, today, failure, organization, manage, question, truth, fear, technology, issue, service, address, customer, havent, fall, engineering, capability, embrace,  
+kind, future, change, others, opportunity, extent, time, thing, example, anyone, anything, result, process, business, demand, industry, world, part, company, management, information, environment, today, force, failure, organization, manage, fear, question, truth, issue, technology, service, address, customer, havent, fall, capability, embrace, engineering,  
  
 0: 
-fast, tool, survey, material, transformation, pressure, manager, article, skill, view, rate, executive, reader, disruption, entertainment, chief, competitor, director, comment, review, calm, medium, essay, instability, tune, telecommunication, editor, deficiency, co, perceives, paul, ltd, tony, jibe, michelman, michelmans, markit, pavones, sloan, mit, mckinsey, ihs, gans, pavone,  
+material, fast, tool, transformation, pressure, survey, manager, article, skill, view, rate, reader, executive, disruption, entertainment, competitor, comment, calm, director, review, medium, essay, instability, tune, telecommunication, editor, deficiency, perceives, co, ltd, jibe, michelmans, markit, michelman, pavones, mit, ihs, gans, pavone,  
  
 -1: 
  

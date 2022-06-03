@@ -1,0 +1,93 @@
+selected year: 2010 
+len: 1843 
+cluster words:
+day, consumer, purchase, decision, set, product, sale, store, research, question, marketer, meet, need, others, goal, mindset, shop, psychology, process, task, word, thinking, way, influence, shopping, psychologist, people, face, attribute, example, care, car, maintenance, attention, lower-level, usage, result, role, matter, make, variety, increase, buy, help, participant, year, induce, tomorrow, intent, effect,  
+ 
+len: 8 
+cluster words:
+google, facebook, twitter, video, myspace, youtube, wikipedia, yahoo,  
+ 
+len: 8 
+cluster words:
+iphones, fruit, apple, itunes, ipad, iphone, ipod, dvd,  
+ 
+len: 8 
+cluster words:
+honda, toyota, prius, suv, lexus, minivan, dodge, corolla,  
+ 
+len: 7 
+cluster words:
+waste, recycle, trash, landfill, disposal, junk, dumpster,  
+ 
+len: 7 
+cluster words:
+plastic, metal, aluminum, iron, steel, fiberglass, copper,  
+ 
+len: 7 
+cluster words:
+sketch, illustration, graphic, drawn, art, draw, drawing,  
+ 
+len: 6 
+cluster words:
+casino, gambler, harrahs, jackpot, gamble, odds,  
+ 
+len: 6 
+cluster words:
+highway, road, route, lane, trail, hill,  
+ 
+len: 6 
+cluster words:
+magazine, publishes, publication, journal, publisher, publishing,  
+ 
+len: 5 
+cluster words:
+manipulating, manipulate, manipulation, distort, exploit,  
+ 
+len: 5 
+cluster words:
+recovery, recover, restore, recovering, recoup,  
+ 
+len: 5 
+cluster words:
+halo, playstation, nintendo, xbox, wii,  
+ 
+len: 5 
+cluster words:
+competitor, competes, competition, compete, dominate,  
+ 
+len: 5 
+cluster words:
+water, tide, gulf, reef, ocean,  
+ 
+len: 5 
+cluster words:
+toxicity, poison, pollution, chemical, toxic,  
+ 
+len: 5 
+cluster words:
+phone, telephone, mobile, cell, handset,  
+ 
+len: 5 
+cluster words:
+viii, vii, iii, ii, iv,  
+ 
+len: 5 
+cluster words:
+toner, cartridge, copier, printing, printer,  
+ 
+len: 4 
+cluster words:
+vacation, travel, holiday, trip,  
+ 
+len: 4 
+cluster words:
+harassment, retaliation, discrimination, abuse,  
+ 
+len: 3 
+cluster words:
+celebration, occasion, birthday,  
+ 
+len: 3 
+cluster words:
+oxygen, greenhouse, dioxide,  
+ 

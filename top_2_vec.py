@@ -10,8 +10,8 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 def top_2_vec(documents):
     # training model with all documents.  speed : fast-learn / learn / deep-learn
-    # model = Top2Vec(documents, embedding_model='universal-sentence-encoder', speed='deep-learn', workers=4) # with pre-trained embedding model
-    model = Top2Vec(documents, speed='deep-learn', workers=4) # without pre-trained embedding model
+    model = Top2Vec(documents, embedding_model='universal-sentence-encoder', speed='deep-learn', workers=4) # with pre-trained embedding model
+    #model = Top2Vec(documents, speed='deep-learn', workers=4) # without pre-trained embedding model
     numberOfTopis = model.get_num_topics()
     print(f"Number of topics : {numberOfTopis}")
     topic_words, word_scores, topic_nums = model.get_topics(numberOfTopis)
