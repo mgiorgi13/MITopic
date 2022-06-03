@@ -69,7 +69,7 @@ def choice_lsa_method(data, n_topic, n_words, year):
 
 def word_cloud_method(tot_vectors, file_text, year):
     # create a word cloud for the most frequent words of the densest part of the selected year
-    word_vector, value_vactor = db.DBSCAN_Topic(tot_vectors, year)
+    word_vector, value_vactor, radius = db.DBSCAN_Topic(tot_vectors, year)
     tot_vectors_bis = {}
     for i in range(0, len(word_vector)):
         tot_vectors_bis[word_vector[i]] = value_vactor[i]
@@ -131,6 +131,36 @@ def choice_clustering_method(tot_vectors, year):
         distance_vector[list(tot_vectors.keys())[j]] = dist[0][0]
     distance_vector = sorted(distance_vector.items(), key=operator.itemgetter(1), reverse=True)
     return distance_vector
+
+
+def choice_top2vec(list_files):
+    topic_words, word_scores, topic_nums = t2v.top_2_vec(list_files)
+    return topic_words, word_scores, topic_nums
+
+
+def printToFile(topicResults, type, year):
+    if type == "group":
+        if not os.path.exists(f"output/top2vec"):
+            os.makedirs(f"output/top2vec")
+        with open('output/results.csv', 'w', encoding='UTF8') as csvfile:
+            fieldnames = ['File', 'TopicWords', 'WordScore', 'TopicNumber']
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            writer.writeheader()
+            for i in range(0, len(topicResults)):
+                writer.writerow(
+                    {'File': topicResults[i][0], 'TopicWords': topicResults[i][1], 'WordScore': topicResults[i][2],
+                     'TopicNumber': topicResults[i][3]})
+    else:
+        if not os.path.exists(f"output/top2vec/{year}"):
+            os.makedirs(f"output/top2vec/{year}")
+        with open(f'output/top2vec/{year}/{year}_results.csv', 'w', encoding='UTF8') as csvfile:
+            fieldnames = ['File', 'TopicWords', 'WordScore', 'TopicNumber']
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            writer.writeheader()
+            for i in range(0, len(topicResults)):
+                writer.writerow(
+                    {'File': topicResults[i][0], 'TopicWords': topicResults[i][1], 'WordScore': topicResults[i][2],
+                     'TopicNumber': topicResults[i][3]})
 
 
 if __name__ == "__main__":
@@ -254,3 +284,62 @@ if __name__ == "__main__":
         if choose == "pca":
             # TODO creare metodo per pca
             exit()
+    else:
+        # choose is top2vec
+        singleORgrouped = input("Do you want to analyze a single year or a group of years?\n"
+                                "-> Digit 'single' to analyze a single year (may not working for every years)\n"
+                                "-> Digit 'group' to analyze a group of years\n")
+        if singleORgrouped == "single":
+            print("single")
+            year = input("Insert year to be analyze: \n""(you can choose from the list: " + str(years_list) + ")\n")
+            # check if the year is in the list of years
+            if year not in years_list:
+                print("Year not in the list")
+                exit()
+
+            # take all the names of the files
+            filtered_docs_list = []  # list of the files to analyze filtered by year
+            for doc in listDoc:
+                if doc.endswith(".txt") and year in doc:
+                    filtered_docs_list.append(doc)
+            if filtered_docs_list == []:  # we found no files to analyze for the selected year
+                print("No documents found for this decade")
+                exit()
+
+            list_files = []
+            for doc in filtered_docs_list:
+                input_file = open(f"data/{doc}", encoding="utf8")
+                file_text = input_file.read()
+                list_files.append(file_text)
+            logger.info("Start Top2Vec analysis for documents contained in the year: %s. Number of documents: %s",
+                        year, len(list_files))
+            topic_words, word_scores, topic_nums = choice_top2vec(list_files)
+            partial_results = [year, topic_words, word_scores, topic_nums]
+            logger.info("End Top2Vec analysis for documents contained in the year: %s", year)
+            printToFile(partial_results, "single", year)
+        else:
+            # execute top_2_vec on documents grouped by ten years
+            # extract interval of 10 year from the list of years
+            year_list_10 = []
+            for i in range(0, len(years_list) - 9, 10):
+                year_list_10.append(years_list[i:i + 10])
+            year_list_10.append(years_list[len(years_list) - len(years_list) % 10:])  # take the remaining years
+
+            resultsForFile = []
+
+            for group in year_list_10:
+                list_files = []
+                for year in group:
+                    for doc in listDoc:
+                        if doc.endswith(".txt") and year in doc:
+                            input_file = open(f"data/{doc}", encoding="utf8")
+                            file_text = input_file.read()
+                            list_files.append(file_text)
+                logger.info("Start Top2Vec analysis for documents contained in the year: %s. Number of documents: %s",
+                            group, len(list_files))
+                topic_words, word_scores, topic_nums = choice_top2vec(list_files)
+                partial_results = [group, topic_words, word_scores, topic_nums]
+                logger.info("End Top2Vec analysis for documents contained in the year: %s", group)
+                resultsForFile.append(partial_results)
+
+            printToFile(resultsForFile, "group", "")

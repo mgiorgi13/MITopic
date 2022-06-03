@@ -100,4 +100,4 @@ def DBSCAN_Topic(word_vect_dict, year):
             value.append(list(word_vect_dict.values())[index])
             word.append(list(word_vect_dict.keys())[index])
 
-    return word, value
+    return word, value, theBest[0][0]
