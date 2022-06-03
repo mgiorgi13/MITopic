@@ -2,25 +2,15 @@ import csv
 import logging
 import coloredlogs
 import os
-import threading
 from datetime import datetime
-import time
 import numpy as np
 from sklearn.preprocessing import RobustScaler
 from sklearn.metrics.pairwise import cosine_similarity
 import text_preprocessing as tp
 import embedding_word as ew
-import centroid_topic as ct
-import CSV_complie as cc
 import PCA_plot3D as pca
-import DBSCAN_topic as db
-from tqdm import tqdm
-import top_2_vec as t2v
-import multiprocessing
-from csv import writer
-import pandas as pd
 import operator
-import sys
+
 
 
 # GLOBAL VARIABLES
@@ -126,23 +116,15 @@ def densityArea(docs,title,year):
                 f.write(word + ", ")
             f.write(" \n")
 
-if __name__ == "__main__":
+def STD():
 
     # print(sys.argv[0])  # prints python_script.py
     # print(sys.argv[1])  # prints var1 choose option
     # print(sys.argv[2])  # prints var2 year
     # print(sys.argv[3])  # prints var3 num cores
 
-    if (len(sys.argv) == 4):
-        arg_from_command_line = True
-    else:
-        arg_from_command_line = False
+    year = input("Insert year to be analyze: \n(insert skip if you want to scan all the documents)\n")
 
-
-    if (arg_from_command_line == False):
-        year = input("Insert year to be analyze: \n(insert skip if you want to scan all the documents)\n")
-    else:
-        year = str(sys.argv[2])
 
     # Working Folder
     os.chdir("data")
