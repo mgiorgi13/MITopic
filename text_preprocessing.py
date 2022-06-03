@@ -1,4 +1,6 @@
 # Import Module
+import os
+
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem.wordnet import WordNetLemmatizer
@@ -11,17 +13,28 @@ from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 # nltk.download('averaged_perceptron_tagger')
 # nltk.download('wordnet')
 
+# read file.txt and store it in array
+names = []
+with open('names.txt', 'r') as f:
+    for line in f:
+        name = line.replace('\n', '')
+        names.append(name.lower())
+
+# print(names)
+
 numbers = ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve",
            "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen", "twenty", "twentyone",
            "twentytwo", "twentythree", "twentyfour", "twentyfive", "twentysix", "twentyseven", "twentyeight",
-           "twentynine", "thirty","thirtyone", "thirtytwo", "thirtythree", "thirtyfour", "thirtyfive", "thirtysix",
-           "thirtyseven", "thirtyeight", "thirtynine", "forty","fortyone", "fortytwo", "fortythree", "fortyfour",
-           "fortyfive", "fortysix", "fortyseven", "fortyeight", "fortynine", "fifty","fiftyone", "fiftytwo",
+           "twentynine", "thirty", "thirtyone", "thirtytwo", "thirtythree", "thirtyfour", "thirtyfive", "thirtysix",
+           "thirtyseven", "thirtyeight", "thirtynine", "forty", "fortyone", "fortytwo", "fortythree", "fortyfour",
+           "fortyfive", "fortysix", "fortyseven", "fortyeight", "fortynine", "fifty", "fiftyone", "fiftytwo",
            "fiftythree", "fiftyfour", "fiftyfive", "fiftysix", "fiftyseven", "fiftyeight", "fiftynine",
-           "sixty","sixtyone", "sixtytwo", "sixtythree", "sixtyfour", "sixtyfive", "sixtysix", "sixtyseven",
-           "sixtyeight", "sixtynine", "seventy","seventyone", "seventytwo", "seventythree", "seventyfour", "seventyfive",
-           "seventysix", "seventyseven", "seventyeight", "seventynine", "eighty","eightyone", "eightytwo", "eightythree",
-           "eightyfour", "eightyfive", "eightysix", "eightyseven", "eightyeight", "eightynine", "ninety","ninetyone",
+           "sixty", "sixtyone", "sixtytwo", "sixtythree", "sixtyfour", "sixtyfive", "sixtysix", "sixtyseven",
+           "sixtyeight", "sixtynine", "seventy", "seventyone", "seventytwo", "seventythree", "seventyfour",
+           "seventyfive",
+           "seventysix", "seventyseven", "seventyeight", "seventynine", "eighty", "eightyone", "eightytwo",
+           "eightythree",
+           "eightyfour", "eightyfive", "eightysix", "eightyseven", "eightyeight", "eightynine", "ninety", "ninetyone",
            "ninetytwo", "ninetythree", "ninetyfour", "ninetyfive", "ninetysix", "ninetyseven", "ninetyeight",
            "ninetynine", "onehundred", "twenty-one", "twenty-two", "twenty-three", "twenty-four", "twenty-five",
            "twenty-six", "twenty-seven", "twenty-eight", "twenty-nine", "thirty-one", "thirty-two", "thirty-three",
@@ -42,6 +55,7 @@ lemmatizer = WordNetLemmatizer()
 stopwords_en = stopwords.words('english')
 stopwords_en.extend(numbers)
 stopwords_en.extend(punctuation)
+stopwords_en.extend(names)
 
 
 def print_stopword():
@@ -150,14 +164,19 @@ def word_count(str):
     return sort_orders
 
 
-def tag_cloud(words):
+def tag_cloud(words, year):
     # Start with one review:
     text = " ".join([str(item) for item in words])
 
     # Create and generate a word cloud image:
-    wordcloud = WordCloud().generate(text)
+    wordcloud = WordCloud(width=1920, height=1080).generate(text)
+
+    if not os.path.exists(f"output/wordcloud/{year}"):
+        os.makedirs(f"output/wordcloud/{year}")
+    wordcloud.to_file(f"output/wordcloud/{year}/wordcloud.png")
+
 
     # Display the generated image:
-    plt.imshow(wordcloud, interpolation='bilinear')
-    plt.axis("off")
-    plt.show()
+    # plt.imshow(wordcloud, interpolation='bilinear')
+    # plt.axis("off")
+    # plt.show()
