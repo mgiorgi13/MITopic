@@ -14,7 +14,7 @@ def DBSCAN_Topic(word_vect_dict, year, title):
     bestCluster = {}
     best_eps = {}
     for i in range(1, 11):
-        clustering = DBSCAN(metric = 'cosine', eps=i/10, min_samples=1).fit(X)
+        clustering = DBSCAN(metric = 'cosine', eps=i/10, min_samples=5).fit(X)
 
         key = []
         value = []
