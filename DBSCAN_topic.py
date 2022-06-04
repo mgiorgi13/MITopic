@@ -63,8 +63,8 @@ def DBSCAN_Topic(word_vect_dict, year):
             dctWord[clustering.labels_[index]].append(list(word_vect_dict.keys())[index])
             dctValue[clustering.labels_[index]].append(list(word_vect_dict.values())[index])
 
-    if os.path.exists(f"output/clustering/{year}.txt"):
-        os.remove(f"output/clustering/{year}.txt")
+    if os.path.exists(f"output/{year}/clustering/{year}_clusters.txt"):
+        os.remove(f"output/{year}/clustering/{year}_clusters.txt")
     bigClusters = {}
     for g in range(0, len(dctWord)):
         tot_vectors = {}
@@ -81,12 +81,12 @@ def DBSCAN_Topic(word_vect_dict, year):
                 dist = cosine_similarity(centroid_, np.array([list(tot_vectors.values())[j]]))
                 distance_vector[list(tot_vectors.keys())[j]] = dist[0][0]
             distance_vector = sorted(distance_vector.items(), key=operator.itemgetter(1), reverse=True)
-            if not os.path.exists(f"output/clustering"):
-                os.makedirs(f"output/clustering")
+            if not os.path.exists(f"output/{year}/clustering"):
+                os.makedirs(f"output/{year}/clustering")
                 a = "w"
             else:
                 a = "a"
-            with open(f"output/clustering/{year}.txt", a) as f:
+            with open(f"output/{year}/clustering/{year}_clusters.txt", a) as f:
                 f.write("selected year: " + year)
                 f.write(" \n")
                 f.write("len: " + str(len(dctWord[g])))
@@ -101,12 +101,12 @@ def DBSCAN_Topic(word_vect_dict, year):
                 f.write(" \n")
                 f.write(" \n")
         else:
-            if not os.path.exists(f"output/clustering"):
-                os.makedirs(f"output/clustering")
+            if not os.path.exists(f"output/{year}/clustering"):
+                os.makedirs(f"output/{year}/clustering")
                 a = "w"
             else:
                 a = "a"
-            with open(f"output/clustering/{year}.txt", a) as f:
+            with open(f"output/{year}/clustering/{year}_clusters.txt", a) as f:
                 f.write("selected year: " + year)
                 f.write(" \n")
                 f.write("len: " + str(len(dctWord[g])))
@@ -124,6 +124,8 @@ def DBSCAN_Topic(word_vect_dict, year):
         key.append(clustering.labels_[index])
         value.append(list(word_vect_dict.values())[index])
         word.append(list(word_vect_dict.keys())[index])
+    if not os.path.exists(f"output/{year}/PCA/"):
+        os.makedirs(f"output/{year}/PCA/")
     pca.pca_clustering_3D(value, key,
-                          f"/output/html/{year}_gtd/year_{year}__radius_{theBest[0][0] / 10}_FinalClustering")
+                          f"output/{year}/PCA/year_{year}__radius_{theBest[0][0] / 10}_FinalClustering")
     return bigClusters

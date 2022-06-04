@@ -4,8 +4,6 @@ import os
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem.wordnet import WordNetLemmatizer
-import matplotlib.pyplot as plt
-from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 
 # nltk.download('stopwords')
 # nltk.download('omw-1.4')
@@ -145,38 +143,3 @@ def lemmatization(simpler_POS_text):
             lemmatized_text.append(lemmatizer.lemmatize(tuple[0], pos=tuple[1]))
 
     return lemmatized_text
-
-
-# TODO move these function in another file
-
-def word_count(str):
-    counts = dict()
-    words = str
-
-    for word in words:
-        if word in counts:
-            counts[word] += 1
-        else:
-            counts[word] = 1
-
-    sort_orders = sorted(counts.items(), key=lambda x: x[1], reverse=True)
-
-    return sort_orders
-
-
-def tag_cloud(words, year):
-    # Start with one review:
-    text = " ".join([str(item) for item in words])
-
-    # Create and generate a word cloud image:
-    wordcloud = WordCloud(width=1920, height=1080).generate(text)
-
-    if not os.path.exists(f"output/wordcloud/{year}"):
-        os.makedirs(f"output/wordcloud/{year}")
-    wordcloud.to_file(f"output/wordcloud/{year}/wordcloud.png")
-
-
-    # Display the generated image:
-    # plt.imshow(wordcloud, interpolation='bilinear')
-    # plt.axis("off")
-    # plt.show()
