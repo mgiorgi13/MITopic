@@ -1,11 +1,11 @@
 import gensim
 import gensim.corpora as corpora
 from gensim.models import CoherenceModel
-from pprint import pprint
 
 def lda(data, num_topics):
     """
     LDA model.
+    :param data: documents to be analyzed.
     :param num_topics: Number of topics.
     :return: LDA model.
     """
@@ -21,6 +21,8 @@ def lda(data, num_topics):
         corpus=corpus,
         id2word=dictionary,
         num_topics=num_topics,
+        alpha='auto',
+        eta='auto',
         passes=10,
         workers=4)
     return lda_model, dictionary, corpus
@@ -33,11 +35,14 @@ def print_coherence(lda_model, dictionary, corpus, texts):
     coherence_lda = coherence_model_lda.get_coherence()
     print('\nCoherence Score: ', coherence_lda)
 
-#print number of topics of LDA model
+#print topics of LDA model
 def print_topics(lda_model, num_words):
     print('\nTopics in LDA model:')
-    # pprint(lda_model.print_topics())
     for idx, topic in lda_model.print_topics(num_words=num_words):
         print('Topic: {} \nWords: {}'.format(idx, topic))
-
-
+        
+#print documents of LDA model
+def print_documents(lda_model, corpus):
+    print('\nDocuments in LDA model:')
+    for i, topic in lda_model[corpus]:
+        print('Document: {} \nTopic: {}'.format(i, topic))

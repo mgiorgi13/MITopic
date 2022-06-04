@@ -35,6 +35,13 @@ logger = logging.getLogger(__name__)
 coloredlogs.install(level='INFO', logger=logger,
                     fmt="- Process -> pid[%(process)d], name[%(processName)s] Function -> [%(funcName)s]\n%(asctime)s --- %(levelname)s log -> [%(message)s]")
 
+best_topic_number = {}
+
+with open('best_num_topic.txt', 'r', encoding='UTF8') as file:
+    for line in file:
+        text = line
+        text = text.split(" ")
+        best_topic_number[text[0]] = text[1]
 
 def parallelized_function(file):
     if file.endswith(".txt"):
@@ -112,6 +119,7 @@ def choice_f(data,n_topic,n_words):
     lda_model, dictionary, corpus = lda.lda(data,n_topic)
     lda.print_coherence(lda_model, dictionary, corpus, data)
     lda.print_topics(lda_model,n_words)
+    lda.print_documents(lda_model,n_words)
     return
 
 def choice_g(data,n_topic,n_words, year):

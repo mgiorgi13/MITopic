@@ -29,8 +29,11 @@ def create_gensim_lsa_model(doc_clean,number_of_topics,words):
     lsamodel = LsiModel(doc_term_matrix, num_topics=number_of_topics, id2word = dictionary)  # train model
 
     res = lsamodel.print_topics(num_topics=number_of_topics, num_words=words)
+
+    print("Topics in LSA model:")
     for i in res:
         print(i)
+
     return lsamodel
 
 def compute_coherence_values(dictionary, doc_term_matrix, doc_clean, stop, start=2, step=3):
