@@ -6,6 +6,8 @@ from datetime import datetime
 import numpy as np
 from sklearn.preprocessing import RobustScaler
 from sklearn.metrics.pairwise import cosine_similarity
+from wordcloud import WordCloud
+
 import text_preprocessing as tp
 import embedding_word as ew
 import PCA_plot3D as pca
@@ -40,14 +42,15 @@ def preprocessing(file):
 def frequencyEachDoc(files, filtered_docs_list, year):
     frequency_list = []
     header = ['file_name', 'word_frequency']
-
-    with open(f'output/{year}_file_word_frequency.csv', 'w', encoding='UTF8', newline='') as f:
+    if not os.path.exists(f'output/std'):
+        os.makedirs(f'output/std')
+    with open(f'output/std/{year}_file_word_frequency.csv', 'w', encoding='UTF8', newline='') as f:
         writer = csv.writer(f)
         # write the header
         writer.writerow(header)
 
     for i in range(len(filtered_docs_list)):
-        with open(f'output/{year}_file_word_frequency.csv', 'a', encoding='UTF8', newline='') as f:
+        with open(f'output/std/{year}_file_word_frequency.csv', 'a', encoding='UTF8', newline='') as f:
             writer = csv.writer(f)
             # write file words
             frequency_list.append(tp.word_count(files[i]))
@@ -66,10 +69,10 @@ def densityArea(docs,title,year):
         tot_vectors = {}
         for word in clear_results[0]:
             tot_vectors[str(word)] = ew.get_embedding(str(word))
-        if os.path.exists(f"output/html_std/{year}/{title[i][:-4]}") == 0:
-            os.makedirs(f"output/html_std/{year}/{title[i][:-4]}")
+        if os.path.exists(f"output/std/html/{year}/{title[i][:-4]}") == 0:
+            os.makedirs(f"output/std/html/{year}/{title[i][:-4]}")
         pca.pca_clustering_3D(list(tot_vectors.values()), list(tot_vectors.keys()),
-                              f"/output/html_std/{year}/{title[i][:-4]}/InitialCluster__nWords_{len(tot_vectors)}")
+                              f"/output/std/html/{year}/{title[i][:-4]}/InitialCluster__nWords_{len(tot_vectors)}")
         transformer = RobustScaler(quantile_range=( 0, 75.0))
         transformer.fit(list(tot_vectors.values()))
         centroid_ = transformer.center_
@@ -96,7 +99,7 @@ def densityArea(docs,title,year):
             if distance_vector[s][1] <= -0.5 and distance_vector[s][1] >= -1:
                 dct[-1].append(distance_vector[s][0])
                 continue
-        path = f"output/{year}/{title[i][:-4]}"
+        path = f"output/std/{year}/{title[i][:-4]}"
         if os.path.exists(path) == False:
             os.makedirs(path)
         with open(f"{path}/{year}_TopWords.txt", "w") as f:
@@ -124,7 +127,14 @@ def densityArea(docs,title,year):
                     if dct[1][t] == docs[i][p]:
                         words.append(dct[1][t])
 
-            tp.tag_cloud(words, year)
+            text = " ".join([str(item) for item in words])
+
+            # Create and generate a word cloud image:
+            wordcloud = WordCloud(width=1920, height=1080, background_color="white").generate(text)
+
+            if not os.path.exists(f"output/std/wordcloud/{year}"):
+                os.makedirs(f"output/std/wordcloud/{year}")
+            wordcloud.to_file(f"output/std/wordcloud/{year}/wordcloud.png")
 
 def STD():
 
