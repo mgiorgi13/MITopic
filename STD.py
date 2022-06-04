@@ -80,15 +80,17 @@ def densityArea(docs,title,year):
             distance_vector[list(tot_vectors.keys())[j]] = dist[0][0]
         distance_vector = sorted(distance_vector.items(), key=operator.itemgetter(1),
                                       reverse=True)
+
+
         dct = {}
+        dct[1] = []
         dct[-1] = []
         dct[0] = []
-        dct[1] = []
         for s in range(0, len(distance_vector)):
-            if distance_vector[s][1]<= 1 and distance_vector[s][1]  > 0.5:
+            if distance_vector[s][1]<= 1 and distance_vector[s][1]  > 0.3:
                 dct[1].append(distance_vector[s][0])
                 continue
-            if distance_vector[s][1] <= 0.5 and distance_vector[s][1] > -0.5:
+            if distance_vector[s][1] <= 0.3 and distance_vector[s][1] > -0.5:
                 dct[0].append(distance_vector[s][0])
                 continue
             if distance_vector[s][1] <= -0.5 and distance_vector[s][1] >= -1:
@@ -115,6 +117,14 @@ def densityArea(docs,title,year):
             for word in dct[-1]:
                 f.write(word + ", ")
             f.write(" \n")
+
+            words = []
+            for p in range(0, len(docs[i])):
+                for t in range(0, len(dct[1])):
+                    if dct[1][t] == docs[i][p]:
+                        words.append(dct[1][t])
+
+            tp.tag_cloud(words, year)
 
 def STD():
 

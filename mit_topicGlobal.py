@@ -72,12 +72,7 @@ def choice_lsa_method(data, n_topic, n_words, year):
 def word_cloud_method(tot_vectors, file_text, year):
     # create a word cloud for the most frequent words of the densest part of the selected year
     word_vector, value_vactor, radius = db.DBSCAN_Topic(tot_vectors, year)
-    tot_vectors_bis = {}
-    for i in range(0, len(word_vector)):
-        tot_vectors_bis[word_vector[i]] = value_vactor[i]
-    # rimuovo gli outlier e creo il file
-    transformer = RobustScaler(quantile_range=(25.0, 75.0)).fit(value_vactor)
-    sortedDist = ct.centroid_Topic(transformer.transform(value_vactor), word_vector)
+
     words = []
     for i in range(0, len(file_text)):
         for j in range(0, len(sortedDist)):
@@ -117,22 +112,29 @@ def choice_wordcloud_method(tot_vectors, file_text, year, filtered_docs_list, re
     return
 
 
-def choice_clustering_method(tot_vectors, year):
-    word_vector, value_vactor, key_vector, radius = db.DBSCAN_Topic(tot_vectors, year)
-    tot_vectors = {}
-    for i in range(0, len(word_vector)):
-        tot_vectors[word_vector[i]] = value_vactor[i]
-        # transformer = RobustScaler(quantile_range=(25.0, 75.0)).fit(value_vactor) # old form
-    transformer = RobustScaler(quantile_range=(0, 75.0))  # rimuovo gli outlier
-    transformer.fit(list(tot_vectors.values()))
-    centroid_ = transformer.center_
-    centroid_ = np.array([centroid_])
-    distance_vector = {}
-    for j in range(0, len(tot_vectors) - 1):
-        dist = cosine_similarity(centroid_, np.array([list(tot_vectors.values())[j]]))
-        distance_vector[list(tot_vectors.keys())[j]] = dist[0][0]
-    distance_vector = sorted(distance_vector.items(), key=operator.itemgetter(1), reverse=True)
-    return distance_vector
+def choice_clustering_method(tot_vectors, year,file_text):
+    bigClusters = db.DBSCAN_Topic(tot_vectors, year)
+    if not os.path.exists(
+            f"output/clustering/{year}"):
+        os.makedirs(f"output/clustering/{year}")
+    # print words into file
+    for t in range(0, len(bigClusters)):
+        topic = []
+        for s in range(0, len(bigClusters[t])):
+            topic.append(bigClusters[t][s])
+    with open(f'output/clustering/{year}/{year}_50TopWordsTopic{t + 1}.csv', 'w', encoding='UTF8') as f:
+        # TODO creare cartella per ogni anno
+        mywriter = csv.writer(f, delimiter='\n')
+        mywriter.writerows([topic])
+    words = []
+    for i in range(0, len(file_text)):
+        for t in range(0, len(bigClusters)):
+            for j in range(0, len(bigClusters[t])):
+                if bigClusters[t][j] == file_text[i]:
+                    words.append(bigClusters[t][j])
+
+    tp.tag_cloud(words, year)
+    return
 
 
 def choice_top2vec(list_files):
@@ -279,16 +281,8 @@ if __name__ == "__main__":
                 os.makedirs(f"html/{year}_gtd")
             pca.pca_clustering_3D(list(tot_vectors.values()), list(tot_vectors.keys()),
                                   f"/html/{year}_gtd/InitialCluster__nWords_{len(tot_vectors)}")
-            topWords = choice_clustering_method(tot_vectors, year)[:50]
+            choice_clustering_method(tot_vectors, year,clear_results[0])
 
-            if not os.path.exists(
-                    f"output/clustering/{year}"):
-                os.makedirs(f"output/clustering/{year}")
-            # print words into file
-            with open(f'output/clustering/{year}/{year}_50TopWords.csv', 'w', encoding='UTF8') as f:
-                # TODO creare cartella per ogni anno
-                mywriter = csv.writer(f, delimiter='\n')
-                mywriter.writerows([topWords])
 
     else:
         # choose is top2vec

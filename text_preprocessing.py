@@ -169,7 +169,7 @@ def tag_cloud(words, year):
     text = " ".join([str(item) for item in words])
 
     # Create and generate a word cloud image:
-    wordcloud = WordCloud(width=1920, height=1080).generate(text)
+    wordcloud = WordCloud(width=1920, height=1080,  background_color="white").generate(text)
 
     if not os.path.exists(f"output/wordcloud/{year}"):
         os.makedirs(f"output/wordcloud/{year}")
