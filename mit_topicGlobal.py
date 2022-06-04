@@ -140,9 +140,9 @@ def choice_top2vec(list_files):
 
 def printToFile(topicResults, type, year):
     if type == "group":
-        if not os.path.exists(f"output/top2vec"):
-            os.makedirs(f"output/top2vec")
-        with open('output/results.csv', 'w', encoding='UTF8') as csvfile:
+        if not os.path.exists(f"output/top2vec/grouped"):
+            os.makedirs(f"output/top2vec/grouped")
+        with open('output/top2vec/grouped/grouped_results.csv', 'w', encoding='UTF8') as csvfile:
             fieldnames = ['File', 'TopicWords', 'WordScore', 'TopicNumber']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             writer.writeheader()
@@ -188,7 +188,7 @@ if __name__ == "__main__":
         if choose == 'lda' or choose == 'lsa' or choose == 'top2vec' or choose == 'wordcloud' or choose == 'gtd-cluster' or choose == 'pca':
             break
         else:
-            exit()  # choose selected is exit
+            exit()  # choose seected is exit
 
     # get folder with all the files to analyze
     # recommendation: put the files in the data folder and

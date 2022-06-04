@@ -1,0 +1,228 @@
+File,TopicWords,WordScore,TopicNumber
+"['1990', '1991', '1992', '1993', '1994', '1995', '1996', '1997', '1998', '1999']","[['people' 'who' 'them' 'leadership' 'employees' 'what' 'that' 'managers'
+  'they' 'thing' 'do' 'but' 'jobs' 'be' 'why' 'often' 'things'
+  'organizations' 'his' 'work' 'managerial' 'not' 'job' 'to' 'thinking'
+  'get' 'right' 'about' 'employee' 'out' 'organization' 'good' 'when'
+  'men' 'really' 'never' 'well' 'go' 'he' 'if' 'you' 'everyone' 'doing'
+  'way' 'always' 'vision' 'culture' 'are' 'one' 'seem']
+ ['cio' 'applications' 'processes' 'organizations' 'business'
+  'technology' 'cios' 'systems' 'application' 'function' 'it'
+  'outsourcing' 'technical' 'staff' 'implementing' 'enabled' 'critical'
+  'organization' 'project' 'outsourced' 'capability' 'skills'
+  'management' 'organizational' 'development' 'technologies' 'process'
+  'task' 'packages' 'knowledge' 'projects' 'effective' 'roles' 'noted'
+  'reengineering' 'software' 'outsource' 'build' 'managing' 'necessary'
+  'implementation' 'cko' 'expertise' 'template' 'solution' 'implemented'
+  'functional' 'vendors' 'deliver' 'need']]","[[0.3973802  0.3682357  0.35369077 0.3511071  0.34741887 0.33730766
+  0.3336733  0.33067948 0.32982612 0.3270466  0.3237191  0.3191666
+  0.3148657  0.31483924 0.3099639  0.3092837  0.30927718 0.3080775
+  0.30749854 0.30479634 0.30465457 0.30244672 0.30236107 0.30220252
+  0.30180174 0.30139878 0.30133906 0.3012897  0.30068785 0.2999173
+  0.29871133 0.2986922  0.29699552 0.2949253  0.29488474 0.29318756
+  0.29025352 0.28841794 0.28827932 0.28814825 0.2878816  0.28687477
+  0.2864254  0.28609267 0.28572035 0.2854223  0.28449747 0.28447878
+  0.28398144 0.28394386]
+ [0.49260533 0.4333483  0.4127     0.40693498 0.4022641  0.3897384
+  0.38782868 0.38698676 0.3841948  0.38321146 0.37984398 0.37795028
+  0.37698114 0.37435353 0.3553385  0.34764937 0.34750184 0.34320867
+  0.34230968 0.34201318 0.33500636 0.33413398 0.3337271  0.3335265
+  0.3321571  0.3226797  0.32031813 0.31959975 0.3194805  0.31780297
+  0.31506488 0.31238347 0.3123116  0.31174454 0.30933437 0.3079148
+  0.3077174  0.3067696  0.30590272 0.3034123  0.30311692 0.3024538
+  0.30112252 0.30103037 0.29956552 0.2979653  0.29703584 0.2961857
+  0.29098466 0.28819197]]",[0 1]
+"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009']","[['authors' 'edu' 'boards' 'directors' 'paper' 'shareholders'
+  'researchers' 'professor' 'study' 'assistant' 'says' 'don' 'school'
+  'suggest' 'ceos' 'university' 'suggests' 'accounting' 'studies'
+  'sample' 'findings' 'effects' 'likely' 'effect' 'associate' 'factor'
+  'board' 'variables' 'performance' 'tended' 'conclude' 'explains'
+  'diversity' 'options' 'results' 'impact' 'least' 'contact'
+  'compensation' 'research' 'shareholder' 'tenure' 'finance' 'those'
+  'necessarily' 'earnings' 'graduate' 'points' 'behavior' 'tend']
+ ['leaders' 'people' 'behaviors' 'leadership' 'individuals'
+  'organization' 'senior' 'subordinates' 'believe' 'boss' 'they' 'vision'
+  'organizations' 'others' 'decision' 'team' 'bosses' 'action'
+  'motivation' 'who' 'colleagues' 'managers' 'person' 'me' 'someone'
+  'sense' 'top' 'what' 'leader' 'why' 'reality' 'decisions' 'executives'
+  'facts' 'thinking' 'confront' 'he' 'employees' 'conversations' 'making'
+  'actions' 'accountable' 'his' 'things' 'meetings' 'simply'
+  'personality' 'peoples' 'manager' 'clarity']
+ ['sustainability' 'smr' 'youre' 'you' 'think' 'environmental'
+  'emissions' 'maybe' 'thats' 'mean' 'things' 'really' 'dont'
+  'sustainable' 'say' 'youve' 'what' 'theres' 'saying' 'your' 'tell'
+  'interview' 'thing' 'going' 'why' 'go' 'green' 'energy' 'something'
+  'doesnt' 'people' 'just' 'population' 'about' 'im' 'question' 'get'
+  'do' 'yes' 'ask' 'very' 'kinds' 'so' 'thinking' 'know' 'weve' 'out'
+  'waste' 'want' 'theyre']]","[[0.5027986  0.37150708 0.37025198 0.364079   0.36343914 0.3616442
+  0.35948893 0.34746978 0.3436953  0.34173363 0.33220094 0.32216775
+  0.32112968 0.31554475 0.3150792  0.31463644 0.3096001  0.30673003
+  0.30501354 0.30231202 0.30182573 0.30093396 0.29378346 0.29241708
+  0.29048032 0.28935793 0.2872817  0.28688285 0.28478956 0.28388143
+  0.28344455 0.28310904 0.27975044 0.27946997 0.27939215 0.27727637
+  0.27649486 0.27620798 0.27449068 0.27049312 0.26901534 0.26879102
+  0.26795575 0.26762027 0.2667492  0.26535022 0.25824714 0.25815555
+  0.25516212 0.25410822]
+ [0.47003564 0.45100358 0.3899371  0.38868728 0.37493056 0.37328255
+  0.36190704 0.359957   0.3575665  0.3532405  0.35093278 0.34517854
+  0.3446988  0.34305644 0.34158972 0.340732   0.34041485 0.33762148
+  0.33570468 0.3326918  0.3304859  0.32909226 0.3284095  0.32662436
+  0.3240596  0.32270393 0.3204806  0.32006946 0.31920627 0.3176119
+  0.31715295 0.3125991  0.31252185 0.31226012 0.310881   0.31009576
+  0.30876052 0.3066789  0.3062923  0.30586722 0.30575353 0.30483508
+  0.30421206 0.302625   0.30190292 0.30063272 0.3004415  0.29956064
+  0.29825622 0.2974927 ]
+ [0.6081559  0.51801956 0.4646782  0.46432403 0.45844272 0.40039906
+  0.38786778 0.37896624 0.3767267  0.37444547 0.37311336 0.366934
+  0.36250982 0.35612625 0.35223737 0.34604746 0.34534937 0.3440054
+  0.33879358 0.3365515  0.3256053  0.32462582 0.31792086 0.31640208
+  0.31583837 0.3135026  0.3129266  0.3128147  0.30873868 0.30262613
+  0.30172372 0.2980158  0.29640648 0.2952907  0.29445508 0.29210907
+  0.29164535 0.29038566 0.28943703 0.2890514  0.28876728 0.28503945
+  0.28489417 0.28460908 0.28281775 0.2809725  0.2793254  0.27918735
+  0.27712536 0.27457348]]",[0 1 2]
+"['2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']","[['respondents' 'directors' 'sustainability' 'survey' 'boards' 'top'
+  'shareholders' 'shareholder' 'board' 'oversight' 'executives'
+  'leadership' 'objectives' 'sustainable' 'compensation' 'leaders'
+  'organization' 'organizations' 'say' 'analytics' 'percent' 'metrics'
+  'ceos' 'said' 'nonfinancial' 'performance' 'companies' 'management'
+  'global' 'strategic' 'business' 'percentage' 'effectiveness' 'bpo'
+  'indicators' 'initiatives' 'change' 'managers' 'focus' 'maturity' 'our'
+  'commitment' 'enterprise' 'cios' 'achieving' 'surveyed'
+  'transformation' 'strongly' 'corporations' 'greater']
+ ['smr' 'sloan' 'mit' 'authors' 'article' 'review' 'articles'
+  'management' 'school' 'issue' 'professor' 'peter' 'read' 'perspectives'
+  'describe' 'interview' 'his' 'insights' 'director' 'wrote'
+  'conversation' 'david' 'me' 'colleagues' 'executives' 'what' 'reading'
+  'michael' 'dormant' 'career' 'how' 'examine' 'write' 'note' 'question'
+  'out' 'organizational' 'topic' 'youll' 'my' 'mind' 'us' 'culture'
+  'ideas' 'here' 'things' 'isnt' 'he' 'scholars' 'think']
+ ['costs' 'customers' 'shipping' 'prices' 'purchases' 'return' 'returns'
+  'free' 'goods' 'purchase' 'retailers' 'inventory' 'cost' 'fees' 'price'
+  'profits' 'manufacturing' 'customer' 'product' 'revenue' 'sales'
+  'retailer' 'demand' 'products' 'margins' 'profitable' 'manufacturers'
+  'components' 'offering' 'additive' 'delivery' 'total' 'higher' 'chains'
+  'increase' 'supply' 'fee' 'hotel' 'features' 'lower' 'margin' 'orders'
+  'pricing' 'add' 'per' 'selling' 'volume' 'fewer' 'service' 'chain']
+ ['model' 'business' 'synergies' 'models' 'existing' 'opportunities'
+  'businesses' 'china' 'new' 'market' 'capture' 'resources' 'plan' 'its'
+  'ip' 'chinas' 'portfolio' 'growth' 'competitors' 'revenue' 'activities'
+  'established' 'exploit' 'strategic' 'engine' 'journey' 'selling'
+  'strategy' 'industry' 'protection' 'leverage' 'economies' 'partners'
+  'competitive' 'strategies' 'technological' 'operating' 'units'
+  'opportunity' 'failed' 'position' 'enter' 'proprietary' 'unique'
+  'profit' 'structure' 'markets' 'capital' 'company' 'capabilities']
+ ['human' 'humans' 'machines' 'ai' 'machine' 'artificial' 'intelligent'
+  'tasks' 'algorithms' 'robots' 'automation' 'automated' 'jobs'
+  'computers' 'intelligence' 'will' 'cognitive' 'edition' 'advances'
+  'driving' 'skills' 'technologies' 'take' 'today' 'predictions'
+  'computer' 'next' 'prediction' 'wont' 'judgment' 'note' 'better' 'kind'
+  'performed' 'perform' 'smart' 'technology' 'intuition' 'workers' 'but'
+  'specialized' 'world' 'algorithm' 'print' 'solve' 'task' 'processing'
+  'cloud' 'skill' 'really']
+ ['media' 'campaign' 'marketers' 'facebook' 'brand' 'campaigns' 'users'
+  'social' 'posts' 'comments' 'friends' 'videos' 'consumers' 'messages'
+  'conversations' 'advertising' 'generated' 'content' 'post' 'user'
+  'online' 'brands' 'forums' 'roi' 'influencers' 'website' 'posted'
+  'marketing' 'positive' 'purchase' 'fans' 'interest' 'sites' 'consumer'
+  'twitter' 'forum' 'mouth' 'metric' 'message' 'pages' 'stories' 'engage'
+  'nestl' 'video' 'opinions' 'share' 'audience' 'reach' 'websites' 'page']
+ ['think' 'lot' 'thats' 'really' 'going' 'im' 'you' 'youre' 'thing'
+  'theres' 'me' 'theyre' 'things' 'youve' 'weve' 'say' 'something' 'what'
+  'yes' 'know' 'maybe' 'get' 'doing' 'now' 'do' 'very' 'just' 'go' 'got'
+  'look' 'my' 'actually' 'bit' 'looking' 'so' 'us' 'tell' 'ive' 'talking'
+  'big' 'put' 'happening' 'thinking' 'dont' 'way' 'want' 'we' 'couple'
+  'whole' 'your']]","[[0.39567953 0.3746598  0.36511198 0.36340407 0.35242328 0.34672025
+  0.34344813 0.33064193 0.32616413 0.3211665  0.3199137  0.31584752
+  0.31219813 0.30848083 0.30436662 0.30014345 0.29083997 0.28794202
+  0.2834835  0.2795571  0.2752454  0.2747808  0.2733207  0.26714376
+  0.26607227 0.26430386 0.26308686 0.26200542 0.26177818 0.2614001
+  0.2612625  0.26005208 0.25993454 0.25922602 0.25848675 0.25818756
+  0.25737983 0.25606942 0.25601053 0.25052932 0.250039   0.24931194
+  0.24842879 0.24798012 0.2470112  0.24446042 0.2441908  0.24392276
+  0.24345474 0.24087822]
+ [0.5307432  0.52672017 0.5256637  0.46765277 0.44205406 0.42960003
+  0.42876658 0.35591334 0.34919363 0.33923715 0.32919666 0.29783648
+  0.2918238  0.28776738 0.2874682  0.28538373 0.2791533  0.27842802
+  0.278273   0.2781825  0.27781197 0.26594073 0.26519808 0.2651349
+  0.26359484 0.26134038 0.26098582 0.2607265  0.25856623 0.25653303
+  0.25545055 0.25436804 0.25336406 0.253089   0.2517738  0.24302046
+  0.24280214 0.24274984 0.2419439  0.24172279 0.2408372  0.23906182
+  0.23894356 0.23808347 0.23778078 0.23695908 0.23495491 0.23463549
+  0.23268619 0.23096657]
+ [0.41461793 0.4082254  0.38183483 0.37773648 0.37601617 0.36710295
+  0.36323792 0.36206967 0.3570795  0.35659805 0.35420302 0.3495443
+  0.34746414 0.346669   0.34650686 0.3464193  0.33349308 0.3290704
+  0.32187536 0.32009682 0.3174217  0.31661424 0.31429875 0.3096381
+  0.30892816 0.3032019  0.30317473 0.3000562  0.2986924  0.29739377
+  0.29731122 0.29497308 0.29348618 0.29193774 0.28650767 0.28583106
+  0.2857249  0.28508028 0.28408253 0.28368986 0.28336546 0.2810734
+  0.2806558  0.27662322 0.2757273  0.27296114 0.27189043 0.27068976
+  0.26636222 0.25974172]
+ [0.42393148 0.35169226 0.34453282 0.32651398 0.3208739  0.312349
+  0.3050702  0.30464947 0.30420548 0.29965362 0.29858106 0.29742217
+  0.29444963 0.2944066  0.29341057 0.29274723 0.28700742 0.28682286
+  0.28322974 0.2831401  0.27874255 0.27786383 0.27628243 0.27240562
+  0.2682053  0.26717675 0.26674536 0.26613083 0.26534688 0.26440144
+  0.25807944 0.25582594 0.25362942 0.25179404 0.2512659  0.24942873
+  0.24793515 0.2479033  0.24763268 0.24723138 0.24631758 0.24486348
+  0.24341337 0.24277596 0.24122332 0.24114555 0.24114326 0.23964547
+  0.2393659  0.23707876]
+ [0.56567276 0.5459072  0.5458282  0.5417363  0.46992537 0.44728896
+  0.44623113 0.44600686 0.41044676 0.4092962  0.40493962 0.39758977
+  0.39278314 0.37882432 0.37866196 0.36172095 0.35948732 0.3351894
+  0.3295674  0.30828258 0.29977483 0.29291308 0.2902993  0.28768224
+  0.28668684 0.2845184  0.28446406 0.2818635  0.2815632  0.2773353
+  0.27611902 0.2702755  0.26964334 0.2652826  0.2617255  0.25969094
+  0.25811392 0.25740546 0.25711238 0.25698248 0.25662473 0.2562576
+  0.25522786 0.25345135 0.25301328 0.2527446  0.25255945 0.25156975
+  0.25117695 0.25062552]
+ [0.52801013 0.50776815 0.48450923 0.4764848  0.45576817 0.44951847
+  0.44040325 0.4377659  0.4263453  0.4217717  0.42123222 0.4037411
+  0.4028755  0.38781917 0.38600692 0.38088584 0.3798598  0.37938675
+  0.36120942 0.35474342 0.34603685 0.34378076 0.3416036  0.33843887
+  0.3375583  0.33271146 0.33150145 0.33103174 0.32831475 0.326122
+  0.32489258 0.32422495 0.3199824  0.31846112 0.31665602 0.3160112
+  0.31578857 0.3150984  0.31209567 0.30557752 0.29002315 0.28647077
+  0.28284705 0.28160614 0.28030148 0.28012446 0.2800376  0.2773327
+  0.27463672 0.27453285]
+ [0.5419395  0.52591753 0.5258349  0.5257535  0.5253149  0.5213309
+  0.508137   0.49036255 0.46178788 0.448401   0.44101065 0.4303672
+  0.42679837 0.4194103  0.39969006 0.39805183 0.39552972 0.39409572
+  0.3929966  0.39164335 0.39136308 0.38490447 0.3831603  0.38060036
+  0.38036647 0.37847582 0.37132865 0.36763796 0.36394244 0.3639021
+  0.36151004 0.3607564  0.35898522 0.3568586  0.35645488 0.35228264
+  0.34459558 0.3435184  0.3405054  0.33567208 0.3353551  0.33495972
+  0.33434784 0.33285785 0.33261403 0.33240867 0.33240417 0.33226132
+  0.33010617 0.32877183]]",[0 1 2 3 4 5 6]
+"['2020', '2021', '2022']","[['people' 'employees' 'others' 'colleagues' 'ideas' 'work' 'leaders'
+  'employee' 'who' 'us' 'solving' 'connections' 'they' 'creative' 'feel'
+  'you' 'learn' 'tasks' 'workplace' 'told' 'dont' 'thats' 'something'
+  'behaviors' 'organization' 'creativity' 'those' 'organizations' 'youre'
+  'solve' 'workers' 'teams' 'do' 'formal' 'my' 'know' 'make' 'so'
+  'crisis' 'our' 'what' 'problem' 'engage' 'relationships' 'when' 'them'
+  'leadership' 'time' 'your' 'effort']
+ ['platform' 'customers' 'platforms' 'services' 'market' 'ecosystems'
+  'ue' 'customer' 'competitors' 'products' 'value' 'service' 'amazon'
+  'offerings' 'ecosystem' 'drivers' 'price' 'compete' 'selling'
+  'competition' 'vbs' 'prices' 'offering' 'access' 'revenue'
+  'competitive' 'deliver' 'businesses' 'cost' 'vendors' 'google'
+  'incumbents' 'its' 'delivery' 'proposition' 'sensor' 'retailers'
+  'costs' 'governance' 'scale' 'consumption' 'successful' 'consumers'
+  'sales' 'users' 'number' 'sharing' 'model' 'company' 'markets']]","[[0.42287293 0.39658186 0.3942529  0.39129698 0.38203466 0.3792924
+  0.37602633 0.3634687  0.35042387 0.34565702 0.33528388 0.3333523
+  0.33167028 0.33124164 0.32839668 0.32718316 0.32589278 0.3252299
+  0.31702876 0.30574873 0.30326402 0.30271405 0.30220428 0.30126405
+  0.2993474  0.29871988 0.29847538 0.29835415 0.2980977  0.29802066
+  0.29787803 0.29635015 0.29583824 0.29023656 0.2899936  0.28968483
+  0.28968063 0.28931266 0.28882346 0.28843898 0.28759807 0.28542772
+  0.2852627  0.28493562 0.28350022 0.2828576  0.28254452 0.28254068
+  0.2824671  0.28221917]
+ [0.478445   0.44884807 0.4276321  0.41646498 0.40892667 0.40867594
+  0.40355188 0.39761403 0.38295364 0.3826022  0.38214293 0.38160652
+  0.37479657 0.3683023  0.36461043 0.35651407 0.3542751  0.35338953
+  0.3517518  0.3505262  0.34989208 0.3481219  0.34723374 0.34530213
+  0.3424948  0.34109986 0.33766174 0.33338    0.32956803 0.3290631
+  0.32333165 0.32222128 0.31806582 0.31628346 0.31612146 0.31431785
+  0.31394938 0.31296185 0.312715   0.30814108 0.30321276 0.2965703
+  0.2927648  0.29251787 0.292467   0.2905062  0.2903509  0.2883514
+  0.28399295 0.2817606 ]]",[0 1]

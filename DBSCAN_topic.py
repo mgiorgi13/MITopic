@@ -5,7 +5,6 @@ import operator
 
 
 def DBSCAN_Topic(word_vect_dict, year):
-    print("partito dbscan")
     X = []
     for index in range(0, len(word_vect_dict)):
         X.append(list(word_vect_dict.values())[index])
@@ -68,7 +67,7 @@ def DBSCAN_Topic(word_vect_dict, year):
     # for k in sorted(dctWord, key=lambda k: len(dctWord[k]), reverse=True):
     #     print(k, len(dctWord[k]))
     #     print(dctWord[k][:50])
-
+# TODO RIFARE QUESTO METODO
     with open(f"output/{year}.txt", "w") as f:
         f.write("selected year: " + year)
         f.write(" \n")
