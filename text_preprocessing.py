@@ -1,4 +1,6 @@
 # Import Module
+import os
+
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem.wordnet import WordNetLemmatizer
@@ -8,6 +10,15 @@ from nltk.stem.wordnet import WordNetLemmatizer
 # nltk.download('punkt')
 # nltk.download('averaged_perceptron_tagger')
 # nltk.download('wordnet')
+
+# read file.txt and store it in array
+names = []
+with open('names.txt', 'r') as f:
+    for line in f:
+        name = line.replace('\n', '')
+        names.append(name.lower())
+
+# print(names)
 
 numbers = ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve",
            "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen", "twenty", "twentyone",
@@ -40,6 +51,7 @@ lemmatizer = WordNetLemmatizer()
 stopwords_en = stopwords.words('english')
 stopwords_en.extend(numbers)
 stopwords_en.extend(punctuation)
+stopwords_en.extend(names)
 
 
 def print_stopword():

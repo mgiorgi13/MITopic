@@ -1,4 +1,4 @@
-import matplotlib.pyplot as plt
+import os
 from wordcloud import WordCloud
 
 def word_count(str):
@@ -16,14 +16,14 @@ def word_count(str):
     return sort_orders
 
 
-def tag_cloud(words):
+def tag_cloud(words, year):
     # Start with one review:
     text = " ".join([str(item) for item in words])
 
     # Create and generate a word cloud image:
-    wordcloud = WordCloud().generate(text)
+    wordcloud = WordCloud(width=1920, height=1080,  background_color="white").generate(text)
 
-    # Display the generated image:
-    plt.imshow(wordcloud, interpolation='bilinear')
-    plt.axis("off")
-    plt.show()
+    if not os.path.exists(f"output/wordcloud/{year}"):
+        os.makedirs(f"output/wordcloud/{year}")
+    wordcloud.to_file(f"output/wordcloud/{year}/wordcloud.png")
+
