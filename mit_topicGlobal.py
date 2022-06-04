@@ -114,18 +114,18 @@ def choice_wordcloud_method(tot_vectors, file_text, year, filtered_docs_list, re
 
 def choice_clustering_method(tot_vectors, year,file_text):
     bigClusters = db.DBSCAN_Topic(tot_vectors, year)
-    if not os.path.exists(
-            f"output/clustering/{year}"):
-        os.makedirs(f"output/clustering/{year}")
-    # print words into file
-    for t in range(0, len(bigClusters)):
-        topic = []
-        for s in range(0, len(bigClusters[t])):
-            topic.append(bigClusters[t][s])
-    with open(f'output/clustering/{year}/{year}_50TopWordsTopic{t + 1}.csv', 'w', encoding='UTF8') as f:
-        # TODO creare cartella per ogni anno
-        mywriter = csv.writer(f, delimiter='\n')
-        mywriter.writerows([topic])
+    # if not os.path.exists(
+    #         f"output/clustering/{year}"):
+    #     os.makedirs(f"output/clustering/{year}")
+    # # print words into file
+    # for t in range(0, len(bigClusters)):
+    #     topic = []
+    #     for s in range(0, len(bigClusters[t])):
+    #         topic.append(bigClusters[t][s])
+    # with open(f'output/clustering/{year}/{year}_50TopWordsTopic{t + 1}.csv', 'w', encoding='UTF8') as f:
+    #     # TODO creare cartella per ogni anno
+    #     mywriter = csv.writer(f, delimiter='\n')
+    #     mywriter.writerows([topic])
     words = []
     for i in range(0, len(file_text)):
         for t in range(0, len(bigClusters)):
@@ -277,13 +277,11 @@ if __name__ == "__main__":
             for word in clear_results[0]:
                 tot_vectors[str(word)] = ew.get_embedding(str(word))  # get the embedding of each word
             # get the top 50 words of the most dense cluster
-            if os.path.exists(f"html/{year}_gtd") == 0:
-                os.makedirs(f"html/{year}_gtd")
+            if not os.path.exists(f"output/html/{year}_gtd"):
+                os.makedirs(f"output/html/{year}_gtd")
             pca.pca_clustering_3D(list(tot_vectors.values()), list(tot_vectors.keys()),
-                                  f"/html/{year}_gtd/InitialCluster__nWords_{len(tot_vectors)}")
+                                  f"/output/html/{year}_gtd/InitialCluster__nWords_{len(tot_vectors)}")
             choice_clustering_method(tot_vectors, year,clear_results[0])
-
-
     else:
         # choose is top2vec
         singleORgrouped = input("Do you want to analyze a single year or a group of years?\n"

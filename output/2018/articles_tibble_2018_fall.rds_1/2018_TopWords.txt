@@ -1,8 +1,0 @@
-1: 
-way, fact, attention, idea, thought, something, lack, sort, situation, point, thats, someone, time, effort, opportunity, moment, perspective, people, work, example, problem, person, course, decision, experience, part, argue, attitude, process, attempt, suggestion, relationship, surprise, help, majority, human, leadership, position, society, issue, behavior, response, stop, role, strategy, level, career-advancing, doesnt, effect, tendency, day, practice, realization, support, awareness, research, word, bit, frustration, difficulty, exception, havent, advice, fall, threat, couple, call, reaction, interaction, joke, student, gender, language, school, workplace, disappointment, spot, minority, career, woman, movement, company, phrase,  
- 
-0: 
-project, treatment, expression, remark, advancement, power, confirmation, line, bias, repeat, promotion, discrimination, recommendation, men, view, reconsider, article, board, obstacle, voice, comment, colleague, peer, play, cognitive, leader, please, mentor, ok, month, shock, cycle, combat, endorsement, weight, dominance, barrier, sentiment, executive, bound, harassment, sponsor, interruption, sponsorship, processing, composition, male, display, speaker, disbelief, visibility, dozen, director, efficacy, impediment, backlash, semester, prioritize, script, print, mold, bathroom, shortcoming, golf, version, button, mentorship, interviewee, lounge, dr, ceo, mentee, mccluney, automaticity, coauthor, metoo,  
- 
--1: 
- 

@@ -1,8 +1,0 @@
-1: 
-opportunity, work, education, perspective, change, attention, time, impact, business, policy, job, life, health, management, thinking, organization, employee, people, example, maintain, relationship, employer, practice, pay, career, company, workforce, asset, faculty, conclusion, advise, school, balance, compensation, retirement, challenge, associate, today, implementing, year, economics, skill, corporation, flexibility, factor,  
- 
-0: 
-promotion, recommendation, judge, thesis, framework, implication, retention, article, woman, operation, professor, member, stage, men, model, span, author, vitality, panel, expectancy, ton, beckhard, maanen, zeynep, lb, mit, schell, gratton,  
- 
--1: 
- 

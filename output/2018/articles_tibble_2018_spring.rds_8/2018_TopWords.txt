@@ -1,8 +1,0 @@
-1: 
-fact, understanding, concern, there, individual, latter, kind, consideration, responsibility, result, example, present, context, decision-making, recognize, interest, belief, process, others, decision, whats, respect, conclusion, people, work, state, instance, relationship, development, argument, place, reality, task, environment, strategy, finding, research, assessment, organization, health, law, justification, behavior, issue, study, turn, position, identity, country, evaluation, effect, scenario, help, practice, care, level, debate, business, come, reasoning, create, interpretation, crisis, reform, system, market, information, status, circumstance, factor, economy, convince, complexity, minority, interaction, decade, enforcement, resource, employee, ideology, evolution, framework, reach, equality, occurs, hand, orientation, retain, condition, characteristic, power, share, group, tax,  
- 
-0: 
-school, hierarchy, contrast, participant, union, period, age, bias, access, target, stage, event, year, criterion, college, ambiguity, performance, woman, ethic, entitlement, corruption, dominance, leader, article, prompting, heart, party, tricky, head, laboratory, housing, guideline, researcher, stakeholder, colleague, manager, scientist, scholar, refugee, print, selfishness, illustration, banker, vivid, flux, cue, version, hedging, maker, apple, irregularity, encode, brexit,  
- 
--1: 
- 

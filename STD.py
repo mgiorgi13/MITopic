@@ -66,10 +66,10 @@ def densityArea(docs,title,year):
         tot_vectors = {}
         for word in clear_results[0]:
             tot_vectors[str(word)] = ew.get_embedding(str(word))
-        if os.path.exists(f"html/{year}/{title[i][:-4]}") == 0:
-            os.makedirs(f"html/{year}/{title[i][:-4]}")
+        if os.path.exists(f"output/html_std/{year}/{title[i][:-4]}") == 0:
+            os.makedirs(f"output/html_std/{year}/{title[i][:-4]}")
         pca.pca_clustering_3D(list(tot_vectors.values()), list(tot_vectors.keys()),
-                              f"/html/{year}/{title[i][:-4]}/InitialCluster__nWords_{len(tot_vectors)}")
+                              f"/output/html_std/{year}/{title[i][:-4]}/InitialCluster__nWords_{len(tot_vectors)}")
         transformer = RobustScaler(quantile_range=( 0, 75.0))
         transformer.fit(list(tot_vectors.values()))
         centroid_ = transformer.center_

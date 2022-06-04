@@ -73,8 +73,8 @@ def DBSCAN_Topic(word_vect_dict, year):
     # for k in sorted(dctWord, key=lambda k: len(dctWord[k]), reverse=True):
     #     print(k, len(dctWord[k]))
     #     print(dctWord[k][:50])
-    if os.path.exists(f"output/{year}.txt"):
-        os.remove(f"output/{year}.txt")
+    if os.path.exists(f"output/clustering/{year}.txt"):
+        os.remove(f"output/clustering/{year}.txt")
     bigClusters = {}
     for g in range( 0, len(dctWord)):
         tot_vectors= {}
@@ -91,11 +91,12 @@ def DBSCAN_Topic(word_vect_dict, year):
                 dist = cosine_similarity(centroid_, np.array([list(tot_vectors.values())[j]]))
                 distance_vector[list(tot_vectors.keys())[j]] = dist[0][0]
             distance_vector = sorted(distance_vector.items(), key=operator.itemgetter(1), reverse=True)
-            if not os.path.exists(f"output/{year}.txt"):
+            if not os.path.exists(f"output/clustering"):
+                os.makedirs(f"output/clustering")
                 a = "w"
             else:
                 a = "a"
-            with open(f"output/{year}.txt", a) as f:
+            with open(f"output/clustering/{year}.txt", a) as f:
                 f.write("selected year: " + year)
                 f.write(" \n")
                 f.write("len: " + str(len(dctWord[g])))
@@ -110,11 +111,12 @@ def DBSCAN_Topic(word_vect_dict, year):
                 f.write(" \n")
                 f.write(" \n")
         else:
-            if not os.path.exists(f"output/{year}.txt"):
+            if not os.path.exists(f"output/clustering"):
+                os.makedirs(f"output/clustering")
                 a = "w"
             else:
                 a = "a"
-            with open(f"output/{year}.txt", a) as f:
+            with open(f"output/clustering/{year}.txt", a) as f:
                 f.write("selected year: " + year)
                 f.write(" \n")
                 f.write("len: " + str(len(dctWord[g])))
@@ -129,9 +131,8 @@ def DBSCAN_Topic(word_vect_dict, year):
     value = []
     word = []
     for index in range(0, len(word_vect_dict)):
-        if (bestCluster[theBest[0][0]] == clustering.labels_[index]):
-            key.append(clustering.labels_[index])
-            value.append(list(word_vect_dict.values())[index])
-            word.append(list(word_vect_dict.keys())[index])
-    pca.pca_clustering_3D(value, key, f"/html/{year}_gtd/year_{year}__radius_{theBest[0][0]/10}_FinalClustering")
+        key.append(clustering.labels_[index])
+        value.append(list(word_vect_dict.values())[index])
+        word.append(list(word_vect_dict.keys())[index])
+    pca.pca_clustering_3D(value, key, f"/output/html/{year}_gtd/year_{year}__radius_{theBest[0][0]/10}_FinalClustering")
     return bigClusters

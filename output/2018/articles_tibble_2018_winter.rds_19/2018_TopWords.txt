@@ -1,8 +1,0 @@
-1: 
-sense, need, thing, something, change, example, time, future, place, move, instance, rest, world, use, feel, provide, strategy, term, relationship, company, position, wherever, value, organization, justify, assumption, word, management, middle, call, technology, service, consumer, product, building, embrace, threat, encounter, direction, resource, gap, anticipate, entity,  
- 
-0: 
-go-betweenus, head, list, age, career, transaction, execution, hierarchy, party, tradition, specialist, buy, model, article, distance, player, translation, print, chain, survival, bridge, haven, removal, intermediary, clock, redundancy, version, layer, maker, creator, editor, sweep, producer, edition, obsolescence, middleman, genus, usurper,  
- 
--1: 
- 
