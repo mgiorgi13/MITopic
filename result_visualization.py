@@ -18,21 +18,32 @@ def word_count(str):
     return sort_orders
 
 
-def tag_cloud(words, year):
+def tag_cloud(words, year, path):
     # Start with one review:
     text = " ".join([str(item) for item in words])
 
     # Create and generate a word cloud image:
     wordcloud = WordCloud(width=1920, height=1080,  background_color="white").generate(text)
 
-    if not os.path.exists(f"output/wordcloud/{year}"):
-        os.makedirs(f"output/wordcloud/{year}")
-    wordcloud.to_file(f"output/wordcloud/{year}/wordcloud.png")
+    if path != "-":
+        if not os.path.exists(path):
+            os.makedirs(path)
+        wordcloud.to_file(f"{path}/wordcloud.png")
+    else:
+        if not os.path.exists(f"output/{year}/wordcloud"):
+            os.makedirs(f"output/{year}/wordcloud")
+        wordcloud.to_file(f"output/{year}/wordcloud/wordcloud.png")
+
+
 
 # histogram of word frequency
 def histogram(title, data):
-    # Read CSV into pandas
-    list = word_count(data)
+
+    wordlist = []
+    for i in range(0, len(data)):
+        wordlist.append(data[i])
+
+    list = word_count(wordlist)
 
     words = []
     frequency = []
@@ -80,4 +91,6 @@ def histogram(title, data):
                  loc='left', )
 
     # Show Plot
-    plt.show()
+    if not os.path.exists(f"output/{title}/wordcloud"):
+        os.makedirs(f"output/{title}/wordcloud")
+    plt.savefig(f"output/{title}/wordcloud/histogram_{title}.png")

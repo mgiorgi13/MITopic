@@ -12,8 +12,6 @@ import PCA_plot3D as pca
 import operator
 import result_visualization as rv
 
-
-
 # GLOBAL VARIABLES
 choose = ""
 
@@ -38,40 +36,46 @@ def preprocessing(file):
         logger.info("Subprocess for file -> [%s]", file)
 
         return file_text
-def frequencyEachDoc(files, filtered_docs_list, year):
-    frequency_list = []
-    header = ['file_name', 'word_frequency']
 
-    with open(f'output/{year}_file_word_frequency.csv', 'w', encoding='UTF8', newline='') as f:
-        writer = csv.writer(f)
-        # write the header
-        writer.writerow(header)
 
-    for i in range(len(filtered_docs_list)):
-        with open(f'output/{year}_file_word_frequency.csv', 'a', encoding='UTF8', newline='') as f:
-            writer = csv.writer(f)
-            # write file words
-            frequency_list.append(rv.word_count(files[i]))
-            data = [filtered_docs_list[i],
-                    str(frequency_list[i]).replace(",", "").replace("[", "").replace("]", "")]
-            writer.writerow(data)
+# TODO ripetuto anche dentro wordcloud
+# def frequencyEachDoc(files, filtered_docs_list, year):
+#     frequency_list = []
+#     header = ['file_name', 'word_frequency']
+#     if not os.path.exists(f"output/{year}/STD/"):
+#         os.makedirs(f"output/{year}/STD/")
+#     with open(f'output/{year}/STD/{year}_file_word_frequency.csv', 'w', encoding='UTF8', newline='') as f:
+#         writer = csv.writer(f)
+#         # write the header
+#         writer.writerow(header)
+#
+#     for i in range(len(filtered_docs_list)):
+#         with open(f'output/{year}/STD/{year}_file_word_frequency.csv', 'a', encoding='UTF8', newline='') as f:
+#             writer = csv.writer(f)
+#             # write file words
+#             frequency_list.append(rv.word_count(files[i]))
+#             data = [filtered_docs_list[i],
+#                     str(frequency_list[i]).replace(",", "").replace("[", "").replace("]", "")]
+#             writer.writerow(data)
+
 
 def printCloud(files):
     for file in files:
         rv.tag_cloud(file)
 
-def densityArea(docs,title,year):
+
+def densityArea(docs, title, year):
     for i in range(0, len(docs)):
 
         clear_results = [list(dict.fromkeys(docs[i]))]
         tot_vectors = {}
         for word in clear_results[0]:
             tot_vectors[str(word)] = ew.get_embedding(str(word))
-        if os.path.exists(f"output/html_std/{year}/{title[i][:-4]}") == 0:
-            os.makedirs(f"output/html_std/{year}/{title[i][:-4]}")
+        if not os.path.exists(f"output/{year}/STD/{title[i][:-4]}"):
+            os.makedirs(f"output/{year}/STD/{title[i][:-4]}")
         pca.pca_clustering_3D(list(tot_vectors.values()), list(tot_vectors.keys()),
-                              f"/output/html_std/{year}/{title[i][:-4]}/InitialCluster__nWords_{len(tot_vectors)}")
-        transformer = RobustScaler(quantile_range=( 0, 75.0))
+                              f"output/{year}/STD/{title[i][:-4]}/InitialCluster__nWords_{len(tot_vectors)}")
+        transformer = RobustScaler(quantile_range=(0, 75.0))
         transformer.fit(list(tot_vectors.values()))
         centroid_ = transformer.center_
         centroid_ = np.array([centroid_])
@@ -80,15 +84,14 @@ def densityArea(docs,title,year):
             dist = cosine_similarity(centroid_, np.array([list(tot_vectors.values())[j]]))
             distance_vector[list(tot_vectors.keys())[j]] = dist[0][0]
         distance_vector = sorted(distance_vector.items(), key=operator.itemgetter(1),
-                                      reverse=True)
-
+                                 reverse=True)
 
         dct = {}
         dct[1] = []
         dct[-1] = []
         dct[0] = []
         for s in range(0, len(distance_vector)):
-            if distance_vector[s][1]<= 1 and distance_vector[s][1]  > 0.3:
+            if distance_vector[s][1] <= 1 and distance_vector[s][1] > 0.3:
                 dct[1].append(distance_vector[s][0])
                 continue
             if distance_vector[s][1] <= 0.3 and distance_vector[s][1] > -0.5:
@@ -97,8 +100,8 @@ def densityArea(docs,title,year):
             if distance_vector[s][1] <= -0.5 and distance_vector[s][1] >= -1:
                 dct[-1].append(distance_vector[s][0])
                 continue
-        path = f"output/{year}/{title[i][:-4]}"
-        if os.path.exists(path) == False:
+        path = f"output/{year}/STD/{title[i][:-4]}"
+        if not os.path.exists(path):
             os.makedirs(path)
         with open(f"{path}/{year}_TopWords.txt", "w") as f:
             f.write("1:")
@@ -125,17 +128,13 @@ def densityArea(docs,title,year):
                     if dct[1][t] == docs[i][p]:
                         words.append(dct[1][t])
 
-            rv.tag_cloud(words, year)
+            path = f"output/{year}/STD/{title[i][:-4]}"
+
+            rv.tag_cloud(words, year, path)
+
 
 def STD():
-
-    # print(sys.argv[0])  # prints python_script.py
-    # print(sys.argv[1])  # prints var1 choose option
-    # print(sys.argv[2])  # prints var2 year
-    # print(sys.argv[3])  # prints var3 num cores
-
     year = input("Insert year to be analyze: \n(insert skip if you want to scan all the documents)\n")
-
 
     # Working Folder
     os.chdir("data")
@@ -158,18 +157,13 @@ def STD():
     if year == "skip":
         filtered_docs_list = all_docs
 
-    # if (arg_from_command_line == False):
-    #     print("You have ", multiprocessing.cpu_count(), " cores")
-    #     core_number = input('How many core do you want to use?: (Do not overdo it)\n')
-    # else:
-    #     core_number = str(sys.argv[3])
-
     logger.info("Start Time : %s", datetime.now())
     start_time = datetime.utcnow()
     filePP = []
     for doc in filtered_docs_list:
         filePP.append(preprocessing(doc))
     a = 2
-    frequencyEachDoc(filePP, filtered_docs_list, year) #write in file "output" all frequency words each document for year
-  # printCloud(filePP) #plot of cloud using the cloud
-    densityArea(filePP,filtered_docs_list,year) #found the densest area of the cluster
+    # write in file "output" all frequency words each document for year
+    # frequencyEachDoc(filePP, filtered_docs_list, year)
+
+    densityArea(filePP, filtered_docs_list, year)  # found the densest area of the cluster

@@ -60,6 +60,7 @@ def parallelized_function(file):
 
 
 def choice_b(tot_vectors, year):
+    # TODO modificare perche manca la sort nella creazione file con tutti i cluster
     pca.pca_clustering_3D(list(tot_vectors.values()), list(tot_vectors.keys()),
                           f"/html/InitialCluster__year_{year}__nWords_{len(tot_vectors)}")
     word_vector, value_vactor, radius = db.DBSCAN_Topic(tot_vectors, year)
