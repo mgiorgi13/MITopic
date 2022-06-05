@@ -29,11 +29,12 @@ def create_gensim_lsa_model(doc_clean,number_of_topics,words):
     lsamodel = LsiModel(doc_term_matrix, num_topics=number_of_topics, id2word = dictionary)  # train model
 
     res = lsamodel.print_topics(num_topics=number_of_topics, num_words=words)
+    #print coherence score
+    compute_coherence_score(lsamodel, dictionary, doc_clean)
 
     print("Topics in LSA model:")
     for i in res:
         print(i)
-
     return lsamodel
 
 def compute_coherence_values(dictionary, doc_term_matrix, doc_clean, stop, start=2, step=3):
@@ -71,3 +72,8 @@ def plot_graph(doc_clean,start, stop, step,year):
     if not os.path.exists(path):
         os.makedirs(path)
     plt.savefig(f'{path}/{year}.png')
+
+#compute cohernce score for LSA model
+def compute_coherence_score(model, dictionary, doc_clean):
+    coherencemodel = CoherenceModel(model=model, texts=doc_clean, dictionary=dictionary, coherence='c_v')
+    print('\nCoherence Score: ', coherencemodel.get_coherence())

@@ -39,10 +39,3 @@ def print_topics(lda_model, num_words):
     print('\nTopics in LDA model:')
     for idx, topic in lda_model.print_topics(num_words=num_words):
         print('Topic: {} \nWords: {}'.format(idx, topic))
-        
-#print documents of LDA model
-# TODO actually this function is not working
-def print_documents(lda_model, corpus):
-    print('\nDocuments in LDA model:')
-    for i, topic in lda_model[corpus]:
-        print('Document: {} \nTopic: {}'.format(i, topic))
