@@ -62,11 +62,11 @@ def parallelized_function(file):  # use to clear and prepare source text of each
         return file_text
 
 
-def choice_lda_method(data, n_topic, n_words):
-    lda_model, dictionary, corpus = lda.lda(data, n_topic)
-    lda.print_coherence(lda_model, dictionary, corpus, data)
-    lda.print_topics(lda_model, n_words)
-    lda.print_documents(lda_model, n_words)
+def choice_lda_method(data, n_topic, n_words, year):
+    lda_model, dictionary, corpus = lda.lda(data, n_topic, year)
+    # lda.print_coherence(lda_model, dictionary, corpus, data)
+    # lda.print_topics(lda_model, n_words)
+    # lda.print_documents(lda_model, n_words)
     return
 
 
@@ -74,7 +74,7 @@ def choice_lsa_method(data, n_topic, n_words, year):
     # # decomment to search for the best number of topics
     # start, stop, step = round((n_topic / 4) - 2), n_topic, 1
     # lsa.plot_graph(data, start, stop, step, year)
-    model = lsa.create_gensim_lsa_model(data, n_topic, n_words)
+    model = lsa.create_gensim_lsa_model(data, n_topic, n_words, year)
     return
 
 
@@ -250,7 +250,7 @@ if __name__ == "__main__":
             logger.info("Total Time : %s", total_time)
 
             if choose == "lda":
-                choice_lda_method(results[0], int(best_topic_number[year]), 10)
+                choice_lda_method(results[0], int(best_topic_number[year]), 10, year)
             if choose == "lsa":
                 choice_lsa_method(results[0], int(best_topic_number[year]), 10, year)
             if choose == "wordcloud":
