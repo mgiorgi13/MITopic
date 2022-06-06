@@ -1,0 +1,6 @@
+[(0, '0.517*"process" + 0.305*"service" + 0.253*"company" + 0.205*"organization" + 0.192*"customer" + 0.186*"system" + 0.184*"business" + 0.161*"manager" + 0.151*"management" + 0.150*"information"'
+, (1, '-0.675*"service" + 0.519*"process" + -0.290*"customer" + -0.161*"employee" + 0.135*"business" + -0.134*"company" + 0.110*"redesign" + -0.097*"manager" + 0.085*"information" + -0.084*"standard"'
+, (2, '0.638*"partnership" + 0.359*"executive" + -0.341*"process" + 0.290*"relationship" + -0.145*"service" + 0.141*"organization" + -0.121*"company" + 0.111*"line" + 0.103*"technology" + 0.100*"information"'
+, (3, '-0.453*"sale" + -0.368*"product" + -0.293*"name" + -0.276*"compensation" + -0.247*"association" + -0.232*"extension" + 0.223*"service" + 0.219*"process" + 0.178*"partnership" + -0.115*"effort"'
+, (4, '0.432*"sale" + -0.382*"name" + -0.325*"association" + 0.313*"compensation" + -0.306*"extension" + -0.288*"product" + 0.133*"plan" + -0.109*"line" + 0.107*"management" + -0.101*"quality"'
+]

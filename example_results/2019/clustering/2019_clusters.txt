@@ -1,0 +1,80 @@
+selected year: 2019 
+len: 426 
+cluster words:
+know-how, know-it-all, well-being, fact-finding, way, get-go, there, just-in-time, one-on-ones, sure, know, decision-making, nothing, something, reason, need, want, thing, subject-matter, why, hard-working, anything, realize, self-interest, risk-taking, understand, itll, one, think, easy-to-use, make, self-importance, kind, mind, everyone, fact, theyre, thought, get, between-person, learn-it-alls, matter, theyll, inside-out, anyone, well, self-knowledge, best-practice, three-step, youre, zero-day, sense, pay-for-results, doubt, say, everything, let, consider, someone, whats, give, thinking, take, idea, industry-specific, check-in, good, cross-purpose, put, time, next-generation, thats, expect, imagine, over-deliver, hows, best-selling, high-demand, on-demand, wrong, keep, big-data, go, bigger-picture, wonder, self-report, tell, high-priority, happen, feel, risk-return, like, fast-growing, right, value-adding, world-class, self-organization, poor-quality, see, trade-off,  
+ 
+selected year: 2019 
+len: 7 
+cluster words:
+investment, asset, fund, investor, equity, financing, invest,  
+ 
+selected year: 2019 
+len: 8 
+cluster words:
+mortgage, credit, mortgage-lending, bankruptcy, loan, repayment, debt, refinance,  
+ 
+selected year: 2019 
+len: 12 
+cluster words:
+determine, determines, evaluate, investigate, identify, quantify, interpret, identifying, examine, analyze, specific, examining,  
+ 
+selected year: 2019 
+len: 14 
+cluster words:
+learning, college, school, student, scholarship, university, faculty, academic, education, graduate, teacher, teaching, literacy, teach,  
+ 
+selected year: 2019 
+len: 13 
+cluster words:
+minimizes, reduces, protection, avoid, prevent, minimize, eliminate, mitigate, safeguard, protect, protects, eliminates, prevents,  
+ 
+selected year: 2019 
+len: 5 
+cluster words:
+fee, pay, money, payment, afford,  
+ 
+selected year: 2019 
+len: 8 
+cluster words:
+resentment, frustration, confusion, mistrust, annoyance, disappointment, distrust, dissatisfaction,  
+ 
+selected year: 2019 
+len: 7 
+cluster words:
+encourage, discourage, promote, encourages, inspire, motivates, motivate,  
+ 
+selected year: 2019 
+len: 8 
+cluster words:
+wife, husband, friend, grandmother, daughter, mother, mom, father,  
+ 
+selected year: 2019 
+len: 5 
+cluster words:
+talk, spoken, spoke, speak, speaking,  
+ 
+selected year: 2019 
+len: 9 
+cluster words:
+drug, pharmacy, viagra, prescription, drugstore, pharmacist, medicine, medication, pill,  
+ 
+selected year: 2019 
+len: 6 
+cluster words:
+revenue, profit, income, earnings, tax, dividend,  
+ 
+selected year: 2019 
+len: 5 
+cluster words:
+diagnosis, diabetes, disease, cancer, infection,  
+ 
+selected year: 2019 
+len: 5 
+cluster words:
+crisis, downturn, economy, recession, unemployment,  
+ 
+selected year: 2019 
+len: 6 
+cluster words:
+generosity, kindness, empathy, humility, compassion, courage,  
+ 

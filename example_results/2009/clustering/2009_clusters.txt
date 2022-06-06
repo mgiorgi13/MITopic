@@ -1,0 +1,90 @@
+selected year: 2009 
+len: 388 
+cluster words:
+what-if, know-how, way, even, there, assumption-to-knowledge, reason, need, understand, nothing, end-use, decision-making, realize, think-and-do, something, how-should-we-address-climate-change, fact, know, matter, mind-set, consider, want, make, whatever, anything, kind, itll, sense, meant, thing, one, doubt, theyre, mind, theyll, well, market-changing, think, humans-as-consumers, assume, anyone, expect, self-help, make-or-buy, real-world, thought, give, everyone, next-order, youre, get, therefore, idea, time-bound, someone, particular, thinking, start-up, whats, everything, imagine, take, happen, let, explain, best-practices, hows, follow-through, end-users, put, higher-return, knowledge-sharing, good, no-population, hence, keep, others, sort, time, high-cost, bring, mean, people, decide, somehow, self-organization, wonder, youll, state-of-the-art, come, find, best-in-class, feel, happens, making, next-generation, right, over-communication, see, lower-cost,  
+ 
+selected year: 2009 
+len: 12 
+cluster words:
+day, month, night, today, yesterday, hour, weekend, evening, tomorrow, week, morning, afternoon,  
+ 
+selected year: 2009 
+len: 12 
+cluster words:
+prevent, reduces, prevents, eliminate, avoid, protect, minimize, improves, maximize, lessens, lessen, mitigate,  
+ 
+selected year: 2009 
+len: 8 
+cluster words:
+university, faculty, school, student, academic, education, college, graduate,  
+ 
+selected year: 2009 
+len: 8 
+cluster words:
+encourage, motivation, encourages, motivate, inspire, promote, motivates, discourage,  
+ 
+selected year: 2009 
+len: 7 
+cluster words:
+buying, purchase, selling, sell, buy, purchasing, cheap,  
+ 
+selected year: 2009 
+len: 5 
+cluster words:
+downturn, economy, recession, crisis, slowdown,  
+ 
+selected year: 2009 
+len: 7 
+cluster words:
+anxiety, symptom, syndrome, disorder, stress, panic, depression,  
+ 
+selected year: 2009 
+len: 13 
+cluster words:
+california, michigan, minnesota, florida, pennsylvania, massachusetts, ohio, burlington, vermont, georgetown, kentucky, connecticut, bellevue,  
+ 
+selected year: 2009 
+len: 5 
+cluster words:
+revenue, profit, income, tax, earnings,  
+ 
+selected year: 2009 
+len: 8 
+cluster words:
+confusion, embarrassment, disappointment, anger, dismay, bewilderment, frustration, dissatisfaction,  
+ 
+selected year: 2009 
+len: 6 
+cluster words:
+wife, father, son, brother, friend, sister,  
+ 
+selected year: 2009 
+len: 7 
+cluster words:
+denmark, holland, helsinki, finland, switzerland, belgium, netherlands,  
+ 
+selected year: 2009 
+len: 6 
+cluster words:
+meal, lunch, dinner, lunchtime, snack, buffet,  
+ 
+selected year: 2009 
+len: 5 
+cluster words:
+executive, deputy, chairman, officer, chief,  
+ 
+selected year: 2009 
+len: 5 
+cluster words:
+poland, russia, europe, spain, america,  
+ 
+selected year: 2009 
+len: 5 
+cluster words:
+integrates, integration, integrating, integrate, incorporate,  
+ 
+selected year: 2009 
+len: 5 
+cluster words:
+room, bath, kitchen, toilet, bathroom,  
+ 

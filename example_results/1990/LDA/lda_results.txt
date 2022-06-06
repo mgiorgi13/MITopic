@@ -1,0 +1,13 @@
+Topics in LDA model:
+Topic: 0 
+Words: 0.001*"company" + 0.001*"process" + 0.001*"sale" + 0.001*"product" + 0.001*"service" + 0.001*"management" + 0.001*"system" + 0.001*"technology" + 0.001*"compensation" + 0.001*"manager"
+Topic: 1 
+Words: 0.028*"technology" + 0.017*"management" + 0.016*"problem" + 0.016*"company" + 0.015*"program" + 0.014*"client" + 0.013*"system" + 0.012*"service" + 0.010*"product" + 0.010*"group"
+Topic: 2 
+Words: 0.045*"process" + 0.026*"organization" + 0.023*"partnership" + 0.016*"business" + 0.015*"system" + 0.014*"executive" + 0.013*"information" + 0.012*"relationship" + 0.011*"manager" + 0.011*"company"
+Topic: 3 
+Words: 0.001*"service" + 0.001*"company" + 0.001*"organization" + 0.001*"process" + 0.001*"customer" + 0.001*"system" + 0.001*"problem" + 0.001*"management" + 0.001*"manager" + 0.001*"technology"
+Topic: 4 
+Words: 0.044*"service" + 0.022*"company" + 0.021*"sale" + 0.021*"customer" + 0.019*"product" + 0.013*"name" + 0.012*"compensation" + 0.011*"association" + 0.011*"manager" + 0.011*"extension"
+
+Coherence Score: 0.26435471506963826
