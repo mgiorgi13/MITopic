@@ -95,4 +95,4 @@ def plot_graph(doc_clean, start, stop, step, year):
 #compute cohernce score for LSA model
 def compute_coherence_score(model, dictionary, doc_clean):
     coherencemodel = CoherenceModel(model=model, texts=doc_clean, dictionary=dictionary, coherence='c_v')
-    print('\nCoherence Score: ', coherencemodel.get_coherence())
+    return coherencemodel.get_coherence()

@@ -36,7 +36,7 @@ def tag_cloud(words, year, path):
 
 
 
-# histogram of word frequency
+# histogram of the 50th words with frequency
 def histogram(title, data):
 
     wordlist = []
@@ -48,7 +48,7 @@ def histogram(title, data):
     words = []
     frequency = []
 
-    for elem in list:
+    for elem in list[:50]:
         if elem[1] >= 10:
             words.append(elem[0])
             frequency.append(elem[1])
