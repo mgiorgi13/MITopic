@@ -52,7 +52,7 @@ def parallelized_function(file):  # use to clear and prepare source text of each
         input_file = open(f"data/{file}", encoding="utf8")
         file_text = input_file.read()
         file_text = tp.remove_whitespace(file_text)  # remove double space
-        file_text = tp.tokenization(file_text)  # tokenizzation
+        file_text = tp.tokenization(file_text)  # tokenization
         file_text = tp.stopword_removing(file_text)  # remove stopwords
         file_text = tp.pos_tagging(file_text)  # add tags to words
         file_text = tp.lemmatization(file_text)  # lemmatize words
