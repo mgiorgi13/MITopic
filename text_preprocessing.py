@@ -1,9 +1,9 @@
 # Import Module
+import os
+
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem.wordnet import WordNetLemmatizer
-import matplotlib.pyplot as plt
-from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 
 # nltk.download('stopwords')
 # nltk.download('omw-1.4')
@@ -11,17 +11,28 @@ from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 # nltk.download('averaged_perceptron_tagger')
 # nltk.download('wordnet')
 
+# read file.txt and store it in array
+names = []
+with open('names.txt', 'r') as f:
+    for line in f:
+        name = line.replace('\n', '')
+        names.append(name.lower())
+
+# print(names)
+
 numbers = ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve",
            "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen", "twenty", "twentyone",
            "twentytwo", "twentythree", "twentyfour", "twentyfive", "twentysix", "twentyseven", "twentyeight",
-           "twentynine", "thirty","thirtyone", "thirtytwo", "thirtythree", "thirtyfour", "thirtyfive", "thirtysix",
-           "thirtyseven", "thirtyeight", "thirtynine", "forty","fortyone", "fortytwo", "fortythree", "fortyfour",
-           "fortyfive", "fortysix", "fortyseven", "fortyeight", "fortynine", "fifty","fiftyone", "fiftytwo",
+           "twentynine", "thirty", "thirtyone", "thirtytwo", "thirtythree", "thirtyfour", "thirtyfive", "thirtysix",
+           "thirtyseven", "thirtyeight", "thirtynine", "forty", "fortyone", "fortytwo", "fortythree", "fortyfour",
+           "fortyfive", "fortysix", "fortyseven", "fortyeight", "fortynine", "fifty", "fiftyone", "fiftytwo",
            "fiftythree", "fiftyfour", "fiftyfive", "fiftysix", "fiftyseven", "fiftyeight", "fiftynine",
-           "sixty","sixtyone", "sixtytwo", "sixtythree", "sixtyfour", "sixtyfive", "sixtysix", "sixtyseven",
-           "sixtyeight", "sixtynine", "seventy","seventyone", "seventytwo", "seventythree", "seventyfour", "seventyfive",
-           "seventysix", "seventyseven", "seventyeight", "seventynine", "eighty","eightyone", "eightytwo", "eightythree",
-           "eightyfour", "eightyfive", "eightysix", "eightyseven", "eightyeight", "eightynine", "ninety","ninetyone",
+           "sixty", "sixtyone", "sixtytwo", "sixtythree", "sixtyfour", "sixtyfive", "sixtysix", "sixtyseven",
+           "sixtyeight", "sixtynine", "seventy", "seventyone", "seventytwo", "seventythree", "seventyfour",
+           "seventyfive",
+           "seventysix", "seventyseven", "seventyeight", "seventynine", "eighty", "eightyone", "eightytwo",
+           "eightythree",
+           "eightyfour", "eightyfive", "eightysix", "eightyseven", "eightyeight", "eightynine", "ninety", "ninetyone",
            "ninetytwo", "ninetythree", "ninetyfour", "ninetyfive", "ninetysix", "ninetyseven", "ninetyeight",
            "ninetynine", "onehundred", "twenty-one", "twenty-two", "twenty-three", "twenty-four", "twenty-five",
            "twenty-six", "twenty-seven", "twenty-eight", "twenty-nine", "thirty-one", "thirty-two", "thirty-three",
@@ -42,6 +53,7 @@ lemmatizer = WordNetLemmatizer()
 stopwords_en = stopwords.words('english')
 stopwords_en.extend(numbers)
 stopwords_en.extend(punctuation)
+stopwords_en.extend(names)
 
 
 def print_stopword():
@@ -131,33 +143,3 @@ def lemmatization(simpler_POS_text):
             lemmatized_text.append(lemmatizer.lemmatize(tuple[0], pos=tuple[1]))
 
     return lemmatized_text
-
-
-# TODO move these function in another file
-
-def word_count(str):
-    counts = dict()
-    words = str
-
-    for word in words:
-        if word in counts:
-            counts[word] += 1
-        else:
-            counts[word] = 1
-
-    sort_orders = sorted(counts.items(), key=lambda x: x[1], reverse=True)
-
-    return sort_orders
-
-
-def tag_cloud(words):
-    # Start with one review:
-    text = " ".join([str(item) for item in words])
-
-    # Create and generate a word cloud image:
-    wordcloud = WordCloud().generate(text)
-
-    # Display the generated image:
-    plt.imshow(wordcloud, interpolation='bilinear')
-    plt.axis("off")
-    plt.show()
