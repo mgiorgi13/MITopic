@@ -99,7 +99,7 @@ def frequency_analysis_file(year, filtered_docs_list, results):
     return
 
 
-def word_cloud_method(tot_vectors, file_text, year):
+def word_cloud_method(file_text, year):
     words = []
     for i in range(0, len(file_text)):
         words.append(file_text[i])
@@ -107,9 +107,11 @@ def word_cloud_method(tot_vectors, file_text, year):
     return
 
 
-def choice_wordcloud_method(tot_vectors, file_text, year, filtered_docs_list, results):
+def choice_wordcloud_method(file_text, year, filtered_docs_list, results):
     # tag cloud of most frequent words of the year
-    word_cloud_method(tot_vectors, file_text, year)
+    word_cloud_method(file_text, year)
+    #histogram
+    rv.histogram(year, file_text)
     # frequency analysis of the most frequent words of each file in the selected year
     frequency_analysis_file(year, filtered_docs_list, results)
     return
@@ -259,7 +261,7 @@ if __name__ == "__main__":
                 tot_vectors = {}
                 for word in clear_results[0]:
                     tot_vectors[str(word)] = ew.get_embedding(str(word))  # get the embedding of each word
-                choice_wordcloud_method(tot_vectors, concat_results, year, filtered_docs_list, results)
+                choice_wordcloud_method(concat_results, year, filtered_docs_list, results)
             if choose == "gtd-cluster":
                 clear_results = [list(dict.fromkeys(concat_results))]  # remove duplicates for clustering method
                 tot_vectors = {}

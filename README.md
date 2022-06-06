@@ -1,2 +1,2 @@
 # MITopics
-Topic detection to identify the main AI topics on MIT management papers
+Topic detection to identify the main topics on MIT management papers

@@ -1,5 +1,3 @@
-import os
-
 import gensim
 import gensim.corpora as corpora
 from gensim.models import CoherenceModel
@@ -69,10 +67,3 @@ def print_lda_results(lda_model, dictionary, corpus, texts, filename, year):
                 texts=texts,
                 dictionary=dictionary,
                 coherence='c_v').get_coherence()))
-
-
-# # print documents of LDA model
-# def print_documents(lda_model, corpus):
-#     print('\nDocuments in LDA model:')
-#     for i, topic in lda_model[corpus]:
-#         print('Document: {} \nTopic: {}'.format(i, topic))
