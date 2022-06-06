@@ -1,0 +1,43 @@
+Topics in LDA model:
+Topic: 0 
+Words: 0.033*"customer" + 0.021*"company" + 0.018*"product" + 0.018*"mass" + 0.016*"customization" + 0.014*"process" + 0.010*"business" + 0.009*"information" + 0.009*"solution" + 0.009*"example"
+Topic: 1 
+Words: 0.020*"investment" + 0.017*"customer" + 0.015*"risk" + 0.015*"time" + 0.013*"people" + 0.010*"company" + 0.010*"line" + 0.010*"plant" + 0.009*"business" + 0.007*"year"
+Topic: 2 
+Words: 0.062*"site" + 0.060*"style" + 0.043*"visitor" + 0.018*"web" + 0.014*"system" + 0.013*"morph" + 0.013*"information" + 0.013*"communication" + 0.013*"v" + 0.012*"customer"
+Topic: 3 
+Words: 0.098*"director" + 0.035*"board" + 0.022*"company" + 0.020*"role" + 0.015*"lead" + 0.013*"study" + 0.011*"filing" + 0.009*"duty" + 0.009*"governance" + 0.008*"member"
+Topic: 4 
+Words: 0.029*"business" + 0.025*"sustainability" + 0.021*"energy" + 0.020*"company" + 0.016*"design" + 0.012*"product" + 0.011*"waste" + 0.010*"cost" + 0.008*"efficiency" + 0.008*"way"
+Topic: 5 
+Words: 0.001*"company" + 0.001*"decision" + 0.001*"manager" + 0.000*"information" + 0.000*"support" + 0.000*"network" + 0.000*"people" + 0.000*"customer" + 0.000*"organization" + 0.000*"product"
+Topic: 6 
+Words: 0.030*"company" + 0.021*"business" + 0.016*"sustainability" + 0.014*"employee" + 0.014*"people" + 0.011*"way" + 0.011*"plan" + 0.010*"experimentation" + 0.009*"school" + 0.008*"executive"
+Topic: 7 
+Words: 0.045*"subordinate" + 0.043*"boss" + 0.040*"bos" + 0.014*"leader" + 0.013*"relationship" + 0.012*"employee" + 0.012*"time" + 0.009*"team" + 0.009*"manager" + 0.009*"process"
+Topic: 8 
+Words: 0.034*"company" + 0.033*"product" + 0.019*"board" + 0.016*"information" + 0.013*"development" + 0.013*"engineering" + 0.013*"process" + 0.012*"director" + 0.012*"center" + 0.012*"performance"
+Topic: 9 
+Words: 0.043*"support" + 0.032*"executive" + 0.025*"integrity" + 0.023*"contact" + 0.023*"ability" + 0.021*"advice" + 0.020*"level" + 0.019*"benevolence" + 0.016*"people" + 0.015*"help"
+Topic: 10 
+Words: 0.033*"company" + 0.029*"product" + 0.026*"consumer" + 0.016*"people" + 0.011*"recommendation" + 0.011*"business" + 0.010*"movie" + 0.010*"market" + 0.009*"time" + 0.009*"prediction"
+Topic: 11 
+Words: 0.022*"business" + 0.018*"company" + 0.016*"market" + 0.013*"manager" + 0.012*"information" + 0.010*"innovator" + 0.010*"community" + 0.009*"signal" + 0.009*"innovation" + 0.008*"example"
+Topic: 12 
+Words: 0.048*"innovation" + 0.028*"company" + 0.018*"market" + 0.014*"business" + 0.012*"system" + 0.012*"investment" + 0.011*"product" + 0.011*"crisis" + 0.010*"growth" + 0.010*"project"
+Topic: 13 
+Words: 0.001*"company" + 0.001*"product" + 0.001*"consumer" + 0.001*"people" + 0.001*"site" + 0.000*"executive" + 0.000*"style" + 0.000*"way" + 0.000*"information" + 0.000*"problem"
+Topic: 14 
+Words: 0.031*"team" + 0.024*"decision" + 0.020*"people" + 0.017*"network" + 0.016*"company" + 0.013*"management" + 0.012*"time" + 0.012*"leader" + 0.011*"organization" + 0.011*"problem"
+Topic: 15 
+Words: 0.038*"sustainability" + 0.037*"business" + 0.033*"company" + 0.019*"innovation" + 0.017*"community" + 0.012*"value" + 0.012*"market" + 0.011*"strategy" + 0.010*"survey" + 0.010*"product"
+Topic: 16 
+Words: 0.012*"business" + 0.011*"customer" + 0.011*"recommendation" + 0.011*"technique" + 0.008*"market" + 0.008*"application" + 0.007*"prediction" + 0.007*"behavior" + 0.007*"objective" + 0.005*"company"
+Topic: 17 
+Words: 0.058*"company" + 0.016*"ip" + 0.016*"model" + 0.015*"product" + 0.013*"research" + 0.012*"community" + 0.012*"patent" + 0.011*"idea" + 0.011*"example" + 0.011*"brand"
+Topic: 18 
+Words: 0.032*"data" + 0.022*"decision" + 0.017*"process" + 0.016*"application" + 0.015*"problem" + 0.014*"database" + 0.014*"company" + 0.014*"way" + 0.012*"information" + 0.012*"people"
+Topic: 19 
+Words: 0.043*"employee" + 0.023*"work" + 0.022*"manager" + 0.020*"company" + 0.018*"organization" + 0.014*"management" + 0.009*"business" + 0.009*"communication" + 0.008*"opportunity" + 0.007*"worker"
+
+Coherence Score: 0.3657389706815269

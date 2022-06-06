@@ -23,6 +23,7 @@ import operator
 import sys
 import lda as lda
 import lsa as lsa
+import result_visualization as rv
 
 # GLOBAL VARIABLES
 choose = ""
@@ -35,6 +36,13 @@ logger = logging.getLogger(__name__)
 coloredlogs.install(level='INFO', logger=logger,
                     fmt="- Process -> pid[%(process)d], name[%(processName)s] Function -> [%(funcName)s]\n%(asctime)s --- %(levelname)s log -> [%(message)s]")
 
+best_topic_number = {}
+
+with open('best_num_topic.txt', 'r', encoding='UTF8') as file:
+    for line in file:
+        text = line
+        text = text.split(" ")
+        best_topic_number[text[0]] = text[1]
 
 def parallelized_function(file):
     if file.endswith(".txt"):
@@ -52,6 +60,7 @@ def parallelized_function(file):
 
 
 def choice_b(tot_vectors, year):
+    # TODO modificare perche manca la sort nella creazione file con tutti i cluster
     pca.pca_clustering_3D(list(tot_vectors.values()), list(tot_vectors.keys()),
                           f"/html/InitialCluster__year_{year}__nWords_{len(tot_vectors)}")
     word_vector, value_vactor, radius = db.DBSCAN_Topic(tot_vectors, year)
@@ -103,7 +112,7 @@ def choice_d(tot_vectors, file_text):
             if sortedDist[j][0] == file_text[i]:
                 words.append(sortedDist[j][0])
 
-    tp.tag_cloud(words)
+    rv.tag_cloud(words)
 
 
 def choice_e(list_files):
@@ -114,7 +123,7 @@ def choice_e(list_files):
 def choice_f(data, n_topic, n_words):
     lda_model, dictionary, corpus = lda.lda(data, n_topic)
     lda.print_coherence(lda_model, dictionary, corpus, data)
-    lda.print_topics(lda_model, n_words)
+
     return
 
 
@@ -262,7 +271,7 @@ if __name__ == "__main__":
             with open(f'output/{year}_WordFrequency.csv', 'w', encoding='UTF8') as f:
                 mywriter = csv.writer(f, delimiter='\n')
                 mywriter.writerows([frequency])
-            # tp.tag_cloud(concat_results)
+            # rv.tag_cloud(concat_results)
         if choose == "d":
             clear_results = [list(dict.fromkeys(concat_results))]  # remove duplicates
             tot_vectors = {}

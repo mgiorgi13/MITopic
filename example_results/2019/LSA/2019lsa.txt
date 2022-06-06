@@ -1,0 +1,11 @@
+[(0, '0.513*"company" + 0.296*"customer" + 0.273*"business" + 0.178*"service" + 0.167*"people" + 0.165*"employee" + 0.149*"organization" + 0.148*"data" + 0.136*"team" + 0.136*"innovation"'
+, (1, '0.453*"team" + -0.358*"customer" + -0.344*"service" + 0.215*"organization" + 0.213*"people" + -0.206*"business" + 0.180*"collaboration" + 0.148*"leader" + 0.130*"group" + -0.127*"company"'
+, (2, '-0.613*"application" + -0.369*"data" + -0.284*"ecc" + -0.245*"business" + 0.224*"innovation" + 0.166*"company" + 0.159*"industry" + -0.100*"process" + 0.098*"customer" + 0.095*"service"'
+, (3, '0.478*"customer" + -0.348*"industry" + 0.345*"team" + 0.297*"service" + -0.216*"innovation" + -0.204*"company" + -0.171*"business" + -0.153*"market" + 0.136*"employee" + -0.119*"volatility"'
+, (4, '0.489*"service" + 0.270*"attack" + -0.262*"employee" + -0.239*"company" + -0.238*"culture" + -0.226*"customer" + 0.188*"industry" + -0.178*"innovation" + 0.128*"manager" + 0.116*"decision"'
+, (5, '-0.514*"team" + -0.322*"business" + 0.294*"employee" + 0.231*"manager" + -0.187*"transformation" + 0.183*"organization" + 0.177*"application" + 0.150*"data" + -0.145*"ge" + 0.145*"culture"'
+, (6, '-0.294*"business" + 0.282*"team" + 0.265*"industry" + 0.233*"application" + -0.222*"organization" + -0.212*"transformation" + -0.204*"manager" + 0.165*"company" + 0.162*"innovation" + 0.161*"customer"'
+, (7, '0.538*"innovation" + -0.275*"manager" + -0.231*"industry" + 0.220*"patient" + 0.208*"service" + 0.196*"attack" + -0.160*"customer" + -0.150*"decision" + -0.139*"volatility" + 0.128*"collaboration"'
+, (8, '-0.260*"employee" + 0.247*"manager" + -0.244*"industry" + 0.227*"decision" + -0.200*"service" + 0.200*"innovation" + -0.194*"collaboration" + 0.184*"consumer" + 0.177*"product" + -0.169*"company"'
+, (9, '-0.564*"manager" + 0.369*"decision" + -0.167*"team" + 0.159*"collaboration" + -0.157*"age" + -0.140*"difference" + -0.139*"innovation" + 0.133*"founder" + -0.132*"application" + -0.128*"technique"'
+]
