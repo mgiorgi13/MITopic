@@ -51,11 +51,11 @@ def parallelized_function(file):  # use to clear and prepare source text of each
     if file.endswith(".txt"):
         input_file = open(f"data/{file}", encoding="utf8")
         file_text = input_file.read()
-        file_text = tp.remove_whitespace(file_text)  # rimozione doppi spazi
-        file_text = tp.tokenization(file_text)  # tokenizzo
-        file_text = tp.stopword_removing(file_text)  # rimuovo le stopword
-        file_text = tp.pos_tagging(file_text)  # metto un tag ad ogni parola
-        file_text = tp.lemmatization(file_text)  # trasformo nella forma base ogni parola
+        file_text = tp.remove_whitespace(file_text)  # remove double space
+        file_text = tp.tokenization(file_text)  # tokenizzation
+        file_text = tp.stopword_removing(file_text)  # remove stopwords
+        file_text = tp.pos_tagging(file_text)  # add tags to words
+        file_text = tp.lemmatization(file_text)  # lemmatize words
 
         logger.info("Subprocess for file -> [%s]", file)
 
