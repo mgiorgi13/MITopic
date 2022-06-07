@@ -1,0 +1,11 @@
+[(0, '0.513*"company" + 0.286*"product" + 0.229*"business" + 0.171*"innovation" + 0.159*"decision" + 0.156*"market" + 0.156*"people" + 0.132*"example" + 0.131*"process" + 0.127*"customer"'
+, (1, '0.332*"decision" + 0.272*"site" + 0.258*"style" + -0.254*"innovation" + -0.252*"product" + 0.226*"people" + -0.209*"company" + 0.205*"team" + 0.185*"visitor" + 0.182*"employee"'
+, (2, '-0.458*"site" + -0.426*"style" + -0.315*"visitor" + 0.203*"decision" + 0.194*"team" + -0.166*"product" + 0.165*"employee" + -0.163*"customer" + -0.154*"consumer" + -0.140*"web"'
+, (3, '0.342*"product" + -0.310*"innovation" + 0.275*"recommendation" + 0.274*"consumer" + 0.254*"movie" + 0.227*"prediction" + 0.197*"decision" + -0.176*"business" + -0.161*"sustainability" + -0.151*"style"'
+, (4, '0.297*"innovation" + -0.262*"team" + -0.238*"center" + -0.236*"engineering" + -0.225*"development" + -0.223*"gpd" + 0.212*"people" + -0.189*"company" + -0.178*"process" + 0.175*"decision"'
+, (5, '0.429*"innovation" + -0.338*"sustainability" + -0.268*"business" + 0.238*"team" + 0.199*"decision" + -0.192*"management" + -0.192*"board" + -0.170*"information" + -0.169*"director" + 0.147*"project"'
+, (6, '0.371*"information" + 0.369*"board" + 0.349*"director" + -0.195*"business" + 0.194*"performance" + 0.190*"company" + -0.187*"customer" + 0.179*"consumer" + -0.171*"employee" + -0.158*"sustainability"'
+, (7, '-0.410*"subordinate" + -0.401*"boss" + -0.371*"bos" + 0.267*"decision" + -0.226*"employee" + -0.191*"consumer" + 0.188*"people" + 0.161*"network" + 0.134*"business" + 0.124*"sustainability"'
+, (8, '0.357*"employee" + -0.332*"sustainability" + -0.227*"people" + 0.205*"work" + 0.196*"recommendation" + -0.185*"consumer" + 0.169*"movie" + -0.166*"boss" + -0.165*"subordinate" + 0.157*"prediction"'
+, (9, '0.386*"team" + -0.371*"employee" + 0.195*"recommendation" + -0.185*"consumer" + -0.180*"company" + -0.178*"work" + 0.178*"board" + 0.178*"business" + 0.167*"movie" + 0.167*"director"'
+]

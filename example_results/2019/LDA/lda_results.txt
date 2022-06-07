@@ -1,0 +1,33 @@
+Topics in LDA model:
+Topic: 0 
+Words: 0.024*"business" + 0.021*"innovation" + 0.020*"patient" + 0.015*"user" + 0.015*"company" + 0.011*"product" + 0.010*"people" + 0.010*"consumer" + 0.010*"design" + 0.009*"system"
+Topic: 1 
+Words: 0.041*"company" + 0.025*"service" + 0.025*"industry" + 0.015*"customer" + 0.012*"skill" + 0.011*"volatility" + 0.010*"analysis" + 0.010*"worker" + 0.009*"data" + 0.009*"people"
+Topic: 2 
+Words: 0.023*"people" + 0.018*"company" + 0.018*"organization" + 0.016*"innovation" + 0.011*"leader" + 0.009*"employee" + 0.009*"team" + 0.009*"way" + 0.009*"manager" + 0.008*"work"
+Topic: 3 
+Words: 0.044*"manager" + 0.014*"age" + 0.014*"people" + 0.013*"management" + 0.013*"way" + 0.013*"team" + 0.012*"company" + 0.012*"difference" + 0.011*"technique" + 0.011*"couple"
+Topic: 4 
+Words: 0.041*"consumer" + 0.037*"conversation" + 0.030*"recommendation" + 0.018*"product" + 0.017*"sale" + 0.015*"brand" + 0.014*"company" + 0.012*"system" + 0.012*"customer" + 0.012*"rating"
+Topic: 5 
+Words: 0.036*"company" + 0.027*"business" + 0.026*"customer" + 0.015*"product" + 0.014*"technology" + 0.011*"transformation" + 0.009*"service" + 0.009*"experience" + 0.009*"software" + 0.009*"way"
+Topic: 6 
+Words: 0.032*"questionnaire" + 0.030*"grit" + 0.015*"scale" + 0.015*"character" + 0.012*"student" + 0.011*"item" + 0.008*"school" + 0.008*"measure" + 0.007*"teacher" + 0.007*"scientist"
+Topic: 7 
+Words: 0.028*"company" + 0.028*"employee" + 0.026*"application" + 0.020*"data" + 0.016*"business" + 0.014*"collaboration" + 0.013*"organization" + 0.012*"ecc" + 0.011*"analytics" + 0.010*"team"
+Topic: 8 
+Words: 0.024*"customer" + 0.022*"strategy" + 0.022*"agent" + 0.020*"service" + 0.019*"data" + 0.018*"collaboration" + 0.018*"organization" + 0.016*"machine" + 0.014*"interaction" + 0.013*"time"
+Topic: 9 
+Words: 0.018*"organization" + 0.015*"company" + 0.015*"people" + 0.013*"creation" + 0.013*"industry" + 0.012*"problem" + 0.012*"market" + 0.011*"business" + 0.010*"way" + 0.008*"innovation"
+Topic: 10 
+Words: 0.026*"service" + 0.018*"technology" + 0.014*"company" + 0.014*"attack" + 0.012*"example" + 0.012*"system" + 0.010*"user" + 0.009*"business" + 0.009*"provider" + 0.008*"customer"
+Topic: 11 
+Words: 0.031*"deal" + 0.025*"expectation" + 0.021*"company" + 0.017*"performance" + 0.015*"growth" + 0.013*"year" + 0.013*"turnaround" + 0.013*"revenue" + 0.012*"factor" + 0.010*"tsr"
+Topic: 12 
+Words: 0.001*"company" + 0.001*"recommendation" + 0.001*"data" + 0.001*"business" + 0.001*"application" + 0.001*"decision" + 0.001*"system" + 0.001*"people" + 0.001*"time" + 0.001*"product"
+Topic: 13 
+Words: 0.045*"customer" + 0.043*"company" + 0.023*"employee" + 0.015*"culture" + 0.015*"business" + 0.012*"product" + 0.011*"value" + 0.011*"board" + 0.010*"technology" + 0.010*"service"
+Topic: 14 
+Words: 0.038*"team" + 0.033*"decision" + 0.013*"people" + 0.012*"company" + 0.010*"assessment" + 0.009*"bias" + 0.009*"investor" + 0.008*"recommendation" + 0.008*"founder" + 0.008*"process"
+
+Coherence Score: 0.3270876233774075
