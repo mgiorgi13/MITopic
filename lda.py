@@ -1,7 +1,7 @@
 import gensim
 import gensim.corpora as corpora
 from gensim.models import CoherenceModel
-
+import os
 
 def lda(data, num_topics, year):
     """

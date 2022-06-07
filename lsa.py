@@ -47,7 +47,7 @@ def print_topics(lsamodel, year, coherence):
     if not os.path.exists(path):
         os.makedirs(path)
     file = open(f'{path}/{year}lsa.txt', 'w')
-    res = lsamodel.print_topics(num_topics=10, num_words=10)
+    res = lsamodel.print_topics(num_words=10)
     res = str(res).split(')')
     file.write("Coherence : " + str(coherence) + '\n')
     for i in res:
