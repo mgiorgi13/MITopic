@@ -5,15 +5,21 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.stem.wordnet import WordNetLemmatizer
 
-# nltk.download('stopwords')
-# nltk.download('omw-1.4')
-# nltk.download('punkt')
-# nltk.download('averaged_perceptron_tagger')
-# nltk.download('wordnet')
+nltk.download('stopwords')
+nltk.download('omw-1.4')
+nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger')
+nltk.download('wordnet')
 
 # read file.txt and store it in array
 names = []
 with open('names.txt', 'r') as f:
+    for line in f:
+        name = line.replace('\n', '')
+        names.append(name.lower())
+
+business = []
+with open('business.txt', 'r') as f:
     for line in f:
         name = line.replace('\n', '')
         names.append(name.lower())
@@ -47,18 +53,6 @@ numbers = ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine
            "ninety-five", "ninety-six", "ninety-seven", "ninety-eight", "ninety-nine", "one-hundred"]
 punctuation = ['!', '"', '#', '$', '%', '&', "'", '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?',
                '@', '[', '\\', ']', '^', '_', '`', '{', '|', '}', '~']
-
-business = ['company', 'customer', 'business', 'product', 'manager', 'organization', 'market', 'system', 'example',
-            'time', 'service', 'process', 'management', 'employee', 'people', 'information', 'technology', 'strategy',
-            'value', 'way', 'cost', 'innovation', 'change', 'data', 'team', 'industry', 'decision', 'firm', 'work',
-            'problem', 'model', 'project', 'group', 'year', 'research', 'leader', 'executive', 'performance',
-            'development', 'approach', 'relationship', 'consumer', 'supplier', 'price', 'opportunity', 'level',
-            'knowledge', 'brand', 'case', 'resource', 'sale', 'idea', 'practice', 'part', 'design', 'result', 'network',
-            'capability', 'investment', 'effort', 'activity', 'program', 'risk', 'number', 'member', 'experience',
-            'issue', 'job', 'role', 'others', 'benefit', 'quality', 'world', 'software', 'unit', 'success', 'question',
-            'share', 'competitor', 'need', 'use', 'chain', 'production', 'order', 'goal', 'support', 'board', 'growth',
-            'solution', 'partner', 'environment', 'operation', 'advantage', 'study', 'marketing', 'point', 'thing',
-            'platform', 'supply', 'action', ]
 
 lemmatizer = WordNetLemmatizer()
 

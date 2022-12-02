@@ -56,6 +56,7 @@ def parallelized_function(file):  # use to clear and prepare source text of each
         file_text = tp.stopword_removing(file_text)  # remove stopwords
         file_text = tp.pos_tagging(file_text)  # add tags to words
         file_text = tp.lemmatization(file_text)  # lemmatize words
+        file_text = tp.stopword_removing(file_text)
 
         logger.info("Subprocess for file -> [%s]", file)
 
@@ -194,7 +195,7 @@ if __name__ == "__main__":
     # extract the years from the file names
     years_list = []
     for doc in listDoc:
-        year = doc.split("_")[2]
+        year = doc.split("_")[3]
         if year not in years_list:
             years_list.append(year)
     years_list.sort()
