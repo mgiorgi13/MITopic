@@ -48,12 +48,19 @@ numbers = ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine
 punctuation = ['!', '"', '#', '$', '%', '&', "'", '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?',
                '@', '[', '\\', ']', '^', '_', '`', '{', '|', '}', '~']
 
+business = ["company","customer","business","product","manager","organization",
+            "market","system","example","time","service","process","management",
+            "employee","people","information","technology","strategy","value",
+            "way","cost","innovation","change","data","team","industry","decision","firm","work","problem"
+]
+
 lemmatizer = WordNetLemmatizer()
 
 stopwords_en = stopwords.words('english')
 stopwords_en.extend(numbers)
 stopwords_en.extend(punctuation)
 stopwords_en.extend(names)
+stopwords_en.extend(business)
 
 
 def print_stopword():
