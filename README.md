@@ -19,3 +19,9 @@ To use MITopic, run the following command:
 `python MITopic.py`
 
 This will run the script and let you apply different techniques to the documents, showing you the results as list of topics or barchart or wordcloud.
+
+## Result examples
+
+![topic list](https://github.com/mgiorgi13/MITopics/blob/main/result_example/topic%20list.png)
+![bar chart](https://github.com/mgiorgi13/MITopics/blob/main/result_example/bar%20chart.png)
+![tag cloud](https://github.com/mgiorgi13/MITopics/blob/main/result_example/wordcloud.png)
