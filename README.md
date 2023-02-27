@@ -6,7 +6,7 @@ MITopics is a Python project aimed at finding the main topics from a set of 30 y
 
 To install MITopic, first clone the repository:
 
-`git clone https://github.com/your_username/MITopic.git`
+`git clone https://github.com/mgiorgi13/MITopics.git`
 
 Then, navigate to the project directory and install the required dependencies:
 
